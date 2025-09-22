@@ -91,21 +91,7 @@ present media arts works in informal and/or formal settings using responsible me
 
 ## Achievement Standards
 
-In this band, students continue to learn in and through the practices of The Arts subjects, building on their prior learning and experiences. They work creatively and purposefully, and continue to develop their connection with and contribution to the world as artists and as audiences. They work individually and in collaboration with peers and teachers.
+By the end of Year 6, students explain how media languages and media technologies are used in media arts works they construct and/or experience. They describe how media arts works created across cultures, times, places and/or other contexts communicate ideas, perspectives and/or meanings. They describe how media arts can be used to continue and revitalise cultures.
 
-Students engage with media arts works, artists and practices across cultures, times, places and/or other contexts; for example, exploring arts works and practices in their local area, state/territory and/or a country or region of Asia. They take opportunities to engage with living media artists and their works; for example, by exploring media arts works and experiences such as in-person or online exhibitions, presentations and screenings. They continue to use stimulus materials, such as images, events, texts, questions and observations, as inspiration for their own media arts works. These experiences support students to develop aesthetic knowledge across cognitive, sensory, emotive and physical domains and to value media arts works and practices from diverse cultures.
+Students use media languages, and media technologies and production processes to construct representations in media arts works for specific purposes and audiences. They present their work in informal and/or formal settings using responsible media practice.
 
-In this band, the focus is on students:
-
-1.  exploring and responding to
-
-*   media from local, regional, national and global cultures, times, places and/or other contexts that show ways media arts works can be used to communicate ideas, perspectives and/or meaning, and engage audiences
-*   media arts works that showcase ways First Nations Australians are continuing and revitalising cultures
-
-3.  developing critical and creative practices and skills
-
-*   creative practices, using media technologies and media languages
-*   critical practices by observing, reflecting on and responding to media they experience (including their own media arts works)
-
-5.  creating (producing) media arts works that communicate ideas using stand-alone media arts forms or creating media elements for use in multi-arts works
-6.  presenting/screening/exhibiting/distributing media arts works they have created and sharing ideas about the work with audiences.

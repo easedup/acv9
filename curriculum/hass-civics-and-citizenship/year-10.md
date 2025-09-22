@@ -126,12 +126,7 @@ create descriptions, explanations and arguments using civics and citizenship kno
 
 ## Achievement Standards
 
-In Year 10, students compare Australia’s federal system of government with another system of government in a country in Asia. Students examine Australia’s roles and responsibilities within the international context, such as its involvement with the United Nations and responses to global issues. Students also study the purpose and work of the High Court. They examine how rights are protected in Australia, and investigate the values and practices that enable a democratic society to be sustained. Students reflect on their rights, privileges and responsibilities as active and informed citizens.
+By the end of Year 10, students compare the key features and values of Australia’s system of government to those of another system of government. They describe the Australian Government’s role and responsibilities at a regional and global level. They explain the role of the High Court of Australia. They explain how Australia’s international legal obligations influence the law and government policy. They identify and explain challenges to a resilient democracy and a cohesive society in Australia.
 
-Inquiry questions provide a framework for developing students’ knowledge, understanding and skills. The following inquiry questions are examples only and may be used or adapted to suit local contexts:
+ Students develop and refine a range of questions and locate, select and compare relevant and reliable information from a range of sources to investigate political and legal systems, and contemporary civic issues. They analyse information to evaluate perspectives and challenges related political, legal or civic issues. They evaluate and compare the methods or strategies related to civic participation or action. Students use civics and citizenship knowledge, concepts and terms to develop descriptions, explanations and arguments that synthesise evidence from sources.
 
-*   How is Australia’s democracy defined and shaped by the global context?
-*   How are government policies shaped by Australia’s international legal obligations?
-*   What are the functions of the High Court of Australia and how does it protect rights under the Constitution?
-*   What are the features of a resilient democracy?
-*   How does Australia respond to emerging global issues?

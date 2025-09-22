@@ -172,18 +172,7 @@ create descriptions, explanations and responses, using geographical knowledge an
 
 ## Achievement Standards
 
-The Year 10 curriculum involves the study of 2 sub-strands.
+By the end of Year 10, students explain how the interactions of people and environmental processes at different scales change the characteristics of places. They explain the effects of human activity on environments, and the effect of environments on human activity, over time. They evaluate the implications of a distribution. They evaluate the extent of interconnections occurring between people and places and environments. They analyse changes that result from these interconnections and their consequences. Students evaluate strategies to address a geographical phenomenon or challenge using environmental, social and economic criteria.
 
-**Environmental change and management** – focuses on the environmental functions that support all life, the major challenges to their sustainability, and the environmental world views that influence how people perceive and respond to these challenges. Students have the opportunity to examine the causes and consequences of a change within the context of a specific environment and the strategies to manage the change.
+ Students develop a range of relevant questions about a geographical phenomenon or challenge. They collect, represent and compare relevant and reliable geographical data and information by using a range of primary research methods and secondary research materials, using appropriate formats. They interpret and analyse data and information to make generalisations and predictions, explain significant patterns and trends, and infer relationships. They draw evidence-based conclusions, based on relevant data and information, about the impact of the geographical phenomenon or challenge. They develop and evaluate strategies using criteria, recommend a strategy and explain the predicted impacts. Students use geographical knowledge, concepts, terms and digital tools as appropriate to develop descriptions, explanations and responses that synthesise research findings.
 
-It is suggested that the study of this topic draws on studies from within Australia, and other countries.
-
-**Geographies of human wellbeing** – focuses on global, national and local differences in human wellbeing between places, the different measures of human wellbeing, and the causes of global differences in measurements between countries. Students consider the spatial differences in wellbeing within and between countries, and programs designed to reduce the gap between differences in wellbeing.
-
-It is suggested that the study of this topic draws on studies from within Australia, India and another country in Asia or the Pacific.
-
-Inquiry questions provide a framework for developing students’ knowledge, understanding and skills. The following inquiry questions are examples only and may be used or adapted to suit local contexts.
-
-*   How can the spatial variation between places and changes in environments be explained?
-*   What management options exist for sustaining human and natural systems into the future?
-*   How do world views influence decisions on how to manage environmental and social change?

@@ -93,21 +93,7 @@ sing and play music in informal settings
 
 ## Achievement Standards
 
-In this band, learning in The Arts builds on each student’s prior learning and experiences. Students continue to learn through purposeful and creative play in structured learning programs designed to foster a strong sense of wellbeing and develop their connection with and contribution to the world. They work individually and in collaboration with peers and teachers drawing on their imagination, works of fiction, real-life experiences and learnings from across the curriculum to support their engagement in Arts learning as artists and as audiences.
+By the end of Year 2, students identify where they experience music. They describe where, why and/or how people across cultures, communities and/or other contexts experience music.
 
-Students explore music that they experience at home, school or through family and community events. They connect with composers and/or performers who live and work in the community; for example, by experiencing live and/or virtual performances. They use stimulus materials such as images, events, texts, questions and/or observations as inspiration for their own composing and performing. These experiences support students to develop aesthetic knowledge across cognitive, sensory, emotive and physical domains, and to value arts works and practices from across cultures, communities and/or other contexts.
+Students demonstrate listening skills. They use the elements of music to improvise and/or compose music. They sing and play music in informal settings.
 
-In this band, the focus is on students:
-
-1.  exploring and responding to
-
-*   music across cultures, communities and/or other contexts through listening and performing; for example, singing songs or moving to music
-*   examples of music composed and/or performed by First Nations Australians
-
-3.  developing creative and critical practices and skills
-
-*   creative practices for composing and performing such as skills for listening, singing and playing instruments, and, as appropriate, using notation; for example, graphic notation
-*   critical practices by observing, reflecting on and responding to music they experience (including music they compose and/or perform)
-
-5.  composing, singing and playing instruments, using the elements of music such as duration/time (beat and rhythm, tempo), pitch, dynamics and expression, texture and/or timbre
-6.  performing/sharing music they have learnt and/or composed in informal settings such as classroom presentations.

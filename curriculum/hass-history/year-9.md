@@ -342,16 +342,7 @@ create descriptions, explanations and historical arguments, using historical kno
 
 ## Achievement Standards
 
-The Year 9 curriculum provides a study of the history of the making of the modern world from 1750 to 1918. This was a period of industrialisation and rapid change in the ways people lived, worked and thought. It was an era of nationalism and imperialism, and expansion of European power, which had significant effects on First Nations Peoples globally. The period culminated in World War I (1914–1918), the “war to end all wars”.
+By the end of Year 9, students explain the historical significance of the period of the early modern world up to 1918. They explain the causes and effects of events, developments, turning points or movements globally, in Australia, and in relation to the First World War or in an Asian context. They describe the social, cultural, economic and/or political aspects related to the changes and continuities in a society or a historical period. Students explain the role of significant ideas, individuals, groups and institutions connected to the developments of this period and their influences on the historical events.
 
-An overview of the study of the making of the modern world requires students to develop an understanding of the context and chronology of the period, and the broad patterns of historical continuity and change from 1750 to 1918, such as European imperial expansion and the movement of peoples within and between countries, and the impact this had on the Australian continent. This includes being introduced to the significant economic, social and political ideas that developed and caused change in groups and in societies, and some of the significant individuals and groups who promoted these ideas.
+ Students develop and modify questions about the past to inform historical inquiry. They locate, select and compare primary and secondary sources, and use information in sources as evidence in historical inquiry. They explain the origin, content, context and purpose of primary and secondary sources. Students compare sources to determine the accuracy, usefulness and reliability of sources as evidence.  They explain causes and effects, and patterns of continuity and change connected to a period, event or movement. Students compare perspectives of significant events and developments, and explain the factors that influence these perspectives. They analyse different and contested historical interpretations. Students use historical knowledge, concepts and terms to develop descriptions, explanations and historical arguments that acknowledge evidence from sources.
 
-In Year 9, students are expected to study the sub-strand _Making and transforming the Australian nation (1750–1914)_ and the sub-strand _First World War (1914–1918)_. _The Industrial Revolution and movement of peoples (1750–1900)_ and the _Asia and the World (1750–1914)_ sub-strands may be studied as options.
-
-Inquiry questions provide a framework for developing students’ knowledge, understanding and skills. The following inquiry questions are examples only and may be used or adapted to suit local contexts.
-
-*   What are the significant events, ideas, individuals and groups that caused change from 1750 to 1918?
-*   What were the causes, developments, significance and long-term effects of imperialism in this period?
-*   What were the causes and significance of First World War?
-*   What were the perspectives of different people at the time?
-*   What are the contested debates and reasons for different historical interpretations?

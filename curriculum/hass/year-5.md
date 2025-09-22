@@ -184,12 +184,7 @@ present descriptions and explanations, drawing ideas, findings and viewpoints fr
 
 ## Achievement Standards
 
-In Year 5, the focus is on **"Australian communities – their past, present and possible futures"**.
+By the end of Year 5, students explain the causes for the establishment of the British colonies in Australia after 1800. They explain the roles of significant individuals or groups in the development of an Australian colony and the impact of those developments. They explain the influence of people on the characteristics of places and in the management of spaces. Students explain the key values and features of Australia’s democracy and how people achieve civic goals. They explain the nature of resources, and how they meet needs and wants.
 
-The Year 5 curriculum focuses on the development of colonial Australia after 1800, the relationship between humans and their environment, the development of the economy, the features of Australian democracy and citizenship. Students learn about the reasons for the founding of a British colony in Australia, the impact of colonisation on the environment, and the daily lives of different people within and around the colony. They explore the roles of people, including migrants and First Nations Australians, in the development of events in an Australian colony. Students explore the human influences on the characteristics of a place and the way spaces in the Australian landscape are managed, including the management of severe weather events. Students investigate the key values and features of Australia’s democracy. They determine how people in the community cooperate to achieve civic goals. Students develop an understanding of natural, human and capital resources, and how they satisfy human needs and wants.
+ Students develop questions and locate, collect and organise information and data from primary and secondary sources. They evaluate sources to determine origin and perspectives. Students evaluate information and data to identify and describe patterns or trends. They suggest conclusions based on evidence. Students consider criteria in proposing actions or responses. Students select ideas and findings from sources and use relevant terms and conventions, to present descriptions and explanations.
 
-Inquiry questions provide a framework for developing students’ knowledge, understanding and skills. They allow for connections to be made within and across the HASS sub-strands or with other learning areas. The following inquiry questions are examples only and may be used or adapted to suit local contexts.
-
-*   How have individuals and groups in the past and present contributed to the development of Australia?
-*   How do people influence environments, and how do consumers and citizens contribute to a sustainable Australia?
-*   How have people enacted their values, beliefs and responsibilities about people, places and events, past and present?

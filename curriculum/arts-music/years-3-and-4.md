@@ -92,21 +92,7 @@ sing and play music they have learnt and/or composed in informal settings
 
 ## Achievement Standards
 
-In this band, learning in The Arts builds on each student’s prior learning and experiences. Arts learning in this band continues to use purposeful and creative play-based activities that foster development of students’ identity and wellbeing and their connection with and contribution to the world. Students further develop their capability and confidence in using subject-specific skills and creative and critical practices. They work individually and in collaboration with peers and teachers.
+By the end of Year 4, students describe the use of elements of music in music they compose, perform and/or experience. They describe where, why and/or how music is composed and/or performed across cultures, times, places and/or other contexts.
 
-Students continue to explore music that they experience at home, school or through family and community events. They connect with composers and/or performers who live and work in the community; for example, by experiencing live and/or virtual performances. They use stimulus materials such as images, events, texts, questions and/or observations as inspiration for their own making and responding. These experiences support students to develop aesthetic knowledge across cognitive, sensory, emotive and physical domains, and to value arts works and practices from diverse places and cultures such as countries or cultures in Asia.
+Students demonstrate listening skills when performing and composing. They combine the elements of music to compose music that communicates ideas. They sing and play music in informal settings.
 
-In this band, the focus is on students:
-
-1.  exploring and responding to
-
-*   music that showcases the range of purposes music is composed and performed for across cultures, times and places, for example, listening to, singing/playing children’s songs/game songs/storytelling/narrative songs from a range of cultures, times and places or exploring how music is used in media and popular culture
-*   examples of music composed and/or performed by First Nations Australians that communicate connection to and responsibility for Country/Place
-
-3.  developing creative and critical practices and skills
-
-*   creative practices for composing and performing such as skills for listening, singing and playing instruments, and, as appropriate, using notation, for example, graphic notation
-*   critical practices by observing, reflecting on and responding to music they experience (including music they compose and perform)
-
-5.  composing, singing and playing instruments using the elements of music such as duration/time (beat and rhythm, tempo, pulse), pitch, dynamics and expression, texture and/or timbre
-6.  performing music have learnt and/or composed in informal settings such as spaces within the school.

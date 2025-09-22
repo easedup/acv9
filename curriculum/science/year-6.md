@@ -180,12 +180,7 @@ write and create texts to communicate ideas and findings for specific purposes a
 
 ## Achievement Standards
 
-In Year 6 students develop an understanding of interdependencies between systems as they explore the relationship between physical conditions of habitats and the growth and survival of living things and investigate the effect of the relative positions of Earth and the sun on phenomena such as day length. They identify and classify components in electrical circuits and learn to describe energy flows in terms of transfer and transformation. They are introduced to ways to classify changes to substances. Students begin to appreciate the role of controlling variables in fair testing and the value of accuracy in measurements. They generalise about relationships between events, phenomena and systems and use identified patterns, trends and relationships to develop scientific explanations and draw reasoned conclusions.
+By the end of Year 6 students explain how changes in physical conditions affect living things. They model the relationship between the sun and planets of the solar system and explain how the relative positions of Earth and the sun relate to observed phenomena on Earth. They identify the role of circuit components in the transfer and transformation of electrical energy. They classify and compare reversible and irreversible changes to substances. They explain why science is often collaborative and describe different individuals’ contributions to scientific knowledge. They describe how individuals and communities use scientific knowledge.
 
-Inquiry questions can help excite students’ curiosity and challenge their thinking. Following are examples of inquiry questions that could be used to prompt discussion and exploration:
+Students plan safe, repeatable investigations to identify patterns and test relationships and make reasoned predictions. They describe risks associated with investigations and key intercultural considerations when planning field work. They identify variables to be changed, measured and controlled. They use equipment to generate and record data with appropriate precision. They construct representations to organise and process data and information and describe patterns, trends and relationships. They identify possible sources of error in their own and others’ methods and findings, pose questions for further investigation and select evidence to support reasoned conclusions. They select and use language features effectively for their purpose and audience when communicating their ideas and findings.
 
-*   How would life be different if we couldn’t harness electrical energy?
-*   What if Earth were not on a tilt?
-*   Are you more likely to win a Nobel prize in science as a team or an individual?
-*   Why is it important for a test to be ‘fair’?
-*   How does the weather affect local habitats?

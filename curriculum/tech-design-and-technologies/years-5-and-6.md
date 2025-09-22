@@ -154,16 +154,5 @@ develop project plans that include consideration of resources to individually an
 
 ## Achievement Standards
 
-By the end of Year 6 students should have had the opportunity to create 3 types of designed solutions, and addressed each of these 3 technologies contexts:
+By the end of Year 6 students explain how people design products, services and environments to meet the needs of communities, including sustainability. For each of the 3 prescribed technologies contexts they explain how the features of technologies impact on design decisions and they create designed solutions. Students select and justify design ideas and solutions against design criteria that include sustainability. They communicate design ideas to an audience using technical terms and graphical representation techniques. Students develop project plans, including production processes, and select technologies and techniques to safely produce designed solutions.
 
-*   Engineering principles and systems
-*   Food and fibre production; Food specialisations
-*   Materials and technologies specialisations.
-
-Students should have opportunities to experience designing and producing products, services and environments. There are rich connections to Digital Technologies and other learning areas, including Science and Health and Physical Education.
-
-Students investigate technologies − tools, equipment, processes, materials, systems and components − that are used in the home and in local, national, regional or global communities, with consideration of society, ethics, and social and environmental sustainability factors. Students consider why and for whom technologies were developed. They engage with ideas beyond the familiar, exploring how design and technologies and the people working in technologies occupations contribute to society. They seek to explore innovation and establish their own design capabilities for designing products, services and environments. Students are given new opportunities for clarifying their thinking, creativity, analysis, problem-solving and decision-making. They explore trends and data to imagine what the future could be like and suggest design decisions that contribute positively to preferred futures.
-
-Using a range of technologies including a variety of graphical representation techniques to communicate, students represent objects and ideas in a variety of forms such as thumbnail sketches, models, drawings, diagrams and storyboards to illustrate the development of designed solutions. They use a range of techniques such as labelling and annotating sequenced sketches and diagrams to illustrate how products function; and recognise and use a range of drawing symbols in context to give meaning and direction.
-
-Students work individually and collaboratively to identify and sequence steps needed for a design task, including negotiating criteria for success. They develop and follow plans to complete design tasks safely, adjusting when necessary. Students identify and maintain safety standards and practices when making designed solutions.

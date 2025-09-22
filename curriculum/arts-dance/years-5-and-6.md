@@ -86,21 +86,7 @@ practise and perform dances using technical and expressive skills in informal 
 
 ## Achievement Standards
 
-In this band, students continue to learn in and through their practices of The Arts subjects, building on their prior learning and experiences. They work creatively and purposefully, and continue to develop their connection with and contribution to the world as artist and as audience. They work individually and in collaboration with peers and teachers.
+By the end of Year 6, students explain how the elements of dance are used in dance that they choreograph, perform and/or experience. They describe how dance from across cultures, times, places and/or other contexts communicates ideas, perspectives and/or meaning. They describe how dance is used to continue and revitalise cultures.
 
-Students engage with dance works, choreographers and/or performers across cultures, times, places and/or other contexts; for example, exploring dance in their local area, state/territory or a country or region of Asia. They take opportunities to engage with living choreographers and/or performers and their works; for example, by experiencing live or virtual performances. They continue to use stimulus materials such as images, events, texts, questions and observations as inspiration for their own dance. These experiences support students to develop aesthetic knowledge across cognitive, sensory, emotive and physical domains and to value arts works and practices from diverse cultures.
+Students use the elements of dance and/or choreographic devices to choreograph dances that communicate ideas, perspectives and/or meaning. They demonstrate safe dance practice and use of technical, and expressive skills. They perform dances in informal and/or formal settings.
 
-In this band, the focus is on students:
-
-1.  exploring and responding to
-
-*   dance from local, regional, national and global cultures, times, places and/or other contexts that shows how the elements of dance that can be used to communicate ideas, perspectives and/or meaning
-*   dance that showcases how First Nations Australians are continuing and revitalising cultures
-
-3.  developing creative and critical practices and skills
-
-*   creative practices for choreography and performance using safe dance practice, fundamental movement skills, the elements of dance, imagination, and processes such as improvisation that allow them to extend and refine their movement capabilities
-*   critical practices by observing, reflecting on and responding to dance they experience, including their own dance
-
-5.  creating dances by developing ideas and structuring movements to communicate their intentions as choreographers. They may focus on creating a dance work or they may create work that combines dance and another arts form, such as a dance for a media arts production
-6.  presenting and performing dance they have learnt and/or choreographed for audiences, in available, informal and/or formal settings including, as appropriate, school-hosted digital spaces such as a school learning management system.

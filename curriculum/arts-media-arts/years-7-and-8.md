@@ -117,21 +117,7 @@ present media arts works, using responsible media practices and considering pote
 
 ## Achievement Standards
 
-In this band, learning in Media Arts builds on each student’s prior learning and experiences. Students learn in and through developing understanding and application of the Media Arts concepts: media technologies, representation, audience, institutions, media languages and relationships. They use production processes in purposeful and creative ways and continue to develop their connection with and contribution to the world as artist and as audiences. They work individually and in collaboration with peers and teachers.
+By the end of year 8, students analyse the use of media arts concepts to construct representations that communicate ideas, perspectives and/or meaning in media arts works they produce and/or experience. They evaluate use of media arts concepts in media arts works from across cultures, times, places and/or other contexts. They describe respectful approaches to creating and/or responding to media arts works.
 
-Students explore media arts in local, regional, national and global contexts such as media produced in countries or regions of Asia, and/or in multi-arts, trans-disciplinary or hybrid forms. They take opportunities to engage with living media arts practitioners and expand their awareness of diverse media arts practices, genres, styles and forms.
+ Students select and manipulate media languages, media technologies and use production processes to construct representations. They create media arts works that communicate ideas, perspectives and/or meanings. They present their work to an audience. They plan where and how they could distribute their work using responsible media practice.
 
-In this band, the focus is on students:
-
-1.  exploring and responding to
-
-*   media arts works, practices and contexts from across cultures, times, places and/or other contexts; for example, through analysis of their own media arts work or work associated with selected institutions
-*   the diversity of media arts created by First Nations Australians and how this work demonstrates respect for Indigenous Cultural and Intellectual Property rights
-
-3.  developing practices and skills
-
-*   creative practices for producing media arts using media languages (technical and symbolic codes and conventions) relevant to selected forms and/or styles through available media technologies
-*   critical practices by taking opportunities to reflect, evaluate or respond to their own work and/or the work of others; for example, documenting ideas and intentions for media productions, evaluating audience responses to media works (including their own work) and considering relationships
-
-5.  create (producing) media arts works in forms such as print, screen/moving image, audio and/or hybrid-/trans-disciplinary forms using production processes
-6.  presenting/screening/distributing media arts works they have produced to audiences; for example, for a specific target audience.

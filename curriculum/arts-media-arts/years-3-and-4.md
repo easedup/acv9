@@ -89,21 +89,7 @@ share media arts works in informal settings considering responsible media practi
 
 ## Achievement Standards
 
-In this band, learning in The Arts builds on each student’s prior learning and experiences. Arts learning in this band continues to use purposeful and creative play-based activities that foster development of students’ identity and wellbeing, and their connection with and contribution to the world. Students further develop their capability and confidence in using subject-specific skills and creative and critical practices. They work individually and in collaboration with peers and teachers.
+By the end of Year 4, students describe the use of media languages and media technologies to construct representations in media arts works they experience and/or produce. They describe where, why and/or how media arts works are created and/or distributed across cultures, times, places, and/or other contexts.
 
-Students continue to explore media arts works that they experience at home, school or through family and community events. They connect with media artists who live and work in the community; for example, by visiting arts spaces or exploring media arts and experiences such as in-person or online screenings, exhibitions and presentations. They use stimulus materials such as images, events, texts, questions and observations as inspiration for their own media arts works. These experiences support students to develop aesthetic knowledge across cognitive, sensory, emotive and physical domains, and to value arts works and practices across cultures, times, places and/or other contexts such as countries or cultures in Asia.
+Students use media languages, and media technologies and production processes to construct representations in media arts works. They share their work in informal settings using responsible media practice.
 
-In this band, the focus is on students:
-
-1.  exploring and responding to
-
-*   works and experiences that showcase where, why and how media is created and used across cultures, times, places and/or other contexts
-*   examples of media arts created by First Nations Australians that communicate connection to and responsibility for Country/Place
-
-3.  developing critical and creative practices and skills
-
-*   creative practices for using media arts concepts, visual, audio and/or interactive elements to construct representations
-*   critical practices for observing, reflecting on and responding to media they experience, including their own media arts works
-
-5.  creating (producing) media arts works in a range of forms to communicate ideas to audiences using media technologies and media languages
-6.  presenting media arts works they have created in informal settings such as spaces within the school.

@@ -117,10 +117,5 @@ discuss that some websites and apps store their personal data online
 
 ## Achievement Standards
 
-By the end of Year 2 students should have had the opportunity to apply computational thinking by describing algorithms that include sequences of instructions and decisions, and by using digital systems to produce simple solutions. Through practice and investigation, they become more familiar with and confident in representing data in different ways.
+By the end of Year 2 students show how simple digital solutions meet a need for known users. Students represent and process data in different ways. They follow and describe basic algorithms involving a sequence of steps and branching. With assistance, students access and use digital systems for a purpose. They use the basic features of common digital tools to create, locate and share content, and to collaborate, following agreed behaviours. Students recognise that digital tools may store their personal data online.
 
-Through Digital Technologies and Mathematics (_Statistics_), students begin to recognise patterns in the data they have acquired, such as identifying common and distinctive features after sorting it, and these generalisations help them make predictions, such as how a pattern might continue.
-
-Students develop systems thinking by exploring a range of purposes for using digital systems and their components. They have opportunities to experience and develop their skills in using different hardware components, such as a touchpad and keyboard. They use different software to create content such as writing a message that includes an image and sharing it with classmates. Students become aware of design thinking by discussing and observing how the needs of different people are met through using digital systems. They protect the security of their own data on their school account by using their own username and password and, through discussion, develop an awareness that some websites and apps store their personal data online.
-
-In Digital Technologies, students should have frequent opportunities for authentic learning by making key connections with other learning areas.

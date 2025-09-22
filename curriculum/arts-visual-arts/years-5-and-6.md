@@ -92,21 +92,7 @@ select and present documentation of visual arts practice, and display artworks i
 
 ## Achievement Standards
 
-In this band, students continue to learn in and through the practices of The Arts subjects, building on their prior learning and experiences. They work creatively and purposefully and continue to develop their connection with and contribution to the world as artists and as audiences. They work individually and in collaboration with peers and teachers.
+By the end of Year 6, students explain the ways that visual conventions, visual arts processes and materials are used in artworks they create and/or experience. They describe how artworks created across cultures, times, places and/or other contexts communicate ideas, perspectives and/or meaning. They describe how visual arts are used to continue and revitalise cultures.
 
-Students engage with artworks, artists, practices across cultures, times, places and/or other contexts; for example, exploring artworks, arts spaces and practices in their local area, state/territory or a country or region of Asia. They take opportunities to engage with living artists and their works; for example, by visiting arts spaces or exploring artworks and experiences such as exhibitions available through online sources. They continue to use stimulus materials such as images, events, texts, questions and observations as inspiration for their visual arts practice. These experiences support students to develop aesthetic knowledge across cognitive, sensory, emotive and physical domains, and to value artworks and practices from diverse cultures.
+Students develop and document ideas for their own artworks. They select and use visual conventions, visual arts processes and materials to create artworks that communicate ideas, perspectives and/or meaning. They present documentation and artworks that communicate ideas, perspectives or meaning in informal and/or formal settings.
 
-In this band, the focus is on students:
-
-1.  exploring and responding to
-
-*   artworks from local, regional, national and global cultures, times, places and/or other contexts that show how artists communicate ideas, perspectives and/or meaning through their visual arts practice
-*   artworks and visual arts practices that showcase ways that First Nations Australians are continuing and revitalising cultures
-
-3.  developing creative and critical practices and skills
-
-*   creative practices for using visual conventions, visual arts processes and materials
-*   critical practices by observing, reflecting on and responding to artworks and practices they experience, including their own visual arts practice
-
-5.  creating artworks in a range of 2D, 3D and/or 4D (time-based) forms using available materials and/or digital tools
-6.  presenting artworks and practices in available informal and/or formal settings, including, as appropriate, school-hosted digital spaces such as a school learning management system.

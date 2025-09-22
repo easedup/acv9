@@ -170,18 +170,7 @@ create descriptions, explanations and responses, using geographical knowledge an
 
 ## Achievement Standards
 
-The Year 7 curriculum involves the study of 2 sub-strands.
+By the end of Year 7, students describe how the characteristics of places are perceived and valued differently by people. They describe the importance of environments to people. They describe the features of a distribution. They explain the interconnections between people and places and environments, and describe how these interconnections change places or environments. Students describe a response or strategy to address a geographical challenge or phenomenon. Students develop questions about a geographical phenomenon or challenge.
 
-**Water in the world** – focuses on the many uses of water, the ways it is perceived and valued, and the hazards associated with environmental processes. Students examine the distribution of its different forms as a resource, its varying availability in time and across space, and its scarcity. They also explore the ways water connects and changes places as it moves through the environment, and the impact of water-related hazards on human-environment relationships.
+They collect, organise and represent relevant data and information, using primary research methods and secondary research materials. They identify similarities and differences, and describe patterns in data and information. They draw conclusions about the impact of the geographical phenomenon or challenge on people, places and environments. They develop a strategy for action. Students use geographical knowledge, concepts, terms and relevant findings from sources to create descriptions, explanations and responses.
 
-It is suggested that the study of this topic draws on studies from Australia and countries in Asia.
-
-**Place and liveability** – focuses on the factors that influence liveability, how it is perceived, and the idea that places provide us with the services and facilities needed to support and enhance our lives. Students examine the distribution of these spaces, and how they are planned and managed by people. They also consider the ways that the liveability of a place is enhanced and how sustainability is managed.
-
-It is suggested that study of this topic draws on studies from Australia and countries in Europe.
-
-Inquiry questions provide a framework for developing students’ knowledge, understanding and skills. The following inquiry questions are examples only and may be used or adapted to suit local contexts.
-
-*   What approaches can be used to improve the availability of resources and access to services?
-*   How does people’s reliance on places and environments influence their perception of them?
-*   What effect does the uneven distribution of resources and services have on the lives of people?

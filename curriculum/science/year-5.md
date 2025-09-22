@@ -183,12 +183,7 @@ write and create texts to communicate ideas and findings for specific purposes a
 
 ## Achievement Standards
 
-In Year 5 students continue to explore the relationship between form and function by investigating how features of living things enable them to survive in their habitat. They identify stable and dynamic aspects of systems and appreciate that current systems, such as Earth’s surface, have characteristics that have resulted from past changes. They recognise that models are useful for investigating relationships between system components and can be used to predict the effects of changes. They explore observable phenomena associated with light and analyse patterns to identify that these phenomena have sets of characteristic behaviours. They begin to explain how matter structures the world around them. They develop explanations for the patterns they observe and recognise the importance of reflecting on their methods to identify potential sources of error before drawing conclusions.
+By the end of Year 5 students explain how the form and behaviour of living things enables survival. They describe key processes that change Earth’s surface. They identify sources of light and model the transfer of light to explain observed phenomena. They relate the particulate arrangement of solids, liquids and gases to their observable properties. They describe examples of collaboration leading to advances in science, and scientific knowledge that has changed over time. They identify examples where scientific knowledge informs the actions of individuals and communities.
 
-Inquiry questions can help excite students’ curiosity and challenge their thinking. Following are examples of inquiry questions that could be used to prompt discussion and exploration:
+Students plan safe investigations to identify patterns and relationships and make reasoned predictions. They identify risks associated with investigations and key intercultural considerations when planning field work. They identify variables to be changed and measured. They use equipment to generate data with appropriate precision. They construct representations to organise data and information and describe patterns, trends and relationships. They compare their methods and findings to those of others, identify possible sources of error in their investigation, pose questions for further investigation and draw reasoned conclusions. They use language features that reflect their purpose and audience when communicating their ideas and findings.
 
-*   Why has the Australian coastline changed over time?
-*   Is an empty glass really empty?
-*   Why does my shadow change?
-*   How has science shaped our community?
-*   What if emus could fly?

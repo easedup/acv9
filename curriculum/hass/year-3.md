@@ -174,12 +174,7 @@ present descriptions and explanations, using ideas from sources and relevant sub
 
 ## Achievement Standards
 
-In Year 3, the focus is on **"diverse communities and places, and the contributions people make"**.
+By the end of Year 3, students describe the causes, effects and contributions of people to change. They identify the significance of events, symbols and emblems to Australia’s identity and diversity. They describe the representation of places within and near Australia. They identify the similarities, differences and connections of people to places across those scales. Students describe the importance of rules and people’s contributions to communities.
 
-The Year 3 curriculum focuses on the diversity of people and places in their local community and beyond, and how people participate in their communities. Through exploring how their community has changed over time, students identify the significant causes, events and people involved in change. They investigate the importance of different events, symbols and emblems in Australia. Students examine the representation of Australia, the location of Australia’s neighbouring countries, and the similarities and differences between places at those scales in terms of natural, managed and constructed features. They explore the interconnections of First Nations Australians in different parts of Australia to Country/Place. Drawing on familiar and local contexts, students develop an understanding of the importance of rules, the consequences of rules not being followed, and how individuals, including themselves, participate in and contribute to their community.
+ Students develop questions and locate, collect and record information and data from different sources. They interpret information and data in different formats. They analyse information and data to identify perspectives and they draw conclusions. They propose actions or responses. Students use ideas from sources, and subject-specific terms to present descriptions and explanations.
 
-Inquiry questions provide a framework for developing students’ knowledge, understanding and skills. They allow for connections to be made within and across the HASS sub-strands or with other learning areas. The following inquiry questions are examples only and may be used or adapted to suit local contexts.
-
-*   How do symbols, events, individuals and places in my community make it unique?
-*   How do people contribute to their communities, past and present?
-*   How are people in Australia connected to places and what are the similarities and differences between those places?

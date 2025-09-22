@@ -119,21 +119,7 @@ curate and present examples of their visual arts practice to accompany exhibits 
 
 ## Achievement Standards
 
-In this band, learning in Visual Arts builds on each student’s prior learning and experiences. Students learn in and through visual arts practices. They use visual arts processes and available analog/physical and/or digital materials in purposeful and creative ways, and continue to develop their connection with and contribution to the world as artists and as audiences. They work individually and in collaboration with peers and teachers.
+By the end of Year 8, students analyse how visual conventions, visual arts processes and materials are manipulated in artworks they create and/or experience. They evaluate the ways that visual artists across cultures, times, places and/or other contexts communicate ideas, perspectives and/or meaning through their visual arts practice. They describe respectful approaches to creating and/or responding to artworks.
 
-Students explore visual arts in local, regional, national and global contexts, such as visual arts in countries or regions of Asia, including use of visual arts in multi-arts, trans-disciplinary or hybrid forms. They take opportunities to engage with living visual artists and expand their awareness of the diversity of artworks and visual arts practices.
+Students generate, document and develop ideas for artworks. They reflect on their visual arts practice. They select and manipulate visual conventions, visual arts processes and/or materials to create artworks that represent ideas, perspectives and/or meaning. They curate and present exhibits and/or displays of their own and/or others’ artworks and/or visual arts practice for audiences.
 
-In this band, the focus is on students:
-
-1.  exploring and responding to
-
-*   artworks and visual arts practices across cultures, times, places and/or other contexts; for example, through exploration of works in physical or virtual spaces or engagement with artists
-*   the diversity of visual arts created by First Nations Australians and how this work demonstrates respect for Indigenous Cultural and Intellectual Property rights
-
-3.  developing practices and skills
-
-*   creative practices and skills for developing ideas, themes and their visual arts practice
-*   critical practices by taking opportunities to reflect on, evaluate or respond to their own work or the work of others; for example, developing intentions for artworks based on exploration, inquiry and research
-
-5.  creating artworks in 2D, 3D and/or 4D (time-based forms) and/or multi-disciplinary forms to communicate ideas and intentions using visual conventions, visual arts processes and materials
-6.  presenting artworks to audiences, in physical and/or virtual spaces; for example, for a specific target audience.

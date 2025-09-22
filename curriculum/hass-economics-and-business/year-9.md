@@ -134,16 +134,7 @@ create descriptions, explanations and arguments, using economic and business kno
 
 ## Achievement Standards
 
-The focus of learning in Year 9 is the topic **"international trade and interdependence"** within a global context, including trade with the countries of Asia.
+By the end of Year 9, students explain the role of Australia’s financial sector and its effect on economic decision-making by individuals and businesses. They explain the interdependence of participants in the global market and the effect on economic decision-making. They explain the reasons for trade and Australia’s pattern of trade with Asia. They explain why businesses seek to create and maintain a competitive advantage. Students explain how individuals and businesses manage consumer and financial risks and rewards.
 
-Students investigate what it means for Australia to be part of the global economy, particularly through trade with the countries of Asia and the influence on the allocation of resources, and how businesses create and maintain competitive advantage. They examine the implications of interdependence of participants in the global economy for decision-making.
+ Students develop and modify questions to investigate an economic and business issue. They locate, select and analyse information and data from a range of sources. They interpret and analyse information and data to explain economic trends and cause-and-effect relationships, and identify consumer and financial impacts. They develop a response to an economic and business issue, taking account of economic, business or financial factors. They evaluate a response using criteria and make decisions about how it is to be implemented. Students use economic and business knowledge, concepts and terms to develop descriptions, explanations and arguments that acknowledge research findings.
 
-Students focus on consumer and financial risks and rewards. They examine the influence of Australia’s financial sector on economic decision-making for how it contributes to a prosperous economy and responds to challenges impacting on peoples’ lives and choices.
-
-Inquiry questions provide a framework for developing students’ knowledge, understanding and skills. The following inquiry questions are examples only and may be used or adapted to suit local contexts:
-
-*   Why does Australia trade with other nations?
-*   How do participants in the global economy interact?
-*   What is the role of the financial sector in the Australian economy?
-*   How does creating and maintaining a competitive advantage benefit businesses?
-*   What processes can be used to manage financial risks and rewards?

@@ -256,16 +256,9 @@ explore less common plurals, and understand how a suffix changes the meaning or 
 
 ## Achievement Standards
 
-The English curriculum is built around the 3 interrelated strands of _Language, Literature_ and _Literacy_. Together, the 3 strands focus on developing students’ knowledge, understanding and skills in listening, reading, viewing, speaking, writing and creating. Learning in English is recursive and cumulative, building on concepts, skills and processes developed in earlier years.
+By the end of Year 5, students interact with others, and listen to and create spoken and/or multimodal texts including literary texts. For particular purposes and audiences, they share, develop and expand on ideas and opinions, using supporting details from topics or texts. They use different text structures to organise, develop and link ideas. They use language features including topic-specific vocabulary and literary devices, and/or multimodal features and features of voice.
 
-In Year 5, students interact with audiences for different purposes.
+They read, view and comprehend texts created to inform, influence and/or engage audiences. They explain how ideas are developed including through characters, settings and/or events, and how texts reflect contexts. They explain how characteristic text structures support the purpose of texts. They explain how language features including literary devices, and visual features contribute to the effect and meaning of a text.
 
-Students engage with a variety of texts for enjoyment. They listen to, read, view and interpret spoken, written and multimodal texts. Texts may include film and digital texts, novels, poetry, non-fiction and dramatic performances. The features of these texts may be used by students as models for creating their own work.
+They create written and/or multimodal texts, including literary texts, for particular purposes and audiences, developing and expanding on ideas with supporting details from topics or texts. They use paragraphs to organise, develop and link ideas. They use language features including complex sentences, tenses, topic-specific vocabulary and literary devices, and/or multimodal features. They spell using phonic, morphemic and grammatical knowledge.
 
-The range of literary texts for Foundation to Year 10 comprises the oral narrative traditions and literature of First Nations Australians, and classic and contemporary literature from wide-ranging Australian and world authors, including texts from and about Asia.
-
-Literary texts that support and extend students in Year 5 as independent readers may include complex sequences of events, elaborated events including flashbacks and shifts in time, and a range of characters. These texts may explore themes of interpersonal relationships and ethical dilemmas in real-world and imagined settings. Informative texts may supply technical information and/or content about a wide range of topics of interest as well as topics being studied in other areas of the curriculum. Text structures may include chapters, headings and subheadings, tables of contents, indexes and glossaries. Language features may include complex sentences, unfamiliar technical vocabulary, figurative language, and information presented in various types of images and graphics. Texts may reveal that the English language is dynamic and changes over time.
-
-Year 5 students create a range of imaginative, informative and persuasive types of texts that may include narratives, procedures, performances, reports, reviews, poetry, arguments and explanations for particular purposes and audiences.
-
-From Year 5 onwards, students continue to develop legible handwriting.

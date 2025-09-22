@@ -189,13 +189,7 @@ present descriptions and explanations, using ideas from sources and relevant sub
 
 ## Achievement Standards
 
-In Year 4, the focus is on **"how people, places and environments interact, past and present"**.
+By the end of Year 4, students describe the diversity of experiences of people in Australia prior to and following 1788. They describe the events and causes of the establishment of the first British colony in Australia. They describe the effects of colonisation on people and environments. Students describe the importance of environments, and sustainable allocation and management of resources. They describe the importance and role of local government, community members and laws, and the cultural and social factors that shape identity.
 
-The Year 4 curriculum focuses on interactions between people, places and environments over time and space, and the effects of these interactions. Students develop understandings about the causes and nature of significant events related to the First Fleet and the experiences of people involved in colonisation prior to 1800. They study the diversity of First Nations Australians prior to colonisation, their continuous connection to Country/Place, and the impacts of contact on them and their Countries/Places. Students examine the ways in which environments are important to people and animals, as well as the ways people sustainably allocate and manage renewable and non-renewable resources. Students’ understanding of democratic decision-making is developed through investigating the role of their local government and the contribution of citizens to their community. They examine how rules and laws affect them and the importance of laws in society. Students explore cultural diversity in their community and how belonging to different groups can shape personal identity.
+Students develop questions and locate, collect and record information and data from a range of sources and formats. They interpret and analyse information and data to identify perspectives, and draw conclusions. Students propose considered actions or responses. Students use ideas from sources and relevant subject-specific terms to present descriptions and explanations.
 
-Inquiry questions provide a framework for developing students’ knowledge, understanding and skills. They allow for connections to be made within and across the HASS sub-strands or with other learning areas. The following inquiry questions are examples only and may be used or adapted to suit local contexts.
-
-*   How have diverse individuals and groups, past and present, contributed to the Australian community?
-*   Why did Britain want to establish a colony in Australia?
-*   What were the effects of European colonisation on Australia, and on Australian First Nations Peoples?
-*   What is the significance of the environment, and what are different views on how it can be used and sustained, past and present?

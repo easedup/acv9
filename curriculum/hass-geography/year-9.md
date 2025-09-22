@@ -175,18 +175,7 @@ create descriptions, explanations and responses, using geographical knowledge an
 
 ## Achievement Standards
 
-The Year 9 curriculum involves the study of 2 sub-strands.
+By the end of Year 9, students explain how peoples’ activities or environmental processes change the characteristics of places. They explain the effects of human activity on environments, and the effects of environments on human activity. They explain the features of biomes’ distribution and identify implications for environments. They analyse the interconnections between people and places and environments. They identify and explain how these interconnections influence people, and change places and environments. Students analyse strategies to address a geographical phenomenon or challenge using environmental, social or economic criteria.
 
-**Biomes and food security** – focuses on the biomes of the world, their characteristics and significance as a source of food and fibre. Students examine the distribution of biomes as regions, and their contribution to food production and food security. They consider the effects of the alteration of biomes, and the environmental challenges and constraints of expanding sustainable food production in the future.
+ Students develop a range of questions about a geographical phenomenon or challenge. They collect, represent and compare relevant and reliable geographical data and information by using a range of primary research methods and secondary research materials in a range of formats. They interpret and analyse data and information to explain patterns and trends and infer relationships. They draw evidence-based conclusions about the impact of the geographical phenomenon or challenge. They develop and evaluate strategies, predict impacts and make a recommendation. Students use geographical knowledge, concepts, terms and digital tools as appropriate to develop descriptions, explanations and responses that acknowledge research findings.
 
-It is suggested that the study of this topic draws on studies from Australia and countries in Asia.
-
-**Geographies of interconnections** – focuses on how people, through their choices and actions, are connected to places throughout the world in a wide variety of ways, and how these connections help to make and change places and their environments. Students examine the nature of these connections between people and places through the products people buy and the effects of their production on the places that make them. Students consider the management of the impacts of tourism and trade on places.
-
-It is suggested that the study of this topic draws on studies from Australia and other countries.
-
-Inquiry questions provide a framework for developing students’ knowledge, understanding and skills. The following inquiry questions are examples only and may be used or adapted to suit local contexts.
-
-*   What are the causes and consequences of change in places and environments, and how can this change be managed?
-*   What are the future implications of changes to places and environments?
-*   Why are interconnections and interdependencies important for the future of places and environments?

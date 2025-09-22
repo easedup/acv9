@@ -90,21 +90,7 @@ share their drama in informal settings
 
 ## Achievement Standards
 
-In this band, learning in The Arts builds on each student’s prior learning and experiences. Students continue to learn through purposeful and creative play in structured learning programs designed to foster a strong sense of wellbeing and develop their connection with and contribution to the world. They work individually and in collaboration with peers and teachers, drawing on their imagination, real-life experiences and learnings from across the curriculum.
+By the end of Year 2, students identify where they experience drama. They describe where, why and/or how people across cultures, communities and/or other contexts experience drama.
 
-Students explore drama that they experience at home, school or through family and community events. They connect with people living and working in the community who create and/or perform drama; for example, by experiencing live or virtual performances. They use stimulus materials such as images, events, texts, questions and observations as inspiration for their own drama. These experiences support students to develop aesthetic knowledge across cognitive, sensory, emotive and physical domains, and to value arts works and practices from across cultures, communities and/or other contexts.
+ Students pretend and imagine as they create roles and situations in improvised drama and/or dramatic play. They perform their drama in informal settings.
 
-In this band, the focus is on students:
-
-1.  exploring and responding to
-
-*   drama across cultures, communities and/or other contexts through experiencing and participating
-*   examples of drama created and/or performed by First Nations Australians
-
-3.  developing creative and critical practices
-
-*   creative practices for creating and performing drama, using the elements of drama such as role, situation, language, place and movement
-*   critical practices such as observing, reflecting on and responding to drama they experience, including their own drama
-
-5.  creating drama using forms such as dramatic play, process drama, puppetry, improvisation, Readers’ Theatre and/or mime and movement
-6.  performing/sharing drama in informal settings such as classroom presentations.

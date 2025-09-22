@@ -121,17 +121,5 @@ sequence steps for making designed solutions cooperatively
 
 ## Achievement Standards
 
-By the end of Year 2 students should have had the opportunity to create 3 types of designed solutions, and addressed each of these 2 technologies contexts:
+By the end of Year 2 students describe the purpose of familiar products, services and environments. For each of the 2 prescribed technologies contexts they describe the features and uses of technologies and create designed solutions. Students select design ideas based on their personal preferences. They communicate design ideas using models and drawings and follow sequenced steps to safely produce designed solutions.
 
-*   Engineering principles and systems; Materials and technologies specialisations
-*   Food and fibre production; Food specialisations.
-
-Students should have opportunities to experience designing and producing products, services and environments. There are rich connections to Digital Technologies, and other learning areas, including Science and Humanities and Social Sciences.
-
-Students explore and investigate technologies – tools, equipment, processes, materials, systems and components – including their purposes and how they meet personal and social needs within local settings. Students learn about how society and environmental sustainability factors influence design and technologies decisions. They begin to consider the impact of their decisions and of technologies on others and the environment.
-
-They evaluate designed solutions using questions such as: How does it work? What purpose does it meet? Who will use it? What do I like about it? How can it be improved? They reflect on their participation in a design process. This involves students developing new perspectives and engaging in different forms of evaluating products, services and environments based on their personal preferences.
-
-Students use a range of technologies to communicate and explain design ideas, including drawings and models. They label drawings and draw objects as 2-dimensional images from different views.
-
-They plan steps, follow directions and manage their own role to complete their own or group design projects. Students are aware of the need to work safely and cooperatively when making designed solutions.
