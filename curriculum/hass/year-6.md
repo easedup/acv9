@@ -33,7 +33,7 @@ changes in Australia's political system and to Australian citizenship after Fede
 
 **Elaborations**
 *  describing the significance of the 1962 right to vote federally and the importance of the 1967 referendum for First Nations Australians
-*  <p>investigating the developments in advancing democracy and citizenship for women, such as the suffragette movement, the right to vote, the bar on married women working, equal pay and the <em>Sex Discrimination Act 1984</em></p>
+*  investigating the developments in advancing democracy and citizenship for women, such as the suffragette movement, the right to vote, the bar on married women working, equal pay and the *Sex Discrimination Act 1984*
 *  investigating the developments in advancing democracy and citizenship for all citizens, including migrant groups; for example, the establishment of the minimum wage, anti-discrimination legislation and official national multicultural policy
 *  investigating the experiences of children who were placed in orphanages, homes and other institutions; for example, their food and shelter, protection, education and contacts with family
 

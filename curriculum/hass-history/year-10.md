@@ -134,8 +134,8 @@ the significant events and methods in the movement for the civil rights of First
 
 **Elaborations**
 *  investigating the effects of the US civil rights movement of the 1960’s and its influence on Australia in changing perspectives, beliefs and opinions; for example, outlining the Freedom Rides in the USA, how they inspired civil rights campaigners in Australia and how they became a turning point in the campaign of First Nations Australians for rights and freedoms
-*  <p>creating a chronological account of the significant events in the movement for the civil rights of First Nations Australians, including the right to vote federally in 1962, Freedom Rides, the 1967 Referendum, the Tent Embassy, the Mabo decision, prime minister Keating's Redfern Speech, the <em>Bringing Them Home report</em>, the first Sorry Day, the Apology to the Stolen Generations and the Uluru Statement from the Heart</p>
-*  <p>explaining how significant events contributed to change; for example, legal changes, especially land rights, as a result of the Pilbara Strike, Palm Island Strike, Wave Hill Walk-Off, the Mabo decision, the Wik decision and the Tent Embassy; political changes as a result of the right to vote federally in 1962 and the 1967 Referendum; social changes as a result of the Freedom Rides; changes to advance Reconciliation as a result of the Redfern Speech, the <em>Bringing Them Home report</em>, the Royal Commission into Deaths in Custody and the Apology to the Stolen Generations</p>
+*  creating a chronological account of the significant events in the movement for the civil rights of First Nations Australians, including the right to vote federally in 1962, Freedom Rides, the 1967 Referendum, the Tent Embassy, the Mabo decision, prime minister Keating's Redfern Speech, the *Bringing Them Home report*, the first Sorry Day, the Apology to the Stolen Generations and the Uluru Statement from the Heart
+*  explaining how significant events contributed to change; for example, legal changes, especially land rights, as a result of the Pilbara Strike, Palm Island Strike, Wave Hill Walk-Off, the Mabo decision, the Wik decision and the Tent Embassy; political changes as a result of the right to vote federally in 1962 and the 1967 Referendum; social changes as a result of the Freedom Rides; changes to advance Reconciliation as a result of the Redfern Speech, the *Bringing Them Home report*, the Royal Commission into Deaths in Custody and the Apology to the Stolen Generations
 *  discussing how Reconciliation is not a single significant event or change, but an ongoing process of truth-telling and healing between First Nations Australians and other Australians
 *  investigating the Mabo case and the significance of this event’s contribution to understanding of terra nullius and the land rights movement for First Nations Australians
 
@@ -144,7 +144,7 @@ the significant events and methods in the movement for the civil rights of First
 the significant events, individuals and groups in the women’s movement in Australia, and how they have changed the role and status of women
 
 **Elaborations**
-*  <p>investigating events connected to the changing roles and rights of women in the workforce since 1945 such as the repeal of the “marriage bar”, the <em>Sex Discrimination Act 1984</em>, the changing nature of participation in employment and the gender pay gap</p>
+*  investigating events connected to the changing roles and rights of women in the workforce since 1945 such as the repeal of the “marriage bar”, the *Sex Discrimination Act 1984*, the changing nature of participation in employment and the gender pay gap
 *  examining the contributions of significant female leaders in Australian public life; for example, political leaders and activists, social reformers, sporting identities, artists and entertainers
 
 ##### AC9HH10K13 {#ac9hh10k13}
@@ -154,7 +154,7 @@ the continuing efforts to create change in the civil rights and freedoms in Aust
 **Elaborations**
 *  identifying areas such as education, health care, housing and employment that are the focus for continued civil rights action for First Nations Australians, and discussing why there continues to be a need for such action
 *  examining the changes in women’s rights in 20th- and 21st-century Australia, ranging from suffrage to election to state and commonwealth parliaments, employment law, reproductive rights, access to public places like hotels, and protections against domestic and family violence
-*  <p>investigating the changes in government policy in relation to migrants and how these policies have reflected and impacted on Australia’s changing place in the world; for example, the <em>Racial Discrimination Act 1975</em></p>
+*  investigating the changes in government policy in relation to migrants and how these policies have reflected and impacted on Australia’s changing place in the world; for example, the *Racial Discrimination Act 1975*
 *  examining the ideas in and Australia’s responsibilities as a signatory to the United Nations Declaration of the Rights of Indigenous Peoples (UNDRIP) (2007) and discussing how it influences calls for recognising the rights of First Nations Australians and First Peoples in other countries
 
 #### The globalising world {#the-globalising-world}

@@ -62,10 +62,10 @@ the roles and relationships of different groups in Medieval, Renaissance or pre-
 *  explaining how medieval society changed and affected the environment; for example, harnessing water and wind power for milling, urban settlements and agriculture, management practices and legal structures of medieval forests such as the English royal forests
 *  describing key changes of life in the late Medieval period such as the spread of literacy and the development of new ways to disseminate ideas through schools and universities, scientific academies, debating societies, literary salons, coffee houses, and the reach of printed books, journals and pamphlets
 *  explaining reactions to the Black Death, such as the emergence of flagellants (those who would whip themselves to be free of sin) and the persecution of Jewish people
-*  <p>identifying the similarities and differences of daily life between the <em>popolo minuto</em> and <em>popolo grasso</em></p>
+*  identifying the similarities and differences of daily life between the *popolo minuto* and *popolo grasso*
 *  describing the way of life of people in Renaissance Italy; for example, the role of men in tending the fields or merchant shops, the role of women in the society and the influence of government in particular city-states such as Naples (a monarchy) and Florence (a republic)
 *  identifying the spread of Renaissance culture to England; for example, the rise of literature through Shakespeare
-*  <p>describing the contribution of key theories such as Nicolaus Copernicus’ <em>De revolutionibus orbium coelestium</em>, Galileo’s <em>Dialogue Concerning the Two Chief World Systems</em> and Isaac Newton’s <em>Philosophiae Naturalis Principia Mathematica</em> to the changes brought about by the Scientific Revolution</p>
+*  describing the contribution of key theories such as Nicolaus Copernicus’ *De revolutionibus orbium coelestium*, Galileo’s *Dialogue Concerning the Two Chief World Systems* and Isaac Newton’s *Philosophiae Naturalis Principia Mathematica* to the changes brought about by the Scientific Revolution
 *  examining the changes in economic activity created by the discoveries of new commodities, making the costs of basic foodstuffs lower and the quality higher, and the advancements of technologies such as in tools, armaments and shipbuilding
 
 ##### AC9HH8K03 {#ac9hh8k03}
@@ -79,9 +79,9 @@ a significant event, development, turning point or challenge that contributed to
 *  describing the impact of the Magna Carta on different social groups including the nobility, religious orders, merchants, workers/craftsmen, peasants and women
 *  investigating the effects of the Black Death in a city such as Carthage, Damascus or Rome; for example, labour shortages, peasant uprisings, the weakening of feudal structures, increased social mobility, and challenges to religious ideas and power
 *  identifying the effect of the Black Death on human populations using studies of church records from the period, considering the reliability of these statistics and explaining the impact of the population change in areas such as farming, commerce, culture and religion
-*  describing the significance of double-entry bookkeeping, as seen in the <em>Messari</em> accounts of the Republic of Genoa in 1340 CE, in accelerating the production of wealth and patronage
+*  describing the significance of double-entry bookkeeping, as seen in the *Messari* accounts of the Republic of Genoa in 1340 CE, in accelerating the production of wealth and patronage
 *  investigating learning in the Renaissance period (for example, humanism and the influence of ancient Greece and Rome) and analysing the symbolic representation of this learning in architecture, artworks and inventions from individuals such as Brunelleschi, Copernicus, Donatello, da Vinci, Michelangelo and Titian
-*  <p>explaining why the <em>Catasto</em> of 1427 was introduced in Florence following the end of war with the Duchy of Milan</p>
+*  explaining why the *Catasto* of 1427 was introduced in Florence following the end of war with the Duchy of Milan
 *  identifying a range of primary sources, such as artwork, music, literature, architecture, correspondence and diaries, that demonstrate the spread of the Renaissance across Europe
 *  describing the impact of the printing press on the rise of literacy
 *  investigating the Enlightenment ideas about human freedom and the exercise of authority, which promoted radical change to the political order; for example constitutional government and the separation of Church and state
@@ -94,8 +94,8 @@ the experiences and perspectives of rulers and of subject peoples, and the inter
 
 **Elaborations**
 *  explaining the reasons for different punishments for different groups of people, such as trial by combat as a privilege granted to the nobility and ducking stools as a punishment for women, and the use of punishment as a deterrent
-*  <p>describing the impact of the Black Death on daily life using primary sources such as Matteo Villani’s diary, Boccaccio’s <em>Decameron</em>, Fordun’s <em>Chronicle of the Scottish Nation</em> and Ibn Khaldun’s recollection of the impact of the plague</p>
-*  <p>analysing how rulers responded to demands from the lower classes to improve their working conditions and lives following the plague, using sources such as King Edward III’s law <em>Statute of Labourers</em></p>
+*  describing the impact of the Black Death on daily life using primary sources such as Matteo Villani’s diary, Boccaccio’s *Decameron*, Fordun’s *Chronicle of the Scottish Nation* and Ibn Khaldun’s recollection of the impact of the plague
+*  analysing how rulers responded to demands from the lower classes to improve their working conditions and lives following the plague, using sources such as King Edward III’s law *Statute of Labourers*
 *  analysing primary sources to understand the interactions between the rulers of Florence, Venice, Naples and/or the Papal States
 *  explaining the differing levels of political involvement in city-states such as the guilds in Florence and Libro d’Oro in Venice
 *  examining the change in the role and power of monarchies in the political systems of Western Europe, for example, decline of "absolutism", development of parliaments, and new ideas relating to nationalism
@@ -106,7 +106,7 @@ the experiences and perspectives of rulers and of subject peoples, and the inter
 the role and achievements of a significant individual and/or group in Medieval, Renaissance or pre-modern Europe
 
 **Elaborations**
-*  <p>explaining the influence and dominance of the Catholic Church on society using visual sources such as the illustration of <em>Hell in the Hortus Deliciarum</em> manuscript by Herrad of Landsberg</p>
+*  explaining the influence and dominance of the Catholic Church on society using visual sources such as the illustration of *Hell in the Hortus Deliciarum* manuscript by Herrad of Landsberg
 *  investigating the role of the Catholic Church in Medieval Europe in the provision of social services such as education, health care and social welfare, and in feudal village organisation
 *  explaining the influence of the Medici family in Florence as bankers and merchants, and their patronage of the arts
 *  explaining the influences and contributions of individuals such as Lucrezia Borgia, Galileo, Leonardo da Vinci, Niccolo Machiavelli, Martin Luther and Louis XIV
@@ -159,7 +159,7 @@ a significant event, development, turning point or challenge that contributed to
 *  explaining the triggers of declining Viking power such as the Battle of Standford Bridge, the treaty of Saint-Clair-sur-Epte, new colonies, changing climate and/or the spread of Christianity
 *  explaining the arrival of Spanish conquistadores in Mexico and Peru from 1510 CE (Balboa) to 1531 (Pizarro), and their reasons; for example, seeking wealth, claiming land for their king, converting the local populations to Christianity, sense of adventure
 *  analysing the significance of Alexander VI’s papal decrees of 1493 in legalising Spanish territorial expansion and claims in the Americas
-*  <p>outlining the effects of Spanish conquest on the Americas, such as the spread of disease, introduction of crops such as maize, beans, tobacco, chocolate and potatoes to Europe, the <em>Encomienda system</em>, mining and deforestation, and the impact of the loss of natural resources</p>
+*  outlining the effects of Spanish conquest on the Americas, such as the spread of disease, introduction of crops such as maize, beans, tobacco, chocolate and potatoes to Europe, the *Encomienda system*, mining and deforestation, and the impact of the loss of natural resources
 *  explaining the longer-term effects of conquest and colonisation on the Indigenous populations of the Americas, such as the unequal distribution of land and wealth, slavery, political inequality, and supremacy of Spanish culture and language over conquered territories
 
 ##### AC9HH8K09 {#ac9hh8k09}

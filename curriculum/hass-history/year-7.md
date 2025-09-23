@@ -172,7 +172,7 @@ causes and effects of contacts and conflicts within ancient societies and/or wit
 *  explaining the nature of contact and conflict with other societies, such as trade with Cyprus, Crete and Greece, and the Battle of Kadesh in the New Kingdom that concluded with Ramses II’s peace treaty with the Hittites
 *  analysing the long-term causes of the rise of the Mauryan Empire and the spread of Mauryan philosophies and beliefs
 *  examining the extent of Indian contact with other societies such as the Persians under Cyrus, the Macedonians under Alexander; the extensive trade with the Romans and Chinese; the material remains of the Mauryan Empire such as the Pillars of Ashoka and the Barabar Caves; and the spread of Hinduism and Buddhism
-*  <p>explaining the rise of imperial China; for example, through chariot warfare and the adoption of mass infantry armies, the building of the first phase of the Great Wall of China, military strategies as codified in Sun Tzu’s <em>The Art of War</em></p>
+*  explaining the rise of imperial China; for example, through chariot warfare and the adoption of mass infantry armies, the building of the first phase of the Great Wall of China, military strategies as codified in Sun Tzu’s *The Art of War*
 *  describing indirect contact and interactions between the Roman Empire and the Han Dynasty
 
 ##### AC9HH7K13 {#ac9hh7k13}
