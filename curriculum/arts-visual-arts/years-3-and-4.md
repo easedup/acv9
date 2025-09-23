@@ -92,21 +92,7 @@ share and/or display artworks and/or visual arts practice in informal settings
 
 ## Achievement Standards
 
-In this band, learning in The Arts builds on each student’s prior learning and experiences. Arts learning in this band continues to use purposeful and creative play-based activities that foster development of students’ identity and wellbeing, and their connection with and contribution to the world. Students further develop their capability and confidence in using subject-specific skills, and creative and critical practices. They work individually and in collaboration with peers and teachers.
+By the end of Year 4, students describe the use of visual conventions, visual arts processes and materials in artworks they create and/or experience. They describe where, why and/or how visual artists create and/or display artworks across cultures, times, places and/or other contexts.
 
-Students continue to explore artworks that they experience at home, school or through family and community event. They connect with visual artists who live and work in the community; for example, by visiting arts spaces and/or exploring artworks and experiences such as virtual exhibitions. They use stimulus materials such as images, events, texts, questions and observations as inspiration for their own visual arts practice. These experiences support students to develop aesthetic knowledge across cognitive, sensory, emotive and physical domains, and to value artworks and practices from across cultures, times, places and/or other contexts such as countries or cultures in Asia.
+ Students use visual conventions, visual arts processes and materials to create artworks that communicate ideas, perspectives and/or meaning. They share or display their artworks and/or visual arts practice in informal settings.
 
-In this band, the focus is on students:
-
-1.  exploring and responding to
-
-*   artworks and experiences that showcase where, why and/or how visual arts are created across cultures, times, places and/or other contexts.
-*   examples of artworks created by First Nations Australians that communicate connection to and responsibility for Country/Place
-
-3.  developing creative and critical practices and skills
-
-*   creative practices for using visual conventions, visual arts processes and materials
-*   critical practices by observing, reflecting on and responding to artworks and visual arts practices they experience, including their own visual arts practice
-
-5.  creating artworks in a range of 2D, 3D and/or 4D (time-based) forms using available materials (including available digital tools)
-6.  presenting/sharing artworks in informal settings such as spaces within the school.

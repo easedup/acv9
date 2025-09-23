@@ -85,21 +85,7 @@ rehearse and perform improvised, devised and/or scripted drama in informal and/o
 
 ## Achievement Standards
 
-In this band, students continue to learn in and through the practices of The Arts subjects, building on their prior learning and experiences. They use play and imagination in purposeful and creative ways and continue to develop their connection with and contribution to the world as artist and as audience. They work individually and in collaboration with peers and teachers.
+By the end of Year 6, students explain how the elements of drama are used in drama they create, perform and/or experience. They describe how drama created and/or performed across cultures, times, places and/or other contexts communicates ideas, perspectives and/or meaning. They describe how drama is used to continue and revitalise cultures.
 
-Students engage with drama and drama practices across cultures, times, places and/or other contexts; for example, exploring drama in their local area, state/territory, and/or a country or region of Asia. They connect with people living and working in the community who create and/or perform drama; for example, by experiencing live and/or virtual performances. They continue to use stimulus materials such as images, events, texts, questions and/or observations as inspiration for their drama. These experiences support students to develop aesthetic knowledge across cognitive, sensory, emotive and physical domains, and to value arts works and practices from diverse cultures.
+Students work collaboratively as they combine elements of drama to shape and sustain dramatic action. They improvise and/or devise drama and/or interpret scripts. They perform their drama in informal and/or formal settings.
 
-In this band, the focus is on students:
-
-1.  exploring and responding to
-
-*   drama from local, regional and global cultures, times, places and/or other contexts that shows how drama can be used to communicate ideas, perspectives and/or meaning
-*   drama that showcases ways First Nations Australians are continuing and revitalising cultures
-
-3.  developing creative and critical practices and skills
-
-*   creative practices for creating and performing drama using elements of drama such as role, situation, language, place, movement, character, relationships, voice, time, tension, space, focus, contrast, mood/atmosphere and/or symbol
-*   critical practices such as observing, reflecting on and responding to drama they experience, including their own drama
-
-5.  creating drama in improvised, devised and scripted forms such as process drama, puppetry, improvisation, Readers’ Theatre, mime and movement, play-building and devising, clowning, scripted drama/script interpretation
-6.  presenting and performing drama for audiences in available, informal and/or formal settings, including as appropriate, school-hosted digital spaces such as a school learning management system.

@@ -89,21 +89,7 @@ share artworks and/or visual arts practice in informal settings
 
 ## Achievement Standards
 
-In this band, learning in The Arts builds on each student’s prior learning and experiences. Students continue to learn through purposeful and creative play in structured learning programs designed to foster a strong sense of wellbeing, and develop their connection with and contribution to the world. They work individually and in collaboration with peers and teachers, drawing on their imaginations, works of fiction, real-life experiences and learnings from across the curriculum to support their engagement in arts learning, as artists and as audiences.
+By the end of Year 2, students identify where they experience visual arts. They describe where, why and/or how people across cultures, communities and/or other contexts experience visual arts.
 
-Students explore artworks that they experience at home, school and/or through family and community events. They connect with visual artists who live and work in the community; for example, by visiting arts spaces or exploring artworks and experiences such as virtual performances or exhibitions. They use stimulus materials such as images, events, texts, questions and observations as inspiration for their own visual arts practice. These experiences support students to develop aesthetic knowledge across cognitive, sensory, emotive and physical domains, and to value artworks and practices across cultures, communities and/or other contexts.
+Students experiment with visual conventions, visual arts processes and materials. They make and share artworks in informal settings.
 
-In this band, the focus is on students:
-
-1.  exploring and responding to
-
-*   artworks, artists’ practices and arts experiences across cultures, communities and/or other contexts, using visual arts practices and inquiry
-*   examples of artworks and arts practices of First Nations Australians
-
-3.  developing creative and critical practices and skills
-
-*   creative practices for using visual conventions, visual arts processes and materials
-*   critical practices for observing, reflecting on and responding to artworks and practices they experience, including their own visual arts practice
-
-5.  creating artworks in a range of 2D, 3D and/or 4D (time-based) forms using available materials and/or digital tools
-6.  presenting/sharing artworks in informal settings such as classroom presentations.

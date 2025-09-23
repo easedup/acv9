@@ -132,10 +132,7 @@ create descriptions, explanations and arguments using civics and citizenship kno
 
 ## Achievement Standards
 
-In Year 9, students further develop their understanding of Australia’s federal system of government and how it enables change. Students investigate the features and jurisdictions of Australia’s court system, including its role in applying and interpreting Australian law. They also examine global connectedness and how this is shaping contemporary Australian society and global citizenship.
+By the end of Year 9, students analyse the role of the Australian Constitution, the federal system of government, and the process and reasons for constitutional change. They explain policy development and legislative processes in Australia’s democracy. Students identify the key features and jurisdictions of Australia’s court system and explain the role and processes of courts and tribunals. Students identify the reasons individuals and groups participate in and contribute to civic life nationally and globally.  They explain the influence of the media on reflections of identity and diversity. 
 
-Inquiry questions provide a framework for developing students’ knowledge, understanding and skills. The following inquiry questions are examples only and may be used or adapted to suit local contexts:
+Students develop a range of questions and locate, select and compare information from sources to investigate political and legal systems, and contemporary civic issues. They analyse information to explain perspectives and challenges related to political, legal or civic issues. Students identify and evaluate the methods or strategies related to civic participation or action. Students use civics and citizenship knowledge, concepts and terms to develop descriptions, explanations and evidence-based arguments.
 
-*   What are the influences that shape change in the operation of Australia's political and legal systems?
-*   How does Australia's court system work in support of a democratic and just society?
-*   How do citizens participate in an interconnected world?

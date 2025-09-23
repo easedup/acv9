@@ -144,16 +144,7 @@ share questions, predictions, observations and ideas with others
 
 ## Achievement Standards
 
-In Foundation, learning in Science builds on the Early Years Learning Framework and each student’s prior learning and experiences. Science encourages students to explore their environment and be curious about their surroundings.
+By the end of Foundation students group plants and animals based on external features. They identify factors that influence the movement of objects. They describe the observable properties of the materials that make up objects. They identify examples of people using observation and questioning to learn about the natural world.
 
-Students build wonder and their natural curiosity by observing everyday objects, materials and living things and by exploring changes in the world around them, including changes they can effect, such as making things move or change shape. They learn that observations can be organised to make patterns and that these patterns can be used to make predictions about phenomena. They seek answers to questions they pose using their senses to gather different types of information. They understand that making observations and predictions is a core part of science.
+Students pose questions and make predictions based on their experiences. They engage in investigations and make observations safely. With guidance, they represent observations and identify patterns. With guidance, they compare their observations with their predictions. They share questions, predictions, observations and ideas about their experiences with others.
 
-Inquiry questions can help excite students’ curiosity and challenge their thinking. Following are examples of inquiry questions that could be used to prompt discussion and exploration:
-
- 
-
-*   Why do we have different senses? How do we use them?
-*   Why is sorting important?
-*   How are a spider and a fly alike and different?
-*   Are wheels the only way to get around?
-*   Why do people describe things differently?

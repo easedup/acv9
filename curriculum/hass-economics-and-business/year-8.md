@@ -124,15 +124,7 @@ create descriptions and explanations, using economic and business knowledge, con
 
 ## Achievement Standards
 
-The focus of learning in Year 8 is the topic **"Australian markets"** within a national context.
+By the end of Year 8, students explain how markets influence the allocation of resources to the production of goods and services. They explain ways that businesses adapt to opportunities in markets and respond to the work environment. They describe the importance of Australia’s taxation system and its effect on decision-making by individuals and businesses. Students explain why individuals and/or businesses budget and plan.
 
-Students investigate a range of factors that influence decision-making by individuals and business. These include the allocation of resources to produce goods and services in the operation of markets, and the different ways that businesses may adapt to opportunities in markets or respond to the changing nature of work.
+ Students develop a range of questions to investigate an economic and business issue. They locate, select and organise relevant information and data. They interpret information and data to identify economic and business issues and trends, and describe economic cause-and-effect relationships. They develop a response to an economic and business issue. They identify and evaluate potential costs and benefits. Students use economics and business knowledge, concepts, terms and research findings to create descriptions and explanations.
 
-Students also examine the influences on decision-making within consumer and financial contexts through a focus on the role of Australia’s system of taxation, particularly in relation to spending by individuals and businesses, support for the common good, and the importance of goal-setting, budgeting and planning.
-
-Inquiry questions provide a framework for developing students’ knowledge, understanding and skills. The following inquiry questions are examples only and may be used or adapted to suit local contexts:
-
-*   How do markets influence decision-making about the allocation of resources to the production of goods and services?
-*   How do businesses develop or adapt to opportunities in the market and changes in the workplace?
-*   What is the role of Australia’s taxation system and how does it support individuals and business?
-*   Why are financial planning and budgeting important processes for individuals and businesses?

@@ -136,17 +136,5 @@ sequence steps to individually and collaboratively make designed solutions
 
 ## Achievement Standards
 
-By the end of Year 4 students should have had the opportunity to create 3 types of designed solutions, and addressed each of these 2 technologies contexts:
+By the end of Year 4 students describe how people design products, services and environments to meet the needs of people, including sustainability. For each of the 2 prescribed technologies contexts they describe the features and uses of technologies and create designed solutions. Students select design ideas against design criteria. They communicate design ideas using models and drawings including annotations and symbols. Students plan and sequence steps and use technologies and techniques to safely produce designed solutions.
 
-*   Engineering principles and systems; Materials and technologies specialisations
-*   Food and fibre production; Food specialisations.
-
-Students should have opportunities to experience designing and producing products, services and environments. There are rich connections to Digital Technologies and other learning areas, including Science and Health and Physical Education.
-
-Students investigate technologies – tools, equipment, processes, materials, systems and components – developing a sense of self and ownership of their ideas and thinking about their peers and communities and as consumers. They consider the purpose of technologies and how they meet needs. Students explore and learn to harness their creative, innovative and imaginative ideas and approaches to achieve designed products, services and environments. They do this through planning and awareness of the characteristics and properties of materials and the use of tools and equipment.
-
-They learn to reflect on their actions to refine their processes, develop their decision-making skills and improve their solutions. Students examine social and environmental sustainability implications of existing products and processes. They become aware of the role of those working in design and technologies occupations and how these people think about the way a product might change in the future.
-
-Students clarify and present ideas, using a range of technologies and graphical representation techniques, for example drawing annotated diagrams and modelling objects as 3-dimensional images from different views. Students use symbols, flow diagrams and charts for documenting design and production ideas.
-
-Students become aware of appropriate ways to manage their time and co-develop and use design criteria. They list the major steps needed to complete a design task. They show an understanding of the importance of planning when designing solutions, in particular when collaborating. Students identify safety issues and learn to follow safety rules when producing designed solutions.

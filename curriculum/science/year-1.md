@@ -159,14 +159,7 @@ write and create texts to communicate observations, findings and ideas, using ev
 
 ## Achievement Standards
 
-In Year 1 students extend their understanding of patterns by exploring patterns in daily and seasonal events, recognising that all living things share the same basic needs, and that objects can behave in predictable ways. They infer relationships from their observations and experiences and begin to link function with observable properties.
+By the end of Year 1 students identify how living things meet their needs in the places they live. They identify daily and seasonal changes and describe ways these changes affect their everyday life. They describe how different pushes and pulls change the motion and shape of objects. They describe situations where they use science in their daily lives and identify examples of people making scientific predictions.
 
-They observe that changes to objects and events can be large or small and happen quickly or slowly. Students pose questions and make predictions based on their observations and are introduced to ways of organising their observations to identify patterns. They appreciate that science involves observing, asking questions about and describing changes in objects and events.
+Students pose questions to explore observations and make predictions based on experiences. They follow safe procedures to make and record observations. They use provided tables and organisers to sort and order data and information and, with guidance, represent patterns. With guidance, they compare observations with predictions and identify further questions. They use everyday vocabulary to communicate observations, findings and ideas.
 
-Inquiry questions can help excite students’ curiosity and challenge their thinking. Following are examples of inquiry questions that could be used to prompt discussion and exploration:
-
-*   Does a fish have a home?
-*   How do we know what season it is?
-*   What makes playgrounds fun? How do playground designers come up with ideas?
-*   How can we tell if something has changed?
-*   How does science help us care for ourselves and other living things?

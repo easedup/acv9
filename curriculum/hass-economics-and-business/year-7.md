@@ -126,14 +126,7 @@ create descriptions and explanations, using economic and business knowledge, con
 
 ## Achievement Standards
 
-The focus of learning in Year 7 is the topic **"individuals, businesses and entrepreneurs"** within a personal, community and national context.
+By the end of Year 7, students describe how decisions are made to allocate limited resources to individuals and communities in an economy. They describe the reasons businesses exist and types of businesses, and identify how entrepreneurial characteristics contribute to the success of a business. They describe the reasons individuals choose to work, how they may derive an income and the types of work that exist. Students identify the rights and responsibilities of individuals and businesses in terms of products and services.
 
-In Year 7, students investigate the nature and purpose of informed and responsible decision-making by individuals and businesses, with attention to the allocation of limited resources to meet unlimited needs and wants, types of businesses, how entrepreneurial characteristics contribute to business success, and the ways work is undertaken. They also examine the rights and responsibilities that individuals and businesses have within consumer and financial contexts.
+ Students develop questions to investigate an economic and business issue. They locate, select and organise data and information from sources. They interpret information and data to identify economic and business issues, trends or effects. They develop a response and identify potential costs and benefits. Students use economic and business knowledge, concepts, terms and sources to create descriptions and explanations.
 
-Inquiry questions provide a framework for developing students’ knowledge, understanding and skills. The following inquiry questions are examples only and may be used or adapted to suit local contexts:
-
-*   How and why are economic decisions made to allocate limited resources to meet unlimited needs and wants in the Australian economy?
-*   What are the different types of businesses that provide goods and/or services?
-*   What is entrepreneurship and how do entrepreneurial characteristics contribute to the success of a business?
-*   Why do individuals contribute to their community and how do they derive an income?
-*   Why do consumers and businesses have both rights and responsibilities?

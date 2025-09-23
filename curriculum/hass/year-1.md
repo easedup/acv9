@@ -130,13 +130,7 @@ develop narratives and share observations, using sources, and subject-specific t
 
 ## Achievement Standards
 
-In Year 1, the focus is on **"how my world is different from the past and can change in the future"**.
+By the end of Year 1, students identify continuity and change in family structures, roles and significant aspects of daily life. They identify the location and nature of the natural, managed and constructed features of local places, the ways places change, and how they can be cared for by people.
 
-The Year 1 curriculum builds on each student’s prior learning and experiences investigating the past and places. Students’ exploration of the history of their family contributes to their sense of identity, connection and belonging. They consider how they can contribute to their world by sharing a perspective on family roles and responsibilities, and ways people care for places. Students continue to develop skills and processes to investigate the past and places, and dispositions for learning, such as curiosity, imagination and problem-solving. They resource their own learning through connecting with people, places, and the natural, managed and constructed world.
+Students develop questions and collect, sort and record information and data from observations and provided sources. They interpret information and discuss perspectives. Students draw conclusions and make proposals. Students share narratives and observations about people, places and the past, drawing on sources and incorporating subject-specific terms.
 
-The Year 1 curriculum focuses on developing students’ understanding of the recent past of families and the features of local places. Students are given opportunities to explore similarities and differences in family structures and roles over recent time. They consider how aspects of family life such as education and play have undergone continuities and changes. Students learn about the location and nature of natural, managed and constructed features of local places. They consider how places change over time and the ways different groups of people can care for places, including how First Nations Australians care for Country/Place.
-
-Inquiry questions provide a framework for developing students’ knowledge, understanding and skills. They allow for connections to be made within and across the HASS sub-strands or with other learning areas. The following inquiry questions are examples only and may be used or adapted to suit local contexts.
-
-*   How has family life and the place we live in changed and stayed the same over time?
-*   What events, activities and places do I care about? Why?

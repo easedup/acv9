@@ -338,36 +338,7 @@ create descriptions, explanations and historical arguments, using historical kno
 
 ## Achievement Standards
 
-The Year 8 curriculum provides a study of history from the end of the ancient period to the beginning of the modern period (c.650–1750 CE). This was when major societies around the world came into contact with each other. Social, economic, religious and political beliefs were often challenged and significantly changed. It was the period when the modern world began to take shape.
+By the end of Year 8, students describe the historical significance of the periods between the ancient and modern past. They explain the causes and effects of events, developments, turning points or challenges in Medieval, Renaissance or pre-modern Europe, or in the societies connected to the empires or expansions, or the societies of the Asia-Pacific world during these periods. They describe the social, religious, cultural, economic, environmental and/or political aspects related to the changes and continuities in a society or a historical period. Students describe the role of significant individuals, groups and institutions connected to the societies of these periods and their influences on historical events.
 
-An overview of the study of the periods that led to the emergence of the modern world requires students to develop an understanding of the context and chronology to the end of the ancient world, particularly in Europe, as well as the broad patterns of historical continuity and change over this time. This includes being introduced to the importance of religion in this era, particularly the major faiths of Christianity and Islam. It also includes an understanding of the key features of the medieval world such as feudalism, trade routes, voyages of discovery, contacts and conflicts between cultures and groups, as well as the emergence of significant ideas that shaped the early modern world during and after this period.
+Students develop questions about the past to inform historical inquiry. They locate and identify a range of primary and secondary sources as evidence in historical inquiry. They describe the origin, content and context of sources and explain the purpose of primary and secondary sources. Students compare sources to explain the accuracy, usefulness and reliability of sources as evidence. They sequence events and developments to explain causes and effects, and patterns of continuity and change across societies and time periods. They describe perspectives, attitudes and values of the past, and suggest reasons for different points of view. They explain historical interpretations about significant events and people. Students use historical knowledge, concepts, terms and references to evidence from sources to create descriptions, explanations and historical arguments.
 
-In Year 8, students are expected to study at least one topic from the sub-strand _Medieval Europe and the early modern world_ and at least one topic from either of the other 2 sub-strands, _Empires and expansions_ and _Asia-Pacific world_.
-
-The _Medieval Europe and the early modern world_ sub-strand topics are:
-
-*   Medieval Europe (c.590–c.1500)
-*   The Renaissance (c.1400–c.1600)
-*   The emergence of the modern world (c.1500–1650)
-
-The _Empires and expansions_ sub-strand topics are:
-
-*   Mongol Empire (c.1206–c.1368)
-*   Ottoman Empire (c.1299–c.1683)
-*   Vikings (c.790–c.1066)
-*   The Spanish conquest of the Americas (c.1492–c.1572)
-
-The _Asia-Pacific world_ sub-strand topics are:
-
-*   Angkor/Khmer Empire (c.802–c.1431)
-*   Japan under the Shoguns (c.794–1867)
-*   Polynesian expansion across the Pacific (c.700–1756)
-
-Inquiry questions provide a framework for developing students’ knowledge, understanding and skills. The following inquiry questions are examples only and may be used or adapted to suit local contexts.
-
-*   How did societies change from the end of the ancient period to the beginning of the modern age?
-*   What key beliefs and values emerged, and how did they influence societies?
-*   What were the causes and effects of contact between societies in this period?
-*   What were the perspectives of people from the time?
-*   Which significant people, groups and ideas from this period have influenced and shaped the world today?
-*   How and why have historians interpreted this period differently?

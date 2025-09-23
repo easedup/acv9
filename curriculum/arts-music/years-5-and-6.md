@@ -90,21 +90,7 @@ perform music in a range of forms they have learnt and/or composed in informal a
 
 ## Achievement Standards
 
-In this band, students continue to learn in and through the practices of The Arts subjects, building on their prior learning and experiences. They work creatively and purposefully, and continue to develop their connection with and contribution to the world as artists and as audiences. They work individually and in collaboration with peers and teachers.
+By the end of Year 6, students explain how elements of music are manipulated in music they compose, perform and/or experience. They describe how music composed and/or performed across contexts, cultures, times and/or places communicates ideas, perspectives and/or meanings. They describe how music is used to continue and/or revitalise cultures.
 
-Students engage with music, composers and/or performers across cultures, times, places and/or other contexts; for example, exploring music in their local area, state/territory or a country or region of Asia. They take opportunities to engage with living composers and performers and their music; for example, by experiencing live or recorded/streamed performances. They continue to use stimulus materials such as images, events, texts, questions and/or observations as inspiration for their own composing and performing. These experiences support students to develop aesthetic knowledge across cognitive, sensory, emotive and physical domains, and to value arts works and practices from diverse cultures.
+Students demonstrate listening and aural skills when composing and performing. They use elements of music and compositional devices to compose music that communicates ideas. They notate, document and/or record the music. They perform music in formal and/or informal settings.
 
-In this band, the focus is on students:
-
-1.  exploring and responding to
-
-*   music from local, regional, national and global cultures and contexts that shows ways the elements of music can be used to communicate ideas; for example, by listening to and/or learning songs or instrumental pieces
-*   music that showcases ways First Nations Australians are continuing and revitalising cultures
-
-3.  developing creative and critical practices and skills
-
-*   creative practices for composing and performing such as skills for listening, singing and playing instruments, and, as appropriate, using notation; for example, graphic or staff notation and/or lead-sheets
-*   critical practices such as using aural skills, reflecting on and responding to music they experience, including music they compose and perform
-
-5.  composing and practising music for performance, manipulating the elements of music such as duration/time (including beat and rhythm, tempo, pulse, metre), pitch, dynamics and expression, texture, articulation (accent) and/or timbre to compose music; for example, songwriting, arranging a known melody or composing for an instrument they are learning, singing and playing instruments, and using aural skills to support these processes
-6.  performing music they have learnt and/or composed in informal and/or formal settings, such as spaces within the school including as appropriate, school-hosted digital spaces such as a school learning management system.

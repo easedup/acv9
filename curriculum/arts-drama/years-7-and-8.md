@@ -110,21 +110,7 @@ rehearse and perform improvised, devised and/or scripted drama to audiences, usi
 
 ## Achievement Standards
 
-In this band, learning in Drama builds on each student’s prior learning and experiences. Students learn in and through the practices of Drama: creating, performing and responding. They use drama processes in purposeful and creative ways, and continue to develop their connection with and contribution to the world as artist and as audience. They work individually and in collaboration with peers and teachers.
+By the end of Year 8, students analyse how elements of drama and/or conventions are manipulated in drama they create and/or experience. They evaluate the ways drama created and/or performed across cultures, times, places and/or other contexts communicates ideas, perspectives and/or meaning. They describe respectful approaches to creating, performing and/or responding to drama.
 
-Students explore drama in local, regional, national and global contexts such as drama in countries or regions of Asia, including use of drama in multi-arts, trans-disciplinary or hybrid forms. They take opportunities to engage with living performers and drama-makers, and expand their awareness of diverse drama practices, genres and/or styles.
+ Students work collaboratively to manipulate elements of drama and conventions to shape and sustain dramatic action in improvised, devised and/or scripted drama. They employ performance skills to convey dramatic action and communicate ideas, perspectives and/or meaning when performing drama to audiences.
 
-In this band, the focus is on students:
-
-1.  exploring and responding to
-
-*   drama works, performances, practices and contexts from a range of cultures, times and places; for example, through analysis of their own drama or the work of others, including professional work
-*   the diversity of drama created and/or performed by First Nations Australians and how this work demonstrates respect for Indigenous Cultural and Intellectual Property rights
-
-3.  developing practices and skills
-
-*   creative practices for creating and performing drama using the elements of drama: role, situation, language, place, movement, time, character, relationships, voice, tension, space, mood/atmosphere, contrast, symbol and focus, and conventions relevant to selected forms and/or styles
-*   critical practices by taking opportunities to reflect, evaluate or respond to their own work and the work of others; for example, documenting ideas and intentions for devised drama, evaluating their own or others’ responses to drama, reflecting on their own performances
-
-5.  creating drama in improvised, devised and scripted forms such as process drama, puppetry, object theatre, short- or long-form improvisation, play-building and devising, scripted drama/script interpretation; for example, interpretation of realism and/or non-realism, exploration of historic, contemporary or hybrid styles
-6.  presenting and performing drama in informal and/or formal settings; for example, performing for a specific target audience.

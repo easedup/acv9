@@ -114,13 +114,7 @@ share narratives and observations, using sources and terms about the past and pl
 
 ## Achievement Standards
 
-In Foundation, the focus is on **"my personal world"**.
+By the end of Foundation, students identify significant people and events in their own lives, and how significant events are celebrated or commemorated. Students recognise the features of familiar places, why some places are special to people and the ways they can care for them.
 
-Learning in HASS builds on the Early Years Learning Framework and each student’s prior learning and experiences. Students discuss and share personal observations and perspectives on their histories and special places, contributing to their sense of identity, connection and belonging. They continue to develop skills and processes for investigating their personal worlds, strengthening dispositions for learning such as curiosity and imagination, and resourcing their own learning through connecting with people and places.
+Students pose questions, and sort and record information from observations and provided sources. They share a perspective and draw conclusions. Students use sources and terms to share observations about places and the past.
 
-The Foundation curriculum focuses on developing students’ understanding of their personal worlds, including their personal and family histories, and the places they live in and belong to. Through inquiries into their family, familiar events and their own history, students examine evidence of the past and explore how the past is different from the present. They develop a deeper understanding about why some events are important in their own and others’ lives. Students explore the places they live in and belong to, and observe and describe them. They identify the reasons why places are important to people and how they can care for them. They recognise that First Nations Australians have a special connection to places and that their school is located on the local Country/Place.
-
-Inquiry questions provide a framework for developing students’ knowledge, understanding and skills. They allow for connections to be made within and across the HASS sub-strands or with other learning areas. The following inquiry questions are examples only and may be used or adapted to suit local contexts.
-
-*   Who am I, where do I live and who came before me?
-*   Why are some places and events special, and how do we know?

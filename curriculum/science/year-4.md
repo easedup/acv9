@@ -184,12 +184,7 @@ write and create texts to communicate findings and ideas for identified purposes
 
 ## Achievement Standards
 
-In Year 4 students extend their understanding of systems as interactions between related components and analyse patterns to identify that these interactions can occur in predictable ways. They classify system components and create simple models of system interactions, such as food chains and representations of the water cycle. They learn that these models can be used to predict the effect of missing or malfunctioning components. They explore the relationship between form and function by investigating different materials and their properties and learn that classification can enable prediction. They investigate forces that operate from a distance and learn that some interactions result from phenomena that cannot be seen with the naked eye. Students use fair testing to explore relationships between system components. They appreciate the value of using standard units of measurement to measure and compare attributes of systems and the importance of fair methods for drawing conclusions.
+By the end of Year 4 students identify the roles of organisms in a habitat and construct food chains. They identify key processes in the water cycle and describe how water cycles through the environment. They identify forces acting on objects and describe their effect. They relate the uses of materials to their properties. They explain the role of data in science inquiry. They identify solutions based on scientific explanations and describe the needs these meet.
 
-Inquiry questions can help excite students’ curiosity and challenge their thinking. Following are examples of inquiry questions that could be used to prompt discussion and exploration:
+Students pose questions to identify patterns and relationships and make predictions based on observations. They plan investigations using planning scaffolds, identify key elements of fair tests and describe how they conduct investigations safely. They use simple procedures to make accurate formal measurements. They construct representations to organise data and information and identify patterns and relationships. They compare their findings with those of others, assess the fairness of their investigation, identify further questions for investigation and draw conclusions. They communicate ideas and findings for an identified audience and purpose, including using scientific vocabulary when appropriate.
 
-*   How can we keep food fresh and safe to eat without using plastic?
-*   Why do we measure things?
-*   What would happen if there were no ants in a local habitat?
-*   How does friction help or hinder motion?
-*   What’s the big deal about the water cycle?

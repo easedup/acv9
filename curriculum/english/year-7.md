@@ -255,14 +255,9 @@ understand how to use spelling rules and word origins; for example, Greek and La
 
 ## Achievement Standards
 
-The English curriculum is built around the 3 interrelated strands of _Language, Literature_ and _Literacy_. Together, the 3 strands focus on developing students’ knowledge, understanding and skills in listening, reading, viewing, speaking, writing and creating. Learning in English is recursive and cumulative, building on concepts, skills and processes developed in earlier years.
+By the end of Year 7, students interact with others, and listen to and create spoken and/or multimodal texts including literary texts. With different purposes and for audiences, they discuss, express and expand ideas with evidence. They adopt text structures to organise, develop and link ideas. They adopt language features including literary devices, and/or multimodal features and features of voice.
 
-In Year 7, students interact with others for a variety of purposes.
+They read, view and comprehend texts created to inform, influence and/or engage audiences. They identify how ideas are portrayed and how texts are influenced by contexts. They identify the aesthetic qualities of texts. They identify how text structures, language features including literary devices and visual features shape meaning.
 
-Students engage with a variety of texts for enjoyment. They listen to, read, view, analyse, interpret, create and perform a range of spoken, written and multimodal texts. Texts may include various types of media, online and digital texts, novels, non-fiction, film, poetry and dramatic performances. The features of these texts may be used by students as models for creating their own work.
+They create written and/or multimodal texts, including literary texts, for different purposes and audiences, expressing and expanding on ideas with evidence. They adopt text structures to organise, develop and link ideas. They adopt language features including literary devices, and/or multimodal features.
 
-The range of literary texts for Foundation to Year 10 comprises the oral narrative traditions and literature of First Nations Australians, and classic and contemporary literature from wide-ranging Australian and world authors, including texts from and about Asia.
-
-Literary texts that support and extend students in Year 7 as independent readers may be drawn from a range of realistic, fantasy, speculative fiction and historical genres. They may involve some challenging sequences of events and/or less predictable characters. These texts may explore themes of interpersonal relationships and ethical dilemmas in real-world and fictional settings, and represent a variety of perspectives. Informative texts may present technical information and content from credible sources about specialised topics. Text structures may be more complex, including chapters, headings and subheadings, tables of contents, indexes and glossaries. Language features may include successive complex sentences with embedded clauses, unfamiliar technical vocabulary, figurative and rhetorical language, and/or information supported by various types of images and graphics.
-
-Year 7 students create a range of texts whose purposes may be aesthetic, imaginative, reflective, informative, persuasive and/or analytical; for example, narratives, performances, reports, reviews and arguments for different audiences.

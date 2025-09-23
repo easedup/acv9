@@ -85,21 +85,7 @@ practise and perform dances in informal settings
 
 ## Achievement Standards
 
-In this band, learning in The Arts builds on each student’s prior learning and experiences. Arts learning in this band continues to use purposeful and creative play-based activities that foster development of students’ identity and wellbeing, and their connection with and contribution to the world. Students further develop their capability and confidence in using subject-specific skills, and creative and critical practices. They work individually and in collaboration with peers and teachers.
+By the end of Year 4, students describe use of the elements of dance in dance they experience, create and/or perform. They describe where, why and/or how dance is choreographed and/or performed across cultures, times, places and/or other contexts.
 
-Students continue to explore dance that they experience at home, school or through family and community events. They connect with choreographers and/or performers who live and work in the community; for example, by experiencing live or virtual performances. They use stimulus materials, such as images, events, texts, questions and observations, as inspiration for their own dance. These experiences support students to develop aesthetic knowledge across cognitive, sensory, emotive and physical domains, and to value arts works and practices from across cultures, times, places and/or other contexts such as countries or cultures in Asia.
+Students use the elements of dance to structure dance sequences that communicate ideas, perspectives and/or meaning. They demonstrate fundamental movement skills and safe dance practice. They perform their dance in informal settings.
 
-In this band, the focus is on students:
-
-1.  exploring and responding to
-
-*   works and experiences that showcase where, why and/or how dance is choreographed and/or performed across cultures, times, places and/or other contexts; for example, participating in dance events or learning dances choreographed for a specific purpose
-*   examples of dance choreographed and/or performed by First Nations Australians that communicate connection to and responsibility for Country/Place
-
-3.  developing creative and critical practices and skills
-
-*   creative practices for choreography and performance using safe dance practice, fundamental movement skills, the elements of dance, imagination and processes such as improvisation
-*   critical practices by observing, reflecting on and responding to dance they experience, including their own dance
-
-5.  creating dance by selecting and combining movements and structuring dance sequences that communicate ideas and intentions using fundamental movement skills, the elements of dance and imagination. Students use processes such as improvisation to develop and extend ideas for their dance. They may focus on choreographing dance sequences or they may create work that combines dance and other arts forms, such as a dance sequence they will perform to accompany a song
-6.  performing dance they have learnt and/or choreographed in informal settings, such as spaces within the school.

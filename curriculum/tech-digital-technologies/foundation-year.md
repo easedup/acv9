@@ -52,10 +52,5 @@ identify some data that is personal and owned by them
 
 ## Achievement Standards
 
-Learning in Digital Technologies builds on the Early Years Learning Framework and each student’s prior learning and experiences.
+By the end of Foundation students show familiarity with digital systems and use them for a purpose. They represent data using objects, pictures and symbols and identify examples of data that is owned by them.
 
-By the end of Foundation students should have had the opportunity to experience computational thinking by experimenting with different ways of representing an idea or action with a symbol, object or picture that is understood by others, such as a sun indicating fine conditions in a weather forecast.
-
-Through Digital Technologies and Mathematics (_Statistics_), students have opportunities to explore different ways that data can be acquired and recorded, for example using a tablet to take photographs of plants in the school garden. Students have opportunities to develop their confidence with using digital systems by creating content such as simple messages. They become familiar with the difference between data that is owned by them, such as a photo of themselves, and data that is publicly available, such as a photo of their school. Through guided play experiences and tasks, students develop systems thinking by exploring how digital systems, such as tablets, smartphones and laptops can be used for different purposes, at school and at home.
-
-In Digital Technologies, students should have frequent opportunities for authentic learning by making key connections with other learning areas.

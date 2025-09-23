@@ -133,11 +133,7 @@ create descriptions, explanations and arguments using civics and citizenship kno
 
 ## Achievement Standards
 
-In Year 7, students study the key features of democracy and Australia’s federal system of government, and explore how values shape our democracy. Students learn about the key features and principles of Australia’s legal system. They look at how the rights of individuals are protected through the legal system, which aims to provide justice. Students also explore how Australia’s secular system of government supports a diverse society with shared values that promote community cohesion.
+By the end of Year 7, students describe the key features of Australia's system of government, and the principles and features of the Australian legal system. They explain the characteristics of Australian democracy. Students describe the nature of Australian society, its cultural and religious diversity, and identify the values that support cohesion in Australian society.
 
-Inquiry questions provide a framework for developing students’ knowledge, understanding and skills. The following inquiry questions are examples only and may be used or adapted to suit local contexts:
+Students develop questions and locate, select and organise information from sources to investigate political and legal systems, and contemporary civic issues. They analyse information and identify perspectives and challenges related to political, legal or civic issues. They identify and describe the methods or strategies related to civic participation or action. Students use civics and citizenship concepts, terms and sources to create descriptions, explanations and arguments.
 
-*   How is Australia’s system of democratic government shaped by the Constitution?
-*   What principles of justice help to protect the individual’s rights to justice in Australia’s system of law?
-*   How do features of Australian democracy and the legal system uphold and enact democratic values?
-*   How is Australia a diverse society and what factors contribute to a cohesive society?

@@ -109,21 +109,7 @@ perform music using relevant vocal and/or instrumental techniques and performanc
 
 ## Achievement Standards
 
-In this band, learning in Music builds on each student’s prior learning and experiences. Students learn in and through the music practices of listening, composing and performing. They use their music knowledge and skills in purposeful and creative ways, and continue to develop their connection with and contribution to the world as composers and performers and as audiences. They work individually and in collaboration with peers and teachers.
+By the end of Year 8, students analyse how the elements of music and/or compositional devices are manipulated in music they compose, perform and/or experience. They evaluate the ways music from across cultures, times, places and/or other contexts communicates ideas, perspectives and/or meaning. They describe respectful approaches to composing, performing and/or responding to music.
 
-Students explore music in local, regional, national and global contexts such as music used in multi-arts, trans-disciplinary or hybrid forms, or music from countries or regions of Asia. They take opportunities to engage with living composers and performers, and expand their awareness of the diversity of music practices, genres and/or styles.
+Students demonstrate listening and aural skills when composing and performing. They manipulate elements of music and compositional devices to compose music that communicates ideas, perspectives and/or meaning. They notate, document and/or record the music they compose. They manipulate elements of music when performing their own and/or others’ music. They demonstrate performance skills when performing music for audiences.
 
-In this band, the focus is on students:
-
-1.  exploring and responding to
-
-*   music and music practices across cultures, times, places and/or other contexts; for example, through listening and evaluating their own music practices or analysing performances and compositions created or presented by others
-*   the diversity of music created by First Nations Australians and how this work demonstrates respect for Indigenous Cultural and Intellectual Property rights
-
-3.  developing practices and skills
-
-*   creative practices and skills for listening (including aural skills), vocal and instrumental performance, and composition in music genres and/or styles of interest, interpreting and manipulating the elements of music: duration/time (including beat and rhythm, tempo, pulse, simple/compound metre), pitch, dynamics and expression, form and structure, timbre and texture
-*   critical practices for reflecting, analysing, evaluating and responding to their own work and the work of others; for example, considering how to apply knowledge of music styles or structures in compositions, developing interpretations of music composed by others or evaluating their own performances
-
-5.  composing in forms and genres such as songwriting, solo and/or ensemble instrumental music, music production, arranging or re-imagining, and developing interpretations of solo and/or ensemble music works for performance, using aural skills and/or available digital tools as appropriate
-6.  presenting performances of music to audiences; for example, a specific target audience.

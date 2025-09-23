@@ -188,18 +188,7 @@ create descriptions, explanations and responses, using geographical knowledge a
 
 ## Achievement Standards
 
-The Year 8 curriculum involves the study of 2 sub-strands.
+By the end of Year 8, students explain how the interactions of people and environmental processes impact on the characteristics of places. They explain how the characteristics of places are perceived and valued differently by people. They describe the effects of human activity or hazards on environments. They explain the features of a distribution and identify implications. They explain the interconnections between people and places and environments. They explain how these interconnections change places or environments. Students explain responses or strategies to address a geographical phenomenon or challenge, referring to environmental, economic or social factors.
 
-**Landforms and landscapes** – focuses on the processes that shape individual landforms, the values and meanings placed on landforms and landscapes by diverse cultures, and hazards associated with landscapes. Students explore the distribution of Australia’s distinctive landscapes and significant landforms. They also consider the ways that the sustainability of significant landscapes and the impacts of hazards are managed.
+ Students develop relevant questions about a geographical phenomenon or challenge. They collect, organise and represent relevant and reliable data and information using primary research methods and secondary research materials. They interpret and analyse data and information to explain patterns and trends and infer relationships. They draw reasoned conclusions about the impact of the geographical phenomenon or challenge. They decide on appropriate strategies for action and explain potential impacts. Students use geographical knowledge, methods, concepts, terms and reference findings from sources to create descriptions, explanations and responses.
 
-It is suggested that the study of this topic draws on studies from Australia and countries in Asia.
-
-**Changing nations** – focuses on the changing human geography of countries with the process of urbanisation, the reasons for the high level of urban concentration in Australia, and the influences of internal and international migration. Students can examine the distribution of population in Australia compared to other countries and shifts in population distribution over time. They also focus on the ways that sustainability of Australia’s urban areas is managed.
-
-It is suggested that the study of this topic draws on studies from Australia, the United States of America and a country in Asia.
-
-Inquiry questions provide a framework for developing students’ knowledge, understanding and skills. The following inquiry questions are examples only and may be used or adapted to suit local contexts.
-
-*   How do environmental and human processes affect the characteristics of places and environments?
-*   How do the interconnections between places, people and environments affect the lives of people?
-*   What are the consequences of changes to places and environments, and how can these changes be managed?

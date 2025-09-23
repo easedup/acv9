@@ -87,21 +87,7 @@ share dance sequences in informal settings
 
 ## Achievement Standards
 
-In this band, learning in The Arts builds on each student’s prior learning and experiences. Students continue to learn through purposeful and creative play in structured learning programs designed to foster a strong sense of wellbeing and develop their connection with and contribution to the world. They work individually and in collaboration with peers and teachers, drawing on their imaginations, real-life experiences, stimulus materials and learnings from across the curriculum.
+By the end of Year 2, students identify where they experience dance. They describe where, why and/or how people across cultures, communities and/or other contexts experience dance.
 
-Students explore dance that they experience at home, school and/or through family and community events. They connect with choreographers and/or performers who live and work in the community; for example, by experiencing live or virtual performances. They use stimulus materials such as images, events, texts, questions and observations as inspiration for their own dance practices. These experiences support students to develop aesthetic knowledge across cognitive, sensory, emotive and physical domains, and to value arts works and practices from across cultures, communities and/or other contexts.
+Students use the elements of dance to structure dance sequences. They demonstrate fundamental movement skills and safe dance practice. They perform their dance in informal settings.
 
-In this band, the focus is on students:
-
-1.  exploring and responding to
-
-*   dance across cultures, communities and/or other contexts through inquiry and/or practical investigations, such as learning dances
-*   examples of dance choreographed and/or performed by First Nations Australians
-
-3.  developing critical and creative practices and skills
-
-*   creative practices for choreography and performance using safe dance practice, fundamental movement skills, the elements of dance, imagination and processes such as improvisation
-*   critical practices by observing, reflecting on and responding to dance they experience, including their own dance
-
-5.  creating dance sequences by selecting and combining movements that communicate ideas and intentions using fundamental movement skills, the elements of dance and imagination. Students may focus on choreographing dance sequences, or they may create work that combines dance and other arts forms, such as a dance sequence for use in a dramatic re-telling of a story
-6.  performing/sharing dance they have learnt and/or choreographed in informal settings such as classroom presentations.

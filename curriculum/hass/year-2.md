@@ -133,14 +133,7 @@ develop narratives and share observations, using sources, and subject-specific t
 
 ## Achievement Standards
 
-In Year 2, the focus is on **"past and present connections to people and places"**.
+By the end of Year 2, students identify the significance of a local person, group, place and/or building. They identify the effects of changes in technologies on people’s lives. Students identify that places can be spatially represented in different geographical divisions. They identify how people and places are interconnected both at local and broader scales.
 
-The Year 2 curriculum builds on each student’s prior learning and experiences investigating the past and places. Through exploring the history of their local community and places across a range of scales, students develop an understanding of how connections to history and place shape identity, diversity, connection and belonging. They consider how they can contribute to their world by exploring perspectives on the historical, cultural or spiritual significance of a person, place and/or building. Students continue to develop skills and processes to investigate the history of their local community and places across a range of scales. They develop dispositions for learning such as curiosity, imagination, problem-solving and researching. They resource their own learning through connecting with people, places and technologies.
+Students develop questions, and collect, sort and record related information and data from observations and provided sources. They interpret information and data, and identify and discuss perspectives. Students use interpretations to draw conclusions and make proposals. Students use sources, and subject-specific terms to present narratives and observations about the past, people and places at different scales.
 
-The Year 2 curriculum extends contexts for study from the local to the regional and state/territory, exploring connections between the past and present, and between people and places. Through studies of their local area, students explore, recognise and appreciate the history of their community, and what it reveals about significant people or places. They examine the causes and effects of changes in communication and transport technology. Students learn about the scale by which places are defined. They learn about the ways local people and places are connected to people and places at broader scales within their region, state or territory. Students explore how places have meaning to people and the connection First Nations Australians have with local Country/Place.
-
-Inquiry questions provide a framework for developing students’ knowledge, understanding and skills. They allow for connections to be made within and across the HASS sub-strands or with other learning areas. The following inquiry questions are examples only and may be used or adapted to suit local contexts.
-
-*   What does my place tell me about the past and present?
-*   How are people connected to their place and other places, past or present?
-*   How has technology affected daily life over time and the connections between people in different places?

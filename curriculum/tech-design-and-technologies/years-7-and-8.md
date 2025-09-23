@@ -169,17 +169,5 @@ develop project plans to individually and collaboratively manage time, cost and 
 
 ## Achievement Standards
 
-By the end of Year 8 students should have had the opportunity to create at least 3 types of designed solutions, and addressed each of the 4 technologies contexts:
+By the end of Year 8 students explain how people design, innovate and produce products, services and environments for preferred futures. For each of the 4 prescribed technologies contexts they explain how the features of technologies impact on design decisions, and create designed solutions based on analysis of needs or opportunities. Students create and adapt design ideas, processes and solutions, and justify their decisions against developed design criteria that include sustainability. They communicate design ideas and solutions to audiences using technical terms and graphical representation techniques, including using digital tools. They independently and collaboratively document and manage production processes to safely produce designed solutions.
 
-*   Engineering principles and systems
-*   Food and fibre production
-*   Food specialisations
-*   Materials and technologies specialisations.
-
-Students should have opportunities to design and produce products, services and environments. There are rich connections to other learning areas and subjects, for example Science, Geography and Health and Physical Education.
-
-Students investigate and select from a range of technologies − tools, equipment, processes, materials, systems and components. They consider how the characteristics and properties of technologies can be combined to design and produce sustainable designed solutions to problems for individuals and the community, considering ethical, economic, environmental and social sustainability factors. Students use innovation and enterprise skills with increasing independence and collaboration. They respond to feedback from others and evaluate design processes and designed solutions for preferred futures. Students investigate design and technologies professions and the contributions that each makes to society locally, regionally and globally through innovation and enterprise. They critique the advantages and disadvantages of design ideas and technologies.
-
-Using a range of technologies including a variety of graphical representation techniques to communicate, students generate and clarify ideas through sketching, modelling and technical drawing techniques (for example, perspective and orthogonal drawings). They use a range of symbols and technical terms in a variety of contexts to produce patterns; annotate concept sketches and drawings; and use scale, pictorial and aerial views to communicate design ideas and designed solutions.
-
-With greater autonomy, students identify the sequences and steps involved in design tasks. They develop plans to manage design tasks, including safe and responsible use of materials and tools, and apply their plans to successfully complete these tasks. Students establish safety procedures that minimise risk and manage a project with safety and efficiency when making designed solutions.

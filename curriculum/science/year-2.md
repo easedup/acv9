@@ -163,12 +163,7 @@ write and create texts to communicate observations, findings and ideas, using ev
 
 ## Achievement Standards
 
-In Year 2 students build on their experiences of the natural and physical world to identify the components of simple systems. They appreciate that Earth is a planet in space and identify other celestial objects. They explore the ways components in a system interact, such as by using their bodies or combining and manipulating objects to make sounds. They build on their understanding of properties of materials to recognise that those properties stay the same when the material is changed physically. They continue to build their understanding of patterns by observing that some patterns, such as the changing positions of the sun, moon and stars, can only be observed over certain timescales. As they explore patterns and relationships, they use counting and informal measurements to make and compare observations and recognise that organising these observations in tables makes it easier to identify and represent patterns. They appreciate that science involves making and organising observations to identify patterns and relationships, and that these patterns and relationships are the basis of scientific predictions.
+By the end of Year 2 students identify celestial objects and describe patterns they observe in the sky. They demonstrate how different sounds can be produced and describe the effect of sound energy on objects. They identify ways to change materials without changing their material composition. They describe how people use science in their daily lives and how people use patterns to make scientific predictions.
 
-Inquiry questions can help excite students’ curiosity and challenge their thinking. Following are examples of inquiry questions that could be used to prompt discussion and exploration:
+Students pose questions to explore observed patterns or relationships and make predictions based on experience. They suggest steps to be followed in an investigation and follow safe procedures to make and record observations. They use provided tables and organisers to sort and order data and represent patterns in data. With guidance, they compare their observations with those of others, identify whether their investigation was fair and identify further questions. They use everyday and scientific vocabulary to communicate observations, findings and ideas.
 
-*   Who does science?
-*   How do we know Earth is round?
-*   How can we make and sense music?
-*   What’s the best material? Why?
-*   How does the sky change over time?

@@ -184,12 +184,7 @@ write and create texts to communicate findings and ideas for identified purposes
 
 ## Achievement Standards
 
-In Year 3 students explore the value of grouping and classifying objects and events based on similarities and differences. In classifying things as living or non-living they begin to recognise that classifications are not always easy to define or apply. Students contrast patterns of growth and change in living things; compare characteristics of soils, rocks and minerals; and classify states of matter. They learn that key processes such as heat transfer can cause predictable change in simple systems. They recognise that change is described and measured in terms of differences over time and begin to quantify their observations to enable comparison. They learn more-sophisticated ways of identifying and representing relationships, including the use of tables and graphs to identify patterns and relationships. They appreciate that science involves conducting fair tests to answer questions or test predictions, and that scientific explanations are based on data.
+By the end of Year 3 students classify and compare living and non-living things and different life cycles. They describe the observable properties of soils, rocks and minerals and describe their importance as resources. They identify sources of heat energy and examples of heat transfer and explain changes in the temperature of objects. They classify solids and liquids based on observable properties and describe how to cause a change of state. They describe how people use data to develop explanations. They identify solutions that use scientific explanations.
 
-Inquiry questions can help excite students’ curiosity and challenge their thinking. Following are examples of inquiry questions that could be used to prompt discussion and exploration:
+Students pose questions to explore patterns and relationships and make predictions based on observations. They use scaffolds to plan safe investigations and fair tests. They use familiar classroom instruments to make measurements. They organise data and information using provided scaffolds and identify patterns and relationships. They compare their findings with those of others, explain how they kept their investigation fair, identify further questions and draw conclusions. They communicate ideas and findings for an identified purpose, including using scientific vocabulary when appropriate.
 
-*   Do plants, birds and frogs grow up too?
-*   Is soil alive?
-*   Is jelly a liquid or a solid?
-*   Why is a spoon hot in soup and cold in ice cream?
-*   Can you do science without a fair test?

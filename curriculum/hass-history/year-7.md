@@ -278,22 +278,9 @@ create descriptions, explanations and historical arguments, using historical kno
 
 ## Achievement Standards
 
-The Year 7 curriculum provides a study of history from the time of the earliest human communities to the end of the ancient period, approximately 60,000 years ago – c.650 (CE), and a study of early First Nations Peoples of Australia. It was a period defined by the development of cultural practices and organised societies. The study of the ancient world includes the discoveries (the remains of the past and what we know) and the mysteries (what we do not know) about this period of history, in a range of societies from places including Egypt, Greece, Rome, India and China.
+By the end of Year 7, students describe the historical significance of the ancient past and the histories of early First Nations Peoples of Australia. They identify the causes and effects of events, developments and achievements connected to groups and individuals in Australia and other societies from the ancient past. Students describe the social, religious, cultural, economic, environmental and/or political aspects related to changes and continuities in these societies. They identify the roles and achievements of significant individuals and groups, and the influences on the development of ancient societies. Students explain the importance of heritage sites connected to Australia and other societies from the ancient past.
 
-An overview of the study of the ancient world's earliest societies requires students to develop a broad understanding of the context and chronology of the period, the patterns of historical continuity and change over time, and related historical themes. This includes understanding the archaeological and historical terms used to describe different periods of time, and the ways different cultures, including First Nations Australians, identify and represent time.
+ 
 
-In Year 7, students are expected to study the sub-strand _Deep time history of Australia_ and at least one of the topics from _The ancient world_ sub-strand. _The ancient world_ sub-strand topics are:
+Students develop questions about the past. They locate and identify primary and secondary sources as evidence in historical inquiry. They describe the origin, content, context and purpose of primary and secondary sources. Students identify the accuracy and usefulness of sources as evidence. They sequence events and developments to describe causes and effects, and continuities and changes across societies and periods of time. They describe the perspectives, attitudes and values of the past in sources. They identify and describe historical interpretations about significant events and people. Students use historical knowledge, concepts, terms and evidence from sources to create descriptions, explanations and historical arguments.
 
-*   Greece
-*   Rome
-*   Egypt
-*   India
-*   China.
-
-Inquiry questions provide a framework for developing students’ knowledge, understanding and skills. The following inquiry questions are examples only and may be used or adapted to suit local contexts.
-
-*   How do we know about the ancient past?
-*   Why, where and when did the earliest societies develop?
-*   What emerged as the distinctive features of societies of early First Nations Peoples of Australia?
-*   What emerged as the defining features and achievements of ancient societies?
-*   What have been the significant legacies of ancient societies?

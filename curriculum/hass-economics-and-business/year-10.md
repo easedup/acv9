@@ -129,16 +129,7 @@ create descriptions, explanations and arguments, using economic and business kno
 
 ## Achievement Standards
 
-The focus of learning in Year 10 is the topic **"productivity, growth and living standards"** within a national context.
+By the end of Year 10, students analyse how economic indicators influence Australian Government decision-making. They explain ways that government intervenes to improve economic performance and living standards. They explain processes that businesses use to manage the workforce and improve productivity. They explain the importance of Australia’s superannuation system and its effect on consumer and financial decision-making.  Students analyse factors that influence major consumer and financial decisions, and explain the short- and long-term effects of these decisions.
 
-Students investigate a range of factors that influence individual, financial and economic decision-making. They examine the government’s management of the economy to improve economic growth and living standards. They also study the responses of business to changing economic conditions, including the way they improve productivity and manage their workforce.
+ Students develop and modify a range of questions to investigate an economic and business issue. They locate, select and analyse relevant and reliable information and data from a range of sources. They interpret and analyse information and data to evaluate trends and economic cause-and-effect relationships and make predictions about consumer and financial impacts. They develop an evidence-based response to an economic and business issue. They evaluate a response, using appropriate criteria to decide on a course of action. Students use economic and business knowledge, concepts and terms to develop descriptions, explanations and reasoned arguments that synthesise research findings.
 
-Australia’s superannuation system and the factors that influence major consumer and financial decisions are also considered for how they contribute to human and financial wellbeing and the common good of society.
-
-Inquiry questions provide a framework for developing students’ knowledge, understanding and skills. The following inquiry questions are examples only and may be used or adapted to suit local contexts:
-
-*   What processes do governments use to manage economic decision-making?
-*   How does the government intervene in the economy to improve economic performance and living standards?
-*   Why is a continuing focus on workforce efficiency and productivity important for the success of business?
-*   How does Australia’s superannuation system support human wellbeing, a prosperous economy and the common good?
-*   What factors influence decision-making within consumer and financial contexts, and how are participants impacted?
