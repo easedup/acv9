@@ -1,6 +1,6 @@
-# Technologies - Design and Technologies - Foundation Year
+# Design and Technologies - Foundation Year {#design-and-technologies-foundation-year}
 
-## Level Description
+## Level Description {#level-description}
 
 Learning in Design and Technologies builds on the Early Years Learning Framework, and each student’s prior learning and experiences.
 
@@ -8,13 +8,13 @@ By the end of Foundation students should have had the opportunity to create at l
 
 Students should have opportunities to experience designing and producing a product, service or environment. They explore technologies – materials and equipment – through play experiences in a context and generate ideas to design a solution for a purpose. Students develop an awareness of how people design products, services and environments. They evaluate design ideas and choose the most suitable idea. Students use a range of methods to communicate design ideas, including drawings or models, for example changing perspectives from front view to plan view. They explore working with materials such as cardboard, fabric and other common household items and using equipment such as scissors, glues, trowels or kitchen utensils. Students learn techniques to safely make a designed solution.
 
-## Strands
+## Strands {#strands}
 
-### Knowledge and understanding
+### Knowledge and understanding {#knowledge-and-understanding}
 
-#### Technologies and society
+#### Technologies and society {#technologies-and-society}
 
-##### AC9TDEFK01
+##### AC9TDEFK01 {#ac9tdefk01}
 
 explore how familiar products, services and environments are designed by people
 
@@ -25,11 +25,11 @@ explore how familiar products, services and environments are designed by people
 *  describing how community gardens, public swimming pools and parks are designed to help people stay healthy
 *  asking questions about the design of products from the local store, for example why certain packaging materials might have been selected, and how people design the text and images on the packaging to attract people’s attention
 
-### Processes and production skills
+### Processes and production skills {#processes-and-production-skills}
 
-#### Designing and making
+#### Designing and making {#designing-and-making}
 
-##### AC9TDEFP01
+##### AC9TDEFP01 {#ac9tdefp01}
 
 generate, communicate and evaluate design ideas, and use materials, equipment and steps to safely make a solution for a purpose
 
@@ -41,7 +41,7 @@ generate, communicate and evaluate design ideas, and use materials, equipment an
 *  practising a range of technical skills safely using equipment, for example joining techniques when making a product from materials, such as a greenhouse to keep a seedling warm or a trellis for holding up tomato plants
 *  assembling components of systems and checking they function as planned, for example making and testing a bowling, stacking or obstacle game with discarded food containers or packaging
 
-## Achievement Standards
+## Achievement Standards {#achievement-standards}
 
 By the end of Foundation students identify familiar products, services and environments. They create a designed solution for a school-selected context. Students create, communicate and choose design ideas. They follow steps and use materials and equipment to safely make a designed solution.
 

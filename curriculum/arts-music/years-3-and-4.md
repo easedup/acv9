@@ -1,6 +1,6 @@
-# The Arts - Music - Years 3 and 4
+# Music - Years 3 and 4 {#music-years-3-and-4}
 
-## Level Description
+## Level Description {#level-description}
 
 In this band, learning in The Arts builds on each student’s prior learning and experiences. Arts learning in this band continues to use purposeful and creative play-based activities that foster development of students’ identity and wellbeing and their connection with and contribution to the world. Students further develop their capability and confidence in using subject-specific skills and creative and critical practices. They work individually and in collaboration with peers and teachers.
 
@@ -21,11 +21,11 @@ In this band, the focus is on students:
 5.  composing, singing and playing instruments using the elements of music such as duration/time (beat and rhythm, tempo, pulse), pitch, dynamics and expression, texture and/or timbre
 6.  performing music have learnt and/or composed in informal settings such as spaces within the school.
 
-## Strands
+## Strands {#strands}
 
-### Exploring and responding
+### Exploring and responding {#exploring-and-responding}
 
-##### AC9AMU4E01
+##### AC9AMU4E01 {#ac9amu4e01}
 
 explore where, why and how music is composed and/or performed across cultures, times, places and/or other contexts
 
@@ -36,7 +36,7 @@ explore where, why and how music is composed and/or performed across cultures, t
 *  exploring ways of notating or documenting forms of music, such as graphic notation, lead-sheets (lyrics, melody and/or harmony/chords), using visual images or staff notation and/or using music terminology, identifying and explaining how each type of notation/documentation conveys information to performers
 *  exploring ways to make instruments from a range of materials; for example, using recycled/repurposed materials to construct instruments that produce sounds across a range of pitches and/or tone colours and effects; for example, cardboard tubes filled with cotton and rice, or food wrappers scrunched up loosely in recycled plastic bags; then using these instruments to create Foley sounds for a soundscape to accompany an exhibition of sculpture made from recycled/repurposed materials
 
-##### AC9AMU4E02
+##### AC9AMU4E02 {#ac9amu4e02}
 
 explore how First Nations Australians use music to communicate their connection to and responsibility for Country/Place
 
@@ -46,9 +46,9 @@ explore how First Nations Australians use music to communicate their connectio
 *  learning from First Nations Australians about how they use music to communicate their connection to, and responsibility for Country/Place, culture and people; for example, resources created or co-created by First Nations Australians, such as interviews/podcasts that feature First Nations Australians talking about their music and/or performances
 *  learning from First Nations Australians about the expectations and requirements of performers and audiences who are performing/experiencing music that communicates connection to, and responsibility for Country/Place, such as music used during a Welcome to Country
 
-### Developing practices and skills
+### Developing practices and skills {#developing-practices-and-skills}
 
-##### AC9AMU4D01
+##### AC9AMU4D01 {#ac9amu4d01}
 
 develop listening skills and skills for manipulating elements of music when singing and playing instruments
 
@@ -61,9 +61,9 @@ develop listening skills and skills for manipulating elements of music when sing
 *  practising reading staff, graphic and/or invented notation as they rehearse and perform
 *  exploring options for representing sounds in a score; for example, inventing a graphic score to represent sounds of the environment or using a combination of staff notation and invented symbols; then using the score when rehearsing and making changes to ensure that it is accurate and useful/easy to follow in performance
 
-### Creating and making
+### Creating and making {#creating-and-making}
 
-##### AC9AMU4C01
+##### AC9AMU4C01 {#ac9amu4c01}
 
 manipulate elements of music to communicate ideas, perspectives and/or meaning when composing and practising for performance
 
@@ -77,9 +77,9 @@ manipulate elements of music to communicate ideas, perspectives and/or meaning w
 *  combining composed and improvised sections to create a complete work; for example, composing a melody and accompaniment to create a theme song and combining with improvised/soundscape sections to accompany a reading/narration of a story they have written
 *  working in pairs or groups to create ostinatos or accompaniments; for example, using ukuleles or bucket drums and composing ostinatos or accompaniments for songs they are learning
 
-### Presenting and performing
+### Presenting and performing {#presenting-and-performing}
 
-##### AC9AMU4P01
+##### AC9AMU4P01 {#ac9amu4p01}
 
 sing and play music they have learnt and/or composed in informal settings
 
@@ -90,7 +90,7 @@ sing and play music they have learnt and/or composed in informal settings
 *  planning how they will stage a performance and introduce their performances to audiences using spoken, written or audio-visual formats
 *  reading from notation and/or documentation such as a lead-sheet (lyrics and chords), staff or graphic notation that includes invented or learnt symbols when practising and performing music
 
-## Achievement Standards
+## Achievement Standards {#achievement-standards}
 
 By the end of Year 4, students describe the use of elements of music in music they compose, perform and/or experience. They describe where, why and/or how music is composed and/or performed across cultures, times, places and/or other contexts.
 

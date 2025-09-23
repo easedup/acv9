@@ -1,6 +1,6 @@
-# Science - Year 6
+# Science - Year 6 {#science-year-6}
 
-## Level Description
+## Level Description {#level-description}
 
 In Year 6 students develop an understanding of interdependencies between systems as they explore the relationship between physical conditions of habitats and the growth and survival of living things and investigate the effect of the relative positions of Earth and the sun on phenomena such as day length. They identify and classify components in electrical circuits and learn to describe energy flows in terms of transfer and transformation. They are introduced to ways to classify changes to substances. Students begin to appreciate the role of controlling variables in fair testing and the value of accuracy in measurements. They generalise about relationships between events, phenomena and systems and use identified patterns, trends and relationships to develop scientific explanations and draw reasoned conclusions.
 
@@ -12,13 +12,13 @@ Inquiry questions can help excite students’ curiosity and challenge their thin
 *   Why is it important for a test to be ‘fair’?
 *   How does the weather affect local habitats?
 
-## Strands
+## Strands {#strands}
 
-### Science understanding
+### Science understanding {#science-understanding}
 
-#### Biological sciences
+#### Biological sciences {#biological-sciences}
 
-##### AC9S6U01
+##### AC9S6U01 {#ac9s6u01}
 
 investigate the physical conditions of a habitat and analyse how the growth and survival of living things is affected by changing physical conditions
 
@@ -31,9 +31,9 @@ investigate the physical conditions of a habitat and analyse how the growth and 
 *  recognising that environmental conditions can affect stages of life, such as ponds drying up, seeds requiring water to germinate, or temperatures being too hot or cold for eggs to hatch
 *  investigating First Nations Australians’ knowledges and understandings of the physical conditions necessary for the survival of certain plants and animals
 
-#### Earth and space sciences
+#### Earth and space sciences {#earth-and-space-sciences}
 
-##### AC9S6U02
+##### AC9S6U02 {#ac9s6u02}
 
 describe the movement of Earth and other planets relative to the sun and model how Earth’s tilt, rotation on its axis and revolution around the sun relate to cyclic observable phenomena, including variable day and night length
 
@@ -45,9 +45,9 @@ describe the movement of Earth and other planets relative to the sun and model h
 *  using 3-dimensional models to explore how the tilt of Earth points one hemisphere towards the sun and the other away at different times of the year, and predicting how this affects the amount of sunlight on the surface of different regions on Earth
 *  researching First Nations Australians’ understandings of the night sky and its use for timekeeping purposes as evidenced in oral cultural records, rock paintings, paintings and stone arrangements
 
-#### Physical sciences
+#### Physical sciences {#physical-sciences}
 
-##### AC9S6U03
+##### AC9S6U03 {#ac9s6u03}
 
 investigate the transfer and transformation of energy in electrical circuits, including the role of circuit components, insulators and conductors
 
@@ -59,9 +59,9 @@ investigate the transfer and transformation of energy in electrical circuits, in
 *  investigating different electrical conductors and insulators and examining why they may be used
 *  exploring how electricity is used in the home and identifying electrical hazards and safety measures used to mitigate these hazards
 
-#### Chemical sciences
+#### Chemical sciences {#chemical-sciences}
 
-##### AC9S6U04
+##### AC9S6U04 {#ac9s6u04}
 
 compare reversible changes, including dissolving and changes of state, and irreversible changes, including cooking and rusting that produce new substances
 
@@ -73,11 +73,11 @@ compare reversible changes, including dissolving and changes of state, and irrev
 *  exploring how reversible changes can be used to recycle materials
 *  investigating First Nations Australians’ knowledges of reversible processes such as the application of adhesives and of irreversible processes such as the use of fuels for torches
 
-### Science as a human endeavour
+### Science as a human endeavour {#science-as-a-human-endeavour}
 
-#### Nature and development of science
+#### Nature and development of science {#nature-and-development-of-science}
 
-##### AC9S6H01
+##### AC9S6H01 {#ac9s6h01}
 
 examine why advances in science are often the result of collaboration or build on the work of others
 
@@ -89,9 +89,9 @@ examine why advances in science are often the result of collaboration or build o
 *  investigating how astronauts and scientists from many different countries have collaborated in the International Space Station program
 *  investigating why scientists changed the phosphate levels in detergents to prevent algal blooms
 
-#### Use and influence of science
+#### Use and influence of science {#use-and-influence-of-science}
 
-##### AC9S6H02
+##### AC9S6H02 {#ac9s6h02}
 
 investigate how scientific knowledge is used by individuals and communities to identify problems, consider responses and make decisions
 
@@ -101,11 +101,11 @@ investigate how scientific knowledge is used by individuals and communities to i
 *  considering how people use electrical device guidelines to help ensure safety of children
 *  investigating why underground power cables were developed and how local government authorities use scientific knowledge about power safety when considering converting to underground power
 
-### Science inquiry
+### Science inquiry {#science-inquiry}
 
-#### Questioning and predicting
+#### Questioning and predicting {#questioning-and-predicting}
 
-##### AC9S6I01
+##### AC9S6I01 {#ac9s6i01}
 
 pose investigable questions to identify patterns and test relationships and make reasoned predictions
 
@@ -116,9 +116,9 @@ pose investigable questions to identify patterns and test relationships and make
 *  making reasoned predictions about the physical conditions that will result in the largest mould colonies growing on bread
 *  making reasoned predictions about electrical circuit function based on a picture or diagram of a circuit
 
-#### Planning and conducting
+#### Planning and conducting {#planning-and-conducting}
 
-##### AC9S6I02
+##### AC9S6I02 {#ac9s6i02}
 
 plan and conduct repeatable investigations to answer questions including, as appropriate, deciding the variables to be changed, measured and controlled in fair tests; describing potential risks; planning for the safe use of equipment and materials; and identifying required permissions to conduct investigations on Country/Place
 
@@ -128,7 +128,7 @@ plan and conduct repeatable investigations to answer questions including, as app
 *  identifying potential risks to themselves or others when conducting an investigation and explaining rules for safe processes and use of equipment and materials
 *  consulting with First Nations Australians land councils in seeking permissions to conduct scientific investigations on traditional Lands and seeking guidance regarding culturally sensitive locations during field work
 
-##### AC9S6I03
+##### AC9S6I03 {#ac9s6i03}
 
 use equipment to observe, measure and record data with reasonable precision, using digital tools as appropriate
 
@@ -139,9 +139,9 @@ use equipment to observe, measure and record data with reasonable precision, usi
 *  recording data using standard units, such as volt, ampere, gram, second and metre, and developing the use of standard prefixes for metric units such as kilo- and milli-
 *  using digital tools such as digital thermometers or soil moisture probes to collect data over time and record data in spreadsheets
 
-#### Processing, modelling and analysing
+#### Processing, modelling and analysing {#processing-modelling-and-analysing}
 
-##### AC9S6I04
+##### AC9S6I04 {#ac9s6i04}
 
 construct and use appropriate representations, including tables, graphs and visual or physical models, to organise and process data and information and describe patterns, trends and relationships
 
@@ -152,9 +152,9 @@ construct and use appropriate representations, including tables, graphs and visu
 *  developing a physical model of the sun and Earth using objects or role-play to describe their relative positions when a place on Earth is in day or night
 *  organising information in graphic organisers to describe patterns and trends
 
-#### Evaluating
+#### Evaluating {#evaluating}
 
-##### AC9S6I05
+##### AC9S6I05 {#ac9s6i05}
 
 compare methods and findings with those of others, recognise possible sources of error, pose questions for further investigation and select evidence to draw reasoned conclusions
 
@@ -165,9 +165,9 @@ compare methods and findings with those of others, recognise possible sources of
 *  comparing and contrasting evidence selected by different individuals or groups from similar data
 *  evaluating the inferences made from observations and analysis of the data to draw a reasoned conclusion
 
-#### Communicating
+#### Communicating {#communicating}
 
-##### AC9S6I06
+##### AC9S6I06 {#ac9s6i06}
 
 write and create texts to communicate ideas and findings for specific purposes and audiences, including selection of language features, using digital tools as appropriate
 
@@ -178,7 +178,7 @@ write and create texts to communicate ideas and findings for specific purposes a
 *  designing a product that uses electrical circuits and performing a sales pitch to have the product mass produced
 *  constructing a poster or slideshow comparing everyday examples of reversible and irreversible change
 
-## Achievement Standards
+## Achievement Standards {#achievement-standards}
 
 By the end of Year 6 students explain how changes in physical conditions affect living things. They model the relationship between the sun and planets of the solar system and explain how the relative positions of Earth and the sun relate to observed phenomena on Earth. They identify the role of circuit components in the transfer and transformation of electrical energy. They classify and compare reversible and irreversible changes to substances. They explain why science is often collaborative and describe different individuals’ contributions to scientific knowledge. They describe how individuals and communities use scientific knowledge.
 

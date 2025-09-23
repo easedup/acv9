@@ -1,6 +1,6 @@
-# Technologies - Digital Technologies - Years 9 and 10
+# Digital Technologies - Years 9 and 10 {#digital-technologies-years-9-and-10}
 
-## Level Description
+## Level Description {#level-description}
 
 By the end of Year 10 students should have had the opportunity to apply computational thinking by defining and decomposing real-world problems, creating user experiences, designing and modifying algorithms, and implementing them, including in an object-oriented programming language. Students use techniques, including interviewing stakeholders to develop user stories, to increase the precision of their problem definitions and solution specifications. They verify their solutions solve the problem by validating their algorithms, represented as flowcharts and pseudocode, and using test cases to confirm the correctness of their solutions. Students develop their object-oriented programming skills, and apply them to develop, modify and debug programs. They explain the importance of abstraction by representing online documents in terms of content, structure and presentation, as well as exploring simple data compression techniques and comparing their effectiveness.
 
@@ -12,13 +12,13 @@ Students consolidate their systems thinking by exploring how the hardware and so
 
 In Digital Technologies, students should have frequent opportunities for authentic learning by making key connections to other learning areas.
 
-## Strands
+## Strands {#strands}
 
-### Knowledge and understanding
+### Knowledge and understanding {#knowledge-and-understanding}
 
-#### Digital systems
+#### Digital systems {#digital-systems}
 
-##### AC9TDI10K01
+##### AC9TDI10K01 {#ac9tdi10k01}
 
 investigate how hardware and software manage, control and secure access to data in networked digital systems
 
@@ -29,9 +29,9 @@ investigate how hardware and software manage, control and secure access to data 
 *  explaining how domain names and IP addresses allow data to be transmitted to specific networked devices, for example DNS and routing tables
 *  describing elements of access control and explaining why they are necessary, for example authentication and permissions for restricting access to install software to administrators
 
-#### Data representation
+#### Data representation {#data-representation}
 
-##### AC9TDI10K02
+##### AC9TDI10K02 {#ac9tdi10k02}
 
 represent documents online as content (text), structure (markup) and presentation (styling) and explain why such representations are important
 
@@ -40,7 +40,7 @@ represent documents online as content (text), structure (markup) and presentatio
 *  writing web pages using HyperText Markup Language (HTML) for the content and structure and Cascading Style Sheets (CSS) for styling the page and explaining how HTML tags separate content from structure
 *  explaining how representing content, structure and presentation separately allows each of them to be designed, edited, manipulated and stored independently of the others and why this is important
 
-##### AC9TDI10K03
+##### AC9TDI10K03 {#ac9tdi10k03}
 
 investigate simple data compression techniques
 
@@ -49,11 +49,11 @@ investigate simple data compression techniques
 *  exploring the difference between lossy and lossless compression and the consequences of each, for example exploring codecs for audiovisual compression such as MP3, MP4 and WAV formats, considering energy requirements of file sizes
 *  examining an image and discussing whether the image quality would be compromised if all the blue pixels of the sky in one row were to be replaced by one token and the number of pixels it represents
 
-### Processes and production skills
+### Processes and production skills {#processes-and-production-skills}
 
-#### Acquiring, managing and analysing data
+#### Acquiring, managing and analysing data {#acquiring-managing-and-analysing-data}
 
-##### AC9TDI10P01
+##### AC9TDI10P01 {#ac9tdi10p01}
 
 develop techniques to acquire, store and validate data from a range of sources using software, including spreadsheets and databases
 
@@ -65,7 +65,7 @@ develop techniques to acquire, store and validate data from a range of sources u
 *  identifying strengths and weaknesses of collecting data using different methods, for example online surveys, face-to-face interviews, phone interviews, observation, comments in response to a social media posting, phone logs, browser history and online webcam systems
 *  considering how training data issues such as the zero problem dictate the output from predictive models; for example, a model with many examples of horses and no zebras in its training data is likely to classify all zebras as horses
 
-##### AC9TDI10P02
+##### AC9TDI10P02 {#ac9tdi10p02}
 
 analyse and visualise data interactively using a range of software, including spreadsheets and databases, to draw conclusions and make predictions by identifying trends and outliers
 
@@ -76,7 +76,7 @@ analyse and visualise data interactively using a range of software, including sp
 *  exploring machine learning, a form of artificial intelligence where an algorithm is trained using a data set, for example to classify images into categories
 *  adjusting parameters of an AI model to observe the impact of different factors on predicted outcomes; for example, changing the weighting of different input variables to see how much it changes the model's outputs
 
-##### AC9TDI10P03
+##### AC9TDI10P03 {#ac9tdi10p03}
 
 model and query entities and their relationships using structured data
 
@@ -85,9 +85,9 @@ model and query entities and their relationships using structured data
 *  using structured data to help in decision-making, for example creating a data schema for a relational database and building the database, incorporating query and reporting functionality to solve a problem of student choice
 *  interpreting and querying multi-table databases using SQL queries with SELECT, WHERE and simple JOIN/GROUP BY clauses and counting, for example checking that each user has only reviewed each movie once
 
-#### Investigating and defining
+#### Investigating and defining {#investigating-and-defining}
 
-##### AC9TDI10P04
+##### AC9TDI10P04 {#ac9tdi10p04}
 
 define and decompose real-world problems with design criteria and by interviewing stakeholders to create user stories
 
@@ -98,9 +98,9 @@ define and decompose real-world problems with design criteria and by interviewin
 *  recognising the importance of diverse perspectives when defining the problem and devising survey or interview questions to elicit stakeholder needs, for example “What types of exercise count?” and allowing open-ended responses to the exercise they do
 *  exploring how First Nations Australian cultural stories and languages are being preserved with digital systems, for example how communities could record, animate and maintain their connections with culture and language in a contemporary format that resonates with young people to help ensure that vital practices continue
 
-#### Generating and designing
+#### Generating and designing {#generating-and-designing}
 
-##### AC9TDI10P05
+##### AC9TDI10P05 {#ac9tdi10p05}
 
 design algorithms involving logical operators and represent them as flowcharts and pseudocode
 
@@ -110,7 +110,7 @@ design algorithms involving logical operators and represent them as flowcharts a
 *  describing algorithms precisely and succinctly using pseudocode, for example short, unambiguous statements such as IF length of word is greater than 4 AND first letter is a vowel
 *  using Boolean operations (that is, AND, OR and NOT) to express complex conditions in control structures, for example IF [the temperature is above 30 degrees AND people are inside the building] THEN open the windows
 
-##### AC9TDI10P06
+##### AC9TDI10P06 {#ac9tdi10p06}
 
 validate algorithms and programs by comparing their output against a range of test cases
 
@@ -119,7 +119,7 @@ validate algorithms and programs by comparing their output against a range of te
 *  determining boundary test cases and testing that they are handled correctly by a program, for example checking that an intersection is detected when 2 shapes are perfectly aligned
 *  generating invalid input and user errors and testing that they are handled appropriately by a program, for example checking that a program does not crash when text is entered instead of a number
 
-##### AC9TDI10P07
+##### AC9TDI10P07 {#ac9tdi10p07}
 
 design and prototype the user experience of a digital system
 
@@ -129,7 +129,7 @@ design and prototype the user experience of a digital system
 *  considering all aspects of a product as perceived by the users, for example evaluating users’ initial experience of setting up and using a system, or users’ emotional or cultural response to using a digital system
 *  designing documentation, branding and marketing for a digital solution, for example a product demonstration screencast or ‘getting started’ user guide
 
-##### AC9TDI10P08
+##### AC9TDI10P08 {#ac9tdi10p08}
 
 generate, modify, communicate and critically evaluate alternative designs
 
@@ -138,9 +138,9 @@ generate, modify, communicate and critically evaluate alternative designs
 *  using a range of ideation techniques to create multiple design ideas for a solution, for example using graphic organisers, role-play and mind mapping to develop and then record a range of ideas without evaluating them first
 *  combining the output from generative AI models and human capital from recognised experts to meet a specific need; for example, using a range of outputs from an image generator as inspiration for modelling a 3D character in a game
 
-#### Producing and implementing
+#### Producing and implementing {#producing-and-implementing}
 
-##### AC9TDI10P09
+##### AC9TDI10P09 {#ac9tdi10p09}
 
 implement, modify and debug modular programs, applying selected algorithms and data structures, including in an object-oriented programming language
 
@@ -153,9 +153,9 @@ implement, modify and debug modular programs, applying selected algorithms and d
 *  defining their own classes to model and define the actions that can be performed on data in their programs, for example defining a class for a book that stores information such as the author, title and publisher, and methods that are used to track the book's status in a library management system or store inventory
 *  selecting different types of data structures such as array, record and object to model structured data
 
-#### Evaluating
+#### Evaluating {#evaluating}
 
-##### AC9TDI10P10
+##### AC9TDI10P10 {#ac9tdi10p10}
 
 evaluate existing and student solutions against the design criteria, user stories, possible future impact and opportunities for enterprise
 
@@ -166,9 +166,9 @@ evaluate existing and student solutions against the design criteria, user storie
 *  examining the unintended consequences of an image generation solution implemented using AI; for example, using a model trained on a homogenous population to generate graphics that do not represent the diversity of customers in a website’s target audience
 *  considering the complexities associated with training predictive models to capture events that occur with low probability; for example, in training data for an autonomous vehicle, including a person lying on the road and the correct behaviour for that situation
 
-#### Collaborating and managing
+#### Collaborating and managing {#collaborating-and-managing}
 
-##### AC9TDI10P11
+##### AC9TDI10P11 {#ac9tdi10p11}
 
 select and use emerging digital tools and advanced features to create and communicate interactive content for a diverse audience
 
@@ -179,7 +179,7 @@ select and use emerging digital tools and advanced features to create and commun
 *  ensuring content is accessible by using built-in accessibility features, for example using ALT tags in images inside HTML to ensure screen readers can communicate content for people who are visually impaired
 *  combining the output from multiple generative AI sources to communicate a complex idea or narrative; for example, using images, sounds and text from a variety of tools to produce an interactive animation
 
-##### AC9TDI10P12
+##### AC9TDI10P12 {#ac9tdi10p12}
 
 use simple project management tools to plan and manage individual and collaborative agile projects, accounting for risks and responsibilities
 
@@ -191,9 +191,9 @@ use simple project management tools to plan and manage individual and collaborat
 *  accounting for appropriate project management responsibilities, for example when collaborating with First Nations Australians’ community groups to develop digital solutions to projects: following cultural protocols, including relevant permissions and attributions; acknowledging diversity, capability and strength; and addressing risks and responsibilities such as privacy, security and accuracy of data
 *  incorporating suggestions made by built-in virtual assistants in project planning and organisation tools to streamline and prioritise work; for example, using AI to summarise meeting outcomes, identify important tasks and forecast project risks
 
-#### Privacy and security
+#### Privacy and security {#privacy-and-security}
 
-##### AC9TDI10P13
+##### AC9TDI10P13 {#ac9tdi10p13}
 
 develop cyber security threat models, and explore a software, user or software supply chain vulnerability
 
@@ -202,7 +202,7 @@ develop cyber security threat models, and explore a software, user or software s
 *  exploring the impact of a cyber security threat by systematically following the steps involved in bypassing a known vulnerability in their own software, for example manually changing the value stored in a login cookie to that of another user to observe the impact of unauthorised access on the system
 *  explaining how techniques like prompt injection can change the intended behaviour of generative AI models; for example, carefully chosen inputs can circumvent any protections or limitations that may have been included in the design of the model
 
-##### AC9TDI10P14
+##### AC9TDI10P14 {#ac9tdi10p14}
 
 apply the Australian Privacy Principles to critique and manage the digital footprint that existing systems and student solutions collect
 
@@ -210,7 +210,7 @@ apply the Australian Privacy Principles to critique and manage the digital footp
 *  critiquing the extent to which online services allow them to control access to their data in line with the Australian Privacy Principles, for example assessing whether their social media accounts allow them to update their contact information if these details change, and who else can see that information on the platform
 *  using the Australian Privacy Principles as a reference to evaluate the steps they are taking to protect user information in their application, for example explaining how they are storing passwords using cryptographic hashing algorithms so that a data breach does not expose their users to security vulnerabilities due to password re-use
 
-## Achievement Standards
+## Achievement Standards {#achievement-standards}
 
 By the end of Year 10 students should have had the opportunity to apply computational thinking by defining and decomposing real-world problems, creating user experiences, designing and modifying algorithms, and implementing them, including in an object-oriented programming language. Students use techniques, including interviewing stakeholders to develop user stories, to increase the precision of their problem definitions and solution specifications. They verify their solutions solve the problem by validating their algorithms, represented as flowcharts and pseudocode, and using test cases to confirm the correctness of their solutions. Students develop their object-oriented programming skills, and apply them to develop, modify and debug programs. They explain the importance of abstraction by representing online documents in terms of content, structure and presentation, as well as exploring simple data compression techniques and comparing their effectiveness.
 

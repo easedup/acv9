@@ -1,6 +1,6 @@
-# Mathematics - Year 9
+# Mathematics - Year 9 {#mathematics-year-9}
 
-## Level Description
+## Level Description {#level-description}
 
 In Year 9, learning in Mathematics builds on each student’s prior learning and experiences. Students engage in a range of approaches to learning and doing mathematics that develop their understanding of and fluency with concepts, procedures and processes by making connections, reasoning, problem-solving and practice. Proficiency in mathematics enables students to respond to familiar and unfamiliar situations by employing mathematical strategies to make informed decisions and solve problems efficiently.
 
@@ -16,11 +16,11 @@ Students further develop proficiency and positive dispositions towards mathemati
 *   investigate probabilities of compound events from two-step experiments and solve related problems; use a variety of representations such as Venn diagrams, tree diagrams, two-way tables and grids to assist in determining the probabilities for these events; design experiments to gather empirical data about relative frequencies and use these to check their reasoning
 *   compare multiple numerical data subsets in context and analyse their distributions with consideration of symmetry and skew; justify their choice of data representation with respect to data types and context, and critically review the statistical presentation of data and related arguments of others.
 
-## Strands
+## Strands {#strands}
 
-### Number
+### Number {#number}
 
-##### AC9M9N01
+##### AC9M9N01 {#ac9m9n01}
 
 recognise that the real number system includes the rational numbers and the irrational numbers, and solve problems involving real numbers using digital tools
 
@@ -31,9 +31,9 @@ recognise that the real number system includes the rational numbers and the irra
 *  solving problems involving the substitution of real numbers into formulas, understanding that solutions can be represented in exact form or as a decimal approximation, such as calculating the area of a circle using the formula \(A=\mathrm{π}r^2\) and specifying the answer in terms of \(π\) as an exact real number; for example, the circumference of a circle with diameter \(5\) units is \(5\mathrm\pi\) units, and the exact area is \(\mathrm\pi(\frac52)^2=\frac{25}4\mathrm\pi\) square units which rounds to \(19.63\) square units, correct to \(2\) decimal places
 *  investigating the position of rational and irrational numbers on the real number line, using geometric constructions to locate rational numbers and square roots on a number line; for example, \(\sqrt2\) is located at the intersection of an arc and the number line, where the radius of the arc is the length of the diagonal of a one-unit square
 
-### Algebra
+### Algebra {#algebra}
 
-##### AC9M9A01
+##### AC9M9A01 {#ac9m9a01}
 
 apply the exponent laws to numerical expressions with integer exponents and extend to variables
 
@@ -46,7 +46,7 @@ apply the exponent laws to numerical expressions with integer exponents and exte
 *  applying the exponent laws to simplifying expressions involving products, quotients, and powers of constants and variables; for example, \(\frac{(2xy)^3}{xy^4}\;=\;\frac{8x^3y^3}{xy^4}\;=\;8x^2y^{-1}\)
 *  relating the prefixes for SI units from pico- (trillionth) to tera- (trillion) to the corresponding powers of \(10\); for example, one pico-gram = \(10^{-12}\) gram and one terabyte = \(10^{12}\) bytes
 
-##### AC9M9A02
+##### AC9M9A02 {#ac9m9a02}
 
 simplify algebraic expressions, expand binomial products and factorise monic quadratic expressions
 
@@ -55,7 +55,7 @@ simplify algebraic expressions, expand binomial products and factorise monic qua
 *  using manipulatives such as algebra tiles or area models to expand or factorise algebraic expressions with readily identifiable binomial factors; for example, \((x+1)(x+3)\;=\;x^2+4x+3,\;(x-5)^2\;=\;x^2-10x+25\) or \((x-3)^2+4\;=\;x^2-6x+9+4\;=\;x^2-6x+13\)
 *  recognising the relationship between expansion and factorisation, and using digital tools to systematically explore the factorisation of \(x^2+mx+n\) where \(m\) and \(n\) are integers
 
-##### AC9M9A03
+##### AC9M9A03 {#ac9m9a03}
 
 find the gradient of a line segment, the midpoint of the line interval and the distance between 2 distinct points on the Cartesian plane
 
@@ -67,7 +67,7 @@ find the gradient of a line segment, the midpoint of the line interval and the d
 *  using dynamic graphing software and superimposed images; for example, playground equipment, ramps and escalators, to investigate gradients in context and their relationship to rule of a linear function, and interpret gradient as a constant rate of change in linear modelling contexts
 *  investigating how coordinate geometry and aspects of linear algebra play a fundamental role in machine learning and predictive algorithms; for example, object detection and navigation by autonomous vehicles
 
-##### AC9M9A04
+##### AC9M9A04 {#ac9m9a04}
 
 identify and graph quadratic functions, solve quadratic equations graphically and numerically, and solve monic quadratic equations with integer roots algebraically, using graphing software and digital tools as appropriate
 
@@ -80,7 +80,7 @@ identify and graph quadratic functions, solve quadratic equations graphically an
 *  recognising that the equation \(x^2=a\), where \(a>0\), has \(2\) solutions, \(x=\sqrt a\) and \(x=\)-\(\sqrt a\); for example, if \(x^2=39\) then \(x=\sqrt{39}=6.245\) correct to \(3\) decimal places, or \(x=\)-\(\sqrt{39}=\)-\(6.245\) correct to \(3\) decimal places, and representing these graphically
 *  graphing percentages of illumination of moon phases in relation to First Nations Australians’ understandings that describe the different phases of the moon
 
-##### AC9M9A05
+##### AC9M9A05 {#ac9m9a05}
 
 use mathematical modelling to solve applied problems involving change including financial contexts; formulate problems, choosing to use either linear or quadratic functions; interpret solutions in terms of the situation; evaluate the model and report methods and findings
 
@@ -92,7 +92,7 @@ use mathematical modelling to solve applied problems involving change including 
 *  modelling situations involving change; for example, change in daily temperature during the ski season, fluctuation of speed above and below the speed limit, acceleration and deceleration of a car coming to and moving off from a set of traffic lights
 *  modelling the hunting techniques of First Nations Australians using quadratic functions and exploring the effect of increasing the number of hunters to catch more prey
 
-##### AC9M9A06
+##### AC9M9A06 {#ac9m9a06}
 
 experiment with the effects of the variation of parameters on graphs of related functions, using digital tools, making connections between graphical and algebraic representations, and generalising emerging patterns
 
@@ -102,9 +102,9 @@ experiment with the effects of the variation of parameters on graphs of related 
 *  experimenting with digital tools by applying transformations to the graphs of functions, such as reciprocal \(y=\frac1x\), square root \(y=\sqrt x\), cube \(y=x^3\) and exponential functions, \(y=2^x\), \(y=(\frac12)^x\), identifying patterns
 *  investigating how experimenting with the effects of the variation of parameters of related functions can provide artificial intelligence researchers insights into the predictive behaviour of artificial intelligence models
 
-### Measurement
+### Measurement {#measurement}
 
-##### AC9M9M01
+##### AC9M9M01 {#ac9m9m01}
 
 solve problems involving the volume and surface area of right prisms and cylinders using appropriate units
 
@@ -114,7 +114,7 @@ solve problems involving the volume and surface area of right prisms and cylinde
 *  finding different prisms that have the same volume but different surface areas, making conjectures as to what type of prism would have the smallest or largest surface area
 *  investigating objects and technologies of First Nations Australians, analysing and connecting surface area and volume, and exploring their relationship to their capacity
 
-##### AC9M9M02
+##### AC9M9M02 {#ac9m9m02}
 
 solve problems involving very small and very large measurements, time scales and intervals expressed in scientific notation
 
@@ -123,7 +123,7 @@ solve problems involving very small and very large measurements, time scales and
 *  using knowledge of place value and applying exponent laws to operate with numbers expressed in scientific notation in applied contexts; for example, performing calculations involving extremely small numbers in scientific and other contexts
 *  examining the degree of accuracy that different measurement instruments provide in a science laboratory, such as a measuring cylinder compared with a pipette, and recording data values to the correct degree of accuracy using appropriate scientific notation
 
-##### AC9M9M03
+##### AC9M9M03 {#ac9m9m03}
 
 solve spatial problems, applying angle properties, scale, similarity, Pythagoras’ theorem and trigonometry in right-angled triangles
 
@@ -136,7 +136,7 @@ solve spatial problems, applying angle properties, scale, similarity, Pythagoras
 *  using knowledge of similar triangles, Pythagoras’ theorem, rates and algebra to design and construct a Biltmore stick used to measure the diameter and height of a tree, and calculating the density and dry mass to predict how much paper could be manufactured from the tree
 *  investigating how autonomous vehicles solve spatial problems using algorithms based on geometric properties relating to angles, distances and scale
 
-##### AC9M9M04
+##### AC9M9M04 {#ac9m9m04}
 
 calculate and interpret absolute, relative and percentage errors in measurements, recognising that all measurements are estimates
 
@@ -147,7 +147,7 @@ calculate and interpret absolute, relative and percentage errors in measurements
 *  estimating the accuracy of measurements in practical contexts and giving suitable lower and upper bounds for measurement values
 *  investigating how calculating and interpreting absolute, relative and percentage errors in measurements relates to artificial intelligence systems such as regression models, estimating uncertainty and recommendation systems
 
-##### AC9M9M05
+##### AC9M9M05 {#ac9m9m05}
 
 use mathematical modelling to solve practical problems involving direct proportion, rates, ratio and scale, including financial contexts; formulate the problems and interpret solutions in terms of the situation; evaluate the model and report methods and findings
 
@@ -158,9 +158,9 @@ use mathematical modelling to solve practical problems involving direct proporti
 *  modelling situations involving the application of rates in practical contexts; for example, density, birth, flow or heartbeats
 *  exploring fire techniques in land management practices used by First Nations Australians that use proportion relationships, including the rate of fire spread in different fuel types to wind speed, temperature and relative humidity
 
-### Space
+### Space {#space}
 
-##### AC9M9SP01
+##### AC9M9SP01 {#ac9m9sp01}
 
 recognise the constancy of the sine, cosine and tangent ratios for a given angle in right-angled triangles using properties of similarity
 
@@ -170,7 +170,7 @@ recognise the constancy of the sine, cosine and tangent ratios for a given angle
 *  establishing an understanding that the sine of an angle can be considered as the length of the altitude of a right-angled triangle with a hypotenuse of length one unit and similarly the cosine as the length of the base of the same triangle, and relating this to enlargement and similar triangles
 *  relating the tangent of an angle to the altitude and base of nested similar right-angled triangles, and connecting the tangent of the angle at which the graph of a straight line meets the positive direction of the horizontal coordinate axis to the gradient of the straight line
 
-##### AC9M9SP02
+##### AC9M9SP02 {#ac9m9sp02}
 
 apply the enlargement transformation to shapes and objects using dynamic geometry software as appropriate; identify and explain aspects that remain the same and those that change
 
@@ -179,7 +179,7 @@ apply the enlargement transformation to shapes and objects using dynamic geometr
 *  using the properties of similarity to solve problems involving enlargement
 *  investigating and generalising patterns in length, angle, area and volume when side lengths of shapes and objects are enlarged or dilated by whole and rational numbers; for example, comparing an enlargement of a square and a cube of side length \(2\) units by a factor of \(3\) increases the area of the square, \(2^2\), to \((3\times2)^2 = 9\times 2^2=9\) times the original area and the volume of the cube, \(2^3\), to \((3\times2)^3=27\times 2^3=27\) times the volume
 
-##### AC9M9SP03
+##### AC9M9SP03 {#ac9m9sp03}
 
 design, test and refine algorithms involving a sequence of steps and decisions based on geometric constructions and theorems; discuss and evaluate refinements
 
@@ -188,9 +188,9 @@ design, test and refine algorithms involving a sequence of steps and decisions b
 *  creating and testing algorithms designed to construct or bisect angles, using pseudocode or flow charts
 *  developing an algorithm for an animation of a geometric construction, or a visual proof, evaluating the algorithm using test cases
 
-### Statistics
+### Statistics {#statistics}
 
-##### AC9M9ST01
+##### AC9M9ST01 {#ac9m9st01}
 
 analyse reports of surveys in digital media and elsewhere for information on how data was obtained to estimate population means and medians
 
@@ -201,7 +201,7 @@ analyse reports of surveys in digital media and elsewhere for information on how
 *  investigating a range of data and its sources; for example, the age of residents in Australia, Cambodia and Tonga; the number of subjects studied at school in a year by \(14\)-year-old students in Australia, Singapore, Japan, South Korea and Timor-Leste
 *  analysing reports of public opinion surveys on environmental issues, such as land clearing, wind farms or single use plastics; discussing methods of data collection and the reasonableness of any inferences made
 
-##### AC9M9ST02
+##### AC9M9ST02 {#ac9m9st02}
 
 analyse how different sampling methods can affect the results of surveys and how choice of representation can be used to support a particular point of view
 
@@ -210,7 +210,7 @@ analyse how different sampling methods can affect the results of surveys and how
 *  discussing the impact of decreased landline usage or an increased aversion to answering calls from unknown numbers on survey data
 *  exploring potential cultural bias relating to First Nations Australians by critically analysing sampling techniques in statistical reports
 
-##### AC9M9ST03
+##### AC9M9ST03 {#ac9m9st03}
 
 represent the distribution of multiple data sets for numerical variables using comparative representations; compare data distributions with consideration of centre, spread and shape, and the effect of outliers on these measures
 
@@ -220,7 +220,7 @@ represent the distribution of multiple data sets for numerical variables using c
 *  constructing grouped histograms that show trends in health issues such as lung cancer, leukemia, stroke and diabetes, and using the graph to justify, verify or invalidate claims
 *  exploring comparative data presented in reports by National Indigenous Australians Agency in regard to “Closing the Gap”, discussing the comparative distributions within the context of the data; for example, comparative data presented in the “Closing the Gap – Prime Minister’s Report”
 
-##### AC9M9ST04
+##### AC9M9ST04 {#ac9m9st04}
 
 choose appropriate forms of display or visualisation for a given type of data; justify selections and interpret displays for a given context
 
@@ -231,7 +231,7 @@ choose appropriate forms of display or visualisation for a given type of data; j
 *  comparing and interpreting stacked bar charts, area charts and line graphs, discussing how they represent larger categories that can be subdivided into smaller categories and how information that can be obtained from these displays can be used for comparison
 *  using digital tools, including generative artificial intelligence, to generate different data displays and visualisations using existing data sets, and discussing which form is more appropriate for the given context
 
-##### AC9M9ST05
+##### AC9M9ST05 {#ac9m9st05}
 
 plan and conduct statistical investigations involving the collection and analysis of different kinds of data; report findings and discuss the strength of evidence to support any conclusions
 
@@ -241,9 +241,9 @@ plan and conduct statistical investigations involving the collection and analysi
 *  investigating where would be the best location for a tropical fruit plantation by conducting a statistical investigation comparing different variables such as the annual rainfall in various parts of Australia, Indonesia, New Guinea and Malaysia, land prices and associated farming costs
 *  posing statistical questions, collecting, representing and interpreting data from different sources in relation to reconciliation, considering the relationships between variables
 
-### Probability
+### Probability {#probability}
 
-##### AC9M9P01
+##### AC9M9P01 {#ac9m9p01}
 
 list all outcomes for compound events both with and without replacement, using lists, tree diagrams, tables or arrays; assign probabilities to outcomes
 
@@ -253,7 +253,7 @@ list all outcomes for compound events both with and without replacement, using l
 *  using a tree diagram to represent a three-stage event and assigning probabilities to these events; for example, selecting \(3\) cards from a deck, assigning the probability of drawing an ace, then a king, then a queen of the same suit, with and without replacing the cards after every draw
 *  assigning probabilities to compound events involving the random selection of people from a given population; for example, selecting \(2\) names at random from all of the students at a high school and assigning the probability that they are both in Year 9
 
-##### AC9M9P02
+##### AC9M9P02 {#ac9m9p02}
 
 calculate relative frequencies from given or collected data to estimate probabilities of events involving “and”, inclusive “or” and exclusive “or”
 
@@ -262,7 +262,7 @@ calculate relative frequencies from given or collected data to estimate probabil
 *  using Venn diagrams or two-way tables to estimate frequencies of events involving “and”, “or” questions
 *  designing, testing and refining an algorithm used to determine relative frequencies from a generated data set, to estimate different probabilities
 
-##### AC9M9P03
+##### AC9M9P03 {#ac9m9p03}
 
 design and conduct repeated chance experiments and simulations, using digital tools to compare probabilities of simple events to related compound events, and describe results
 
@@ -272,7 +272,7 @@ design and conduct repeated chance experiments and simulations, using digital to
 *  conducting two-step chance experiments using systematic methods to list outcomes of experiments and to list outcomes favourable to an event
 *  using repeated trials of First Nations Australian children’s instructive games; for example, Gorri from all parts of Australia, to calculate the probabilities of winning and not winning
 
-## Achievement Standards
+## Achievement Standards {#achievement-standards}
 
 In Year 9, learning in Mathematics builds on each student’s prior learning and experiences. Students engage in a range of approaches to learning and doing mathematics that develop their understanding of and fluency with concepts, procedures and processes by making connections, reasoning, problem-solving and practice. Proficiency in mathematics enables students to respond to familiar and unfamiliar situations by employing mathematical strategies to make informed decisions and solve problems efficiently.
 

@@ -1,6 +1,6 @@
-# Technologies - Digital Technologies - Years 3 and 4
+# Digital Technologies - Years 3 and 4 {#digital-technologies-years-3-and-4}
 
-## Level Description
+## Level Description {#level-description}
 
 By the end of Year 4 students should have had the opportunity to broaden their computational thinking by creating simple digital solutions, individually and in groups, that involve defining problems, and designing and implementing solutions as visual programs. Students practise defining problems using design criteria given to them, and user stories developed by the class. Through practice, students improve the precision of their algorithms and implement them as visual programs. Students expand their understanding of data representation by exploring how and why the same data can be represented in different ways to meet different purposes.
 
@@ -10,13 +10,13 @@ Students apply design thinking techniques to generate multiple ideas for the des
 
 In Digital Technologies, students should have frequent opportunities for authentic learning by making key connections with other learning areas.
 
-## Strands
+## Strands {#strands}
 
-### Knowledge and understanding
+### Knowledge and understanding {#knowledge-and-understanding}
 
-#### Digital systems
+#### Digital systems {#digital-systems}
 
-##### AC9TDI4K01
+##### AC9TDI4K01 {#ac9tdi4k01}
 
 explore and describe a range of digital systems and their peripherals for a variety of purposes
 
@@ -25,7 +25,7 @@ explore and describe a range of digital systems and their peripherals for a vari
 *  adding peripherals to a digital system to expand its functionality, for example connecting a headset to a digital system to participate in an online lesson more effectively
 *  exploring how they can use digital systems differently depending on the task, recognising that many digital systems can perform multiple tasks, for example a student can use a tablet to take photos, record audio and find information to create a presentation
 
-##### AC9TDI4K02
+##### AC9TDI4K02 {#ac9tdi4k02}
 
 explore transmitting different types of data between digital systems
 
@@ -33,9 +33,9 @@ explore transmitting different types of data between digital systems
 *  exploring examples of different types of data that can be transferred between digital systems, for example streaming music or making a video call to a friend using a smartphone
 *  exploring how data (video call) can be transmitted from a remote community to a city location, for example looking at how many First Nations Australian communities in areas classified as remote rely on 3G network coverage, limiting the use of video calls
 
-#### Data representation
+#### Data representation {#data-representation}
 
-##### AC9TDI4K03
+##### AC9TDI4K03 {#ac9tdi4k03}
 
 recognise different types of data and explore how the same data can be represented differently depending on the purpose
 
@@ -45,11 +45,11 @@ recognise different types of data and explore how the same data can be represent
 *  explaining that the same information can be represented differently, for example the term ‘stop’ can also be represented with an octagon-shaped red sign or a hand icon
 *  identifying rock paintings and other cultural expressions to understand that images are used to encode and represent ethnobotanical knowledge, for example the representation of plant use in the Kimberley cave paintings and ancient engravings including important data on medicinal and food plant classification and their usable parts
 
-### Processes and production skills
+### Processes and production skills {#processes-and-production-skills}
 
-#### Investigating and defining
+#### Investigating and defining {#investigating-and-defining}
 
-##### AC9TDI4P01
+##### AC9TDI4P01 {#ac9tdi4p01}
 
 define problems with given design criteria and by co-creating user stories
 
@@ -60,9 +60,9 @@ define problems with given design criteria and by co-creating user stories
 *  developing a problem statement for collecting and managing information, for example how First Nations Australians rangers could monitor animal populations, such as local marine turtles, using global positioning systems (GPS)
 *  co-creating user stories about exploring hard-to-reach locations, for example a school student wants to explore neighbouring countries classified as remote to compare how people live
 
-#### Generating and designing
+#### Generating and designing {#generating-and-designing}
 
-##### AC9TDI4P02
+##### AC9TDI4P02 {#ac9tdi4p02}
 
 follow and describe algorithms involving sequencing, comparison operators (branching) and iteration
 
@@ -73,7 +73,7 @@ follow and describe algorithms involving sequencing, comparison operators (branc
 *  describing the decisions needed to solve a problem, including numerical and text comparisons, for example if the UV index is above 3, put on sunscreen and a hat
 *  describing algorithms that repeat steps a fixed number of times, for example calculating multiplication using repeated addition, where the sum changes in each iteration
 
-##### AC9TDI4P03
+##### AC9TDI4P03 {#ac9tdi4p03}
 
 generate, communicate and compare designs
 
@@ -82,9 +82,9 @@ generate, communicate and compare designs
 *  discussing whether the needs identified from the user story are met by generated design ideas, for example comparing design ideas in pairs for encouraging people to recycle
 *  ideating multiple design ideas and comparing them against user stories, for example as a class, discussing the needs identified from the user story and brainstorming multiple design ideas (accepting all suggestions as possibilities)
 
-#### Producing and implementing
+#### Producing and implementing {#producing-and-implementing}
 
-##### AC9TDI4P04
+##### AC9TDI4P04 {#ac9tdi4p04}
 
 implement simple algorithms as visual programs involving control structures and input
 
@@ -96,9 +96,9 @@ implement simple algorithms as visual programs involving control structures and 
 *  running and testing a program to check it performs as expected, for example a character: 1. moves forward 2. turns left 3. moves forward
 *  implementing a program that demonstrates the strict routines and techniques followed by First Nations Australian ranger groups when caring for or handling specific native animals, for example using IF and THEN statements to create a training manual, such as: IF <insert animal name> is injured THEN the ranger will <insert action>
 
-#### Evaluating
+#### Evaluating {#evaluating}
 
-##### AC9TDI4P05
+##### AC9TDI4P05 {#ac9tdi4p05}
 
 discuss how existing and student solutions satisfy the design criteria and user stories
 
@@ -108,9 +108,9 @@ discuss how existing and student solutions satisfy the design criteria and user 
 *  making judgements on their digital solutions against the design criteria and user stories, for example how high their friends score in the game they created to help them learn what is recyclable
 *  reflecting on how the systems in the school help it run, for example how the librarian keeps track of books borrowed
 
-#### Collaborating and managing
+#### Collaborating and managing {#collaborating-and-managing}
 
-##### AC9TDI4P06
+##### AC9TDI4P06 {#ac9tdi4p06}
 
 use the core features of common digital tools to create, locate and communicate content, following agreed conventions
 
@@ -120,7 +120,7 @@ use the core features of common digital tools to create, locate and communicate 
 *  grouping, naming and itemising objects using a logical hierarchy, for example creating a section of a virtual library or virtual supermarket using folders and files
 *  using autocomplete features in text authoring tools; for example, using suggestions in a word processor to complete words or sentences, or using predictive text in SMS or messaging apps
 
-##### AC9TDI4P07
+##### AC9TDI4P07 {#ac9tdi4p07}
 
 use the core features of common digital tools to share content, plan tasks, and collaborate, following agreed behaviours, supported by trusted adults
 
@@ -131,9 +131,9 @@ use the core features of common digital tools to share content, plan tasks, and 
 *  interacting cooperatively in a group in an online environment to plan and complete a task, for example writing and responding to others’ views on canteen products
 *  using digital tools to plan an event as a class, for example jointly creating a class survey to help plan an end-of-year party, where responses conform to the class's accepted behavioural expectations
 
-#### Privacy and security
+#### Privacy and security {#privacy-and-security}
 
-##### AC9TDI4P08
+##### AC9TDI4P08 {#ac9tdi4p08}
 
 access their school account using a memorised password and explain why it should be easy to remember, but hard for others to guess
 
@@ -142,7 +142,7 @@ access their school account using a memorised password and explain why it should
 *  explaining how keeping a password secret prevents others from accessing their data, for example how their work is saved in their account and can only be accessed using their secret password
 *  exploring techniques to create an easy to remember and hard to guess password, for example creating a password using 3 unrelated but easy to remember words
 
-##### AC9TDI4P09
+##### AC9TDI4P09 {#ac9tdi4p09}
 
 identify what personal data is stored and shared in their online accounts and discuss any associated risks
 
@@ -150,7 +150,7 @@ identify what personal data is stored and shared in their online accounts and di
 *  identifying the personal data stored in accounts they use at school and at home and who has access to it, for example documents in their school cloud storage are accessible by the teacher, or their nickname in their online gaming accounts is visible to all players
 *  discussing how personal data stored in online accounts forms a person’s digital identity and can reveal detailed information about people, for example looking at photographs of themselves, friends or fictional characters that reveal details about a person's location, habits or home
 
-## Achievement Standards
+## Achievement Standards {#achievement-standards}
 
 By the end of Year 4 students create simple digital solutions and use provided design criteria to check if solutions meet user needs. Students process and represent data for different purposes. They follow and describe simple algorithms involving branching and iteration and implement them as visual programs. Students securely access and use digital systems and their peripherals for a range of purposes, including transmitting data. They use the core features of common digital tools to plan, create, locate and share content, and to collaborate, following agreed behaviours. Students identify their personal data stored online and recognise the risks.
 

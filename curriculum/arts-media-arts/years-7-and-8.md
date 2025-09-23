@@ -1,6 +1,6 @@
-# The Arts - Media Arts - Years 7 and 8
+# Media Arts - Years 7 and 8 {#media-arts-years-7-and-8}
 
-## Level Description
+## Level Description {#level-description}
 
 In this band, learning in Media Arts builds on each student’s prior learning and experiences. Students learn in and through developing understanding and application of the Media Arts concepts: media technologies, representation, audience, institutions, media languages and relationships. They use production processes in purposeful and creative ways and continue to develop their connection with and contribution to the world as artist and as audiences. They work individually and in collaboration with peers and teachers.
 
@@ -21,11 +21,11 @@ In this band, the focus is on students:
 5.  create (producing) media arts works in forms such as print, screen/moving image, audio and/or hybrid-/trans-disciplinary forms using production processes
 6.  presenting/screening/distributing media arts works they have produced to audiences; for example, for a specific target audience.
 
-## Strands
+## Strands {#strands}
 
-### Exploring and responding
+### Exploring and responding {#exploring-and-responding}
 
-##### AC9AMA8E01
+##### AC9AMA8E01 {#ac9ama8e01}
 
 investigate the ways that media arts concepts are used in media arts works and practices across cultures, times, places and/or other contexts
 
@@ -35,7 +35,7 @@ investigate the ways that media arts concepts are used in media arts works and p
 *  analysing the way media languages are used to construct representations of people, places and concepts in media genres and products; for example, the ways that technical and symbolic codes are used to construct stereotypical representations of people, places or concepts in media arts works aimed at teenagers
 *  analysing the way audiences are positioned to respond to different representations constructed by technical and symbolic codes in media arts works, such as in the depiction of cultural or social groups and values in Australian film and television
 
-##### AC9AMA8E02
+##### AC9AMA8E02 {#ac9ama8e02}
 
 investigate the diversity of First Nations Australians’ media arts works and practices, considering culturally responsive approaches to Indigenous Cultural and Intellectual Property rights
 
@@ -47,9 +47,9 @@ investigate the diversity of First Nations Australians’ media arts works and p
 *  recognising how to select and use historical materials that accurately communicate First Nations Australians’ perspectives for including in media arts works, such as their resilience in response to the impacts of colonisation
 *  investigating issues relating to use of First Nations Australian languages or stories in lyrics and songs for screen-based works; for example, considering case studies that illustrate protocols relating to Indigenous Cultural and Intellectual Property rights
 
-### Developing practices and skills
+### Developing practices and skills {#developing-practices-and-skills}
 
-##### AC9AMA8D01
+##### AC9AMA8D01 {#ac9ama8d01}
 
 develop media production skills throughout the production process to construct representations using media languages and media technologies
 
@@ -62,7 +62,7 @@ develop media production skills throughout the production process to construct r
 *  experimenting with established story principles, such as creating the opening scene to a documentary film that establishes a setting and location, or disrupting story principles through the manipulation of time so the narrative structure is not as an audience would expect
 *  combining established genre conventions to make a hybrid production; for example, exploring established media forms such as narrative, non-narrative, experimental, micro-documentary, trailers, music video, micro-short film and social media video campaign, or genres such as horror, western or comedy
 
-##### AC9AMA8D02
+##### AC9AMA8D02 {#ac9ama8d02}
 
 reflect on their own and others’ media arts works and practices to inform choices they make during the production process
 
@@ -75,9 +75,9 @@ reflect on their own and others’ media arts works and practices to inform choi
 *  using Viewpoints to develop reflective questions such as “How can I represent a range of views about this issue in my media arts work?”, “What do I need to change in the production processes to create a stronger connection with the audience?”
 *  exploring styles and representations particular to a country or region to inform their own practice and to develop their understanding of cultural appropriation and representation; for example, exploring the use of media conventions and languages in cartooning genres in Asia.
 
-### Creating and making
+### Creating and making {#creating-and-making}
 
-##### AC9AMA8C01
+##### AC9AMA8C01 {#ac9ama8c01}
 
 design and structure media arts works to communicate ideas, perspectives and meaning for an intended audience
 
@@ -91,7 +91,7 @@ design and structure media arts works to communicate ideas, perspectives and mea
 *  experimenting with technical and symbolic elements to construct safe, legal, ethical and responsible representations of cultural or social groups and values
 *  trialling ways to combine established genre conventions to make a hybrid production; for example, exploring genres such as narrative, non-narrative, experimental, micro-documentary, trailer, music video, micro-short film and social media video campaign
 
-##### AC9AMA8C02
+##### AC9AMA8C02 {#ac9ama8c02}
 
 apply production processes and use media arts concepts to construct representations and produce media arts works that communicate ideas, perspectives and/or meaning for specific audiences using responsible media practice
 
@@ -103,9 +103,9 @@ apply production processes and use media arts concepts to construct representati
 *  producing a media arts work that represents ways of adapting habits or customs to build a more sustainable future for their community or to highlight how people are changing their behaviours to contribute to a just and equal society
 *  creating a news story in a print or digital format, focusing on an event they have been involved in, to communicate a perspective, using media languages to persuade their audience, and employing questions based on Viewpoints to consider how to manipulate aspects of the production for bias; for example, “Do the stories leave out or emphasise information?” or “Do the stories present the audience with obvious heroes and villains?” and “Why would media institutions engage in these practices?”
 
-### Presenting and performing
+### Presenting and performing {#presenting-and-performing}
 
-##### AC9AMA8P01
+##### AC9AMA8P01 {#ac9ama8p01}
 
 present media arts works, using responsible media practices and considering potential relationships the work could create with audiences
 
@@ -115,7 +115,7 @@ present media arts works, using responsible media practices and considering pote
 *  reflecting on how relationships develop between media arts makers and their audiences, or across cohorts within the audience group, when planning when and how to present a media arts work they have made to an audience
 *  considering the impact of different audiences on the interpretation of and engagement with their media arts works; for example, presenting their media arts works in different contexts and evaluating the effectiveness of the response, such as using a school learning management platform to share work online with the school community, or sharing work at a fixed time and place such as a school exhibition
 
-## Achievement Standards
+## Achievement Standards {#achievement-standards}
 
 By the end of year 8, students analyse the use of media arts concepts to construct representations that communicate ideas, perspectives and/or meaning in media arts works they produce and/or experience. They evaluate use of media arts concepts in media arts works from across cultures, times, places and/or other contexts. They describe respectful approaches to creating and/or responding to media arts works.
 

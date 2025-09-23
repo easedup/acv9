@@ -1,6 +1,6 @@
-# The Arts - Media Arts - Years 9 and 10
+# Media Arts - Years 9 and 10 {#media-arts-years-9-and-10}
 
-## Level Description
+## Level Description {#level-description}
 
 In this band, learning in Media Arts continues to build on each student’s prior learning and experiences. Students learn in and through developing understanding and application of the Media Arts concepts: media technologies, representations, audiences, institutions, media languages and relationships. They use production processes in purposeful and creative ways and continue to develop their connection with and contribution to the world as artists and as audiences. They work individually and in collaboration with peers and teachers.
 
@@ -19,11 +19,11 @@ In this band, the focus is on students:
 5.  creating (producing) media arts works using production processes in forms such as print, screen/moving image, audio and/or hybrid/trans-disciplinary forms
 6.  presenting/screening/distributing media arts works they have produced to audiences, in informal and/or formal settings; for example, audiences that are known to the students and/or unfamiliar audiences.
 
-## Strands
+## Strands {#strands}
 
-### Exploring and responding
+### Exploring and responding {#exploring-and-responding}
 
-##### AC9AMA10E01
+##### AC9AMA10E01 {#ac9ama10e01}
 
 investigate the ways that media artists use media arts concepts to construct representations in media arts works and practices across cultures, times, places and/or other contexts
 
@@ -38,7 +38,7 @@ investigate the ways that media artists use media arts concepts to construct rep
 *  identifying, describing and explaining the way technical and symbolic codes such as camera techniques, editing, sound, rhythm or mise-en-scène are manipulated in media arts works they have viewed or made to evoke audience responses such as excitement or fear, and/or to convey an intended meaning or position about an issue or idea, such as an opinion about climate change
 *  examining the role of media makers in perpetuating and/or challenging prevailing views on issues of contemporary relevance
 
-##### AC9AMA10E02
+##### AC9AMA10E02 {#ac9ama10e02}
 
 investigate the ways First Nations Australian media artists and/or producers celebrate and challenge multiple perspectives of Australian identity through media arts
 
@@ -50,9 +50,9 @@ investigate the ways First Nations Australian media artists and/or producers cel
 *  understanding the ways that media arts provide a voice for First Nations Australians through media institutions and forms such as film, television and online media platforms
 *  analysing the ways that First Nations Australian media artists use their practice to challenge and inform community debate and present multiple ways of understanding an issue; for example, exploring how First Nations Australians are caring for Country/Place and highlighting these issues through media arts
 
-### Developing practices and skills
+### Developing practices and skills {#developing-practices-and-skills}
 
-##### AC9AMA10D01
+##### AC9AMA10D01 {#ac9ama10d01}
 
 experiment with ways to construct representations that reflect ideas, perspectives and/or meaning, and/or use of media conventions, media languages and media technologies
 
@@ -62,7 +62,7 @@ experiment with ways to construct representations that reflect ideas, perspectiv
 *  experimenting with use of mise-en-scène, camera work, sound, editing and media technologies in ways that are typically used in a genre, auteur or film movement
 *  manipulating technical and symbolic media codes and conventions of specific film, television or radio genres to produce a media arts work for a target audience; for example, creating a film trailer, film poster, short genre film or soundscape that communicates their understandings of the world around them
 
-##### AC9AMA10D02
+##### AC9AMA10D02 {#ac9ama10d02}
 
 reflect on their own or others’ media arts works and/or practices to refine and inform choices they make during stages of the production process
 
@@ -74,9 +74,9 @@ reflect on their own or others’ media arts works and/or practices to refine an
 *  using editing software to experiment with structuring sequences, and applying technical and symbolic codes and conventions, to create meaning for audiences; for example, adding filters, text, music, rhythm and pace to a suspense sequence, using teen flick genre conventions for font, music and split screen to create a sequence, or paying homage to an influential director by manipulating pace and rhythm to create suspense
 *  using Viewpoints to develop investigating questions when making decisions about how they will represent a theme, concept or idea, and considering possibilities for using or disrupting media conventions
 
-### Creating and making
+### Creating and making {#creating-and-making}
 
-##### AC9AMA10C01
+##### AC9AMA10C01 {#ac9ama10c01}
 
 design and structure media arts works that examine and communicate ideas, perspectives and/or meaning
 
@@ -86,7 +86,7 @@ design and structure media arts works that examine and communicate ideas, perspe
 *  designing the camera work, sound, editing or mise-en-scène to construct alternative representations of people, places, ideas and events in a narrative media arts work such as a genre film, music video, documentary or animation
 *  examining the way technical and symbolic codes and conventions of specific film, television or radio genres have been used in a media arts work to communicate values, themes or ideas to an audience; using pre-production processes such as a shot list, shooting script, screenplay, treatment or storyboard to trial ideas, designing a different media arts work that communicates or challenges these values, themes or ideas; for example, a film trailer, short genre film or soundscape
 
-##### AC9AMA10C02
+##### AC9AMA10C02 {#ac9ama10c02}
 
 apply production processes and use media arts concepts to construct representations and produce media arts works that communicate ideas, perspectives and/or meaning, and confirm or challenge the expectations of specific audiences
 
@@ -97,9 +97,9 @@ apply production processes and use media arts concepts to construct representati
 *  using Viewpoints to frame questions and evaluate how their intentions are being communicated; for example, considering how and why meaning and experiences, political statements, critical theories and emotions have been used during post-production work
 *  creating multiple representations of the same person, place or concept in different media and for different intentions, considering audience interaction and the ways that media conventions can portray different perspectives
 
-### Presenting and performing
+### Presenting and performing {#presenting-and-performing}
 
-##### AC9AMA10P01
+##### AC9AMA10P01 {#ac9ama10p01}
 
 present media arts works to audiences and plan approaches for creating relationships with audiences if/when media arts works are distributed in selected personal, community and/or institutional contexts using responsible media practice
 
@@ -110,7 +110,7 @@ present media arts works to audiences and plan approaches for creating relations
 *  using media technologies to design and produce a media arts work that promotes a community event, using a range of formats such as print and online formats; making decisions about time, technological access and ethical and economic constraints, and how the relationships their intended audience has with media impacts their understanding of media arts works
 *  investigating the relationships created between intended audiences and the media arts works they create, including the relationships that are created and formed between the audiences that come together from viewing their media arts works, and consider how these audiences can inform the creation of new media arts works
 
-## Achievement Standards
+## Achievement Standards {#achievement-standards}
 
 In this band, learning in Media Arts continues to build on each student’s prior learning and experiences. Students learn in and through developing understanding and application of the Media Arts concepts: media technologies, representations, audiences, institutions, media languages and relationships. They use production processes in purposeful and creative ways and continue to develop their connection with and contribution to the world as artists and as audiences. They work individually and in collaboration with peers and teachers.
 

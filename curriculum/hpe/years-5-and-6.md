@@ -1,6 +1,6 @@
-# Health and Physical Education - Years 5 and 6
+# Health and Physical Education - Years 5 and 6 {#health-and-physical-education-years-5-and-6}
 
-## Level Description
+## Level Description {#level-description}
 
 The Years 5–6 curriculum builds on each student’s prior learning. During this time, students are taking more responsibility for their own health, physical activity and personal safety.
 
@@ -14,13 +14,13 @@ Students have frequent opportunities to apply and transfer the movement skills a
 
 Students begin to explore more complex movement concepts and promote safe, equitable and fair participation for all. Students further develop and refine a range of communication and conflict resolution skills and processes, enabling them to interact appropriately and respectfully with others in a range of different movement and social situations.
 
-## Strands
+## Strands {#strands}
 
-### Personal, social and community health
+### Personal, social and community health {#personal-social-and-community-health}
 
-#### Identities and change
+#### Identities and change {#identities-and-change}
 
-##### AC9HP6P01
+##### AC9HP6P01 {#ac9hp6p01}
 
 explain how identities can be influenced by people and places, and how we can create positive self-identities
 
@@ -32,7 +32,7 @@ explain how identities can be influenced by people and places, and how we can cr
 *  exploring the different levels of connection within First Nations Australian communities, such as cultural group, clan, Country/Place, skin names and social standing within community
 *  exploring how family, peers, popular culture, gender stereotypes and the media influence developing identities
 
-##### AC9HP6P02
+##### AC9HP6P02 {#ac9hp6p02}
 
 investigate resources and strategies to manage changes and transitions, including changes associated with puberty
 
@@ -44,7 +44,7 @@ investigate resources and strategies to manage changes and transitions, includin
 *  analysing how roles and responsibilities change as people grow older and examining strategies for managing these increasing responsibilities
 *  examining how the developmental changes that occur through puberty prepare a persons' body for reproduction
 
-##### AC9HP6P03
+##### AC9HP6P03 {#ac9hp6p03}
 
 investigate how the portrayal of societal roles and responsibilities can be influenced by gender stereotypes
 
@@ -54,9 +54,9 @@ investigate how the portrayal of societal roles and responsibilities can be infl
 *  investigating how social and cultural norms about gender can influence the roles and responsibilities of family members and people within their community
 *  identifying those gender norms that can have limiting and harmful effects, and proposing strategies to advance gender equality and respect for human rights
 
-#### Interacting with others
+#### Interacting with others {#interacting-with-others}
 
-##### AC9HP6P04
+##### AC9HP6P04 {#ac9hp6p04}
 
 describe and demonstrate how respect and empathy can be expressed to positively influence relationships
 
@@ -67,7 +67,7 @@ describe and demonstrate how respect and empathy can be expressed to positively 
 *  recognising how words and labels used regarding First Nations Australians can cause offence and how this awareness can support and strengthen respectful relationships
 *  examining the behaviours people demonstrate when treating others in respectful ways, and comparing to those behaviours that constitute forms of bullying, racism or gender-based violence
 
-##### AC9HP6P05
+##### AC9HP6P05 {#ac9hp6p05}
 
 describe and implement strategies to value diversity in their communities
 
@@ -79,7 +79,7 @@ describe and implement strategies to value diversity in their communities
 *  exploring the importance of cultural expressions of First Nations Australians in maintaining a continuing deep connection to Country/Place and its influence on wellbeing
 *  examining how beliefs, values and cultural practices convey meaning and influence peoples’ sense of identity and belonging, including Australians of Asian heritage
 
-##### AC9HP6P06
+##### AC9HP6P06 {#ac9hp6p06}
 
 apply strategies to manage emotions and analyse how emotional responses influence interactions
 
@@ -88,7 +88,7 @@ apply strategies to manage emotions and analyse how emotional responses influenc
 *  analysing situations in which emotions can influence decision-making, including in peer-group, family and movement situations
 *  exploring when emotional responses can be intense or unpredictable, including feelings of grief associated with loss, and practising strategies to self-regulate and manage expression of strong emotions
 
-##### AC9HP6P07
+##### AC9HP6P07 {#ac9hp6p07}
 
 describe strategies for seeking, giving or denying consent and rehearse how to communicate their intentions effectively and respectfully
 
@@ -97,9 +97,9 @@ describe strategies for seeking, giving or denying consent and rehearse how to c
 *  practising and refining strategies for interpreting verbal and non-verbal cues related to seeking, giving and denying consent in a range of situations
 *  analysing how a person’s reaction to being denied permission to do something can affect others’ feelings and discussing options for dealing with situations when this may occur; for example, feelings of disappointment, shame and anger associated with rejection
 
-#### Making healthy and safe choices
+#### Making healthy and safe choices {#making-healthy-and-safe-choices}
 
-##### AC9HP6P08
+##### AC9HP6P08 {#ac9hp6p08}
 
 analyse and rehearse protective behaviours and help-seeking strategies that can be used in a range of online and offline situations
 
@@ -111,7 +111,7 @@ analyse and rehearse protective behaviours and help-seeking strategies that can 
 *  proposing strategies they can use if they witness others in unsafe situations, such as accessing support networks or telling an adult they trust
 *  analysing the responses of characters in TV shows or movies when in unsafe or risky situations and discussing the efficacy of their response to the situation
 
-##### AC9HP6P09
+##### AC9HP6P09 {#ac9hp6p09}
 
 investigate different sources and types of health information and how these apply to their own and others’ health choices
 
@@ -121,7 +121,7 @@ investigate different sources and types of health information and how these appl
 *  identifying trusted people in their lives with whom they can share their health needs and concerns, and rehearsing ways to communicate concerns about their health to a variety of support people
 *  examining and comparing relevant health information and opinions, and identifying which aspects can be verified as accurate and reliable
 
-##### AC9HP6P10
+##### AC9HP6P10 {#ac9hp6p10}
 
 analyse how behaviours influence the health, safety, relationships and wellbeing of individuals and communities
 
@@ -135,11 +135,11 @@ analyse how behaviours influence the health, safety, relationships and wellbeing
 *  examining sustainable food practices to measure the quality of food available in the school canteen or local area
 *  describing strategies to support a sense of belonging and connection, and recognising the importance of social support for enhancing mental health and wellbeing
 
-### Movement and physical activity
+### Movement and physical activity {#movement-and-physical-activity}
 
-#### Moving our bodies
+#### Moving our bodies {#moving-our-bodies}
 
-##### AC9HP6M01
+##### AC9HP6M01 {#ac9hp6m01}
 
 adapt and modify movement skills across a variety of situations
 
@@ -150,7 +150,7 @@ adapt and modify movement skills across a variety of situations
 *  combining surface propulsion and underwater skills in an aquatic environment
 *  composing and performing a range of static and dynamic balances on different body parts, rotating and pivoting to change direction of movement
 
-##### AC9HP6M02
+##### AC9HP6M02 {#ac9hp6m02}
 
 transfer familiar movement strategies to different movement situations
 
@@ -160,7 +160,7 @@ transfer familiar movement strategies to different movement situations
 *  transferring strategies they have used to maintain balance to safely traverse a natural environment
 *  making judgements, based on agreed criteria, about the effectiveness of transferring strategies from one game to another
 
-##### AC9HP6M03
+##### AC9HP6M03 {#ac9hp6m03}
 
 investigate how different movement concepts related to effort, space, time, objects and people can be applied to improve movement outcomes
 
@@ -170,9 +170,9 @@ investigate how different movement concepts related to effort, space, time, obje
 *  working with a partner to explore pushing and pulling movements and how these can be manipulated to generate and perform counterbalances
 *  developing strategies that exploit the playing space to create overlaps and extra attackers
 
-#### Making active choices
+#### Making active choices {#making-active-choices}
 
-##### AC9HP6M04
+##### AC9HP6M04 {#ac9hp6m04}
 
 participate in physical activities to investigate the body’s reaction to different levels of intensity
 
@@ -181,7 +181,7 @@ participate in physical activities to investigate the body’s reaction to diffe
 *  designing and modelling different warm-up and cool-down routines for the class and discussing their importance for reducing the chance of injuries or soreness after activity
 *  participating in and designing physical activity opportunities that support their health and fitness goals
 
-##### AC9HP6M05
+##### AC9HP6M05 {#ac9hp6m05}
 
 participate in physical activities that enhance health and wellbeing in natural and outdoor settings, and analyse the steps and resources needed to promote participation
 
@@ -191,7 +191,7 @@ participate in physical activities that enhance health and wellbeing in natural 
 *  researching the Australian 24-Hour Movement Guidelines for Children and Young People, comparing their daily habits of physical activity to the recommendations and proposing strategies for enhancing or maintaining their levels of activity
 *  discussing how a connection to a community space or special place can influence the types of physical activity options people will choose to participate in, such as links to skate parks, surf beaches or bushwalking trails
 
-##### AC9HP6M06
+##### AC9HP6M06 {#ac9hp6m06}
 
 propose and explain strategies to increase physical activity and reduce sedentary behaviour levels in their lives
 
@@ -200,9 +200,9 @@ propose and explain strategies to increase physical activity and reduce sedentar
 *  examining the benefits of physical activity for social health and mental wellbeing, and researching options for participating in physical activities in the local area
 *  investigating the resources needed and steps required to set up a lunchtime sports competition, activity circuit or playground games aimed at increasing levels of physical activity among students and staff
 
-#### Learning through movement
+#### Learning through movement {#learning-through-movement}
 
-##### AC9HP6M07
+##### AC9HP6M07 {#ac9hp6m07}
 
 predict and test the effectiveness of applying different skills and strategies in a range of movement situations
 
@@ -211,7 +211,7 @@ predict and test the effectiveness of applying different skills and strategies i
 *  adapting movement skills and strategies from other contexts to generate creative solutions to unfamiliar movement challenges when participating in outdoor activities
 *  co-developing criteria to assess effectiveness of responses to movement challenges, predicting the effectiveness of each, then testing and refining solutions against the criteria in order to achieve successful outcomes
 
-##### AC9HP6M08
+##### AC9HP6M08 {#ac9hp6m08}
 
 devise and test alternative rules and game modifications to support fair play and inclusive participation
 
@@ -221,7 +221,7 @@ devise and test alternative rules and game modifications to support fair play an
 *  discussing where and when they have witnessed fairness and inclusion in a game situation and explaining what factors led to the game being inclusive and fair
 *  investigating the effectiveness of rules used in traditional games of First Nations Australians to promote participation, such as Inkanyi: a cooperative running game played by the Pitjantjatjara / Yankunytjatjara of central Australia where there are no winners and Barambah gimbe: a throwing and catching game from the lands of the Wakka Wakka where catchers can be nominated to increase participation
 
-##### AC9HP6M09
+##### AC9HP6M09 {#ac9hp6m09}
 
 participate positively in groups and teams by contributing to group activities, encouraging others and negotiating roles and responsibilities
 
@@ -230,7 +230,7 @@ participate positively in groups and teams by contributing to group activities, 
 *  demonstrating negotiation skills when dealing with conflicts or disagreements in movement situations
 *  using reflective listening and assertive communication when working in small groups on movement tasks or challenges
 
-## Achievement Standards
+## Achievement Standards {#achievement-standards}
 
 The Years 5–6 curriculum builds on each student’s prior learning. During this time, students are taking more responsibility for their own health, physical activity and personal safety.
 

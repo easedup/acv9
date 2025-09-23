@@ -1,6 +1,6 @@
-# Humanities and Social Sciences - HASS F-6 - Foundation Year
+# Foundation Year {#foundation-year}
 
-## Level Description
+## Level Description {#level-description}
 
 In Foundation, the focus is on **"my personal world"**.
 
@@ -13,13 +13,13 @@ Inquiry questions provide a framework for developing students’ knowledge, unde
 *   Who am I, where do I live and who came before me?
 *   Why are some places and events special, and how do we know?
 
-## Strands
+## Strands {#strands}
 
-### Knowledge and understanding
+### Knowledge and understanding {#knowledge-and-understanding}
 
-#### History
+#### History {#history}
 
-##### AC9HSFK01
+##### AC9HSFK01 {#ac9hsfk01}
 
 the people in their family, where they were born and raised, and how they are related to each other
 
@@ -28,7 +28,7 @@ the people in their family, where they were born and raised, and how they are re
 *  creating drawings of family members accompanied by information collected from questions and observations to share details of that person’s life, including the places they were born and raised
 *  creating concept maps of their family with pictures or photographs to show connections to those people who make up their family
 
-##### AC9HSFK02
+##### AC9HSFK02 {#ac9hsfk02}
 
 the celebrations and commemorations of significant events shared with their families and others
 
@@ -36,9 +36,9 @@ the celebrations and commemorations of significant events shared with their fami
 *  responding to a provided calendar of events that students, their family and friends celebrate or commemorate; for example, birthdays; religious festivals such as Easter, Ramadan, Buddha’s Birthday, Feast of Passover and Coming of the Light; family reunions; cultural festivals; and community commemorations such as NAIDOC Week and Anzac Day, and discussing why they are important
 *  discussing ways of celebrating these significant occasions; for example, special meals, family gatherings, visiting special places, and the role of art, music, telling stories and handing on traditions from generation to generation for First Nations Australians
 
-#### Geography
+#### Geography {#geography}
 
-##### AC9HSFK03
+##### AC9HSFK03 {#ac9hsfk03}
 
 the features of familiar places they belong to, why some places are special and how places can be looked after
 
@@ -48,7 +48,7 @@ the features of familiar places they belong to, why some places are special
 *  identifying reasons why people live in or visit places, such as the provision of basic needs (water, food, shelter), to enhance lives (holiday places, places for recreation, for religious observance) and to maintain cultural connections to Country/Place
 *  discussing different ways they could or do contribute to caring for special places, including those that are unique; for example, planting trees for a local endangered species, cleaning up litter at a local park or beach, or planting flora in a local wetland
 
-##### AC9HSFK04
+##### AC9HSFK04 {#ac9hsfk04}
 
 the importance of Country/Place to First Nations Australians and the Country/Place on which the school is located
 
@@ -58,11 +58,11 @@ the importance of Country/Place to First Nations Australians and the Country/
 *  listening and responding to invited members of the Traditional Owner group talking about Country/Place, and places of cultural and historical significance to the First Nations Australian community in the local neighbourhood, suburb, town or rural area
 *  identifying local places of significance for First Nations Australians in the local area
 
-### Skills
+### Skills {#skills}
 
-#### Questioning and researching
+#### Questioning and researching {#questioning-and-researching}
 
-##### AC9HSFS01
+##### AC9HSFS01 {#ac9hsfs01}
 
 pose questions about familiar objects, people, places and events
 
@@ -71,7 +71,7 @@ pose questions about familiar objects, people, places and events
 *  posing questions about the features of places and how they can look after them, after being encouraged to observe them using various senses
 *  posing questions about what makes events and places special; for example “What special events do my family celebrate?”, “What makes my favourite places special?”
 
-##### AC9HSFS02
+##### AC9HSFS02 {#ac9hsfs02}
 
 sort and record information including pictorial timelines and locations on pictorial maps or models
 
@@ -79,9 +79,9 @@ sort and record information including pictorial timelines and locations on picto
 *  sorting and displaying sources (for example, historical sources such as pictures, photographs and family mementoes) to organise a display about a family member or significant family event and creating pictorial timelines, such as adding photos or drawings of significant events as they happen, to create a timeline of events over the year
 *  identifying features on a provided pictorial map or oblique aerial photograph of a familiar place and linking the representation of specific features to pictures they have drawn of those features; for example, using a pictorial map of a visited site such as a public garden or an oblique aerial photograph of their school to find familiar features, and then linking drawings of those features with lines to the features in the map or aerial photograph
 
-#### Interpreting, analysing and evaluating
+#### Interpreting, analysing and evaluating {#interpreting-analysing-and-evaluating}
 
-##### AC9HSFS03
+##### AC9HSFS03 {#ac9hsfs03}
 
 share a perspective on information, such as stories about significant events and special places
 
@@ -89,9 +89,9 @@ share a perspective on information, such as stories about significant events and
 *  sharing aspects of events special to past generations of their family from provided stories and discussing why those events and places are special
 *  identifying a place in their local area that they like, and talking about why they like it and how they could care for it
 
-#### Concluding and decision-making
+#### Concluding and decision-making {#concluding-and-decision-making}
 
-##### AC9HSFS04
+##### AC9HSFS04 {#ac9hsfs04}
 
 draw conclusions in response to questions
 
@@ -101,9 +101,9 @@ draw conclusions in response to questions
 *  exploring the location and features of places they belong to and what makes those places special
 *  suggesting ways that they are going to care for their classroom, bedroom or playground
 
-#### Communicating
+#### Communicating {#communicating}
 
-##### AC9HSFS05
+##### AC9HSFS05 {#ac9hsfs05}
 
 share narratives and observations, using sources and terms about the past and places
 
@@ -112,7 +112,7 @@ share narratives and observations, using sources and terms about the past and pl
 *  using terms about time when talking about their experiences; for example, “then”, “now”, “yesterday”, “today”, “tomorrow”
 *  using appropriate terms to describe the direction and location of a place such as “near and far”, “above and below”, “beside and opposite”
 
-## Achievement Standards
+## Achievement Standards {#achievement-standards}
 
 By the end of Foundation, students identify significant people and events in their own lives, and how significant events are celebrated or commemorated. Students recognise the features of familiar places, why some places are special to people and the ways they can care for them.
 

@@ -1,6 +1,6 @@
-# Humanities and Social Sciences - Economics and Business 7-10 - Year 9
+# Economics and Business - Year 9 {#economics-and-business-year-9}
 
-## Level Description
+## Level Description {#level-description}
 
 The focus of learning in Year 9 is the topic **"international trade and interdependence"** within a global context, including trade with the countries of Asia.
 
@@ -16,11 +16,11 @@ Inquiry questions provide a framework for developing students’ knowledge, unde
 *   How does creating and maintaining a competitive advantage benefit businesses?
 *   What processes can be used to manage financial risks and rewards?
 
-## Strands
+## Strands {#strands}
 
-### Knowledge and understanding
+### Knowledge and understanding {#knowledge-and-understanding}
 
-##### AC9HE9K01
+##### AC9HE9K01 {#ac9he9k01}
 
 the role of Australia’s financial sector and its effect on economic decision-making by individuals, businesses and global markets
 
@@ -31,7 +31,7 @@ the role of Australia’s financial sector and its effect on economic decision-m
 *  explaining the forces that shape and affect Australia’s financial landscape, such as financial deregulations, technological changes, economic and business activities, and consumer and business sentiment about the future
 *  identifying examples and explaining how Australia’s financial sector supports businesses in global markets; for example, the nature of global financial services, payment systems – clearing and settlement, access to currencies, insurance and capital
 
-##### AC9HE9K02
+##### AC9HE9K02 {#ac9he9k02}
 
 how economic decision-making involves the interdependence of consumers, businesses, the financial sector and government
 
@@ -41,7 +41,7 @@ how economic decision-making involves the interdependence of consumers, business
 *  analysing the implications of interdependence within the global economy for Australian consumers, workers and businesses; for example, costs of the product or service and impacts of disruption or changes to regulations in another country
 *  identifying examples and explaining how changes to a nation’s economic conditions affects other nations; for example, rising unemployment affects consumer demand in one country and impacts the exports of goods and services in another country
 
-##### AC9HE9K03
+##### AC9HE9K03 {#ac9he9k03}
 
 the reasons Australia trades with other nations, and the patterns of trade between Australia and Asia
 
@@ -52,7 +52,7 @@ the reasons Australia trades with other nations, and the patterns of trade betwe
 *  identifying similarities and differences or trends in the composition and direction of trade between Australia and Asia now and 50 years ago
 *  explaining the interdependent nature of trade between Australia and the countries of Asia
 
-##### AC9HE9K04
+##### AC9HE9K04 {#ac9he9k04}
 
 processes that businesses use to create and maintain competitive advantage, including the role of entrepreneurs
 
@@ -64,7 +64,7 @@ processes that businesses use to create and maintain competitive advantage, incl
 *  explaining processes that businesses use to produce goods and services at a lower cost, such as research and development; improving efficiency in development, production or delivery processes; utilising local resources, and outsourced labour in the global economy
 *  explaining processes that businesses use to innovate and differentiate products and services from competitors; for example, identifiable marketable attributes, and use of advertising and social media
 
-##### AC9HE9K05
+##### AC9HE9K05 {#ac9he9k05}
 
 how individuals and businesses manage consumer and financial risks and rewards
 
@@ -75,11 +75,11 @@ how individuals and businesses manage consumer and financial risks and rewards
 *  identifying and explaining practices used by businesses to protect the safety of consumers; for example, mandatory and voluntary standards, product safety recalls or cooling-off periods
 *  reflecting on the importance of ethical decision-making and corporate social responsibility when making consumer and financial decisions; for example, considering consequences for themselves, their families, the broader community and/or the environment
 
-### Skills
+### Skills {#skills}
 
-#### Questioning and researching
+#### Questioning and researching {#questioning-and-researching}
 
-##### AC9HE9S01
+##### AC9HE9S01 {#ac9he9s01}
 
 develop and modify questions to investigate a contemporary economic and business issue
 
@@ -87,7 +87,7 @@ develop and modify questions to investigate a contemporary economic and business
 *  developing questions to investigate a complex issue, such as “How do participants in the global economy interact?” and “Why does international trade benefit Australian society?”
 *  developing and modifying questions to improve the focus of an investigation, using economic and business concepts and terms such as, “How can consumers protect themselves from risk?” and “How do businesses create and maintain a competitive advantage?”
 
-##### AC9HE9S02
+##### AC9HE9S02 {#ac9he9s02}
 
 locate, select and analyse information and data from a range of sources
 
@@ -97,9 +97,9 @@ locate, select and analyse information and data from a range of sources
 *  selecting and analysing information and data for reliability by asking questions such as “How and when was it collected?”, “Who collected the data?” and “For what purpose was the data collected?”
 *  selecting and presenting data in appropriate formats using specialised digital tools and processes; for example, a table and graph showing the composition and direction of trade between Australia and Asia
 
-#### Interpreting and analysing
+#### Interpreting and analysing {#interpreting-and-analysing}
 
-##### AC9HE9S03
+##### AC9HE9S03 {#ac9he9s03}
 
 interpret information and data, explaining economic and business issues, trends and economic cause-and-effect relationships, and make predictions about consumer and financial impacts
 
@@ -109,9 +109,9 @@ interpret information and data, explaining economic and business issues, trends 
 *  explaining relationships between the actions of individuals and businesses; for example, the way businesses operate in the global economy and implications for the Australian market
 *  explaining trends to make predictions about who will be affected and how; for example, the trend for money lost in scams and age groups most affected, and predictions about how it will affect the behaviour of individuals and businesses
 
-#### Evaluating, concluding and decision-making
+#### Evaluating, concluding and decision-making {#evaluating-concluding-and-decision-making}
 
-##### AC9HE9S04
+##### AC9HE9S04 {#ac9he9s04}
 
 develop and evaluate a response to an economic and business issue, using cost-benefit analysis or criteria to decide on a course of action
 
@@ -121,9 +121,9 @@ develop and evaluate a response to an economic and business issue, using cost-be
 *  developing processes that consider the results of a cost-benefit analysis; for example, processes used by businesses to remain competitive in the global market
 *  selecting and justifying a preferred response using criteria such as consideration of consumer and financial risk
 
-#### Communicating
+#### Communicating {#communicating}
 
-##### AC9HE9S05
+##### AC9HE9S05 {#ac9he9s05}
 
 create descriptions, explanations and arguments, using economic and business knowledge, concepts and terms that incorporate and acknowledge research findings
 
@@ -132,7 +132,7 @@ create descriptions, explanations and arguments, using economic and business kno
 *  explaining decisions and conclusions related to an economic or business issue supported by representations of relevant data; for example, visual displays, a graphic organiser or tables and graphs, and research in a range of formats such as explanations, procedures or reports
 *  presenting a reasoned argument in relation to an economic or business issue, applying tone appropriate to the purpose; for example, using an authoritative tone when explaining trends in data to an audience such as peers or representatives of a business
 
-## Achievement Standards
+## Achievement Standards {#achievement-standards}
 
 By the end of Year 9, students explain the role of Australia’s financial sector and its effect on economic decision-making by individuals and businesses. They explain the interdependence of participants in the global market and the effect on economic decision-making. They explain the reasons for trade and Australia’s pattern of trade with Asia. They explain why businesses seek to create and maintain a competitive advantage. Students explain how individuals and businesses manage consumer and financial risks and rewards.
 

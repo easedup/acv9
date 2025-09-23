@@ -1,6 +1,6 @@
-# Technologies - Digital Technologies - Foundation Year
+# Digital Technologies - Foundation Year {#digital-technologies-foundation-year}
 
-## Level Description
+## Level Description {#level-description}
 
 Learning in Digital Technologies builds on the Early Years Learning Framework and each student’s prior learning and experiences.
 
@@ -10,13 +10,13 @@ Through Digital Technologies and Mathematics (_Statistics_), students have oppor
 
 In Digital Technologies, students should have frequent opportunities for authentic learning by making key connections with other learning areas.
 
-## Strands
+## Strands {#strands}
 
-### Knowledge and understanding
+### Knowledge and understanding {#knowledge-and-understanding}
 
-#### Digital systems
+#### Digital systems {#digital-systems}
 
-##### AC9TDIFK01
+##### AC9TDIFK01 {#ac9tdifk01}
 
 recognise and explore digital systems (hardware and software) for a purpose
 
@@ -27,9 +27,9 @@ recognise and explore digital systems (hardware and software) for a purpose
 *  taking photos, with permission, to share with others, for example close-up photos of First Nations Australians' material culture, such as woven mats or baskets revealing intricate detail
 *  making a model of a digital system, using it in a role-play scenario and describing its features, for example a cardboard box with a keyboard and screen with app icons
 
-#### Data representation
+#### Data representation {#data-representation}
 
-##### AC9TDIFK02
+##### AC9TDIFK02 {#ac9tdifk02}
 
 represent data as objects, pictures and symbols
 
@@ -38,11 +38,11 @@ represent data as objects, pictures and symbols
 *  using coloured blocks to represent an attribute of people, for example representing students and their sports houses with different coloured blocks
 *  using a symbol to represent an idea, but knowing that the symbol is not the data itself, for example the symbols and colour on both the Australian Aboriginal flag and the Torres Strait Islander flag
 
-### Processes and production skills
+### Processes and production skills {#processes-and-production-skills}
 
-#### Privacy and security
+#### Privacy and security {#privacy-and-security}
 
-##### AC9TDIFP01
+##### AC9TDIFP01 {#ac9tdifp01}
 
 identify some data that is personal and owned by them
 
@@ -50,7 +50,7 @@ identify some data that is personal and owned by them
 *  listing things that contain personal and public data, for example photos of themselves with their family (private) and photos of local community sites (public)
 *  identifying apps and websites they use where their personal data could be made visible, for example photos of themselves on parents' or carers’ social media, or their username being shown to others in online games
 
-## Achievement Standards
+## Achievement Standards {#achievement-standards}
 
 By the end of Foundation students show familiarity with digital systems and use them for a purpose. They represent data using objects, pictures and symbols and identify examples of data that is owned by them.
 

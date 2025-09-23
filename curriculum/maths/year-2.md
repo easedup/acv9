@@ -1,6 +1,6 @@
-# Mathematics - Year 2
+# Mathematics - Year 2 {#mathematics-year-2}
 
-## Level Description
+## Level Description {#level-description}
 
 In Year 2, learning in Mathematics builds on each student's prior learning and experiences. Students engage in a range of approaches to learning and doing mathematics that develop their understanding of and fluency with concepts, procedures and processes by making connections, reasoning, problem-solving and practice. Proficiency in mathematics enables students to respond to familiar and unfamiliar situations by employing mathematical strategies to make informed decisions and solve problems efficiently.
 
@@ -18,11 +18,11 @@ Students further develop proficiency with positive dispositions towards mathemat
 *   build the foundations for statistical inquiry by choosing questions based on their interests as they collect, represent, and interpret data, and recognise features of different representations
 *   develop a sense of equivalence, chance and variability when they engage in play-based and practical activities
 
-## Strands
+## Strands {#strands}
 
-### Number
+### Number {#number}
 
-##### AC9M2N01
+##### AC9M2N01 {#ac9m2n01}
 
 recognise, represent and order numbers to at least 1000 using physical and virtual materials, numerals and number lines
 
@@ -32,7 +32,7 @@ recognise, represent and order numbers to at least 1000 using physical and virtu
 *  reading and writing numerals, and saying and ordering two-, three- and four-digit numbers using patterns in the number system, including numbers with zeros in different places, and numbers that look and sound similar such as \(808, 880, 818\) and \(881\)
 *  collecting large quantities of materials for recycling; for example, ring pulls, bottle tops and bread tags, and grouping them into ones, tens and hundreds; using the materials to show different representations of two- and three-digit numbers
 
-##### AC9M2N02
+##### AC9M2N02 {#ac9m2n02}
 
 partition, rearrange, regroup and rename two- and three-digit numbers using standard and non-standard groupings; recognise the role of a zero digit in place value notation
 
@@ -40,7 +40,7 @@ partition, rearrange, regroup and rename two- and three-digit numbers using stan
 *  comparing the digits of a number with materials grouped into hundreds, tens and ones, and explaining the meaning of each of the digits in the materials
 *  renaming numbers in different ways using knowledge of place value; for example, renaming \(245\) as \(24\) tens and \(5\) ones or \(2\) hundreds and \(45\) ones
 
-##### AC9M2N03
+##### AC9M2N03 {#ac9m2n03}
 
 recognise and describe one-half as one of 2 equal parts of a whole and connect halves, quarters and eighths through repeated halving
 
@@ -50,7 +50,7 @@ recognise and describe one-half as one of 2 equal parts of a whole and connect h
 *  using repeated halving to subdivide shapes and objects in different ways to make corresponding halves, quarters and eighths; naming the parts and comparing the size of them to notice that they are all the same size, and demonstrating that a quarter is a half of a half and that an eighth is a half of a quarter
 *  dividing a shape into equal parts and relating the number of parts to the unit fraction; for example, if there are \(4\) equal parts then each part is a one-quarter and if there are \(8\) equal parts then each is one-eighth
 
-##### AC9M2N04
+##### AC9M2N04 {#ac9m2n04}
 
 add and subtract one- and two-digit numbers, representing problems using number sentences, and solve using part-part-whole reasoning and a variety of calculation strategies
 
@@ -62,7 +62,7 @@ add and subtract one- and two-digit numbers, representing problems using number 
 *  using a physical or mental number line or hundreds chart to solve addition or subtraction problems, by moving along or up and down in tens and ones; for example, “I was given a \(\$100\) gift card for my birthday and spent \(\$38\) on a pair of shoes and \(\$15\) on a t-shirt. How much money do I have left on the card?”
 *  using First Nations Australians’ stories and dances to understand the balance and connection between addition and subtraction, representing relationships as number sentences 
 
-##### AC9M2N05
+##### AC9M2N05 {#ac9m2n05}
 
 multiply and divide by one-digit numbers using repeated addition, equal grouping, arrays, and partitioning to support a variety of calculation strategies
 
@@ -73,7 +73,7 @@ multiply and divide by one-digit numbers using repeated addition, equal grouping
 *  using a Think Board to solve partition and quotition division problems; for example, sharing a prize of \(\$36\) between \(4\) people, using materials, a diagram and skip counting to find the answer; explaining whether the answer \(9\) refers to people or dollars
 *  using materials or diagrams, and skip counting to solve repeated equal quantity multiplication problems; for example, “Four trays of biscuits with \(6\) on each tray, how many biscuits are there?”; writing a repeated addition number sentence and using skip counting to solve
 
-##### AC9M2N06
+##### AC9M2N06 {#ac9m2n06}
 
 use mathematical modelling to solve practical problems involving additive and multiplicative situations, including money transactions; represent situations and choose calculation strategies; interpret and communicate solutions in terms of the situation
 
@@ -84,9 +84,9 @@ use mathematical modelling to solve practical problems involving additive and mu
 *  modelling and solving the problem “How many days are there left in this year?” by using a calendar
 *  modelling problems involving equal grouping and sharing in First Nations Australian children’s instructive games; for example, Yangamini from the Tiwi Island Peoples, representing relationships with a number sentence and interpreting and communicating solutions in terms of the context
 
-### Algebra
+### Algebra {#algebra}
 
-##### AC9M2A01
+##### AC9M2A01 {#ac9m2a01}
 
 recognise, describe and create additive patterns that increase or decrease by a constant amount, using numbers, shapes and objects, and identify missing elements in the pattern
 
@@ -97,7 +97,7 @@ recognise, describe and create additive patterns that increase or decrease by a 
 *  using dynamic geometric software or a generative artificial intelligence tool to create patterns that increase or decrease by a constant amount; for example, creating a geometric pattern using shapes, that adds the same number of elements to the pattern as the pattern increases, and discussing what instructions they input to achieve the output
 *  recognising additive patterns in the environment on Country/Place and in First Nations Australians’ material culture; representing them using drawings, coloured counters and numbers
 
-##### AC9M2A02
+##### AC9M2A02 {#ac9m2a02}
 
 recall and demonstrate proficiency with addition facts to 20; extend and apply facts to develop related subtraction facts
 
@@ -106,7 +106,7 @@ recall and demonstrate proficiency with addition facts to 20; extend and apply f
 *  partitioning and rearranging collections to practice and develop fluency with addition and subtraction facts to \(20\) leading to the recall of these facts; for example, partitioning using materials and part-part-whole diagrams to develop subtraction facts related to addition facts, such as \(8 + 7 = 15\) therefore, \(15\space – \space7 = 8\) and \(15 \space– \space8 = 7\)
 *  using partitioning to develop and record facts systematically; for example, “How many ways can \(10\) birds be spread among \(2\) trees?”, \(10 = 10 + 0\), \(10 = 9 + 1\), \(10 = 8 + 2\), \(10 = 7 + 3\), …; explaining how they know they have found all possible partitions
 
-##### AC9M2A03
+##### AC9M2A03 {#ac9m2a03}
 
 recall and demonstrate proficiency with multiplication facts for twos; extend and apply facts to develop the related division facts using doubling and halving
 
@@ -116,9 +116,9 @@ recall and demonstrate proficiency with multiplication facts for twos; extend an
 *  establishing an understanding of doubles and near doubles using physical or virtual manipulatives; for example, using manipulatives to establish that doubling \(5\) gives you \(10\) then extending this doubling fact to respond to the question, “How can you use this fact to double \(6\) or double \(4\)?”
 *  develop fluency with doubling and halving numbers within \(20\) using physical or virtual materials and playing doubling and halving games; for example, using a physical or virtual dice and choosing whether to double or halve to reach a target number
 
-### Measurement
+### Measurement {#measurement}
 
-##### AC9M2M01
+##### AC9M2M01 {#ac9m2m01}
 
 measure and compare objects based on length, capacity and mass using appropriate uniform informal units and smaller units for accuracy when necessary
 
@@ -130,7 +130,7 @@ measure and compare objects based on length, capacity and mass using appropriate
 *  investigating First Nations Australians’ use of body parts, such as hands, as uniform informal units of measurement used to measure and compare objects; for example, in the manufacturing of nets for a particular purpose
 *  investigating and comparing measurable attributes that are interpreted by First Nations Australians to understand animal behaviour such as the length, width and depth of animal tracks
 
-##### AC9M2M02
+##### AC9M2M02 {#ac9m2m02}
 
 identify common uses and represent halves, quarters and eighths in relation to shapes, objects and events
 
@@ -141,7 +141,7 @@ identify common uses and represent halves, quarters and eighths in relation to s
 *  recognising that halves and quarters can be used to describe lengths, positions and distances; for example, describing the halfway point in a race or instructing someone to stand halfway between the \(2\) chairs
 *  discussing that halves and quarters are used to describe duration of time in sporting events, durations of time and what it means; for example, how the sirens used during an Australian Rules Football game represent quarters and half time during the game; recognising and using half or quarter of an hour to describe a duration of time
 
-##### AC9M2M03
+##### AC9M2M03 {#ac9m2m03}
 
 identify the date and determine the number of days between events using calendars
 
@@ -151,7 +151,7 @@ identify the date and determine the number of days between events using calendar
 *  using addition and a calendar to model and solve the problem “How many days there are in left in this year?” by identifying the number days of left in this month and in each of the remaining months, and using addition to model and solve the problem
 *  identifying and locating specific days or dates on a calendar; for example, school holidays, sports days, ANZAC Day, Easter, Diwali or Ramadan
 
-##### AC9M2M04
+##### AC9M2M04 {#ac9m2m04}
 
 recognise and read the time represented on an analog clock to the hour, half-hour and quarter-hour
 
@@ -160,7 +160,7 @@ recognise and read the time represented on an analog clock to the hour, half-hou
 *  recognising and describing the relationship between the movement of the hands on an analog clock and the duration of time it represents; for example, connecting the language of “half past” to mean when the “big hand” will be at half past the hour and recognising this position as being halfway around its full cycle
 *  dividing a clockface into halves and quarters, and connecting the subdivisions with telling the time to the half and quarter hour; explaining the meaning of “quarter past” and “quarter to” referring to the hour
 
-##### AC9M2M05
+##### AC9M2M05 {#ac9m2m05}
 
 identify, describe and demonstrate quarter, half, three-quarter and full measures of turn in everyday situations
 
@@ -170,9 +170,9 @@ identify, describe and demonstrate quarter, half, three-quarter and full measure
 *  investigating hands turning on a clock and relating quarter, half and full hours to angles and the language of clockwise or anti-clockwise
 *  giving or following directions to locate an object in the room, or provide a pathway through a grid, such as programming a robot, referring to quarter, half, three-quarter and full turns
 
-### Space
+### Space {#space}
 
-##### AC9M2SP01
+##### AC9M2SP01 {#ac9m2sp01}
 
 recognise, compare and classify shapes, referencing the number of sides and using spatial terms such as “opposite”, “parallel”, “curved” and “straight”
 
@@ -182,7 +182,7 @@ recognise, compare and classify shapes, referencing the number of sides and usin
 *  investigating the shapes of different sporting fields, describing and labelling their features including side lines, centre circles and goal squares; for example, labelling the lines on a basketball court and using spatial terms to describe them
 *  creating regular shapes using digital tools, describing and observing what happens when you manipulate them; for example, dragging or pushing vertices to produce irregular shapes, moving or rotating a shape
 
-##### AC9M2SP02
+##### AC9M2SP02 {#ac9m2sp02}
 
 locate positions in two-dimensional representations of a familiar space; move positions by following directions and pathways
 
@@ -193,9 +193,9 @@ locate positions in two-dimensional representations of a familiar space; move po
 *  following and creating movement instructions that need to be carried out to move through a \(4 \times 4\) grid mat on the classroom floor or on a computer screen; for example, one forward, \(2\) to the right and one backwards, and so on to reach a target square; using a robotic toy to follow a path on a street scene on a floor mat, adjusting their directions as they consider the order of their instructions, the direction and how far they want the toy to travel
 *  moving around a two-dimensional maze using directional language to describe turns and changes in direction including saying, for example, “clockwise”, “anticlockwise”, “quarter turn to the left”, and “take the path to the right”
 
-### Statistics
+### Statistics {#statistics}
 
-##### AC9M2ST01
+##### AC9M2ST01 {#ac9m2st01}
 
 acquire data for categorical variables through surveys, observation, experiment and using digital tools; sort data into relevant categories and display data using lists and tables
 
@@ -206,7 +206,7 @@ acquire data for categorical variables through surveys, observation, experiment 
 *  observing events and using the observations to design a table or list to record data; for example, observing students arriving at school prior to deciding the appropriate data categories for investigating the different ways students get to school
 *  exploring the ways First Nations Australians observe, collect, sort and record data
 
-##### AC9M2ST02
+##### AC9M2ST02 {#ac9m2st02}
 
 create different graphical representations of data using software where appropriate; compare the different representations, identify and describe common and distinctive features in response to questions
 
@@ -217,7 +217,7 @@ create different graphical representations of data using software where appropri
 *  comparing picture graphs with one-to-one column graphs of the same data, interpreting the data in each and saying how they are the same and how they are different; for example, collecting data on the country of birth of each student and creating different pictographs to represent classroom data
 *  using dot plots, sticker charts, picture graphs, bar charts and column graphs to represent data
 
-## Achievement Standards
+## Achievement Standards {#achievement-standards}
 
 In Year 2, learning in Mathematics builds on each student's prior learning and experiences. Students engage in a range of approaches to learning and doing mathematics that develop their understanding of and fluency with concepts, procedures and processes by making connections, reasoning, problem-solving and practice. Proficiency in mathematics enables students to respond to familiar and unfamiliar situations by employing mathematical strategies to make informed decisions and solve problems efficiently.
 

@@ -1,6 +1,6 @@
-# Humanities and Social Sciences - History 7-10 - Year 10
+# History - Year 10 {#history-year-10}
 
-## Level Description
+## Level Description {#level-description}
 
 The Year 10 curriculum provides a study of the history of the modern world and Australia from 1918 to the present, with an emphasis on Australia in its global context. The 20th century became a critical period in Australia’s social, political, economic, cultural, environmental and political development. The transformation of the modern world during a time of political turmoil, global conflict and international cooperation provides a necessary context for understanding Australia’s development, its place within the Asia-Pacific region and its global standing, and the demands for rights and recognition by First Nations Australians.
 
@@ -16,13 +16,13 @@ Inquiry questions provide a framework for developing students’ knowledge, unde
 *   What were the perspectives of people at the time? How did these perspectives change?
 *   What are the contested debates and reasons for different historical interpretations?
 
-## Strands
+## Strands {#strands}
 
-### Knowledge and understanding
+### Knowledge and understanding {#knowledge-and-understanding}
 
-#### Second World War
+#### Second World War {#second-world-war}
 
-##### AC9HH10K01
+##### AC9HH10K01 {#ac9hh10k01}
 
 the causes, outbreak and course of the Second World War and the significance of Australian involvement
 
@@ -32,7 +32,7 @@ the causes, outbreak and course of the Second World War and the significance of 
 *  investigating the causes of the effects of the Treaty of Versailles on Germany, the structural weaknesses of the League of Nations, the rise of fascist and militarist regimes, and the failure of appeasement policies
 *  examining the reasons for Australia’s involvement in the Second World War, and the responses to the conflicts of prime minister Robert Menzies, “Australia is also at war” and prime minister John Curtin, “Australia looks to America”
 
-##### AC9HH10K02
+##### AC9HH10K02 {#ac9hh10k02}
 
 the places where Australians fought, and their perspectives and experiences during the Second World War, such as the fall of Singapore, prisoners of war (POWs), the Battle of Britain and Kokoda
 
@@ -42,7 +42,7 @@ the places where Australians fought, and their perspectives and experiences duri
 *  comparing the experiences of various prisoners of war (POWs), such as the treatment of Australian POWs under German and Japanese control
 *  examining the perspectives of particular groups of POWs, such as those in camps in Ambon or Rabaul, those used as forced labour on the Thai–Burma Railway, or army nurses captured in Singapore
 
-##### AC9HH10K03
+##### AC9HH10K03 {#ac9hh10k03}
 
 the significant events and turning points of the Second World War, including the Holocaust and use of the atomic bomb
 
@@ -55,7 +55,7 @@ the significant events and turning points of the Second World War, including the
 *  identifying the race to build the atomic bomb by Germany, Japan and the USA, and analysing why the atomic bombs were dropped on Hiroshima and Nagasaki
 *  investigating the effects of the atomic bombs on Hiroshima and Nagasaki, including short- and long-term effects on human health, and short- and long-term environmental effects on the cities and surrounding areas
 
-##### AC9HH10K04
+##### AC9HH10K04 {#ac9hh10k04}
 
 the effects of the Second World War, with a particular emphasis on the continuities and changes on the Australian home front, such as the changing roles of women and First Nations Australians, and the use of wartime government controls
 
@@ -68,7 +68,7 @@ the effects of the Second World War, with a particular emphasis on the continuit
 *  examining the reasons for the Australian Government changing its views on including First Nations Australians in the defence forces, such as the critical shortage of soldiers, Torres Strait Light Infantry Battalion established in 1941 and specialised work undertaken by First Nations Australians; for example, the Nackeroos and the Northern Territory Special Reconnaissance Unit
 *  examining the changing roles of First Nations Australian men and women working as civilians for the army during the Second World War, such as increased employment opportunities in domestic work in hospitals, ammunition stacking, timber cutting and cement works, maintaining gardens, slaughtering cattle, and assembling and clearing gearboxes
 
-##### AC9HH10K05
+##### AC9HH10K05 {#ac9hh10k05}
 
 the significance of the Second World War to Australia’s immediate post-war economic, political and social development, and Australia’s international relationships in the 20th century
 
@@ -79,7 +79,7 @@ the significance of the Second World War to Australia’s immediate post-war eco
 *  describing the involvement of Australia in the founding of the United Nations, such as the roles played by HV Evatt and Jessie Street in drafting the charter of the United Nations
 *  investigating the impact of the significant wave of post-war European and Asian migration, including the Colombo Plan, and views about race, including attitudes towards First Nations Australians
 
-##### AC9HH10K06
+##### AC9HH10K06 {#ac9hh10k06}
 
 the commemoration of the Second World War, including different historical interpretations and debates
 
@@ -87,9 +87,9 @@ the commemoration of the Second World War, including different historical interp
 *  analysing the debate over the Battle for Australia 1942 and its commemoration since 2008
 *  discussing the commemoration of Kokoda, including the debate about the appropriateness of hiking the Kokoda trail today as a form of commemoration
 
-#### Building modern Australia
+#### Building modern Australia {#building-modern-australia}
 
-##### AC9HH10K07
+##### AC9HH10K07 {#ac9hh10k07}
 
 the effects of significant post–Second World War world events, ideas and developments on Australian society
 
@@ -98,7 +98,7 @@ the effects of significant post–Second World War world events, ideas and devel
 *  describing the main features of a government policy that affected migration to Australia, such as the government’s “populate or perish” policy and the “White Australia” policy
 *  investigating the nature of the waves of migration (for example, from Europe in the 1950s–1960s, from different parts of Asia in the 1970s–2000s, from the Middle East in the 1980s–1990s, from India in the 1990s–2000s or from Africa in the 2000s), the numbers of migrants from those countries since the Second World War and the reasons for those migrations, including push factors such as the effects of war, economic downturns or social upheaval, and pull factors such as Australia’s peaceful democracy and economic and educational opportunities
 
-##### AC9HH10K08
+##### AC9HH10K08 {#ac9hh10k08}
 
 the causes of changes in perspectives, responses, beliefs and values on migration that have influenced Australian society since 1945
 
@@ -109,7 +109,7 @@ the causes of changes in perspectives, responses, beliefs and values on migratio
 *  discussing the debate over multiculturalism that arose in the 1980s
 *  discussing how debates over different aspects of Australia’s immigration and border protection policies have changed over time in light of international events, including consideration of issues such as mandatory detention of asylum seekers, humanitarian migration, business and skilled migration, and temporary protection visas, from the early 1990s to the present day
 
-##### AC9HH10K09
+##### AC9HH10K09 {#ac9hh10k09}
 
 the causes of First Nations Australians' campaigns for rights and freedoms before 1965, such as discriminatory legislation and policies, the 1938 Day of Mourning and the Stolen Generations
 
@@ -118,7 +118,7 @@ the causes of First Nations Australians' campaigns for rights and freedoms befor
 *  explaining the significance of the 1938 Day of Mourning in the campaigns of First Nations Australians for rights and freedoms, including the significance of 26 January 1938 (150 years since the arrival of the First Fleet) and the national Indigenous rights meeting
 *  exploring accounts of the past experiences of First Nations Australians who were members of the Stolen Generations and how these experiences influenced the civil rights movement in Australia from the 1960s through to the present day
 
-##### AC9HH10K10
+##### AC9HH10K10 {#ac9hh10k10}
 
 the contributions of significant individuals and groups in the campaign for the recognition of the rights of First Nations Australians and the extent to which they brought change to Australian society
 
@@ -128,7 +128,7 @@ the contributions of significant individuals and groups in the campaign for the 
 *  examining the role of Christian, union and labour groups in the movement for First Nations Australians' rights and freedoms, including the foundation of the National Day of Mourning
 *  examining the ways some First Nations Australians’ embracing of Christianity and Islam has interacted with their beliefs, identity and political freedoms
 
-##### AC9HH10K11
+##### AC9HH10K11 {#ac9hh10k11}
 
 the significant events and methods in the movement for the civil rights of First Nations Australians and the extent to which they contributed to change
 
@@ -139,7 +139,7 @@ the significant events and methods in the movement for the civil rights of First
 *  discussing how Reconciliation is not a single significant event or change, but an ongoing process of truth-telling and healing between First Nations Australians and other Australians
 *  investigating the Mabo case and the significance of this event’s contribution to understanding of terra nullius and the land rights movement for First Nations Australians
 
-##### AC9HH10K12
+##### AC9HH10K12 {#ac9hh10k12}
 
 the significant events, individuals and groups in the women’s movement in Australia, and how they have changed the role and status of women
 
@@ -147,7 +147,7 @@ the significant events, individuals and groups in the women’s movement in Aust
 *  <p>investigating events connected to the changing roles and rights of women in the workforce since 1945 such as the repeal of the “marriage bar”, the <em>Sex Discrimination Act 1984</em>, the changing nature of participation in employment and the gender pay gap</p>
 *  examining the contributions of significant female leaders in Australian public life; for example, political leaders and activists, social reformers, sporting identities, artists and entertainers
 
-##### AC9HH10K13
+##### AC9HH10K13 {#ac9hh10k13}
 
 the continuing efforts to create change in the civil rights and freedoms in Australia, for First Nations Australians, migrants and women
 
@@ -157,9 +157,9 @@ the continuing efforts to create change in the civil rights and freedoms in Aust
 *  <p>investigating the changes in government policy in relation to migrants and how these policies have reflected and impacted on Australia’s changing place in the world; for example, the <em>Racial Discrimination Act 1975</em></p>
 *  examining the ideas in and Australia’s responsibilities as a signatory to the United Nations Declaration of the Rights of Indigenous Peoples (UNDRIP) (2007) and discussing how it influences calls for recognising the rights of First Nations Australians and First Peoples in other countries
 
-#### The globalising world
+#### The globalising world {#the-globalising-world}
 
-##### AC9HH10K14
+##### AC9HH10K14 {#ac9hh10k14}
 
 changing historical perspectives over time in relation to the developments in technology, public health, longevity, standard of living in the 20th century, and concern for the environment and sustainability
 
@@ -168,7 +168,7 @@ changing historical perspectives over time in relation to the developments in te
 *  discussing the growth in the world’s population during the 20th century, including life expectancy changes in different parts of the world, and the depletion of natural resources
 *  identifying how the rise of the environmental movement around the world has changed people’s perspectives on things such as developments in renewable energy technology and sustainability measures such as recycling
 
-##### AC9HH10K15
+##### AC9HH10K15 {#ac9hh10k15}
 
 the origins and significance of the Universal Declaration of Human Rights, including Australia’s involvement in the development of the declaration
 
@@ -176,7 +176,7 @@ the origins and significance of the Universal Declaration of Human Rights, inclu
 *  describing the causes of the development of the Universal Declaration of Human Rights, such as the atrocities of the Holocaust, the immense scale of destruction and displacement because of Second World War
 *  investigating the present significance of the Universal Declaration of Human Rights
 
-##### AC9HH10K16
+##### AC9HH10K16 {#ac9hh10k16}
 
 causes and effects of the significant events and developments of the major global influences on Australia in the post-Second World War period
 
@@ -188,7 +188,7 @@ causes and effects of the significant events and developments of the major globa
 *  comparing views on the values and beliefs of rock ‘n’ roll, film and television across time, age and gender, such as issues of conservatism and rebellion, the challenge to established ideas and national identity
 *  analysing the causes and conditions that led to the environment movement and its effects on changing public opinion about protecting the environment, such as rapid population increase, urbanisation, increases in industrial pollution and waste, and species extinction
 
-##### AC9HH10K17
+##### AC9HH10K17 {#ac9hh10k17}
 
 changing social, political, economic, cultural, environmental and technological conditions, and the causes of a major global influence in Australia
 
@@ -202,7 +202,7 @@ changing social, political, economic, cultural, environmental and technological 
 *  identifying American and Asian influences on Australian popular culture since the Second World War, such as through mainstream Hollywood and Bollywood films, and the animation film industry in China and Japan
 *  investigating the changing contribution of the Australian rock ‘n’ roll, film and television industries to Australian culture and identity through the development and export of music, film and television
 
-##### AC9HH10K18
+##### AC9HH10K18 {#ac9hh10k18}
 
 continuities and changes in perspectives, responses, beliefs and values that have influenced the Australian way of life
 
@@ -212,7 +212,7 @@ continuities and changes in perspectives, responses, beliefs and values that hav
 *  comparing and contrasting the policies relating to engagement with the Asia-Pacific region of the governments led by prime minister Paul Keating (1991–1996) and prime minister John Howard (1996–2007) 
 *  examining the nature of religion in Australia; for example, the changing attitudes to religious practice, the increase of non-Christian religions and non-traditional Christian churches
 
-##### AC9HH10K19
+##### AC9HH10K19 {#ac9hh10k19}
 
 the effects of global influences on Australia’s changing identity as a nation and its international relationships
 
@@ -223,7 +223,7 @@ the effects of global influences on Australia’s changing identity as a nation 
 *  discussing the rising economic and political influence of countries such as China and India since the end of the Cold War
 *  examining the role of digital media, including social media, in shaping Australian society and connecting to global relationships
 
-##### AC9HH10K20
+##### AC9HH10K20 {#ac9hh10k20}
 
 different historical interpretations and debates during the second half of the 20th century
 
@@ -234,11 +234,11 @@ different historical interpretations and debates during the second half of the 2
 *  discussing the global debate over the use of nuclear energy from the 1960s to the present and its change over time, including arguments for and against its use as an alternative to fossil fuels, and the effects of nuclear disasters such as Three Mile Island (1979), Chernobyl (1986) and Fukushima Daiichi (2011)
 *  investigating the change in debate about climate change over time from the 1960s to the present
 
-### Skills
+### Skills {#skills}
 
-#### Questioning and researching
+#### Questioning and researching {#questioning-and-researching}
 
-##### AC9HH10S01
+##### AC9HH10S01 {#ac9hh10s01}
 
 develop and modify a range of historical questions about the past to inform historical inquiry
 
@@ -248,7 +248,7 @@ develop and modify a range of historical questions about the past to inform hist
 *  modifying a key question or related questions in an inquiry, depending on the suitability of the sources available
 *  determining whether a key question or related questions are too broad or narrow given the requirements of the investigation
 
-##### AC9HH10S02
+##### AC9HH10S02 {#ac9hh10s02}
 
 locate, identify and compare primary and secondary sources to use in a historical inquiry
 
@@ -257,9 +257,9 @@ locate, identify and compare primary and secondary sources to use in a historica
 *  identifying information in a primary or secondary source that matches the historical questions being asked
 *  comparing multiple primary or secondary sources and selecting the source/s most pertinent to the historical research being conducted
 
-#### Using historical sources
+#### Using historical sources {#using-historical-sources}
 
-##### AC9HH10S03
+##### AC9HH10S03 {#ac9hh10s03}
 
 identify the origin and content of sources, and explain the purpose and context of primary and secondary sources
 
@@ -268,7 +268,7 @@ identify the origin and content of sources, and explain the purpose and context 
 *  analysing the intent of the author and the features of the source to determine the purpose of the source
 *  describing stylistic elements of sources, such as artistic or architectural, to inform the meaning of sources
 
-##### AC9HH10S04
+##### AC9HH10S04 {#ac9hh10s04}
 
 explain the usefulness of primary and secondary sources, and the reliability of the information as evidence
 
@@ -280,9 +280,9 @@ explain the usefulness of primary and secondary sources, and the reliability of 
 *  determining whether or not the information in one historical source can be verified by information in another historical source
 *  comparing a range of historical sources and identifying similarities, differences and inconsistencies in interpretations
 
-#### Historical perspectives and interpretations
+#### Historical perspectives and interpretations {#historical-perspectives-and-interpretations}
 
-##### AC9HH10S05
+##### AC9HH10S05 {#ac9hh10s05}
 
 analyse cause and effect, and evaluate patterns of continuity and change
 
@@ -291,7 +291,7 @@ analyse cause and effect, and evaluate patterns of continuity and change
 *  organising a range of primary sources in chronological order to support the development of a historical argument about significant causes
 *  explaining the links between the main ideas, actions and individuals of an event, and drawing links between them by placing them in sequence; for example, sequencing the Freedom Rides campaigns in the USA and Australia, and explaining the links between the 2 campaigns
 
-##### AC9HH10S06
+##### AC9HH10S06 {#ac9hh10s06}
 
 compare perspectives in sources and explain how these are influenced by significant events, ideas, locations, beliefs and values
 
@@ -301,7 +301,7 @@ compare perspectives in sources and explain how these are influenced by signific
 *  analysing the views of men and women at different times regarding gender equality in Australia and explaining how these views might reflect changing values and attitudes
 *  explaining why some perspectives in the past may not have been recorded
 
-##### AC9HH10S07
+##### AC9HH10S07 {#ac9hh10s07}
 
 analyse different and contested historical interpretations
 
@@ -311,9 +311,9 @@ analyse different and contested historical interpretations
 *  analysing how historians have changed the way they interpret the event under investigation over time, such as a change in view with the discovery of more sources
 *  constructing a historical argument that identifies different possibilities in interpretation, organising ideas to build an argument, presents a particular point of view with consistent reference to the evidence available, and uses evaluative language
 
-#### Communicating
+#### Communicating {#communicating}
 
-##### AC9HH10S08
+##### AC9HH10S08 {#ac9hh10s08}
 
 create descriptions, explanations and historical arguments, using historical knowledge, concepts and terms that incorporate and acknowledge evidence from sources
 
@@ -323,7 +323,7 @@ create descriptions, explanations and historical arguments, using historical kno
 *  developing a historical explanation or interpretation, using historical concepts and terms to build understanding of context, significance, purpose and the impact of the event or development
 *  presenting a historical argument, such as essay, oral presentation, debate, interactive digital or non-digital display, online conference or forum incorporating evidence
 
-## Achievement Standards
+## Achievement Standards {#achievement-standards}
 
 By the end of Year 10, students explain the historical significance of the period between 1918 and the early 21st century. They explain the causes and effects of events, developments, turning points or movements in 20th century Australia and internationally, leading up to and through the Second World War, and the post-war world. They describe social, cultural, economic and/or political aspects, including international developments, related to the changes and continuities in Australian society over this historical period. Students explain the role of significant ideas, individuals, groups and institutions connected to the developments of this period and their influences on Australian and global history.
 

@@ -1,29 +1,25 @@
-# The Arts - Visual Arts - Years 9 and 10
+# Visual Arts - Years 9 and 10 {#visual-arts-years-9-and-10}
 
-## Level Description
+## Level Description {#level-description}
 
 In this band, learning in Visual Arts continues to build on each student’s prior learning and experiences as students develop their capability and confidence across the practices of Visual Arts. They continue to use visual conventions, visual arts processes and materials in purposeful and creative ways that are informed by their engagement with the work of living visual artists, visual arts practices and arts spaces in local, regional, national and global contexts such as countries or regions in Asia, including use of visual arts in multi-arts, trans-disciplinary or hybrid forms. This awareness of the diversity of visual arts practices, forms, styles and representations informs their own visual arts practice. They work collaboratively with peers and teachers.
 
 In this band, the focus is on students:
 
 1.  exploring and responding to
+    *   artworks and visual arts practices from across cultures, times, places and/or other contexts; for example, through exploration of works in physical or virtual spaces or engagement with artists
+    *   ways artworks created by First Nations Australians celebrate and challenge multiple perspectives of Australian identity
+2.  developing practices and skills
+    *   building and extending creative practices and skills for visual arts practice, developing ideas and intentions, creating representations, and developing skills and techniques in specific visual arts processes
+    *   building and extending critical practices by taking opportunities to reflect, evaluate or respond to their own work and the work of others; for example, considering how to apply knowledge of visual arts practices in their work
+3.  creating artworks to communicate ideas, perspectives and meaning in 2D, 3D and/or 4D (time-based forms) and/or multi-disciplinary forms to communicate ideas and intentions using visual arts practices and materials
+4.  presenting artworks and practices to audiences; for example, curating exhibits of their work, as individual artists or by working collaboratively. This can include designing and preparing a space or developing supporting material such as artist statements.
 
-*   artworks and visual arts practices from across cultures, times, places and/or other contexts; for example, through exploration of works in physical or virtual spaces or engagement with artists
-*   ways artworks created by First Nations Australians celebrate and challenge multiple perspectives of Australian identity
+## Strands {#strands}
 
-3.  developing practices and skills
+### Exploring and responding {#exploring-and-responding}
 
-*   building and extending creative practices and skills for visual arts practice, developing ideas and intentions, creating representations, and developing skills and techniques in specific visual arts processes
-*   building and extending critical practices by taking opportunities to reflect, evaluate or respond to their own work and the work of others; for example, considering how to apply knowledge of visual arts practices in their work
-
-5.  creating artworks to communicate ideas, perspectives and meaning in 2D, 3D and/or 4D (time-based forms) and/or multi-disciplinary forms to communicate ideas and intentions using visual arts practices and materials
-6.  presenting artworks and practices to audiences; for example, curating exhibits of their work, as individual artists or by working collaboratively. This can include designing and preparing a space or developing supporting material such as artist statements.
-
-## Strands
-
-### Exploring and responding
-
-##### AC9AVA10E01
+##### AC9AVA10E01 {#ac9ava10e01}
 
 investigate the ways that artists across cultures, times, places and/or other contexts develop personal expression in their visual arts practice to represent, communicate and/or challenge ideas, perspectives and/or meaning
 
@@ -35,7 +31,7 @@ investigate the ways that artists across cultures, times, places and/or other co
 *  selecting different critical viewpoints to develop explanations about artists’ approaches and works at different times and in different contexts
 *  exploring the development of a visual arts form over time, considering the impact of globalisation, cultural practices, and new discoveries in materials and technologies; for example, wood block printing or photography
 
-##### AC9AVA10E02
+##### AC9AVA10E02 {#ac9ava10e02}
 
 investigate the ways that First Nations Australian artists celebrate and challenge multiple perspectives of Australian identity through their artworks and visual arts practice
 
@@ -47,9 +43,9 @@ investigate the ways that First Nations Australian artists celebrate and challen
 *  understanding ways that the arts provide opportunities for First Nations Australian artists and designers to continue and develop their culture
 *  investigating how First Nations Australian visual artists are caring for Country/Place, culture and people through the visual arts; for example, by working with representatives of the First Nations Australian community to explore how local groups are caring for the local environment and highlighting these issues through visual arts projects, such as campaigns that focus on environmental issues
 
-### Developing practices and skills
+### Developing practices and skills {#developing-practices-and-skills}
 
-##### AC9AVA10D01
+##### AC9AVA10D01 {#ac9ava10d01}
 
 experiment with visual conventions, visual arts processes and materials to refine skills and develop personal expression
 
@@ -61,7 +57,7 @@ experiment with visual conventions, visual arts processes and materials to refin
 *  documenting and evaluating their investigations of visual art processes, visual conventions and materials in a diary, portfolio or digital journal; for example, annotating the processes used and using Viewpoints to develop questions to deepen their understanding of the concepts explored or processes used, such as "Have I pushed and explored this idea, medium or technique as far as I can?", "What is the problem, and how can I find multiple possible solutions?", "What happens when I …?”, “What did I learn from this …?”, “How can it inform my future art-making?"
 *  drawing lines, shapes and arrows drawn over photocopies of artworks and using a code to demonstrate their understanding of the way the artist has composed the artwork to communicate meaning; for example, using lines to trace over an artwork to show composition techniques, such as rule of thirds, creating movement using diagonal and or curved lines, repetition and pattern, or the use of visual hierarchy to indicate how the viewer’s eye follows the layout of a designed product
 
-##### AC9AVA10D02
+##### AC9AVA10D02 {#ac9ava10d02}
 
 reflect on the way they and other visual artists respond to influences to inspire, develop and resolve choices they make in their own visual arts practice
 
@@ -73,9 +69,9 @@ reflect on the way they and other visual artists respond to influences to inspir
 *  exploring current issues that are of importance to them, such as global or local issues, as a starting point for generating and reflecting on ideas for artworks that explore themes/concepts such as sustainable futures, wellbeing and emotional health, or human rights issues
 *  investigating the ways that artists use their visual arts practice to explore, examine, resolve or represent personal experiences and expressions as a starting point to understand how they can use their own visual arts practice to explore and respectfully/safely represent personal issues, such as self-awareness, emotional awareness and personal wellbeing
 
-### Creating and making
+### Creating and making {#creating-and-making}
 
-##### AC9AVA10C01
+##### AC9AVA10C01 {#ac9ava10c01}
 
 evaluate critical feedback when planning, developing and refining their visual arts practice
 
@@ -86,7 +82,7 @@ evaluate critical feedback when planning, developing and refining their visual a
 *  evaluating and responding to feedback on works in process from teachers and peers, in discussions or reviews, and documenting their decisions and responses in written, oral or multimedia, physical or digital journals/diaries
 *  collaborating with other students, groups or agencies, such as community groups, to generate ideas for artworks on design or artistic projects for curated exhibitions or events
 
-##### AC9AVA10C02
+##### AC9AVA10C02 {#ac9ava10c02}
 
 select and manipulate visual conventions, visual arts processes and/or materials to create artworks that reflect personal expression, and represent and/or challenge, ideas, perspectives and/or meaning
 
@@ -98,9 +94,9 @@ select and manipulate visual conventions, visual arts processes and/or materials
 *  creating their own artworks in response to a specific subject, theme or idea, using material, techniques and conventions in intentional, interpretative and personal ways
 *  applying their knowledge and understanding of visual arts processes and materials to create artworks; for example, demonstrating understanding of sculptural techniques, space and form to create a site-specific 3D work, or a range of painting techniques to create the illusion of texture and form in a landscape painting
 
-### Presenting and performing
+### Presenting and performing {#presenting-and-performing}
 
-##### AC9AVA10P01
+##### AC9AVA10P01 {#ac9ava10p01}
 
 evaluate art exhibits to inform the curation and exhibition of their own and/or others’ artworks and/or visual arts practice
 
@@ -113,7 +109,7 @@ evaluate art exhibits to inform the curation and exhibition of their own and
 *  developing responses to exhibitions of work; for example, in written/oral/multimedia explanations or reviews, digital forms of presentations or in verbal/vocal discussions
 *  constructing explanations of how artists, designers, architects or craftspeople communicate ideas and meaning in artworks, written discussions, annotated images, debates or digital presentations; evaluating options/preferences and using similar approaches when creating their own work, and creating an artist statement or curatorial statement
 
-## Achievement Standards
+## Achievement Standards {#achievement-standards}
 
 In this band, learning in Visual Arts continues to build on each student’s prior learning and experiences as students develop their capability and confidence across the practices of Visual Arts. They continue to use visual conventions, visual arts processes and materials in purposeful and creative ways that are informed by their engagement with the work of living visual artists, visual arts practices and arts spaces in local, regional, national and global contexts such as countries or regions in Asia, including use of visual arts in multi-arts, trans-disciplinary or hybrid forms. This awareness of the diversity of visual arts practices, forms, styles and representations informs their own visual arts practice. They work collaboratively with peers and teachers.
 

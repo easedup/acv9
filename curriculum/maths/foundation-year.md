@@ -1,6 +1,6 @@
-# Mathematics - Foundation Year
+# Mathematics - Foundation Year {#mathematics-foundation-year}
 
-## Level Description
+## Level Description {#level-description}
 
 In Foundation, learning in Mathematics builds on the Early Years Learning Framework and each student’s prior learning and experiences. Students engage in a range of approaches to learning and doing mathematics that develop their understanding of and fluency with concepts, procedures and processes by making connections, reasoning, problem-solving and practice. Proficiency in mathematics enables students to respond to familiar and unfamiliar situations by employing mathematical strategies to make informed decisions and solve problems efficiently.
 
@@ -13,11 +13,11 @@ Students further develop proficiency and positive dispositions towards mathemati
 *   learn to recognise repetition in pattern sequences and apply this to creatively build repeating patterns in a range of contexts
 *   develop a sense of sameness, difference and change when they engage in play-based activities.
 
-## Strands
+## Strands {#strands}
 
-### Number
+### Number {#number}
 
-##### AC9MFN01
+##### AC9MFN01 {#ac9mfn01}
 
 name, represent and order numbers including zero to at least 20, using physical and virtual materials and numerals
 
@@ -28,7 +28,7 @@ name, represent and order numbers including zero to at least 20, using physical 
 *  recognising, writing and reading numerals written on familiar objects; for example, in images, text or illustrations in story books; writing a numeral on a container as a label to show how many objects it contains
 *  connecting quantities to number names and numerals when reading and reciting stories and playing counting games or determining and reasoning about the size of sets of objects within First Nation Australians’ instructive games; for example, Segur etug from Mer Island in the Torres Strait region
 
-##### AC9MFN02
+##### AC9MFN02 {#ac9mfn02}
 
 recognise and name the number of objects within a collection up to 5 using subitising
 
@@ -36,7 +36,7 @@ recognise and name the number of objects within a collection up to 5 using subit
 *  recognising how many objects are in a collection or in images on a card with a quick look and saying the associated number without counting
 *  playing instructive card games that rely on the recognition of numbers represented in different ways; for example, playing memory games, matching pairs of quantities on dot cards or similar where the arrangement on each is different; using subitising to compare and order collections and to say who has more when sharing items in a game
 
-##### AC9MFN03
+##### AC9MFN03 {#ac9mfn03}
 
 quantify and compare collections to at least 20 using counting and explain or demonstrate reasoning
 
@@ -47,7 +47,7 @@ quantify and compare collections to at least 20 using counting and explain or de
 *  discussing how different cultures may have alternative ways of representing the count; for example, discussing how people of the Asia region use an abacus or Chinese hand gestures
 *  using body-tallying that involves body parts and one-to-one correspondence from counting systems of First Nations Peoples of Australia, to count to \(20\)
 
-##### AC9MFN04
+##### AC9MFN04 {#ac9mfn04}
 
 partition and combine collections up to 10 using part-part-whole relationships and subitising to recognise and name the parts
 
@@ -57,7 +57,7 @@ partition and combine collections up to 10 using part-part-whole relationships a
 *  representing part-part-whole relationships in numbers up to \(10\) using physical or virtual materials; for example, identifying numbers represented by dots in standard number configurations such as dominos and dice by recognising parts that form the whole
 *  exploring number groupings in First Nations Australians’ counting systems and the different ways of representing these groupings to form and partition numbers, applying this to quantify collections of objects in the environment on Country/Place up to \(10\)
 
-##### AC9MFN05
+##### AC9MFN05 {#ac9mfn05}
 
 represent practical situations involving addition, subtraction and quantification with physical and virtual materials and use counting or subitising strategies
 
@@ -67,7 +67,7 @@ represent practical situations involving addition, subtraction and quantificatio
 *  representing situations expressed in First Nations Australians’ stories, such as “Tiddalick, the greedy frog”, that describe additive situations and their connections to Country/Place
 *  representing addition and subtraction situations found in leaf games involving sets of objects used to tell stories, such as games from the Warlpiri Peoples of Yuendumu in the Northern Territory
 
-##### AC9MFN06
+##### AC9MFN06 {#ac9mfn06}
 
 represent practical situations that involve equal sharing and grouping with physical and virtual materials and use counting or subitising strategies
 
@@ -76,9 +76,9 @@ represent practical situations that involve equal sharing and grouping with phys
 *  representing situations that involve counting several items; for example, \(9\) beads or \(6\) \(\$1\) coins, and sharing them equally between \(3\) people by subitising or counting each group by ones to decide how many beads or coins each person will receive
 *  exploring instructive games of First Nations Australians that involve sharing; for example, playing Yangamini of the Tiwi Peoples of Bathurst Island to investigate and discuss equal sharing
 
-### Algebra
+### Algebra {#algebra}
 
-##### AC9MFA01
+##### AC9MFA01 {#ac9mfa01}
 
 recognise, copy and continue repeating patterns represented in different ways
 
@@ -88,9 +88,9 @@ recognise, copy and continue repeating patterns represented in different ways
 *  recognising and discussing repeating patterns in images created using dynamic geometric software or a generative artificial intelligence tool, describing what has been repeated in the pattern
 *  recognising and describing repeating patterns that can be observed on Country/Place and in First Nation Australians artwork, cultural performances and material cultures; for example, shell and seed necklaces, dances and songs
 
-### Measurement
+### Measurement {#measurement}
 
-##### AC9MFM01
+##### AC9MFM01 {#ac9mfm01}
 
 identify and compare attributes of objects and events, including length, capacity, mass and duration, using direct comparisons and communicating reasoning
 
@@ -100,7 +100,7 @@ identify and compare attributes of objects and events, including length, capacit
 *  starting \(2\) events at the same time to decide which takes longer; for example, putting on a pair of sandals with buckles or Velcro, describing the duration using familiar terms and reasoning, “I took a longer time because I’m still learning to do up my buckles”
 *  directly comparing pairs of everyday objects from the kitchen pantry to say which is heavier/lighter; for example, hefting a tin of baked beans and a packet of marshmallows; comparing the same pair of objects to say which is longer/shorter and discussing comparisons
 
-##### AC9MFM02
+##### AC9MFM02 {#ac9mfm02}
 
 sequence days of the week and times of the day including morning, lunchtime, afternoon and night time, and connect them to familiar events and actions
 
@@ -111,9 +111,9 @@ sequence days of the week and times of the day including morning, lunchtime, aft
 *  creating, interpreting and discussing classroom rosters; for example, a roster for watering the classroom garden and asking, “Who watered the garden yesterday?” or “Whose turn is it today?”
 *  creating a pictorial diary to show the important events that happen on the various days of the week
 
-### Space
+### Space {#space}
 
-##### AC9MFSP01
+##### AC9MFSP01 {#ac9mfsp01}
 
 sort, name and create familiar shapes; recognise and describe familiar shapes within objects in the environment, giving reasons
 
@@ -124,7 +124,7 @@ sort, name and create familiar shapes; recognise and describe familiar shapes wi
 *  recognising and naming shapes that are (close to) rectangles, squares, triangles and circles in component parts of everyday items; for example, on bicycles, toy vehicles or kitchen pantry items
 *  describing and naming shapes within objects that can be observed on Country/Place, recreating and sorting into groups based on their shape
 
-##### AC9MFSP02
+##### AC9MFSP02 {#ac9mfsp02}
 
 describe the position and location of themselves and objects in relation to other people and objects within a familiar space
 
@@ -134,9 +134,9 @@ describe the position and location of themselves and objects in relation to othe
 *  describing the position of a robotic toy in relation to other objects as it moves around a familiar space; for example, describing the position of a robotic car as being under the desk or next to the chair
 *  exploring First Nations Australians’ instructive games; for example, Thapumpan from the Wik-Mungkan Peoples of Cape Bedford in north Queensland, describing position and movement of self in relation to other participants, objects or locations
 
-### Statistics
+### Statistics {#statistics}
 
-##### AC9MFST01
+##### AC9MFST01 {#ac9mfst01}
 
 collect, sort and compare data represented by objects and images in response to given investigative questions that relate to familiar situations
 
@@ -149,7 +149,7 @@ collect, sort and compare data represented by objects and images in response to 
 *  investigating statistical contexts after reading a story, such as "The Waterhole" by Graeme Base; asking and responding to questions like “What different animals did you see?”, “How many different types of animals were there?” or “Were there more tigers or kangaroos?”
 *  exploring what and how information from the environment is collected and used by First Nations Australians to predict weather events
 
-## Achievement Standards
+## Achievement Standards {#achievement-standards}
 
 In Foundation, learning in Mathematics builds on the Early Years Learning Framework and each student’s prior learning and experiences. Students engage in a range of approaches to learning and doing mathematics that develop their understanding of and fluency with concepts, procedures and processes by making connections, reasoning, problem-solving and practice. Proficiency in mathematics enables students to respond to familiar and unfamiliar situations by employing mathematical strategies to make informed decisions and solve problems efficiently.
 

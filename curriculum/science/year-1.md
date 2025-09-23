@@ -1,6 +1,6 @@
-# Science - Year 1
+# Science - Year 1 {#science-year-1}
 
-## Level Description
+## Level Description {#level-description}
 
 In Year 1 students extend their understanding of patterns by exploring patterns in daily and seasonal events, recognising that all living things share the same basic needs, and that objects can behave in predictable ways. They infer relationships from their observations and experiences and begin to link function with observable properties.
 
@@ -14,13 +14,13 @@ Inquiry questions can help excite students’ curiosity and challenge their thin
 *   How can we tell if something has changed?
 *   How does science help us care for ourselves and other living things?
 
-## Strands
+## Strands {#strands}
 
-### Science understanding
+### Science understanding {#science-understanding}
 
-#### Biological sciences
+#### Biological sciences {#biological-sciences}
 
-##### AC9S1U01
+##### AC9S1U01 {#ac9s1u01}
 
 identify the basic needs of plants and animals, including air, water, food or shelter, and describe how the places they live meet those needs
 
@@ -32,9 +32,9 @@ identify the basic needs of plants and animals, including air, water, food or sh
 *  recognising how First Nations Australians care for living things
 *  exploring why caring for plants and animals is important including as sources of food and fibre
 
-#### Earth and space sciences
+#### Earth and space sciences {#earth-and-space-sciences}
 
-##### AC9S1U02
+##### AC9S1U02 {#ac9s1u02}
 
 describe daily and seasonal changes in the environment and explore how these changes affect everyday life
 
@@ -47,9 +47,9 @@ describe daily and seasonal changes in the environment and explore how these cha
 *  recognising the extensive knowledges of daily and seasonal changes in weather patterns and landscape held by First Nations Australians
 *  exploring how First Nations Australians’ concepts of time and weather patterns explain how things happen in the world around them
 
-#### Physical sciences
+#### Physical sciences {#physical-sciences}
 
-##### AC9S1U03
+##### AC9S1U03 {#ac9s1u03}
 
 describe pushes and pulls in terms of strength and direction and predict the effect of these forces on objects’ motion and shape
 
@@ -62,11 +62,11 @@ describe pushes and pulls in terms of strength and direction and predict the eff
 *  investigating the push and pull movements of traditional First Nations Australians children’s instructive toys
 *  exploring how traditional Asian toys and games such as a kendama, Daruma Otoshi or shuttlecock are played using a push or pull
 
-### Science as a human endeavour
+### Science as a human endeavour {#science-as-a-human-endeavour}
 
-#### Use and influence of science
+#### Use and influence of science {#use-and-influence-of-science}
 
-##### AC9S1H01
+##### AC9S1H01 {#ac9s1h01}
 
 describe how people use science in their daily lives, including using patterns to make scientific predictions
 
@@ -80,11 +80,11 @@ describe how people use science in their daily lives, including using patterns t
 *  identifying how we use pushes and pulls when preparing meals, and the tools that help us push or pull objects
 *  exploring how engineers use knowledge of forces to create new playground equipment or toys
 
-### Science inquiry
+### Science inquiry {#science-inquiry}
 
-#### Questioning and predicting
+#### Questioning and predicting {#questioning-and-predicting}
 
-##### AC9S1I01
+##### AC9S1I01 {#ac9s1i01}
 
 pose questions to explore observed simple patterns and relationships and make predictions based on experiences
 
@@ -95,9 +95,9 @@ pose questions to explore observed simple patterns and relationships and make pr
 *  making predictions about types of animals and plants they might observe in a particular place, such as a garden or pond
 *  making predictions about patterns of observable phenomena such as seasonal changes of plants or changes in temperatures across the seasons
 
-#### Planning and conducting
+#### Planning and conducting {#planning-and-conducting}
 
-##### AC9S1I02
+##### AC9S1I02 {#ac9s1i02}
 
 suggest and follow safe procedures to investigate questions and test predictions
 
@@ -107,7 +107,7 @@ suggest and follow safe procedures to investigate questions and test predictions
 *  exploring different ways of investigating science questions through guided discussion
 *  suggesting steps for setting up and packing away equipment
 
-##### AC9S1I03
+##### AC9S1I03 {#ac9s1i03}
 
 make and record observations, including informal measurements, using digital tools as appropriate
 
@@ -117,9 +117,9 @@ make and record observations, including informal measurements, using digital too
 *  making suggestions about types of measurements that may be made during an investigation, including using blocks to measure plant growth or paces to measure how far an object has moved
 *  recording observations through text, drawing, counts, informal measurements, digital photography or video
 
-#### Processing, modelling and analysing
+#### Processing, modelling and analysing {#processing-modelling-and-analysing}
 
-##### AC9S1I04
+##### AC9S1I04 {#ac9s1i04}
 
 sort and order data and information and represent patterns, including with provided tables and visual or physical models
 
@@ -130,9 +130,9 @@ sort and order data and information and represent patterns, including with provi
 *  ordering images of seasonal changes across the year
 *  using graphic organisers to sort data into groups, such as plants and animals, or objects around the home that need a push or pull force to work
 
-#### Evaluating
+#### Evaluating {#evaluating}
 
-##### AC9S1I05
+##### AC9S1I05 {#ac9s1i05}
 
 compare observations with predictions and others’ observations, consider if investigations are fair and identify further questions with guidance
 
@@ -143,9 +143,9 @@ compare observations with predictions and others’ observations, consider if in
 *  comparing observations of movement with predictions, such as how far an object travels
 *  exploring if all ‘big’ pushes are the same by comparing how far an object travels with different students doing the pushing, and discussing how they could have made the investigation fairer
 
-#### Communicating
+#### Communicating {#communicating}
 
-##### AC9S1I06
+##### AC9S1I06 {#ac9s1i06}
 
 write and create texts to communicate observations, findings and ideas, using everyday and scientific vocabulary
 
@@ -157,7 +157,7 @@ write and create texts to communicate observations, findings and ideas, using ev
 *  representing push and pull forces using role-play, labels, arrows or time lapse drawings and describing their representation using everyday and scientific vocabulary
 *  role-playing or recounting how people they know or have observed identify and use patterns to make predictions at work or in their daily lives
 
-## Achievement Standards
+## Achievement Standards {#achievement-standards}
 
 By the end of Year 1 students identify how living things meet their needs in the places they live. They identify daily and seasonal changes and describe ways these changes affect their everyday life. They describe how different pushes and pulls change the motion and shape of objects. They describe situations where they use science in their daily lives and identify examples of people making scientific predictions.
 

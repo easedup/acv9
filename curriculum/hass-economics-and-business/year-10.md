@@ -1,6 +1,6 @@
-# Humanities and Social Sciences - Economics and Business 7-10 - Year 10
+# Economics and Business - Year 10 {#economics-and-business-year-10}
 
-## Level Description
+## Level Description {#level-description}
 
 The focus of learning in Year 10 is the topic **"productivity, growth and living standards"** within a national context.
 
@@ -16,11 +16,11 @@ Inquiry questions provide a framework for developing students’ knowledge, unde
 *   How does Australia’s superannuation system support human wellbeing, a prosperous economy and the common good?
 *   What factors influence decision-making within consumer and financial contexts, and how are participants impacted?
 
-## Strands
+## Strands {#strands}
 
-### Knowledge and understanding
+### Knowledge and understanding {#knowledge-and-understanding}
 
-##### AC9HE10K01
+##### AC9HE10K01 {#ac9he10k01}
 
 how and why the economic indicators influence economic decision-making
 
@@ -30,7 +30,7 @@ how and why the economic indicators influence economic decision-making
 *  explaining economic objectives of the Australian Government (for example, economic growth, full employment and price stability) and how these have been framed in response to economic indicators (for example, gross domestic product, business sales or earnings, inflation)
 *  identifying an example of an economic indicator, such as employment statistics, and explaining how it influences government economic decision-making; for example, by providing support for new apprenticeships and training places
 
-##### AC9HE10K02
+##### AC9HE10K02 {#ac9he10k02}
 
 the ways that government intervenes in the economy to improve economic performance and living standards within Australian society
 
@@ -40,7 +40,7 @@ the ways that government intervenes in the economy to improve economic performan
 *  explaining how the government may redistribute income to achieve a more equal distribution of income and wealth; for example, income transfers such as pensions, youth allowance and job search, or the provision of services for all such as healthcare and education
 *  investigating the role and function of the Reserve Bank of Australia within the Australian economy
 
-##### AC9HE10K03
+##### AC9HE10K03 {#ac9he10k03}
 
 factors that influence major consumer and financial decisions, and the short- and long-term consequences of these decisions
 
@@ -49,7 +49,7 @@ factors that influence major consumer and financial decisions, and the short- an
 *  analysing factors that influence major consumer and financial decisions, such as price, availability and cost of finance, marketing of products, age and gender of consumer, convenience, and ethical and environmental considerations
 *  identifying the costs of consumer and financial transactions over time, such as the ability to make loan repayments, available savings, depreciation, and maintenance costs and insurance, as well as the benefits such as independence and convenience when purchasing a car or home
 
-##### AC9HE10K04
+##### AC9HE10K04 {#ac9he10k04}
 
 the importance of Australia’s superannuation system and how this system affects consumer and financial decision-making
 
@@ -58,7 +58,7 @@ the importance of Australia’s superannuation system and how this system affect
 *  identifying why individuals make decisions about superannuation investment options and how their circumstances, such as age, employment status, dependents and anticipated retirement age, affect these decisions
 *  explaining how individuals manage a personal superannuation fund; for example, who contributes, taxation, consolidating superannuation funds, finding lost superannuation and tracking the performance of a superannuation account
 
-##### AC9HE10K05
+##### AC9HE10K05 {#ac9he10k05}
 
 processes that businesses use to manage the workforce and improve productivity, including the role of entrepreneurs
 
@@ -69,11 +69,11 @@ processes that businesses use to manage the workforce and improve productivity, 
 *  identifying and explaining strategies that improve productivity; for example, training or upskilling, capital investment, increasing research and development, investment in applications of technologies, use of just-in-time inventory systems or collection, and analysis of data to inform product development or service delivery
 *  explaining how entrepreneurs lead responses to changes in global and domestic economic conditions and use technologies to drive innovation; for example, influencing approaches to waste management or sustainable use of energy
 
-### Skills
+### Skills {#skills}
 
-#### Questioning and researching
+#### Questioning and researching {#questioning-and-researching}
 
-##### AC9HE10S01
+##### AC9HE10S01 {#ac9he10s01}
 
 develop and modify questions to investigate a contemporary economic and business issue
 
@@ -81,7 +81,7 @@ develop and modify questions to investigate a contemporary economic and business
 *  developing a range of questions to investigate a complex issue (for example, “Why does the government intervene in the economy to improve living standards?”) or formulating a hypothesis such as “Responding to an upswing in the economy with expansionary measures will improve business productivity”
 *  developing and modifying a range of questions to improve the focus of an investigation; for example, modifying “What factors influence decision-making within consumer and financial contexts?” to “What factors influence choosing a mobile phone plan?”
 
-##### AC9HE10S02
+##### AC9HE10S02 {#ac9he10s02}
 
 locate, select and analyse information and data from a range of sources
 
@@ -92,9 +92,9 @@ locate, select and analyse information and data from a range of sources
 *  explaining assumptions or missing information in sources that may affect the reliability of an opinion about an economic or business issue
 *  selecting and representing information and data about an economic or business issue, using specialised digital tools and processes to support interpretation and analysis; for example, a graphic organiser connecting objectives of the Australian economy with examples of government intervention in the economy
 
-#### Interpreting and analysing
+#### Interpreting and analysing {#interpreting-and-analysing}
 
-##### AC9HE10S03
+##### AC9HE10S03 {#ac9he10s03}
 
 interpret information and data, explaining economic and business issues, trends and economic cause-and-effect relationships, and make predictions about consumer and financial impacts
 
@@ -104,9 +104,9 @@ interpret information and data, explaining economic and business issues, trends 
 *  analysing the causes and effects of an economic issue on individuals or businesses; for example, the reasons for and implications of government intervention in the economy to improve living standards
 *  analysing trends to make predictions about who will be affected and how; for example, trends in productivity and implications for businesses
 
-#### Evaluating, concluding and decision-making
+#### Evaluating, concluding and decision-making {#evaluating-concluding-and-decision-making}
 
-##### AC9HE10S04
+##### AC9HE10S04 {#ac9he10s04}
 
 develop and evaluate a response to an economic and business issue, using cost-benefit analysis or criteria to decide on a course of action
 
@@ -116,9 +116,9 @@ develop and evaluate a response to an economic and business issue, using cost-be
 *  evaluating a response, using criteria such as efficiency, profitability or equity to explain the reasons for a course of action; for example, use of indicators of economic performance to identify variations within the Australian economy
 *  examining the opportunity cost consumers and businesses may have to consider when deciding on a course of action; for example, employing more staff instead of upskilling existing staff to improve productivity
 
-#### Communicating
+#### Communicating {#communicating}
 
-##### AC9HE10S05
+##### AC9HE10S05 {#ac9he10s05}
 
 create descriptions, explanations and arguments, using economic and business knowledge, concepts and terms that incorporate and acknowledge and research findings
 
@@ -127,7 +127,7 @@ create descriptions, explanations and arguments, using economic and business kno
 *  explaining decisions and conclusions about a business issue, supported by reasons and representations of data in a range of formats; for example, financial statements or information sheet and research in appropriate formats, such as reports and webpages
 *  presenting an argument for a proposal for action in response to an economic or business issue, applying tone appropriate to purpose; for example, using an authoritative tone when presenting an argument and making predictions about impacts, and audience; for example, a business manager or entrepreneur
 
-## Achievement Standards
+## Achievement Standards {#achievement-standards}
 
 By the end of Year 10, students analyse how economic indicators influence Australian Government decision-making. They explain ways that government intervenes to improve economic performance and living standards. They explain processes that businesses use to manage the workforce and improve productivity. They explain the importance of Australia’s superannuation system and its effect on consumer and financial decision-making.  Students analyse factors that influence major consumer and financial decisions, and explain the short- and long-term effects of these decisions.
 

@@ -1,6 +1,6 @@
-# The Arts - Media Arts - Years 5 and 6
+# Media Arts - Years 5 and 6 {#media-arts-years-5-and-6}
 
-## Level Description
+## Level Description {#level-description}
 
 In this band, students continue to learn in and through the practices of The Arts subjects, building on their prior learning and experiences. They work creatively and purposefully, and continue to develop their connection with and contribution to the world as artists and as audiences. They work individually and in collaboration with peers and teachers.
 
@@ -21,11 +21,11 @@ In this band, the focus is on students:
 5.  creating (producing) media arts works that communicate ideas using stand-alone media arts forms or creating media elements for use in multi-arts works
 6.  presenting/screening/exhibiting/distributing media arts works they have created and sharing ideas about the work with audiences.
 
-## Strands
+## Strands {#strands}
 
-### Exploring and responding
+### Exploring and responding {#exploring-and-responding}
 
-##### AC9AMA6E01
+##### AC9AMA6E01 {#ac9ama6e01}
 
 explore ways that media languages and media technologies are used in media arts works and practices across cultures, times, places and/or other contexts
 
@@ -38,7 +38,7 @@ explore ways that media languages and media technologies are used in media arts 
 *  exploring how context influences the characters, stories and values portrayed in media arts works; for example, comparing online advertisements that convey safety messages
 *  discussing the role of media arts works in sharing cultural information about a group of people and their spirituality, and enhancing the value placed on people and the environment
 
-##### AC9AMA6E02
+##### AC9AMA6E02 {#ac9ama6e02}
 
 explore ways First Nations Australians use media arts to continue and revitalise cultures
 
@@ -48,9 +48,9 @@ explore ways First Nations Australians use media arts to continue and revitalise
 *  investigating the ways that First Nations Australian media artists embed themselves and their communities in media arts works in a range of representative forms as a visual declaration of identity, storytelling and resilience in the form of visibility; for example, exploring representations of First Nations Australians as superheroes in comics, popular culture and television
 *  using Viewpoints to develop questions that explore understandings about themes or issues in media arts works and considering what needs to be investigated further; for example, “What do I already know about this issue?”, “Is there more to this story than is being presented?”, “What questions would I ask the media artist about this product?”
 
-### Developing practices and skills
+### Developing practices and skills {#developing-practices-and-skills}
 
-##### AC9AMA6D01
+##### AC9AMA6D01 {#ac9ama6d01}
 
 develop media production skills to communicate ideas, perspectives and/or meaning through manipulation of media languages, including images, sounds, texts and/or interactive elements, and media technologies
 
@@ -61,9 +61,9 @@ develop media production skills to communicate ideas, perspectives and/or meanin
 *  identifying story structures and technical or symbolic elements that contribute to the formation of genre in media arts works; for example, identifying shot type, sound quality, lighting and setting, and experimenting with ways to use this when planning media arts works
 *  creating a script for a radio production and documenting the appropriate permissions that may be required for music and voice talents in a real-world community radio setting
 
-### Creating and making
+### Creating and making {#creating-and-making}
 
-##### AC9AMA6C01
+##### AC9AMA6C01 {#ac9ama6c01}
 
 use media languages, media technologies and production processes to construct media arts works that communicate ideas, perspectives and/or meaning for specific audiences
 
@@ -76,9 +76,9 @@ use media languages, media technologies and production processes to construct me
 *  creating a short genre film using chroma key, special effects, editing, sound effects, film language and other technology to enhance the end product
 *  using Viewpoints to develop questions when reflecting on their production process, such as “How can I adapt and manipulate story principles to make my intention clear?”, “What is working well in my storyboard?” and “Which areas do I need to improve?”
 
-### Presenting and performing
+### Presenting and performing {#presenting-and-performing}
 
-##### AC9AMA6P01
+##### AC9AMA6P01 {#ac9ama6p01}
 
 present media arts works in informal and/or formal settings using responsible media practice
 
@@ -89,7 +89,7 @@ present media arts works in informal and/or formal settings using responsible me
 *  considering protocols for representing community or cultural stories in media arts works
 *  reflecting on how and why understandings of culture were used within their media arts works, and their effect on the audience
 
-## Achievement Standards
+## Achievement Standards {#achievement-standards}
 
 By the end of Year 6, students explain how media languages and media technologies are used in media arts works they construct and/or experience. They describe how media arts works created across cultures, times, places and/or other contexts communicate ideas, perspectives and/or meanings. They describe how media arts can be used to continue and revitalise cultures.
 

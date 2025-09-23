@@ -1,6 +1,6 @@
-# Health and Physical Education - Foundation Year
+# Health and Physical Education - Foundation Year {#health-and-physical-education-foundation-year}
 
-## Level Description
+## Level Description {#level-description}
 
 The Foundation curriculum builds on the Early Years Learning Framework and each student's prior learning and experiences. In the early years, priority is given to the development of movement skills, participation in physical activity, and development of safe and healthy personal practices.
 
@@ -16,13 +16,13 @@ In the Foundation Year, students practise and develop locomotor and non-locomoto
 
 Through participation in active play, small group games and minor games, students explore ways to move safely and investigate why and how following rules promotes fair play.
 
-## Strands
+## Strands {#strands}
 
-### Personal, social and community health
+### Personal, social and community health {#personal-social-and-community-health}
 
-#### Identities and change
+#### Identities and change {#identities-and-change}
 
-##### AC9HPFP01
+##### AC9HPFP01 {#ac9hpfp01}
 
 investigate who they are and the people in their world
 
@@ -34,9 +34,9 @@ investigate who they are and the people in their world
 *  identifying ways they use their strengths in physical activities to help themselves and others to be successful
 *  recognising that they have a right to belong and contribute to a variety of groups
 
-#### Interacting with others
+#### Interacting with others {#interacting-with-others}
 
-##### AC9HPFP02
+##### AC9HPFP02 {#ac9hpfp02}
 
 practise personal and social skills to interact respectfully with others
 
@@ -46,7 +46,7 @@ practise personal and social skills to interact respectfully with others
 *  cooperating, collaborating and negotiating with others when participating in physical activities to achieve agreed outcomes
 *  identifying behaviours that may be disrespectful and cause hurt or harm to others during play
 
-##### AC9HPFP03
+##### AC9HPFP03 {#ac9hpfp03}
 
 express and describe emotions they experience
 
@@ -58,7 +58,7 @@ express and describe emotions they experience
 *  talking about connections between feelings, body reactions and body language
 *  expressing a variety of emotions, thoughts and views in a range of situations
 
-##### AC9HPFP04
+##### AC9HPFP04 {#ac9hpfp04}
 
 explore how to seek, give or deny permission respectfully when sharing possessions or personal space
 
@@ -67,9 +67,9 @@ explore how to seek, give or deny permission respectfully when sharing possessio
 *  negotiating roles and demonstrating awareness of rights (such as body autonomy/integrity) and respect for different perspectives through imaginative and shared play experiences
 *  exploring the importance of asking for permission and giving permission when sharing or negotiating in play and respecting someone’s right to say no
 
-#### Making healthy and safe choices
+#### Making healthy and safe choices {#making-healthy-and-safe-choices}
 
-##### AC9HPFP05
+##### AC9HPFP05 {#ac9hpfp05}
 
 demonstrate protective behaviours, name body parts and rehearse help-seeking strategies that help keep them safe
 
@@ -80,7 +80,7 @@ demonstrate protective behaviours, name body parts and rehearse help-seeking str
 *  identifying a support network of adults they can trust to help them if they feel unsafe, uncomfortable or scared
 *  recognising that all people have the right to bodily autonomy: the right to make choices about what others ask them to do with and to their bodies
 
-##### AC9HPFP06
+##### AC9HPFP06 {#ac9hpfp06}
 
 identify health symbols, messages and strategies in their community that support their health and safety
 
@@ -91,11 +91,11 @@ identify health symbols, messages and strategies in their community that support
 *  exploring different community strategies that keep children safe; for example, pedestrian crossings and traffic lights, safety procedures at swimming pools and beaches, and traffic controllers at school crossings
 *  recognising and following safety symbols and procedures at home and in water and road environments
 
-### Movement and physical activity
+### Movement and physical activity {#movement-and-physical-activity}
 
-#### Moving our bodies
+#### Moving our bodies {#moving-our-bodies}
 
-##### AC9HPFM01
+##### AC9HPFM01 {#ac9hpfm01}
 
 practise fundamental movement skills in minor game and play situations
 
@@ -107,7 +107,7 @@ practise fundamental movement skills in minor game and play situations
 *  demonstrating how to transfer weight from one part of the body to another
 *  applying fundamental movement skills for purpose and enjoyment in natural environments
 
-##### AC9HPFM02
+##### AC9HPFM02 {#ac9hpfm02}
 
 experiment with different ways of moving their body safely and manipulating objects and space
 
@@ -118,9 +118,9 @@ experiment with different ways of moving their body safely and manipulating obje
 *  manipulating equipment in a range of different movement situations and tasks, including in minor games, imaginative play and when practising fundamental movement skills
 *  demonstrating spatial awareness when moving around and through indoor and outdoor (natural) environments confidently and safely
 
-#### Making active choices
+#### Making active choices {#making-active-choices}
 
-##### AC9HPFM03
+##### AC9HPFM03 {#ac9hpfm03}
 
 participate in a range of activities in natural and outdoor settings and explore the benefits of being physically active
 
@@ -130,9 +130,9 @@ participate in a range of activities in natural and outdoor settings and explore
 *  discussing opportunities to be active in spaces in and around their homes
 *  exploring strategies for taking considered risks and developing self-regulation skills when moving and playing in outdoor settings
 
-#### Learning through movement
+#### Learning through movement {#learning-through-movement}
 
-##### AC9HPFM04
+##### AC9HPFM04 {#ac9hpfm04}
 
 follow rules to promote fair play in a range of physical activities
 
@@ -141,7 +141,7 @@ follow rules to promote fair play in a range of physical activities
 *  demonstrating how to play fairly in a range of minor games and play situations
 *  discussing rules of different games that relate to safety, boundaries and appropriate use of equipment
 
-## Achievement Standards
+## Achievement Standards {#achievement-standards}
 
 The Foundation curriculum builds on the Early Years Learning Framework and each student's prior learning and experiences. In the early years, priority is given to the development of movement skills, participation in physical activity, and development of safe and healthy personal practices.
 

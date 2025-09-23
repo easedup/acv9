@@ -1,6 +1,6 @@
-# The Arts - Media Arts - Years 1 and 2
+# Media Arts - Years 1 and 2 {#media-arts-years-1-and-2}
 
-## Level Description
+## Level Description {#level-description}
 
 In this band, learning in The Arts builds on each student’s prior learning and experiences. Students continue to learn through purposeful and creative play in structured learning programs designed to foster a strong sense of wellbeing and develop their connection with and contribution to the world. They work individually and in collaboration with peers and teachers drawing on their imaginations, works of fiction, real-life experiences and learnings from across the curriculum to support their engagement in arts learning, as artists and as audiences.
 
@@ -21,11 +21,11 @@ In this band, the focus is on students:
 5.  creating media arts works by selecting and combining images, sounds, text and/or interactive elements to construct representations
 6.  presenting/sharing media arts works they have created in informal settings such as classroom presentations.
 
-## Strands
+## Strands {#strands}
 
-### Exploring and responding
+### Exploring and responding {#exploring-and-responding}
 
-##### AC9AMA2E01
+##### AC9AMA2E01 {#ac9ama2e01}
 
 explore where, why and how people across cultures, communities and/or other contexts experience media arts
 
@@ -35,7 +35,7 @@ explore where, why and how people across cultures, communities and/or other cont
 *  discussing the roles of media artists and what permission means; for example, deciding on a class set of rules for using and creating images, sounds and text in media arts works
 *  considering how media arts works communicate and celebrate cultural knowledge in their own communities; for example, through podcasts or animated children’s shows
 
-##### AC9AMA2E02
+##### AC9AMA2E02 {#ac9ama2e02}
 
 explore examples of media arts produced and/or distributed by First Nations Australians
 
@@ -45,9 +45,9 @@ explore examples of media arts produced and/or distributed by First Nations Aust
 *  observing how visual, audio and/or interactive elements are used in media arts works created by First Nations Australians; for example, exploring colours, symbols and patterns used in media arts works with representatives of the First Nations Australian community or through resources that are created or co-created by First Nations Australians
 *  exploring media arts works created and/or co-created by First Nations Australians that communicate cultural narratives
 
-### Developing practices and skills
+### Developing practices and skills {#developing-practices-and-skills}
 
-##### AC9AMA2D01
+##### AC9AMA2D01 {#ac9ama2d01}
 
 explore ways of using media technologies responsibly to capture and organise images, sounds, text and/or interactive elements
 
@@ -58,9 +58,9 @@ explore ways of using media technologies responsibly to capture and organise ima
 *  experimenting with ways that media artists communicate with audiences by combining text, symbols and images; for example, combining headlines, subtitles and digital images to communicate ideas or emotions
 *  using Viewpoints to develop questions as they experiment with media technologies, such as, “What happens if I take a photo up close to the object, and how does it change as I move further away?”, “How can I change the meaning of this image by adding different text headings?”
 
-### Creating and making
+### Creating and making {#creating-and-making}
 
-##### AC9AMA2C01
+##### AC9AMA2C01 {#ac9ama2c01}
 
 use media languages and media technologies to construct representations
 
@@ -71,9 +71,9 @@ use media languages and media technologies to construct representations
 *  producing and presenting a media arts work for a particular purpose; for example, creating an advertisement that recommends appropriate behaviour when using cameras
 *  using features such as shot types in media arts works; for example, identifying long-shots, mid-shots and close-ups; discussing what the shots tell the audience about the story
 
-### Presenting and performing
+### Presenting and performing {#presenting-and-performing}
 
-##### AC9AMA2P01
+##### AC9AMA2P01 {#ac9ama2p01}
 
 share media arts works with audiences in informal settings
 
@@ -83,7 +83,7 @@ share media arts works with audiences in informal settings
 *  considering relationships that peers may have with their work when creating, rehearsing and recording a radio play, and seeking permission to share it with another class
 *  exploring what permission means; for example, consulting relevant people such as cultural knowledge holders or using online safety resources, and deciding on a class set of rules for using and creating images, sounds and text in media arts works
 
-## Achievement Standards
+## Achievement Standards {#achievement-standards}
 
 By the end of Year 2, students identify where they experience media arts. They describe where, why and/or how people across cultures, communities and/or other contexts experience media arts.
 

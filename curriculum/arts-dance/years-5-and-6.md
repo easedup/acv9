@@ -1,6 +1,6 @@
-# The Arts - Dance - Years 5 and 6
+# Dance - Years 5 and 6 {#dance-years-5-and-6}
 
-## Level Description
+## Level Description {#level-description}
 
 In this band, students continue to learn in and through their practices of The Arts subjects, building on their prior learning and experiences. They work creatively and purposefully, and continue to develop their connection with and contribution to the world as artist and as audience. They work individually and in collaboration with peers and teachers.
 
@@ -21,11 +21,11 @@ In this band, the focus is on students:
 5.  creating dances by developing ideas and structuring movements to communicate their intentions as choreographers. They may focus on creating a dance work or they may create work that combines dance and another arts form, such as a dance for a media arts production
 6.  presenting and performing dance they have learnt and/or choreographed for audiences, in available, informal and/or formal settings including, as appropriate, school-hosted digital spaces such as a school learning management system.
 
-## Strands
+## Strands {#strands}
 
-### Exploring and responding
+### Exploring and responding {#exploring-and-responding}
 
-##### AC9ADA6E01
+##### AC9ADA6E01 {#ac9ada6e01}
 
 explore ways that the elements of dance are combined to communicate ideas, perspectives and/or meaning in dance across cultures, times, places and/or other contexts
 
@@ -36,7 +36,7 @@ explore ways that the elements of dance are combined to communicate ideas, persp
 *  asking questions based on Viewpoints to explore similarities and differences in ways that choreographers or performers and audiences experience/respond to aspects of a dance; for example, “How were elements of dance used to communicate the main idea in the dance?”, “How was your mood changed by this dance?” and developing and asking questions that refer to energy, shape, tempo or use of production elements such as props or music
 *  exploring how dance is used to communicate cultural traditions; for example, considering dance from a country or region in Asia and asking, “What stories, narratives or ways of being and doing does this dance reflect?”, “Is this dance communicating something about the culture where it originated that we can’t learn any other way?”, “How is this dance evolving over time? For example, are costumes now made from different materials?”
 
-##### AC9ADA6E02
+##### AC9ADA6E02 {#ac9ada6e02}
 
 explore the ways that First Nations Australians use dance to continue and revitalise cultures
 
@@ -47,9 +47,9 @@ explore the ways that First Nations Australians use dance to continue and rev
 *  using Viewpoints to develop questions to build understanding about First Nations Australians’ dances and exploring what they could investigate further, such as “What do I already know about this dance practice?”, “What do I need to learn to have a better understanding?”, “What knowledge can I share with others?”, “What questions would I ask the dancers about this performance?”
 *  exploring how dances that tell stories maintain culture; for example, narrative dances that communicate knowledge about sustainable approaches to locating and gathering food or stories about how places got their names
 
-### Developing practices and skills
+### Developing practices and skills {#developing-practices-and-skills}
 
-##### AC9ADA6D01
+##### AC9ADA6D01 {#ac9ada6d01}
 
 develop and practise technical and expressive skills using safe dance practice and the elements of dance
 
@@ -59,9 +59,9 @@ develop and practise technical and expressive skills using safe dance practice
 *  developing expressive skills of focus, clarity of the movement, confidence and facial expression/character
 *  exploring an element of dance; for example, experimenting with shapes and considering ideas such as positive and negative space or use of contrasting dynamics
 
-### Creating and making
+### Creating and making {#creating-and-making}
 
-##### AC9ADA6C01
+##### AC9ADA6C01 {#ac9ada6c01}
 
 manipulate the elements of dance and/or choreographic devices to choreograph dances that communicate ideas, perspectives and/or meaning
 
@@ -72,9 +72,9 @@ manipulate the elements of dance and/or choreographic devices to choreograph dan
 *  creating a dance that focuses on use of technical and expressive skills such as control, coordination and balance
 *  creating a dance that explores a theme or an issue such as a theme from a known text or an issue relating to sustainable ways of living
 
-### Presenting and performing
+### Presenting and performing {#presenting-and-performing}
 
-##### AC9ADA6P01
+##### AC9ADA6P01 {#ac9ada6p01}
 
 practise and perform dances using technical and expressive skills in informal and/or formal settings
 
@@ -84,7 +84,7 @@ practise and perform dances using technical and expressive skills in informal 
 *  presenting dances, using production elements such as music, costumes and props where appropriate to enhance different contexts; for example, using traditional music when performing dances with representatives of the cultural group from the community
 *  using questions based on Viewpoints such as questions about forms and elements to reflect on their performance; for example, “How did the dancers/you use space and energy to create a feeling of strength/isolation/happiness?”, “What relationship are you aiming to create between the dancers and the audience?”
 
-## Achievement Standards
+## Achievement Standards {#achievement-standards}
 
 By the end of Year 6, students explain how the elements of dance are used in dance that they choreograph, perform and/or experience. They describe how dance from across cultures, times, places and/or other contexts communicates ideas, perspectives and/or meaning. They describe how dance is used to continue and revitalise cultures.
 

@@ -1,6 +1,6 @@
-# The Arts - Music - Years 1 and 2
+# Music - Years 1 and 2 {#music-years-1-and-2}
 
-## Level Description
+## Level Description {#level-description}
 
 In this band, learning in The Arts builds on each student’s prior learning and experiences. Students continue to learn through purposeful and creative play in structured learning programs designed to foster a strong sense of wellbeing and develop their connection with and contribution to the world. They work individually and in collaboration with peers and teachers drawing on their imagination, works of fiction, real-life experiences and learnings from across the curriculum to support their engagement in Arts learning as artists and as audiences.
 
@@ -21,11 +21,11 @@ In this band, the focus is on students:
 5.  composing, singing and playing instruments, using the elements of music such as duration/time (beat and rhythm, tempo), pitch, dynamics and expression, texture and/or timbre
 6.  performing/sharing music they have learnt and/or composed in informal settings such as classroom presentations.
 
-## Strands
+## Strands {#strands}
 
-### Exploring and responding
+### Exploring and responding {#exploring-and-responding}
 
-##### AC9AMU2E01
+##### AC9AMU2E01 {#ac9amu2e01}
 
 explore where, why and how people across cultures, communities and/or other contexts experience music
 
@@ -36,7 +36,7 @@ explore where, why and how people across cultures, communities and/or other cont
 *  discussing where, how and why they and their peers or family members experience music, and their music preferences; for example, compiling a playlist that combines their favourite music from the different generations in a family or creating a school playlist
 *  practising active listening skills; for example, moving with the beat and clapping rhythmic ideas or being aware of pitch and volume when they are singing/vocalising and/or playing instruments
 
-##### AC9AMU2E02
+##### AC9AMU2E02 {#ac9amu2e02}
 
 explore examples of music composed and/or performed by First Nations Australians
 
@@ -45,9 +45,9 @@ explore examples of music composed and/or performed by First Nations Australians
 *  exploring the diverse music styles represented in music composed and performed by First Nations Australians; for example, listening to music that is available through mainstream media; music performed at a local festival, by street performers, by choirs and/or orchestras; or music created or performed for events such as openings of cultural or community events or as part of a Welcome to Country, and asking questions such as “What instruments and voices can I hear?”, “How is this music communicating message/s about Country/Place?” or focusing exclusively on the music (the sound): “How is this music similar or different to other music I listen to?”
 *  exploring how the elements of music are used to create specific effects in screen-based or theatrical works that communicate First Nations Australian cultural knowledge; for example, viewing cartoons or animations that retell traditional stories and using Viewpoints to ask questions such as “How is texture being used to create tension in this part of the story?”, “How is melody being used to represent characters in this story?”, “How are tempo and dynamics being used to communicate the mood or feeling?”
 
-### Developing practices and skills
+### Developing practices and skills {#developing-practices-and-skills}
 
-##### AC9AMU2D01
+##### AC9AMU2D01 {#ac9amu2d01}
 
 develop listening skills and skills for singing and playing instruments
 
@@ -61,9 +61,9 @@ develop listening skills and skills for singing and playing instruments
 *  developing understanding of what matching pitch means; for example, by using a digital tuner or closing eyes and gradually adjusting to match a partner’s pitch
 *  practising techniques for singing songs and playing classroom instruments
 
-### Creating and making
+### Creating and making {#creating-and-making}
 
-##### AC9AMU2C01
+##### AC9AMU2C01 {#ac9amu2c01}
 
 select and combine elements of music when composing and practising music for performance
 
@@ -77,9 +77,9 @@ select and combine elements of music when composing and practising music for per
 *  practising music using accessible technologies; for example, using recordings to make decisions about dynamics or tempo
 *  writing lyrics for a chant/rap and improvising to develop rhythmic patterns they can use to perform the lyrics; for example, combining unison sections (voices alone) with multi-part sections (voices and body percussion or instruments)
 
-### Presenting and performing
+### Presenting and performing {#presenting-and-performing}
 
-##### AC9AMU2P01
+##### AC9AMU2P01 {#ac9amu2p01}
 
 sing and play music in informal settings
 
@@ -91,7 +91,7 @@ sing and play music in informal settings
 *  listening intentionally and respectfully during performances and when invited, participating in the performance by using body percussion (clapping, tapping, stamping) or singing
 *  contributing to post-performance discussions; for example, sharing ideas about what the best part of the performance was or asking the performers questions such as, “How long have you been singing/playing as a group?” or “How did you get your instrument to …?”
 
-## Achievement Standards
+## Achievement Standards {#achievement-standards}
 
 By the end of Year 2, students identify where they experience music. They describe where, why and/or how people across cultures, communities and/or other contexts experience music.
 

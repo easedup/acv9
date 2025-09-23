@@ -1,6 +1,6 @@
-# Health and Physical Education - Years 7 and 8
+# Health and Physical Education - Years 7 and 8 {#health-and-physical-education-years-7-and-8}
 
-## Level Description
+## Level Description {#level-description}
 
 The Years 7–8 curriculum builds on each student’s prior learning. During this time, a major influence on students is the world around them, and their peers become a key source of motivation and support when managing their health and wellbeing.
 
@@ -14,13 +14,13 @@ Students practise and apply more complex combinations of skills and strategies i
 
 Students have opportunities to practise using creative and collaborative processes to work in a group or team to communicate effectively, solve problems, resolve conflicts, and make decisions in movement and social contexts.
 
-## Strands
+## Strands {#strands}
 
-### Personal, social and community health
+### Personal, social and community health {#personal-social-and-community-health}
 
-#### Identities and change
+#### Identities and change {#identities-and-change}
 
-##### AC9HP8P01
+##### AC9HP8P01 {#ac9hp8p01}
 
 analyse and reflect on the influence of values and beliefs on the development of identities
 
@@ -30,7 +30,7 @@ analyse and reflect on the influence of values and beliefs on the development of
 *  examining how cultural values and beliefs influence the way young people view themselves, including young Australians of Asian heritage
 *  examining how cultural beliefs about the physical changes experienced during puberty can influence gender, cultural and sexual identities
 
-##### AC9HP8P02
+##### AC9HP8P02 {#ac9hp8p02}
 
 analyse the impact of changes and transitions, and devise strategies to support themselves and others through these changes
 
@@ -41,7 +41,7 @@ analyse the impact of changes and transitions, and devise strategies to support 
 *  examining the notion of “border crossing”; that is, how First Nations Australians live across multiple cultures, and how these transitions can impact on a sense of belonging to culture, family and peer groups
 *  evaluating and practising coping, communication and problem-solving skills to manage changes and emotions associated with puberty and getting older
 
-##### AC9HP8P03
+##### AC9HP8P03 {#ac9hp8p03}
 
 examine how roles, decision-making, and levels of power, coercion and control within relationships can be influenced by gender stereotypes
 
@@ -51,9 +51,9 @@ examine how roles, decision-making, and levels of power, coercion and control wi
 *  identifying those positive character attributes and strengths that are valued regardless of gender
 *  investigating strategies that have been successful in challenging harmful or limiting stereotypes, attitudes or practices
 
-#### Interacting with others
+#### Interacting with others {#interacting-with-others}
 
-##### AC9HP8P04
+##### AC9HP8P04 {#ac9hp8p04}
 
 examine the roles of respect, empathy, power and coercion in developing respectful relationships
 
@@ -64,7 +64,7 @@ examine the roles of respect, empathy, power and coercion in developing respectf
 *  proposing strategies for addressing racism towards First Nations Australians, including the role of bystanders in promoting respectful interactions and challenging disrespect and discrimination
 *  examining what constitutes disrespectful, harmful or violent behaviour within peer, family and intimate relationships
 
-##### AC9HP8P05
+##### AC9HP8P05 {#ac9hp8p05}
 
 investigate strategies that influence how communities value diversity and propose actions they can take to promote inclusion in their communities
 
@@ -76,7 +76,7 @@ investigate strategies that influence how communities value diversity and propos
 *  investigating events and strategies that value the contributions of First Nations Australians and strengthen relationships, such as Indigenous rounds in sporting codes and NAIDOC Week
 *  identifying examples of beliefs and cultural practices within, between and across cultural groups, including cultural groups from the Asian region, and describing how they have changed or remained the same over time
 
-##### AC9HP8P06
+##### AC9HP8P06 {#ac9hp8p06}
 
 analyse factors that influence emotional responses and devise strategies to self-manage emotions
 
@@ -85,7 +85,7 @@ analyse factors that influence emotional responses and devise strategies to self
 *  exploring different viewpoints, practising being empathetic and considering alternative ways to respond in a variety of situations, which take into account how they may affect others
 *  recognising and interpreting emotional responses to stressful situations and proposing strategies for ensuring those responses don’t have a negative impact on others
 
-##### AC9HP8P07
+##### AC9HP8P07 {#ac9hp8p07}
 
 explain and apply skills and strategies to communicate assertively and respectfully when seeking, giving or denying consent
 
@@ -94,9 +94,9 @@ explain and apply skills and strategies to communicate assertively and respectfu
 *  understanding and applying online and social protocols to enhance relationships with others and protect their own wellbeing, including recognising and responding to online content that may be harmful for themselves or others (such as grooming or image-based abuse), respectfully communicating needs or concerns to others
 *  examining the nature of consent in different types of relationships, and proposing and practising strategies for seeking, giving and denying consent respectfully
 
-#### Making healthy and safe choices
+#### Making healthy and safe choices {#making-healthy-and-safe-choices}
 
-##### AC9HP8P08
+##### AC9HP8P08 {#ac9hp8p08}
 
 refine protective behaviours and evaluate community resources to seek help for themselves and others
 
@@ -108,7 +108,7 @@ refine protective behaviours and evaluate community resources to seek help for t
 *  analysing how bystanders play a role in ensuring online spaces are positive and safe, and examining how support services such as kidshelpline and the eSafety Commissioner can provide support for young people who feel unsafe, bullied or abused online
 *  exploring help-seeking scenarios young people may encounter and sharing strategies for dealing with each situation, including situations linked to substance use, mental health issues, safety and risk-taking, and sexual health
 
-##### AC9HP8P09
+##### AC9HP8P09 {#ac9hp8p09}
 
 investigate how media and influential people impact attitudes, beliefs, decisions and behaviours in relation to health, safety, relationships and wellbeing
 
@@ -119,7 +119,7 @@ investigate how media and influential people impact attitudes, beliefs, decision
 *  exploring health campaigns targeting First Nations Australian young people and discussing the messages and strategies used to promote and enhance their health; for example, Deadly Choices, Don’t Make Smokes Your Story and Yarn Safe
 *  analysing how messages related to sexual relationships are portrayed in different forms of media and how they may influence the way people act within relationships
 
-##### AC9HP8P10
+##### AC9HP8P10 {#ac9hp8p10}
 
 plan and implement strategies, using health resources, to enhance their own and others’ health, safety, relationships and wellbeing
 
@@ -133,11 +133,11 @@ plan and implement strategies, using health resources, to enhance their own and 
 *  investigating tools and designing routines that help to regulate the use of digital environments and tools and ensure a healthy pattern of use, such as using “do not disturb” mode or turning off notifications
 *  investigating different approaches and developing personal plans for promoting their own positive mental health and wellbeing, such as mindfulness, relaxation techniques and healthy eating
 
-### Movement and physical activity
+### Movement and physical activity {#movement-and-physical-activity}
 
-#### Moving our bodies
+#### Moving our bodies {#moving-our-bodies}
 
-##### AC9HP8M01
+##### AC9HP8M01 {#ac9hp8m01}
 
 analyse, refine and transfer movement skills in a variety of movement situations
 
@@ -149,7 +149,7 @@ analyse, refine and transfer movement skills in a variety of movement situations
 *  using feedback from others to refine the composition of a group dance sequence
 *  using feedback from others to safely and efficiently travel around, over, up, under and through natural or built obstacles
 
-##### AC9HP8M02
+##### AC9HP8M02 {#ac9hp8m02}
 
 design and demonstrate how movement strategies can be manipulated to improve movement outcomes
 
@@ -159,7 +159,7 @@ design and demonstrate how movement strategies can be manipulated to improve mov
 *  exploring similarities between the bases of support and flow of movements when performing different movement sequences that require static and dynamic balance
 *  predicting the effectiveness of changes in tactics or strategies on scoring opportunities and suggesting reasons for any unexpected results
 
-##### AC9HP8M03
+##### AC9HP8M03 {#ac9hp8m03}
 
 demonstrate and explain how movement concepts related to effort, space, time, objects and people can be manipulated to improve movement outcomes
 
@@ -169,9 +169,9 @@ demonstrate and explain how movement concepts related to effort, space, time, ob
 *  creating, performing and appraising rhythmic movement sequences that demonstrate variations in flow of movements, use of space and relationships to other performers
 *  designing and refining performances to demonstrate how to manipulate space and relationships between players in the space to achieve successful movement outcomes
 
-#### Making active choices
+#### Making active choices {#making-active-choices}
 
-##### AC9HP8M04
+##### AC9HP8M04 {#ac9hp8m04}
 
 participate in physical activities designed to improve fitness and wellbeing to investigate the impact of regular participation on health, fitness and wellbeing
 
@@ -180,7 +180,7 @@ participate in physical activities designed to improve fitness and wellbeing to 
 *  designing and performing a fitness circuit they could implement at home (with minimal equipment) that improves one or more fitness components
 *  researching and participating in new activities to explore how they can enhance health, fitness and wellbeing, such as yoga, mindfulness meditation, gym classes, HIIT sessions
 
-##### AC9HP8M05
+##### AC9HP8M05 {#ac9hp8m05}
 
 participate in physical activities that utilise community spaces and outdoor settings, and evaluate strategies to support increased use of these spaces
 
@@ -190,7 +190,7 @@ participate in physical activities that utilise community spaces and outdoor set
 *  designing and evaluating physical activity options that reimagine the use of community spaces to encourage more active lifestyles among their peer group
 *  promoting an understanding of minimal-impact outdoor recreation in the local area
 
-##### AC9HP8M06
+##### AC9HP8M06 {#ac9hp8m06}
 
 design and justify strategies to increase physical activity levels to achieve health and wellbeing outcomes
 
@@ -199,9 +199,9 @@ design and justify strategies to increase physical activity levels to achieve he
 *  investigating which physical activities people engage in to maintain emotional and social wellbeing, and designing a program of activities aimed at increasing social connection and wellbeing
 *  comparing their current physical activity levels, amount of sleep and sedentary activity time with Australia’s 24-Hour Movement Guidelines for Children and Young People and suggesting strategies for themselves and others to meet these recommendations
 
-#### Learning through movement
+#### Learning through movement {#learning-through-movement}
 
-##### AC9HP8M07
+##### AC9HP8M07 {#ac9hp8m07}
 
 propose and evaluate movement strategies and skills that would be most effective in different movement situations
 
@@ -210,7 +210,7 @@ propose and evaluate movement strategies and skills that would be most effective
 *  explaining and justifying the movement strategies selected in response to movement challenges when participating in outdoor or nature-based activities such as rope courses, bushwalking, orienteering or canoeing
 *  putting their movement solutions into action by predicting outcomes and testing the approach proposed to achieve successful movement outcomes
 
-##### AC9HP8M08
+##### AC9HP8M08 {#ac9hp8m08}
 
 investigate modifications to equipment, rules and scoring systems that support fair play and inclusive participation
 
@@ -220,7 +220,7 @@ investigate modifications to equipment, rules and scoring systems that support f
 *  analysing the benefits and potential drawbacks of activities where players, rather than an independent official, are responsible for officiating the game
 *  exploring rules, equipment and scoring systems of traditional games of First Nations Australians and investigating how they support skill development and fair and inclusive play
 
-##### AC9HP8M09
+##### AC9HP8M09 {#ac9hp8m09}
 
 practise and apply leadership, collaboration and group decision-making processes when participating in a range of physical activities
 
@@ -230,7 +230,7 @@ practise and apply leadership, collaboration and group decision-making processes
 *  reflecting on their role and articulating how the actions they initiated in that role led to the achievement of successful outcomes
 *  undertaking various roles as a leader or collaborator to support the planning of physical activities for their team or peer group
 
-## Achievement Standards
+## Achievement Standards {#achievement-standards}
 
 The Years 7–8 curriculum builds on each student’s prior learning. During this time, a major influence on students is the world around them, and their peers become a key source of motivation and support when managing their health and wellbeing.
 

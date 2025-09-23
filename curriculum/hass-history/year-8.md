@@ -1,6 +1,6 @@
-# Humanities and Social Sciences - History 7-10 - Year 8
+# History - Year 8 {#history-year-8}
 
-## Level Description
+## Level Description {#level-description}
 
 The Year 8 curriculum provides a study of history from the end of the ancient period to the beginning of the modern period (c.650–1750 CE). This was when major societies around the world came into contact with each other. Social, economic, religious and political beliefs were often challenged and significantly changed. It was the period when the modern world began to take shape.
 
@@ -36,13 +36,13 @@ Inquiry questions provide a framework for developing students’ knowledge, unde
 *   Which significant people, groups and ideas from this period have influenced and shaped the world today?
 *   How and why have historians interpreted this period differently?
 
-## Strands
+## Strands {#strands}
 
-### Knowledge and understanding
+### Knowledge and understanding {#knowledge-and-understanding}
 
-#### Medieval Europe and the early modern world
+#### Medieval Europe and the early modern world {#medieval-europe-and-the-early-modern-world}
 
-##### AC9HH8K01
+##### AC9HH8K01 {#ac9hh8k01}
 
 the transformation of the ancient world to the early modern world, from the decline of the Roman Empire in western Europe through Medieval, Renaissance or pre-modern Europe
 
@@ -52,7 +52,7 @@ the transformation of the ancient world to the early modern world, from the decl
 *  investigating the emergence of ideas about the world such as those formed during the Renaissance, and the place of significant individuals and people that caused change
 *  explaining the historical significance of selected key events such as the conversion to Christianity of the Emperor Constantine in 312 CE and the invasion of England by William the Conqueror in 1066
 
-##### AC9HH8K02
+##### AC9HH8K02 {#ac9hh8k02}
 
 the roles and relationships of different groups in Medieval, Renaissance or pre-modern Europe
 
@@ -68,7 +68,7 @@ the roles and relationships of different groups in Medieval, Renaissance or pre-
 *  <p>describing the contribution of key theories such as Nicolaus Copernicus’ <em>De revolutionibus orbium coelestium</em>, Galileo’s <em>Dialogue Concerning the Two Chief World Systems</em> and Isaac Newton’s <em>Philosophiae Naturalis Principia Mathematica</em> to the changes brought about by the Scientific Revolution</p>
 *  examining the changes in economic activity created by the discoveries of new commodities, making the costs of basic foodstuffs lower and the quality higher, and the advancements of technologies such as in tools, armaments and shipbuilding
 
-##### AC9HH8K03
+##### AC9HH8K03 {#ac9hh8k03}
 
 a significant event, development, turning point or challenge that contributed to continuity and change in Medieval, Renaissance or pre-modern Europe
 
@@ -88,7 +88,7 @@ a significant event, development, turning point or challenge that contributed to
 *  examining how rulers in different European nations responded differently to new and dissenting ideas that were emerging by comparing the responses of France, England, Spain and Russia
 *  investigating the way of life in key features of the French “Ancien Régime” and how it represented increasing centralisation of administrative power in the monarchy
 
-##### AC9HH8K04
+##### AC9HH8K04 {#ac9hh8k04}
 
 the experiences and perspectives of rulers and of subject peoples, and the interaction between power and/or authority in Medieval, Renaissance or pre-modern Europe
 
@@ -101,7 +101,7 @@ the experiences and perspectives of rulers and of subject peoples, and the inter
 *  examining the change in the role and power of monarchies in the political systems of Western Europe, for example, decline of "absolutism", development of parliaments, and new ideas relating to nationalism
 *  investigating the changes and continuities in the political power of the bourgeoise and peasant classes with the growth of cities and increased urbanisation, and the movement of peoples
 
-##### AC9HH8K05
+##### AC9HH8K05 {#ac9hh8k05}
 
 the role and achievements of a significant individual and/or group in Medieval, Renaissance or pre-modern Europe
 
@@ -114,7 +114,7 @@ the role and achievements of a significant individual and/or group in Medieval, 
 *  investigating the importance of the Scientific Revolution, in particular the scientific theories and discoveries of Copernicus, Galileo, Kepler and Newton, for overturning traditional views of the motion of the planets, and how these contributed to science being seen by many as an alternative to the Church as a source of fundamental truth about reality
 *  investigating the role and significance of Oliver Cromwell and the execution of Charles I in the English Civil War in the development of the Westminster parliamentary system
 
-##### AC9HH8K06
+##### AC9HH8K06 {#ac9hh8k06}
 
 interpretations about an event, individual, group, institution or movement in Medieval, Renaissance or pre-modern Europe
 
@@ -125,9 +125,9 @@ interpretations about an event, individual, group, institution or movement in Me
 *  explaining how the interpretations of the discoveries of science are linked to ideas about the free exercise of human reason and how that could lead to improvements and progress in human life and society generally
 *  examining historical interpretations of key events, developments or achievements during this period, such as the Scientific Revolution or the beginnings of the Age of Reason/Enlightenment, and how these interpretations highlight their importance or significance to contemporary society
 
-#### Empires and expansions
+#### Empires and expansions {#empires-and-expansions}
 
-##### AC9HH8K07
+##### AC9HH8K07 {#ac9hh8k07}
 
 the significant social, religious, cultural, economic, environmental and/or political features of different groups related to the empire and/or expansion
 
@@ -140,7 +140,7 @@ the significant social, religious, cultural, economic, environmental and/or poli
 *  explaining how the environment of Viking lands in Scandinavia influenced the activities of societies
 *  describing pre-Columbian life in the Americas, including the social organisation of the Aztecs (for example, nobility and slaves), their beliefs (for example, worship of a number of gods and the need to make human sacrifices to appease these gods), and life in the capital city of Tenochtitlan
 
-##### AC9HH8K08
+##### AC9HH8K08 {#ac9hh8k08}
 
 a significant event, development, turning point or challenge that contributed to continuity and change related to the empire and/or expansion
 
@@ -162,7 +162,7 @@ a significant event, development, turning point or challenge that contributed to
 *  <p>outlining the effects of Spanish conquest on the Americas, such as the spread of disease, introduction of crops such as maize, beans, tobacco, chocolate and potatoes to Europe, the <em>Encomienda system</em>, mining and deforestation, and the impact of the loss of natural resources</p>
 *  explaining the longer-term effects of conquest and colonisation on the Indigenous populations of the Americas, such as the unequal distribution of land and wealth, slavery, political inequality, and supremacy of Spanish culture and language over conquered territories
 
-##### AC9HH8K09
+##### AC9HH8K09 {#ac9hh8k09}
 
 the experiences and perspectives of rulers and of subject peoples, and how the interaction between power and/or authority relates to the empire and/or expansion
 
@@ -177,7 +177,7 @@ the experiences and perspectives of rulers and of subject peoples, and how the i
 *  describing encounters between Hernán Cortés and the Aztecs, as well as the siege of Tenochtitlan
 *  investigating the impact of conquest on the Indigenous populations of the Americas (for example, the introduction of new diseases, horses and gunpowder, and the loss of natural resources) and the wider world (for example, the introduction of crops such as maize, beans, potatoes, tobacco and chocolate from the Americas to Europe and increased wealth in Europe)
 
-##### AC9HH8K10
+##### AC9HH8K10 {#ac9hh8k10}
 
 the role and achievements of a significant individual and/or group connected to the empire and/or expansion
 
@@ -188,7 +188,7 @@ the role and achievements of a significant individual and/or group connected to 
 *  comparing the artefacts discovered at L’Anse aux Meadows in Newfoundland (Canada) with Viking artefacts as possible evidence that the Vikings had journeyed to North America 500 years before Christopher Columbus
 *  explaining the significance of key chronological events in the lives of individuals such as Columbus, Balboa, Cortés, Montezuma II and/or Pizarro
 
-##### AC9HH8K11
+##### AC9HH8K11 {#ac9hh8k11}
 
 interpretations about the society and events, and/or individuals and/or groups connected to the empire and/or expansion
 
@@ -198,9 +198,9 @@ interpretations about the society and events, and/or individuals and/or groups c
 *  analysing the extent to which historians’ interpretations are corroborated with the oral histories contained in Icelandic sagas, such as about Erik the Red founding Greenland 
 *  analysing the extent to which historians’ interpretations that the Spanish conquest can be attributed to the pursuit of “Gold, God and Glory” differ
 
-#### Asia-Pacific world
+#### Asia-Pacific world {#asia-pacific-world}
 
-##### AC9HH8K12
+##### AC9HH8K12 {#ac9hh8k12}
 
 the significant social, religious, cultural, economic, environmental and/or political features of different groups in the Asian-Pacific society
 
@@ -211,7 +211,7 @@ the significant social, religious, cultural, economic, environmental and/or poli
 *  describing the way of life in one Polynesian society, including the social, cultural, economic and political features, such as the role of the ariki in Māori and in Rapa Nui society
 *  investigating the way of life of Easter Island (Rapa Nui) society; for example, fishing by the men; links between the household and the extended clan through the exchange of goods, wives and labour; the use of stone tools
 
-##### AC9HH8K13
+##### AC9HH8K13 {#ac9hh8k13}
 
 a significant development, event, turning point or challenge that contributed to continuity and change in the Asian-Pacific society
 
@@ -229,7 +229,7 @@ a significant development, event, turning point or challenge that contributed to
 *  explaining the significance of Rahui as a way of prohibiting the collection of resources to ensure their sustainability as a response to the decline and extinction of animals such as the moa
 *  explaining how environmental challenges were overcome on different islands to make settlement possible; for example, the practice of aquaculture in Nauru and/or agricultural practices in Hawaii
 
-##### AC9HH8K14
+##### AC9HH8K14 {#ac9hh8k14}
 
 the experiences and perspectives of rulers and of subject peoples, and the interaction between power and/or authority in the Asian-Pacific society
 
@@ -239,7 +239,7 @@ the experiences and perspectives of rulers and of subject peoples, and the inter
 *  examining artefacts such as Lapita pottery from Vanuatu, tapa cloth and/or ship-building techniques to provide insight into those societies
 *  describing the responsibilities and privileges of being a chief in a society such as those in New Zealand, Hawaii, Tonga and/or the Society Islands
 
-##### AC9HH8K15
+##### AC9HH8K15 {#ac9hh8k15}
 
 the role and achievements of a significant individual and/or group in the Asian-Pacific society
 
@@ -248,7 +248,7 @@ the role and achievements of a significant individual and/or group in the Asian-
 *  explaining the legacy of Tokugawa Ieyasu as founder of the Edo Shogunate
 *  describing the achievements of one Polynesian group of people such as Māori, Samoan, Tahitian (Maohi), Tongans or Rapa Nui
 
-##### AC9HH8K16
+##### AC9HH8K16 {#ac9hh8k16}
 
 interpretations about the Asian-Pacific society and events, and/or individuals and/or groups connected to the society
 
@@ -257,11 +257,11 @@ interpretations about the Asian-Pacific society and events, and/or individuals a
 *  evaluating the significance of the range of reasons for Japan’s closure to foreigners under the Tokugawa Shogunate and the impact of US Commodore Perry’s visit in 1853
 *  explaining the challenges posed by the lack of written sources in understanding the history of Polynesia, such as changes in interpretations of Lapita culture being present in Vanuatu
 
-### Skills
+### Skills {#skills}
 
-#### Questioning and researching
+#### Questioning and researching {#questioning-and-researching}
 
-##### AC9HH8S01
+##### AC9HH8S01 {#ac9hh8s01}
 
 develop historical questions about the past to inform historical inquiry
 
@@ -270,7 +270,7 @@ develop historical questions about the past to inform historical inquiry
 *  developing questions about historical significance such as “How many people were affected by the Black Death?” and “How long did it last?”
 *  reviewing questions when faced with unexpected or challenging developments posed by the historical investigation; for example, “How was the organisation of Japanese society influenced by world events?”
 
-##### AC9HH8S02
+##### AC9HH8S02 {#ac9hh8s02}
 
 locate and identify primary and secondary sources to use in historical inquiry
 
@@ -278,9 +278,9 @@ locate and identify primary and secondary sources to use in historical inquiry
 *  organising sources into categories such as primary and secondary sources and/or written, visual, material culture, and artefacts; for example, sources from the period investigated including journals, church records, paintings, artefacts, and sites and sources written after the period including fictional and artistic interpretations, and academic texts
 *  retrieving relevant information from multiple digital sources, including repositories of primary sources, maps and photographs of culturally significant artefacts such as online platforms, and using advanced search functions to refine the search
 
-#### Using historical sources
+#### Using historical sources {#using-historical-sources}
 
-##### AC9HH8S03
+##### AC9HH8S03 {#ac9hh8s03}
 
 identify the origin, content, context and purpose of primary and secondary sources
 
@@ -289,7 +289,7 @@ identify the origin, content, context and purpose of primary and secondary sourc
 *  explaining how clues within a source can be used to identify where it was made or who it was made by; for example, the place where it was found, the materials used, the condition of the object, decorative features
 *  discussing the difficulty of identifying the origin and purpose of some sources, and how this can impact on the source’s usefulness
 
-##### AC9HH8S04
+##### AC9HH8S04 {#ac9hh8s04}
 
 identify and describe the accuracy and usefulness of primary and secondary sources as evidence
 
@@ -298,9 +298,9 @@ identify and describe the accuracy and usefulness of primary and secondary sourc
 *  distinguishing between fact (for example, “The moai were constructed on Easter Island [Rapa Nui]”) and opinion or interpretation (for example, “The moai on Easter Island [Rapa Nui] are representations of gods”)
 *  using strategies to detect whether a statement is fact or opinion, including word choices that may indicate an opinion is being offered; for example, the use of conditionals “might” and “could”, and words such as “believe”, “think” and “suggests”
 
-#### Historical perspectives and interpretations
+#### Historical perspectives and interpretations {#historical-perspectives-and-interpretations}
 
-##### AC9HH8S05
+##### AC9HH8S05 {#ac9hh8s05}
 
 describe causes and effects, and explain continuities and changes
 
@@ -308,7 +308,7 @@ describe causes and effects, and explain continuities and changes
 *  sequencing historical events to identify broader patterns of cause and/or effect, and change and/or continuity across society, and explaining their observations with reference to key events, individuals, themes and sources of evidence
 *  describing continuities by highlighting the lack of deviation, the similarities of important aspects, and the widespread nature of similarities in the era, period or society despite an event, idea, person, group or movement achieving short-term significance
 
-##### AC9HH8S06
+##### AC9HH8S06 {#ac9hh8s06}
 
 identify perspectives, attitudes and values of the past in sources
 
@@ -316,7 +316,7 @@ identify perspectives, attitudes and values of the past in sources
 *  describing the values and attitudes revealed by a source such as an individual account, and using additional sources to show how they are broadly representative or contrast the values and attitudes of the society
 *  identifying the perspective in a source and discussing the values and attitudes of the society that produced it; for example, explaining why historians have different interpretations, including access to source material, personal views and other contextual factors influencing the time in which the historian was working
 
-##### AC9HH8S07
+##### AC9HH8S07 {#ac9hh8s07}
 
 explain historical interpretations about significant events, individuals and groups
 
@@ -325,9 +325,9 @@ explain historical interpretations about significant events, individuals and gro
 *  identifying different interpretations of an event or development, such as the influence of scientific ideas or the status of women, and accounting for the differences
 *  using historical interpretations to describe change in relation to quality, type, speed and impact
 
-#### Communicating
+#### Communicating {#communicating}
 
-##### AC9HH8S08
+##### AC9HH8S08 {#ac9hh8s08}
 
 create descriptions, explanations and historical arguments, using historical knowledge, concepts and terms that reference evidence from sources
 
@@ -336,7 +336,7 @@ create descriptions, explanations and historical arguments, using historical kno
 *  presenting findings or historical knowledge in range of formats, such as a podcast, an oral presentation or an essay, appropriate to audience and purpose with reference to evidence
 *  developing descriptions and explanations, applying historical terms and concepts in their appropriate historical context
 
-## Achievement Standards
+## Achievement Standards {#achievement-standards}
 
 By the end of Year 8, students describe the historical significance of the periods between the ancient and modern past. They explain the causes and effects of events, developments, turning points or challenges in Medieval, Renaissance or pre-modern Europe, or in the societies connected to the empires or expansions, or the societies of the Asia-Pacific world during these periods. They describe the social, religious, cultural, economic, environmental and/or political aspects related to the changes and continuities in a society or a historical period. Students describe the role of significant individuals, groups and institutions connected to the societies of these periods and their influences on historical events.
 

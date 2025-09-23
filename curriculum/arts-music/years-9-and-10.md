@@ -1,6 +1,6 @@
-# The Arts - Music - Years 9 and 10
+# Music - Years 9 and 10 {#music-years-9-and-10}
 
-## Level Description
+## Level Description {#level-description}
 
 In this band, learning in Music continues to build on each student’s prior learning and experiences as students develop their capability and confidence across the practices of Music: listening, composing and performing. They continue to use music knowledge and skills in purposeful and creative ways that are informed by their engagement with the work of living composers and performers from local, regional, national and global contexts such as countries or regions in Asia, including use of music in multi-arts, trans-disciplinary or hybrid forms. This awareness of diverse music practices, genres and/or styles informs their own music practices. They work collaboratively with peers and teachers.
 
@@ -19,11 +19,11 @@ In this band, the focus is on students:
 5.  composing in genres/forms such as songwriting, solo and/or ensemble instrumental music, music production, arranging or re-imagining, and developing interpretations of solo and/or ensemble music works for performance, using aural skills and/or available digital tools as appropriate
 6.  presenting performances to audiences; for example, for a specific target audience.
 
-## Strands
+## Strands {#strands}
 
-### Exploring and responding
+### Exploring and responding {#exploring-and-responding}
 
-##### AC9AMU10E01
+##### AC9AMU10E01 {#ac9amu10e01}
 
 investigate composers’ and/or performers’ use of elements of music, compositional devices and/or vocal/instrumental techniques in music from a range of cultures, times, places and/or other contexts
 
@@ -36,7 +36,7 @@ investigate composers’ and/or performers’ use of elements of music, composit
 *  discussing and evaluating the influence of music on the development of personal or social identity (for example ways music is used to influence or create a sense of belonging), and analysing how different traditions, styles and contexts affect the way people respond to the music; then using this analysis to inform the creation of a new piece of music
 *  using Viewpoints to ask questions, such as, “How has the rise of technology changed music styles or the ways composers and performers work?” or “How has technology impacted on audiences, the music industry and the way we consume music?” when considering how composers and/or performers develop their personal style and/or work collaboratively
 
-##### AC9AMU10E02
+##### AC9AMU10E02 {#ac9amu10e02}
 
 investigate the ways that First Nations Australian performers and/or composers celebrate and challenge multiple perspectives of Australian identity through music
 
@@ -46,9 +46,9 @@ investigate the ways that First Nations Australian performers and/or composers c
 *  evaluating intentions/motivations in music composed by and/or performed by First Nations Australians that challenges people to take action on issues such as climate change, environmental protection, social justice, racism or youth homelessness; for example, music presented in a themed performance program
 *  using and annotating a map of First Nations Australian language groups to identify where First Nations Australian composers and/or performers are working and providing short descriptions of their music
 
-### Developing practices and skills
+### Developing practices and skills {#developing-practices-and-skills}
 
-##### AC9AMU10D01
+##### AC9AMU10D01 {#ac9amu10d01}
 
 develop, practise and refine the use of listening/aural skills and style-specific vocal instrumental skills/techniques to interpret music and communicate expressive effects
 
@@ -58,7 +58,7 @@ develop, practise and refine the use of listening/aural skills and style-specifi
 *  mapping a planned approach to interpret dynamics; for example, using observations from another performance or analysis of the work, and identifying sections/points where the loudest and softest dynamics will be employed; then practising to realise the plan
 *  developing technical and expressive facility and control when using voice and/or instrument/s; for example, undertaking a systematic approach to developing and extending vocal or instrumental skills
 
-##### AC9AMU10D02
+##### AC9AMU10D02 {#ac9amu10d02}
 
 reflect on their own and others’ music to inform choices they make as composers and performers about how they will interpret and/or manipulate elements of music and/or compositional devices
 
@@ -68,9 +68,9 @@ reflect on their own and others’ music to inform choices they make as composer
 *  using focused listening, aural or memory skills to identify, sing or play and/or notate/document music ideas, such as pitch and rhythm patterns, intervals and common chord progressions, for future use in compositions and/or performances
 *  developing and refining use of aural skills relating to tuning/intonation that they can use in real-time to improve levels of accuracy and control when performing
 
-### Creating and making
+### Creating and making {#creating-and-making}
 
-##### AC9AMU10C01
+##### AC9AMU10C01 {#ac9amu10c01}
 
 interpret music in a variety of forms and styles, manipulating the elements of music and/or compositional devices, and using style-specific vocal/instrumental techniques to communicate ideas, perspectives and/or meaning
 
@@ -80,7 +80,7 @@ interpret music in a variety of forms and styles, manipulating the elements of m
 *  identifying stylistic conventions relevant to music they are learning, planning and practising to apply the conventions (as relevant) in their performance of music in that/those styles; for example, using information from composer/s, performers or analysis undertaken by other musicians or commentators
 *  selecting, interpreting and practising a performance program that focuses on a particular theme (social or historical), music style or the work of a composer or performer/s; for example, a solo or ensemble program
 
-##### AC9AMU10C02
+##### AC9AMU10C02 {#ac9amu10c02}
 
 compose music, manipulating and combining elements of music and compositional devices relevant to chosen styles and/or forms to communicate ideas, perspectives and/or meaning and notate, document and/or record the music
 
@@ -92,9 +92,9 @@ compose music, manipulating and combining elements of music and compositional d
 *  experimenting with ways to combine and manipulate the elements of music and using style-specific compositional devices to develop and shape or extend compositions
 *  analysing how elements of music are typically used in a music style and using findings as a guide when arranging or re-imagining music
 
-### Presenting and performing
+### Presenting and performing {#presenting-and-performing}
 
-##### AC9AMU10P01
+##### AC9AMU10P01 {#ac9amu10p01}
 
 rehearse and present planned performances of music they have learnt and/or composed, using relevant vocal/instrumental techniques and performance skills
 
@@ -104,7 +104,7 @@ rehearse and present planned performances of music they have learnt and/or compo
 *  rehearsing and presenting planned performances, and then reflecting on and evaluating how each performance may have been different, which was more successful with audiences, and why
 *  planning and presenting performances in a range of physical or virtual spaces, including providing audiences with information about the music, the performers and the ideas that the performers are intending to communicate
 
-## Achievement Standards
+## Achievement Standards {#achievement-standards}
 
 In this band, learning in Music continues to build on each student’s prior learning and experiences as students develop their capability and confidence across the practices of Music: listening, composing and performing. They continue to use music knowledge and skills in purposeful and creative ways that are informed by their engagement with the work of living composers and performers from local, regional, national and global contexts such as countries or regions in Asia, including use of music in multi-arts, trans-disciplinary or hybrid forms. This awareness of diverse music practices, genres and/or styles informs their own music practices. They work collaboratively with peers and teachers.
 

@@ -1,6 +1,6 @@
-# English - Year 10
+# English - Year 10 {#english-year-10}
 
-## Level Description
+## Level Description {#level-description}
 
 The English curriculum is built around the 3 interrelated strands of _Language, Literature_ and _Literacy_. Teaching and learning programs should balance and integrate all 3 strands. Together, the 3 strands focus on developing students’ knowledge, understanding and skills in listening, reading, viewing, speaking, writing and creating. Learning in English is recursive and cumulative, building on concepts, skills and processes developed in earlier years.
 
@@ -14,13 +14,13 @@ Literary texts that support and extend students in Year 10 as independent reader
 
 Year 10 students create a range of texts whose purposes may be aesthetic, imaginative, reflective, informative, persuasive, analytical and/or critical; for example, narratives, arguments that include analytical expositions and discussions, analysis and responses that include personal reflections, reviews and critical responses for a range of audiences.
 
-## Strands
+## Strands {#strands}
 
-### Language
+### Language {#language}
 
-#### Language for interacting with others
+#### Language for interacting with others {#language-for-interacting-with-others}
 
-##### AC9E10LA01
+##### AC9E10LA01 {#ac9e10la01}
 
 understand how language can have inclusive and exclusive social effects, and can empower or disempower people
 
@@ -31,7 +31,7 @@ understand how language can have inclusive and exclusive social effects, and can
 *  identifying language that appeals to shared cultural knowledge, values and beliefs
 *  identifying examples of language that are inclusive or marginalising
 
-##### AC9E10LA02
+##### AC9E10LA02 {#ac9e10la02}
 
 understand that language used to evaluate, implicitly or explicitly reveals an individual's values
 
@@ -39,9 +39,9 @@ understand that language used to evaluate, implicitly or explicitly reveals an i
 *  identifying explicit expressions of values when evaluating
 *  identifying subtle or implied values communicated through language; for example, using a term such as “teenager” to refer to an individual rather than using a specific name
 
-#### Text structure and organisation
+#### Text structure and organisation {#text-structure-and-organisation}
 
-##### AC9E10LA03
+##### AC9E10LA03 {#ac9e10la03}
 
 analyse text structures and language features and evaluate their effectiveness in achieving their purpose
 
@@ -50,7 +50,7 @@ analyse text structures and language features and evaluate their effectiveness i
 *  analysing the text structures and language features of reviews from different sources, and evaluating their effectiveness
 *  analysing and experimenting with combinations of graphics, text and sound in the production of multimodal texts such as documentaries, media reports, online magazines and digital books to influence audience responses
 
-##### AC9E10LA04
+##### AC9E10LA04 {#ac9e10la04}
 
 understand how paragraph structure can be varied to create cohesion, and paragraphs and images can be integrated for different purposes
 
@@ -59,9 +59,9 @@ understand how paragraph structure can be varied to create cohesion, and paragra
 *  examining the integration of paragraphs and images on websites for effect
 *  evaluating the effect of the integration of paragraphs and images in graphic novels
 
-#### Language for expressing and developing ideas
+#### Language for expressing and developing ideas {#language-for-expressing-and-developing-ideas}
 
-##### AC9E10LA05
+##### AC9E10LA05 {#ac9e10la05}
 
 analyse and evaluate the effectiveness of particular sentence structures to express and craft ideas
 
@@ -70,7 +70,7 @@ analyse and evaluate the effectiveness of particular sentence structures to expr
 *  recognising how authors sometimes use verbless clauses for effect; for example, “And what about the other woman? With her dark glasses and briefcase.”
 *  recognising that a sentence can begin with a coordinating conjunction for stylistic effect; for example, “And she went on planning how she would manage it.”
 
-##### AC9E10LA06
+##### AC9E10LA06 {#ac9e10la06}
 
 analyse how meaning and style are achieved through syntax
 
@@ -79,21 +79,21 @@ analyse how meaning and style are achieved through syntax
 *  analysing how logical relations between ideas are built up by combining independent with dependent clauses indicating cause, result, manner, concession, condition, and so on; for example, “Although the poet was not generally well received by critics during her life (concession), her reputation grew substantially after her death.”
 *  considering how abstraction in a noun group allows for greater generalisation of complex ideas in a sentence; for example, “He focused on the political, religious, social and economic elements of the society in his thesis.”
 
-##### AC9E10LA07
+##### AC9E10LA07 {#ac9e10la07}
 
 evaluate the features of still and moving images, and the effects of those choices on representations
 
 **Elaborations**
 *  examining features of visual texts that create nuance in representations; for example, analysing the use of light and dark, and evaluating the impact of light and dark on representing duplicity
 
-##### AC9E10LA08
+##### AC9E10LA08 {#ac9e10la08}
 
 use an expanded technical and academic vocabulary for precision when writing academic texts
 
 **Elaborations**
 *  identifying the meaning of an increasing range of technical vocabulary; for example, using specific terms about rhythm such as “iambic pentameter” when analysing poetry
 
-##### AC9E10LA09
+##### AC9E10LA09 {#ac9e10la09}
 
 understand how authors use and experiment with punctuation
 
@@ -102,11 +102,11 @@ understand how authors use and experiment with punctuation
 *  examining an author’s use of ellipses to create tentativeness in a character’s speech
 *  reviewing the use of punctuation to represent emotions; for example, the use of multiple exclamation marks or punctuation emojis
 
-### Literature
+### Literature {#literature}
 
-#### Literature and contexts
+#### Literature and contexts {#literature-and-contexts}
 
-##### AC9E10LE01
+##### AC9E10LE01 {#ac9e10le01}
 
 analyse representations of individuals, groups and places and evaluate how they reflect their context in literary texts by First Nations Australian, and wide-ranging Australian and world authors
 
@@ -115,9 +115,9 @@ analyse representations of individuals, groups and places and evaluate how they 
 *  analysing how stories written by First Nations Australian authors contemporise or modernise traditional stories and evaluating the responses of contemporary audiences
 *  analysing how humour is used to represent the underdog in Australian texts and evaluating how the underdog reflects the context
 
-#### Engaging with and responding to literature
+#### Engaging with and responding to literature {#engaging-with-and-responding-to-literature}
 
-##### AC9E10LE02
+##### AC9E10LE02 {#ac9e10le02}
 
 reflect on and extend others’ interpretations of and responses to literature
 
@@ -126,23 +126,23 @@ reflect on and extend others’ interpretations of and responses to literature
 *  presenting arguments based on close textual analysis to support an interpretation of a text; for example, writing an essay or creating a set of director’s notes
 *  creating personal reading lists in a variety of genres and explaining why texts qualify for inclusion on a particular list
 
-##### AC9E10LE03
+##### AC9E10LE03 {#ac9e10le03}
 
 analyse how the aesthetic qualities associated with text structures, language features, literary devices and visual features, and the context in which these texts are experienced, influence audience response
 
 **Elaborations**
 *  examining a range of texts and evaluating the effect of text structures and language features; for example, determining whether the narrative position of a child evokes reader sympathy towards an event or issue
 
-##### AC9E10LE04
+##### AC9E10LE04 {#ac9e10le04}
 
 evaluate the social, moral or ethical positions represented in literature
 
 **Elaborations**
 *  identifying and analysing ethical positions on a significant issue, including values and/or principles involved, and evaluating the strengths and weaknesses of the position presented
 
-#### Examining literature
+#### Examining literature {#examining-literature}
 
-##### AC9E10LE05
+##### AC9E10LE05 {#ac9e10le05}
 
 analyse how text structure, language features, literary devices and intertextual connections shape interpretations of texts
 
@@ -150,14 +150,14 @@ analyse how text structure, language features, literary devices and intertextual
 *  examining a range of short poems, a short story, or extracts from a novel or film to find and discuss examples of how language devices layer meaning and influence the responses of listeners, viewers or readers
 *  examining satirical representations of events or ideas and determining how satire shapes interpretations and responses
 
-##### AC9E10LE06
+##### AC9E10LE06 {#ac9e10le06}
 
 compare and evaluate how “voice” as a literary device is used in different types of texts, such as poetry, novels and film, to evoke emotional responses
 
 **Elaborations**
 *  comparing the “voice” of protest in a range of poems or songs and evaluating how different voices evoke a response
 
-##### AC9E10LE07
+##### AC9E10LE07 {#ac9e10le07}
 
 analyse and evaluate the aesthetic qualities of texts
 
@@ -165,9 +165,9 @@ analyse and evaluate the aesthetic qualities of texts
 *  using terms associated with literary text analysis; for example, “stanza”, “figurative language”, “symbolism” and “soundtrack”, when evaluating aspects that are valued and that contain aesthetic qualities
 *  analysing and evaluating the use of literary devices; for example, commenting on the effect of symbolism in a text
 
-#### Creating literature
+#### Creating literature {#creating-literature}
 
-##### AC9E10LE08
+##### AC9E10LE08 {#ac9e10le08}
 
 create and edit literary texts with a sustained “voice”, selecting and adapting text structures, literary devices, and language, auditory and visual features for purposes and audiences
 
@@ -177,11 +177,11 @@ create and edit literary texts with a sustained “voice”, selecting and adapt
 *  creating and editing a suite of short texts that focus on a key idea expressed in different voices
 *  describing choices of text structures, literary devices, language, auditory or visual features made in a literary text and reflecting on the effect of those choices
 
-### Literacy
+### Literacy {#literacy}
 
-#### Texts in context
+#### Texts in context {#texts-in-context}
 
-##### AC9E10LY01
+##### AC9E10LY01 {#ac9e10ly01}
 
 analyse and evaluate how people, places, events and concepts are represented in texts and reflect contexts
 
@@ -189,25 +189,25 @@ analyse and evaluate how people, places, events and concepts are represented in 
 *  evaluating stereotypes of people, places, events and concepts, and expressing opinions on these representations in the contexts for which they are created
 *  analysing representations of events and issues in First Nations Australian media
 
-#### Interacting with others
+#### Interacting with others {#interacting-with-others}
 
-##### AC9E10LY02
+##### AC9E10LY02 {#ac9e10ly02}
 
 listen to spoken texts and explain the purposes and effects of text structures and language features, and use interaction skills to discuss and present an opinion about these texts
 
 **Elaborations**
 *  analysing spoken and multimodal features of media texts and discussing the effects of these features; for example, presenting an opinion on the combination of words and sound in creating mood
 
-#### Analysing, interpreting and evaluating 
+#### Analysing, interpreting and evaluating  {#analysing-interpreting-and-evaluating}
 
-##### AC9E10LY03
+##### AC9E10LY03 {#ac9e10ly03}
 
 analyse and evaluate how language features are used to implicitly or explicitly represent values, beliefs and attitudes
 
 **Elaborations**
 *  analysing social or political cartoons to identify the implicit and explicit values, beliefs and attitudes expressed
 
-##### AC9E10LY04
+##### AC9E10LY04 {#ac9e10ly04}
 
 analyse and evaluate how authors organise ideas in texts to achieve a purpose
 
@@ -216,7 +216,7 @@ analyse and evaluate how authors organise ideas in texts to achieve a purpose
 *  evaluating how ideas in an online review are organised and its success in achieving its purpose
 *  comparing the organisation of ideas in political pamphlets and determining the impact of each
 
-##### AC9E10LY05
+##### AC9E10LY05 {#ac9e10ly05}
 
 integrate comprehension strategies such as visualising, predicting, connecting, summarising, monitoring, questioning and inferring to analyse and interpret complex and abstract ideas
 
@@ -225,9 +225,9 @@ integrate comprehension strategies such as visualising, predicting, connecting, 
 *  interpreting how visual features represent abstract concepts in advertising, such as the representation of parenthood in advertisements
 *  summarising the qualities and interpreting the role of a character archetype in a range of texts and analysing the importance of this archetype
 
-#### Creating texts
+#### Creating texts {#creating-texts}
 
-##### AC9E10LY06
+##### AC9E10LY06 {#ac9e10ly06}
 
 plan, create, edit and publish written and multimodal texts, organising, expanding and developing ideas through experimenting with text structures, language features, literary devices and multimodal features for specific purposes and audiences in ways that may be imaginative, reflective, informative, persuasive, analytical and/or critical
 
@@ -238,7 +238,7 @@ plan, create, edit and publish written and multimodal texts, organising, expandi
 *  reviewing, editing and refining their own and others’ texts for accuracy of grammar, spelling and punctuation, and to achieve particular purposes and address specific audiences through control and organisation of content, sentence structures, vocabulary choices and visual features
 *  reflecting on the effect of choices made in a written or multimodal text and how these choices may be changed or developed in future texts
 
-##### AC9E10LY07
+##### AC9E10LY07 {#ac9e10ly07}
 
 plan, create, rehearse and deliver spoken and multimodal presentations by experimenting with rhetorical devices, and the organisation and development of ideas, to engage audiences for different purposes in ways that may be imaginative, reflective, informative, persuasive, analytical and/or critical
 
@@ -247,15 +247,15 @@ plan, create, rehearse and deliver spoken and multimodal presentations by experi
 *  creating spoken multimodal texts that manipulate rhetorical devices to compel listeners to act
 *  discussing and negotiating with peers in debates and panel discussions about issues related to a text
 
-#### Word knowledge
+#### Word knowledge {#word-knowledge}
 
-##### AC9E10LY08
+##### AC9E10LY08 {#ac9e10ly08}
 
 use knowledge of the spelling system to spell words and to manipulate standard spelling for particular effects
 
 **Elaborations**
 
-## Achievement Standards
+## Achievement Standards {#achievement-standards}
 
 By the end of Year 10, students interact with others, and listen to and create spoken and multimodal texts including literary texts. With a range of purposes and for audiences, they discuss ideas and responses to representations, making connections and providing substantiation. They select and experiment with text structures to organise and develop ideas. They select, vary and experiment with language features including rhetorical and literary devices, and experiment with multimodal features and features of voice.
 

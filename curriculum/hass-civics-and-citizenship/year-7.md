@@ -1,6 +1,6 @@
-# Humanities and Social Sciences - Civics and Citizenship 7-10 - Year 7
+# Civics and Citizenship - Year 7 {#civics-and-citizenship-year-7}
 
-## Level Description
+## Level Description {#level-description}
 
 In Year 7, students study the key features of democracy and Australia’s federal system of government, and explore how values shape our democracy. Students learn about the key features and principles of Australia’s legal system. They look at how the rights of individuals are protected through the legal system, which aims to provide justice. Students also explore how Australia’s secular system of government supports a diverse society with shared values that promote community cohesion.
 
@@ -11,13 +11,13 @@ Inquiry questions provide a framework for developing students’ knowledge, unde
 *   How do features of Australian democracy and the legal system uphold and enact democratic values?
 *   How is Australia a diverse society and what factors contribute to a cohesive society?
 
-## Strands
+## Strands {#strands}
 
-### Knowledge and understanding
+### Knowledge and understanding {#knowledge-and-understanding}
 
-#### Government and democracy
+#### Government and democracy {#government-and-democracy}
 
-##### AC9HC7K01
+##### AC9HC7K01 {#ac9hc7k01}
 
 the key features of Australia's system of government, including democracy, the Australian Constitution, responsible government and federalism
 
@@ -27,7 +27,7 @@ the key features of Australia's system of government, including democracy, the A
 *  exploring key democratic concepts, including popular sovereignty, representation, accountability and a partial separation of powers through the election of members of a legislative branch who answer to the people and from whom the executive branch is drawn
 *  investigating Australia as a federation with a division of powers and responsibilities between Commonwealth and state/territory governments
 
-##### AC9HC7K02
+##### AC9HC7K02 {#ac9hc7k02}
 
 the characteristics of Australia's democracy, including freedom of speech, association, assembly, religion and movement
 
@@ -38,9 +38,9 @@ the characteristics of Australia's democracy, including freedom of speech, assoc
 *  identifying characteristics of formal citizenship and the attributes of active citizenship, and identifying who has been included and excluded from the rights and freedoms of citizenship in Australia, particularly in relation to First Nations Australians
 *  examining the active citizenship of First Nations Australians such as Neville Bonner, Adam Goodes, Noel Pearson, Murundoo Yanner, Charles Mene, Ellie Gaffney, Evelyn Scott and Pat O'Shane, and their contributions to the rights and freedoms of Australian First Nations Peoples
 
-#### Laws and citizens
+#### Laws and citizens {#laws-and-citizens}
 
-##### AC9HC7K03
+##### AC9HC7K03 {#ac9hc7k03}
 
 the key principles and features of the Australian legal system, including the Australian Constitution, the rule of law and the court system
 
@@ -52,9 +52,9 @@ the key principles and features of the Australian legal system, including the Au
 *  discussing the elements of a “fair trial”, including citizens’ roles as witnesses and jurors, legal representation and due process
 *  exploring how Australians can receive access to justice and can apply for legal representation, such as through legal aid
 
-#### Citizenship, diversity and identity
+#### Citizenship, diversity and identity {#citizenship-diversity-and-identity}
 
-##### AC9HC7K04
+##### AC9HC7K04 {#ac9hc7k04}
 
 how Australia’s secular democracy and pluralist, multi-faith society draws upon diverse cultural origins, including Christian and Western heritage, distinct First Nations Australian histories and cultures, and migrant communities
 
@@ -65,7 +65,7 @@ how Australia’s secular democracy and pluralist, multi-faith society draws upo
 *  exploring the diversity of spiritualities among First Nations Australian communities, from traditional spirituality to the adoption of other religions such as Christianity and Islam
 *  appreciating the cultural and historical foundations of Australia's Christian heritage and their impact on Australia’s political and legal systems
 
-##### AC9HC7K05
+##### AC9HC7K05 {#ac9hc7k05}
 
 how values based on freedom, respect, fairness and equality of opportunity can support social cohesion and democracy within Australian society
 
@@ -77,11 +77,11 @@ how values based on freedom, respect, fairness and equality of opportunity can s
 *  identifying Christian traditions and values that have influenced the development of Australian society, democracy and law, including the impacts upon First Nations Australian communities and other groups within Australian society
 *  identifying the values and beliefs of religions practised in contemporary Australia, such as Judaism, Buddhism, Islam and Hinduism
 
-### Skills
+### Skills {#skills}
 
-#### Questioning and researching
+#### Questioning and researching {#questioning-and-researching}
 
-##### AC9HC7S01
+##### AC9HC7S01 {#ac9hc7s01}
 
 develop questions to investigate Australia’s political and legal systems, and contemporary civic issues
 
@@ -89,7 +89,7 @@ develop questions to investigate Australia’s political and legal systems, and 
 *  developing a key question related to a specific investigation; for example, “What is the ‘rule of law’ and how does it apply to Australia’s legal system?” or “How does Australia’s federal system of government divide powers between states and territories?”
 *  using current events to generate questions that apply to the wider investigation; for example, “How is Australians’ freedom of expression protected and limited in cases of incorrect information being published or distributed?”
 
-##### AC9HC7S02
+##### AC9HC7S02 {#ac9hc7s02}
 
 locate, select and organise information, data and ideas from different sources
 
@@ -99,9 +99,9 @@ locate, select and organise information, data and ideas from different sources
 *  identifying key findings from specialist sources, such as reports into Australia’s legal system by the Australian Law Reform Commission or state/territory commissions and committees
 *  selecting and organising information from different sources, such as media reports, online publications and government websites, on the basis of similarity and relevance to the topic
 
-#### Analysis, evaluation and interpretation
+#### Analysis, evaluation and interpretation {#analysis-evaluation-and-interpretation}
 
-##### AC9HC7S03
+##### AC9HC7S03 {#ac9hc7s03}
 
 analyse information, data and ideas about political, legal or civic issues to identify and explain differences in perspectives and potential challenges
 
@@ -109,9 +109,9 @@ analyse information, data and ideas about political, legal or civic issues to 
 *  examining online publications to find examples of how the system of government protects respect for human rights and the rule of law, and compare these examples with other publications that have different perspectives or challenge these views
 *  evaluating data from surveys or reports to draw conclusions about a current issue of challenge; for example, a Lowy Institute poll on important issues facing Australia or media reports on the effectiveness of the court system
 
-#### Civic participation and decision-making
+#### Civic participation and decision-making {#civic-participation-and-decision-making}
 
-##### AC9HC7S04
+##### AC9HC7S04 {#ac9hc7s04}
 
 explain the methods or strategies related to making decisions about civic participation
 
@@ -120,9 +120,9 @@ explain the methods or strategies related to making decisions about civic partic
 *  identifying the core responsibilities of active citizenship and evaluating how the contributions of Australian citizens enacting democratic values demonstrate active citizenship and contribute to creating a cohesive society; for example, disability advocacy services or Landcare Australia groups
 *  identifying and explaining the features of methods or strategies used by citizens and groups to achieve democratic and just outcomes, such as social media campaigns, letters, petitions, participating in mediation or tribunals, or taking direct action
 
-#### Communicating
+#### Communicating {#communicating}
 
-##### AC9HC7S05
+##### AC9HC7S05 {#ac9hc7s05}
 
 create descriptions, explanations and arguments using civics and citizenship knowledge, concepts and terms that reference evidence
 
@@ -131,7 +131,7 @@ create descriptions, explanations and arguments using civics and citizenship kno
 *  presenting ideas and information appropriate to purpose and audience; for example, to develop digital material promoting participation in Australia’s democracy or written material presenting a case for a constitutional change
 *  presenting an argument using appropriate terms and concepts such as “rule of law”, “separation of powers” or “secular nation”
 
-## Achievement Standards
+## Achievement Standards {#achievement-standards}
 
 By the end of Year 7, students describe the key features of Australia's system of government, and the principles and features of the Australian legal system. They explain the characteristics of Australian democracy. Students describe the nature of Australian society, its cultural and religious diversity, and identify the values that support cohesion in Australian society.
 
