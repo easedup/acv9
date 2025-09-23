@@ -1,6 +1,6 @@
-# Technologies - Design and Technologies - Years 3 and 4
+# Design and Technologies - Years 3 and 4 {#design-and-technologies-years-3-and-4}
 
-## Level Description
+## Level Description {#level-description}
 
 By the end of Year 4 students should have had the opportunity to create 3 types of designed solutions, and addressed each of these 2 technologies contexts:
 
@@ -17,13 +17,13 @@ Students clarify and present ideas, using a range of technologies and graphical 
 
 Students become aware of appropriate ways to manage their time and co-develop and use design criteria. They list the major steps needed to complete a design task. They show an understanding of the importance of planning when designing solutions, in particular when collaborating. Students identify safety issues and learn to follow safety rules when producing designed solutions.
 
-## Strands
+## Strands {#strands}
 
-### Knowledge and understanding
+### Knowledge and understanding {#knowledge-and-understanding}
 
-#### Technologies and society
+#### Technologies and society {#technologies-and-society}
 
-##### AC9TDE4K01
+##### AC9TDE4K01 {#ac9tde4k01}
 
 examine design and technologies occupations and factors including sustainability that impact on the design of products, services and environments to meet community needs
 
@@ -35,9 +35,9 @@ examine design and technologies occupations and factors including sustainability
 *  examining products and environments to discover the factors that may have influenced the design and, choice of technologies used, for example discussing energy-efficient cooking with a wok, or sustainable wood products for home use including furniture made from plantation timbers, bamboo toothbrushes or coconut shell bowls
 *  conducting a survey to identify a community need that involves accessibility and social sustainability, for example design features that improve access to the school
 
-#### Technologies context: Engineering principles and systems; Materials and technologies specialisations
+#### Technologies context: Engineering principles and systems; Materials and technologies specialisations {#technologies-context-engineering-principles-and-systems-materials-and-technologies-specialisations}
 
-##### AC9TDE4K02
+##### AC9TDE4K02 {#ac9tde4k02}
 
 describe how forces and the properties of materials affect function in a product or system
 
@@ -48,9 +48,9 @@ describe how forces and the properties of materials affect function in a product
 *  <p>deconstructing a product or system to identify how motion and forces affect performance, for example in a puppet such as a Japanese <em>bunraku puppet</em> or a model windmill with moving sails</p>
 *  identifying engineered systems and experimenting with available local materials, tools and equipment to solve problems, for example designing a container or parachute that will keep an egg intact when dropped from a height; a pop-up card; a tower; or a vehicle
 
-#### Technologies context: Food and fibre production; Food specialisations
+#### Technologies context: Food and fibre production; Food specialisations {#technologies-context-food-and-fibre-production-food-specialisations}
 
-##### AC9TDE4K03
+##### AC9TDE4K03 {#ac9tde4k03}
 
 describe the ways of producing food and fibre
 
@@ -60,7 +60,7 @@ describe the ways of producing food and fibre
 *  comparing farming methods for food in Australia and a country in Asia, for example the use of different types of plants and animals and how diverse technologies are used to produce them
 *  researching how animal fibres (for example wool, alpaca) and plant fibres (for example timber, cotton, bamboo) are produced in Australia, for example how production of plantation timbers may be different from bamboo production
 
-##### AC9TDE4K04
+##### AC9TDE4K04 {#ac9tde4k04}
 
 describe the ways food can be selected and prepared for healthy eating
 
@@ -71,11 +71,11 @@ describe the ways food can be selected and prepared for healthy eating
 *  considering creative ways foods can be prepared for maximum taste and appeal, for example locating and discussing images online that show colourful or fun ways to present food that might encourage healthy eating
 *  describing foods using the senses, for example describing the colour, aroma, sound, texture and taste of the ingredients in a salad or stir-fry and how our senses influence what we select to eat
 
-### Processes and production skills
+### Processes and production skills {#processes-and-production-skills}
 
-#### Investigating and defining
+#### Investigating and defining {#investigating-and-defining}
 
-##### AC9TDE4P01
+##### AC9TDE4P01 {#ac9tde4p01}
 
 explore needs or opportunities for designing, and test materials, components, tools, equipment and processes needed to create designed solutions
 
@@ -86,9 +86,9 @@ explore needs or opportunities for designing, and test materials, components, to
 *  exploring and testing a range of materials under different conditions for suitability including sustainability considerations, for example the compostability of paper-based materials or the strength and durability of natural materials
 *  exploring the different uses of materials in a range of products, including those from a country in Asia, to inform design decisions, for example in shelters, boats, handmade tools, baskets, wooden items, musical instruments, clothing and fabric
 
-#### Generating and designing
+#### Generating and designing {#generating-and-designing}
 
-##### AC9TDE4P02
+##### AC9TDE4P02 {#ac9tde4p02}
 
 generate and communicate design ideas and decisions using appropriate attributions, technical terms and graphical representation techniques, including using digital tools
 
@@ -98,9 +98,9 @@ generate and communicate design ideas and decisions using appropriate attributio
 *  communicating design ideas using annotated diagrams, for example labelling a diagram for a pushcart with technical terms and explanations about components such as the chassis, axle, wheels and steering
 *  generating design ideas for solutions using Safety by Design principles, for example designing communication that is accessible for all parents and carers
 
-#### Producing and implementing
+#### Producing and implementing {#producing-and-implementing}
 
-##### AC9TDE4P03
+##### AC9TDE4P03 {#ac9tde4p03}
 
 select and use materials, components, tools, equipment and techniques to safely make designed solutions
 
@@ -111,9 +111,9 @@ select and use materials, components, tools, equipment and techniques to safely 
 *  selecting and using materials, components, tools, equipment and processes with consideration of the environmental impact at each stage of the production process, for example considering how packaging and offcuts could be recycled or used for other purposes before choosing materials for a project
 *  using appropriate technologies terms to describe and share with other students the procedures and techniques for making, for example how to safely make an engineered solution such as a robotic device
 
-#### Evaluating
+#### Evaluating {#evaluating}
 
-##### AC9TDE4P04
+##### AC9TDE4P04 {#ac9tde4p04}
 
 use given or co-developed design criteria including sustainability to evaluate design ideas and solutions
 
@@ -123,9 +123,9 @@ use given or co-developed design criteria including sustainability to evaluate d
 *  comparing the amount of waste that would be produced from different design ideas and the potential for recycling waste, for example exploring the choice of materials to construct a toy and whether these materials are repairable or able to be recycled once the toy breaks or is no longer wanted
 *  reflecting on how well their designed solution meets design criteria, such as ensuring safety and wellbeing of users and meeting the needs of communities or different cultures, for example reviewing and discussing the choice of fabrics used to make re-usable bags and how they could be made more appealing to all cultural groups by considering modifications to style
 
-#### Collaborating and managing
+#### Collaborating and managing {#collaborating-and-managing}
 
-##### AC9TDE4P05
+##### AC9TDE4P05 {#ac9tde4p05}
 
 sequence steps to individually and collaboratively make designed solutions
 
@@ -134,7 +134,7 @@ sequence steps to individually and collaboratively make designed solutions
 *  discussing the importance of managing time and resource allocation throughout production, for example discussing the roles different people might take in a team and identifying the tasks they will complete and the resources they will each need
 *  identifying the steps in a mass production process, for example drawing a flowchart or making a video recording of a procedure for packing identical boxes of food for community members in need, where each student in a group has a separate task as part of the production process
 
-## Achievement Standards
+## Achievement Standards {#achievement-standards}
 
 By the end of Year 4 students describe how people design products, services and environments to meet the needs of people, including sustainability. For each of the 2 prescribed technologies contexts they describe the features and uses of technologies and create designed solutions. Students select design ideas against design criteria. They communicate design ideas using models and drawings including annotations and symbols. Students plan and sequence steps and use technologies and techniques to safely produce designed solutions.
 

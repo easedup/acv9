@@ -1,6 +1,6 @@
-# Humanities and Social Sciences - Geography 7-10 - Year 7
+# Geography - Year 7 {#geography-year-7}
 
-## Level Description
+## Level Description {#level-description}
 
 The Year 7 curriculum involves the study of 2 sub-strands.
 
@@ -18,13 +18,13 @@ Inquiry questions provide a framework for developing students’ knowledge, unde
 *   How does people’s reliance on places and environments influence their perception of them?
 *   What effect does the uneven distribution of resources and services have on the lives of people?
 
-## Strands
+## Strands {#strands}
 
-### Knowledge and understanding
+### Knowledge and understanding {#knowledge-and-understanding}
 
-#### Water in the world
+#### Water in the world {#water-in-the-world}
 
-##### AC9HG7K01
+##### AC9HG7K01 {#ac9hg7k01}
 
 classification of environmental resources and the way that water connects and changes places as it moves through environments
 
@@ -34,7 +34,7 @@ classification of environmental resources and the way that water connects an
 *  explaining the environmental, economic or social effects of water as it connects places; for example, the environmental effects of water diversion in the Snowy Mountains, the economic effects of irrigation in the Ord River or the social effects of the Mutitjulu Waterhole connecting Australian First Nations Peoples in Central Australia
 *  explaining how moving water changes places; for example, moving water causes soil and rock erosion or cuts valleys into mountains
 
-##### AC9HG7K02
+##### AC9HG7K02 {#ac9hg7k02}
 
 the location and distribution of water resources in Australia, their implications, and strategies to manage the sustainability of water
 
@@ -46,7 +46,7 @@ the location and distribution of water resources in Australia, their implication
 *  examining why water is a difficult resource for communities to manage and sustain; for example, because of its shared and competing uses, and variability of supply over time
 *  examining how a strategy may manage the sustainability of water resources; for example, recycling (“grey water”), stormwater harvesting and re-use, desalination, inter-regional transfer of water and trade in virtual water, and reducing water consumption
 
-##### AC9HG7K03
+##### AC9HG7K03 {#ac9hg7k03}
 
 the economic, cultural, spiritual and aesthetic value of water for people, including First Nations Australians
 
@@ -56,7 +56,7 @@ the economic, cultural, spiritual and aesthetic value of water for people, inclu
 *  examining bays, rivers, waterfalls or lakes in Australia and in countries of Asia that have been listed as either World Heritage sites or national parks for their aesthetic and cultural value
 *  investigating the spiritual significance of water in an Asian culture
 
-##### AC9HG7K04
+##### AC9HG7K04 {#ac9hg7k04}
 
 the causes and impacts of an atmospheric or hydrological hazard, and responses from communities and governments
 
@@ -66,9 +66,9 @@ the causes and impacts of an atmospheric or hydrological hazard, and responses f
 *  identifying examples of responses to a hazard from the community and the government at the local scale, and identifying practices that increased effectiveness
 *  reflecting on the principles of prevention, mitigation and preparedness in responses from the community and the government to explain how the impact of a hazard can be reduced
 
-#### Place and liveability
+#### Place and liveability {#place-and-liveability}
 
-##### AC9HG7K05
+##### AC9HG7K05 {#ac9hg7k05}
 
 factors that influence the decisions people make about where to live, including perceptions of the liveability of places and the influence of environmental quality
 
@@ -78,7 +78,7 @@ factors that influence the decisions people make about where to live, including�
 *  comparing students’ access to and use of places and spaces in their local area, and evaluating how this affects perceptions of liveability
 *  examining the influence of environmental quality on decisions people make about where to live; for example, clean land, air and water, views, recreation facilities and favourable climate
 
-##### AC9HG7K06
+##### AC9HG7K06 {#ac9hg7k06}
 
 the location and distribution of services and facilities, and implications for liveability of places
 
@@ -87,7 +87,7 @@ the location and distribution of services and facilities, and implications for l
 *  explaining the role transport and technologies play in people’s ability to access services and participate in activities in their local area
 *  analysing the distribution of services and facilities in different types of settlements (for example, using aerial images of contrasting places in Australia such as inner and outer suburbs, or rural and remote) to identify implications for people, such as access to services and availability of facilities
 
-##### AC9HG7K07
+##### AC9HG7K07 {#ac9hg7k07}
 
 the cultural connectedness of people to places and how this influences their identity, sense of belonging and perceptions of a place, in particular the cultural connectedness of First Nations Australians to Country/Place
 
@@ -96,7 +96,7 @@ the cultural connectedness of people to places and how this influences their ide
 *  explaining the importance of people being socially connected and the effect on perceptions of liveability
 *  discussing the cultural connectedness and belonging that First Nations Australians have to a number of places through family, Country/Place, dispossession, relocation and employment
 
-##### AC9HG7K08
+##### AC9HG7K08 {#ac9hg7k08}
 
 strategies used to enhance the liveability of a place, including for young people, the aged or those with disability, drawing on studies such as those from Australia or Europe
 
@@ -105,11 +105,11 @@ strategies used to enhance the liveability of a place, including for youn
 *  developing a strategy to improve an aspect of liveability at the local scale, taking into account the needs of diverse groups in the community, including young people (for example, through fieldwork in the local recreation area) or Traditional Owners (for example, developing bilingual signage or garden projects in the local area with First Nations Australians)
 *  evaluating a strategy to improve the liveability of a place using criteria, and deciding on its applicability to their own locality
 
-### Skills
+### Skills {#skills}
 
-#### Questioning and researching using geographical methods
+#### Questioning and researching using geographical methods {#questioning-and-researching-using-geographical-methods}
 
-##### AC9HG7S01
+##### AC9HG7S01 {#ac9hg7s01}
 
 develop questions for a geographical inquiry related to a phenomenon or challenge
 
@@ -117,7 +117,7 @@ develop questions for a geographical inquiry related to a phenomenon or challeng
 *  developing questions to investigate why a geographical phenomenon has changed or a challenge may arise; for example, the causes of water scarcity in different places, or measuring the liveability of a place and the factors affecting the liveability of a place
 *  planning an investigation of a geographical phenomenon or challenge being studied, using digital planning tools; for example, analysing statistics on variation in water quantity and quality over time in Central Australia, or using fieldwork to survey perceptions of the liveability of a local place
 
-##### AC9HG7S02
+##### AC9HG7S02 {#ac9hg7s02}
 
 collect, organise and represent data and information from primary research methods, including fieldwork and secondary research materials, using geospatial technologies and digital tools as appropriate
 
@@ -127,9 +127,9 @@ collect, organise and represent data and information from primary research m
 *  representing relevant data and information in appropriate formats to combine ideas; for example, applying primary research to the design of a questionnaire or survey on what is meant by liveability, with results presented in a table or graph
 *  representing spatial distribution of different types of geographical phenomena by constructing appropriate maps at different scales that conform to cartographic conventions, for example using computer mapping to show the spatial distribution of impacts of hydrological hazards on environments
 
-#### Interpreting and analysing geographical data and information
+#### Interpreting and analysing geographical data and information {#interpreting-and-analysing-geographical-data-and-information}
 
-##### AC9HG7S03
+##### AC9HG7S03 {#ac9hg7s03}
 
 interpret and analyse geographical data and information to identify similarities and differences, explain patterns and trends and infer relationships
 
@@ -138,9 +138,9 @@ interpret and analyse geographical data and information to identify similarities
 *  explaining patterns and trends; for example, using graphs, weather maps and satellite images to examine the temporal and spatial patterns of a selected hydrological hazard
 *  inferring relationships in data and information collected; for example, using surveys and interviews to identify community attitudes or perceptions about the extent of services and facilities in Australia’s cities compared with remote communities
 
-#### Concluding and decision-making
+#### Concluding and decision-making {#concluding-and-decision-making}
 
-##### AC9HG7S04
+##### AC9HG7S04 {#ac9hg7s04}
 
 draw conclusions based on the analysis of the data and information
 
@@ -148,7 +148,7 @@ draw conclusions based on the analysis of the data and information
 *  drawing on the results of an analysis and using at least one of the concepts of place, space, environment, interconnections, sustainability, scale or change as an organiser to respond to a question; for example, using an analysis of the distribution of water resources to form conclusions about the sustainability of farming, or an analysis of the location of services to form conclusions about interconnections between people, place, environment and liveability
 *  explaining the impacts of a geographical phenomenon or challenge on people, places and environments; for example, impacts of water scarcity on individuals, communities and government, or the impacts of declining water quality on people and the liveability of places
 
-##### AC9HG7S05
+##### AC9HG7S05 {#ac9hg7s05}
 
 identify a strategy for action in relation to environmental, economic, social or other factors, and explain potential impacts
 
@@ -157,9 +157,9 @@ identify a strategy for action in relation to environmental, economic, social 
 *  proposing collective action in response to a geographical phenomenon or challenge and supporting the proposal with reasons; for example, developing guidelines for conserving water at school to promote awareness of levels of water usage for a community over time, especially during droughts; planning sustainable and liveable cities such as the ecopolis
 *  reflecting on the influence of personal values and attitudes on explanations of potential impacts; for example, the effects of personal factors such as availability of technology and infrastructure on what is perceived as a liveable place; conflicting cultural and economic uses of water by people
 
-#### Communicating
+#### Communicating {#communicating}
 
-##### AC9HG7S06
+##### AC9HG7S06 {#ac9hg7s06}
 
 create descriptions, explanations and responses, using geographical knowledge and methods, concepts, terms and reference sources
 
@@ -168,7 +168,7 @@ create descriptions, explanations and responses, using geographical knowledge an
 *  constructing an explanation, using research findings to support ideas; for example, data on water usage over time and at different places; information about liveability indexes for different places in Australia and Europe
 *  developing conclusions, using geographical methods to represent data and information; for example, a map showing water usage and a map indicating water scarcity in Australia; a map representing places where liveability is difficult and dangerous due to environmental factors
 
-## Achievement Standards
+## Achievement Standards {#achievement-standards}
 
 By the end of Year 7, students describe how the characteristics of places are perceived and valued differently by people. They describe the importance of environments to people. They describe the features of a distribution. They explain the interconnections between people and places and environments, and describe how these interconnections change places or environments. Students describe a response or strategy to address a geographical challenge or phenomenon. Students develop questions about a geographical phenomenon or challenge.
 

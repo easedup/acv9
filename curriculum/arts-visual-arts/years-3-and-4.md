@@ -1,6 +1,6 @@
-# The Arts - Visual Arts - Years 3 and 4
+# Visual Arts - Years 3 and 4 {#visual-arts-years-3-and-4}
 
-## Level Description
+## Level Description {#level-description}
 
 In this band, learning in The Arts builds on each student’s prior learning and experiences. Arts learning in this band continues to use purposeful and creative play-based activities that foster development of students’ identity and wellbeing, and their connection with and contribution to the world. Students further develop their capability and confidence in using subject-specific skills, and creative and critical practices. They work individually and in collaboration with peers and teachers.
 
@@ -9,23 +9,19 @@ Students continue to explore artworks that they experience at home, school or th
 In this band, the focus is on students:
 
 1.  exploring and responding to
+    *   artworks and experiences that showcase where, why and/or how visual arts are created across cultures, times, places and/or other contexts.
+    *   examples of artworks created by First Nations Australians that communicate connection to and responsibility for Country/Place
+2.  developing creative and critical practices and skills
+    *   creative practices for using visual conventions, visual arts processes and materials
+    *   critical practices by observing, reflecting on and responding to artworks and visual arts practices they experience, including their own visual arts practice
+3.  creating artworks in a range of 2D, 3D and/or 4D (time-based) forms using available materials (including available digital tools)
+4.  presenting/sharing artworks in informal settings such as spaces within the school.
 
-*   artworks and experiences that showcase where, why and/or how visual arts are created across cultures, times, places and/or other contexts.
-*   examples of artworks created by First Nations Australians that communicate connection to and responsibility for Country/Place
+## Strands {#strands}
 
-3.  developing creative and critical practices and skills
+### Exploring and responding {#exploring-and-responding}
 
-*   creative practices for using visual conventions, visual arts processes and materials
-*   critical practices by observing, reflecting on and responding to artworks and visual arts practices they experience, including their own visual arts practice
-
-5.  creating artworks in a range of 2D, 3D and/or 4D (time-based) forms using available materials (including available digital tools)
-6.  presenting/sharing artworks in informal settings such as spaces within the school.
-
-## Strands
-
-### Exploring and responding
-
-##### AC9AVA4E01
+##### AC9AVA4E01 {#ac9ava4e01}
 
 explore where, why and how visual arts are created and/or presented across cultures, times, places and/or other contexts
 
@@ -38,7 +34,7 @@ explore where, why and how visual arts are created and/or presented across cu
 *  identifying ways that artworks by different artists can present multiple perspectives of the same event and discussing how these works can develop social awareness; for example, accessing and comparing artists and artworks that explore sustainability, such as land art, artworks using recycled materials that represent the effects of climate on the environment
 *  describing and categorising visual features and cultural works around the school, such as artworks, craft works, design or architectural features, memorials, murals or displays according to their purpose; for example, social, decorative, architectural, functional, cultural
 
-##### AC9AVA4E02
+##### AC9AVA4E02 {#ac9ava4e02}
 
 explore how First Nations Australians use visual arts to communicate their connection to and responsibility for Country/Place
 
@@ -50,9 +46,9 @@ explore how First Nations Australians use visual arts to communicate their conne
 *  considering what their own cultural connections are as individuals; for example, considering place, language, family customs, values and beliefs and how, as an artist, they can use Viewpoints questions to map ways to use visual arts processes, subject matter and visual conventions to create artworks that communicate their personal connection to place. A typical question is, “Where do I feel most connected to my family, and what symbols, colours, shapes and subject matter could I create to represent this connection?”
 *  exploring visual conventions, symbols or patterns with representatives of a First Nations Australian community, or resources that are created or co-created by First Nations Australians; for example, exploring artworks that share cultural accounts of Country/Place
 
-### Developing practices and skills
+### Developing practices and skills {#developing-practices-and-skills}
 
-##### AC9AVA4D01
+##### AC9AVA4D01 {#ac9ava4d01}
 
 experiment with a range of ways to use visual conventions, visual arts processes and materials
 
@@ -63,9 +59,9 @@ experiment with a range of ways to use visual conventions, visual arts processes
 *  learning to use visual arts language when describing and documenting their thinking and learning; for example, developing questions based on Viewpoints, and using arrows and short statements to annotate their visual experiments (“What media did I use?”, “What worked well?”, “What went wrong, and how could I explore other options next time?”) or creating a sound file of their learning and thinking to accompany their experimentations when they present “work-in-progress”
 *  manipulating and experimenting with combinations of various materials and technologies to create visual effects; for example, using crosshatching to create tone, or using design elements to focus the viewer’s attention on a composition and using Viewpoints to reflect on the effectiveness of their experimentation ("What was I trying to achieve?", "What did I learn from pushing the boundaries of the materials and processes?")
 
-### Creating and making
+### Creating and making {#creating-and-making}
 
-##### AC9AVA4C01
+##### AC9AVA4C01 {#ac9ava4c01}
 
 use visual conventions, visual arts processes and materials to create artworks that communicate ideas, perspectives and/or meaning
 
@@ -77,9 +73,9 @@ use visual conventions, visual arts processes and materials to create artworks t
 *  using Viewpoints to develop questions as they experiment with composition to arrange visual conventions, subject matter and materials based on a designated area and deliberately changing the meaning of a visual story; for example, “What happens if I make the subject fill the frame?”, “Can I change the meaning of my work by using darker or lighter tones?”
 *  combining their understanding of visual conventions and visual arts processes to create different meaning in an artwork; for example, using a range of 2D media such as charcoal and coloured pastels to create gradation of tone in their artwork and using Viewpoints to develop questions as they work, such as “In what ways can I use colour to change the feeling of this artwork?”, “How does using darker tones contrasting with lighter ones create an illusion of depth?”
 
-### Presenting and performing
+### Presenting and performing {#presenting-and-performing}
 
-##### AC9AVA4P01
+##### AC9AVA4P01 {#ac9ava4p01}
 
 share and/or display artworks and/or visual arts practice in informal settings
 
@@ -90,7 +86,7 @@ share and/or display artworks and/or visual arts practice in informal settings
 *  discussing and documenting the ideas, themes and meaning/s of their artwork; for example, taking the form of a written or spoken artist statement, and exploring different ways of presenting their artwork and artist statement (possibly via multimedia)
 *  identifying and explaining their own and other artists' choices in art-making, including visual arts processes, visual conventions and materials
 
-## Achievement Standards
+## Achievement Standards {#achievement-standards}
 
 By the end of Year 4, students describe the use of visual conventions, visual arts processes and materials in artworks they create and/or experience. They describe where, why and/or how visual artists create and/or display artworks across cultures, times, places and/or other contexts.
 

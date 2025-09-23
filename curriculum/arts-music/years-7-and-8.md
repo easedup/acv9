@@ -1,6 +1,6 @@
-# The Arts - Music - Years 7 and 8
+# Music - Years 7 and 8 {#music-years-7-and-8}
 
-## Level Description
+## Level Description {#level-description}
 
 In this band, learning in Music builds on each student’s prior learning and experiences. Students learn in and through the music practices of listening, composing and performing. They use their music knowledge and skills in purposeful and creative ways, and continue to develop their connection with and contribution to the world as composers and performers and as audiences. They work individually and in collaboration with peers and teachers.
 
@@ -21,11 +21,11 @@ In this band, the focus is on students:
 5.  composing in forms and genres such as songwriting, solo and/or ensemble instrumental music, music production, arranging or re-imagining, and developing interpretations of solo and/or ensemble music works for performance, using aural skills and/or available digital tools as appropriate
 6.  presenting performances of music to audiences; for example, a specific target audience.
 
-## Strands
+## Strands {#strands}
 
-### Exploring and responding
+### Exploring and responding {#exploring-and-responding}
 
-##### AC9AMU8E01
+##### AC9AMU8E01 {#ac9amu8e01}
 
 investigate the ways that composers and/or performers use the elements of music and/or compositional devices in music composed across cultures, times, places and/or other contexts
 
@@ -35,7 +35,7 @@ investigate the ways that composers and/or performers use the elements of music 
 *  listening to and evaluating how elements of music are manipulated in music composed by a range of composers, with the intention of drawing attention to social issues or values; for example, protest songs, nationalistic music, music that uses “folk”/traditional tunes in re-imagined ways, songs with lyrics that focus on themes such as identity or belonging
 *  researching and discussing the influence of social, cultural and historical developments relating to specific styles, forms or traditions and incorporating these into their performance and/or compositions; for example, conventions relating to forms such as 32-bar song form, genres such as chamber music, or traditions such as singer-songwriter
 
-##### AC9AMU8E02
+##### AC9AMU8E02 {#ac9amu8e02}
 
 investigate the diversity of music composed and/or performed by First Nations Australians, considering culturally responsive approaches to Indigenous Cultural and Intellectual Property rights
 
@@ -45,9 +45,9 @@ investigate the diversity of music composed and/or performed by First Nations Au
 *  exploring how protocols for protecting Indigenous Cultural and Intellectual Property rights exist to help students make ethical choices about how they use music, as listeners or creators; for example, by asking questions such as, “Who wrote this music?”, “May I use ideas from this song, and do I need permission to do so?”
 *  investigating issues relating to the use of First Nations Australian languages or stories in lyrics and songs or music for screen-based works; for example, considering case studies that illustrate protocols relating to Indigenous Cultural and Intellectual Property rights
 
-### Developing practices and skills
+### Developing practices and skills {#developing-practices-and-skills}
 
-##### AC9AMU8D01
+##### AC9AMU8D01 {#ac9amu8d01}
 
 develop and practise listening/aural skills and vocal and/or instrumental skills/techniques for manipulating elements of music to achieve expressive effects
 
@@ -60,7 +60,7 @@ develop and practise listening/aural skills and vocal and/or instrumental sk
 *  using a listening diary/journal format to document ideas for compositions, interpretations, re-imaginings or performances
 *  writing/notating a chart or lead-sheet to record ideas from a songwriting workshop or using software to write additional parts such as a bassline to accompany a melody
 
-##### AC9AMU8D02
+##### AC9AMU8D02 {#ac9amu8d02}
 
 reflect on their own and others’ music to inform choices they make as composers and performers about how they will manipulate elements of music and/or compositional devices
 
@@ -69,9 +69,9 @@ reflect on their own and others’ music to inform choices they make as composer
 *  practising ways to use aural/visual cues when playing or singing in an ensemble; for example, chords or phrases that indicate place within a structure (aural) or gestures indicating tempo or entries (visual)
 *  using focused listening and selected aural skills to evaluate the use of elements of music when listening to a recording for the purpose of making decisions about how they will interpret the music
 
-### Creating and making
+### Creating and making {#creating-and-making}
 
-##### AC9AMU8C01
+##### AC9AMU8C01 {#ac9amu8c01}
 
 interpret music in a variety of forms and/or styles, manipulating elements of music and employing relevant vocal/instrumental techniques
 
@@ -81,7 +81,7 @@ interpret music in a variety of forms and/or styles, manipulating elements of mu
 *  using student and teacher set goals as a focus for practising and rehearsing a range of solo and/or ensemble music
 *  manipulating sound quality by applying understanding of the range of sounds/timbres that different instruments and voice types can produce; for example, manipulating dynamics and timbre in voice or acoustic or digital instruments to create a specific effect
 
-##### AC9AMU8C02
+##### AC9AMU8C02 {#ac9amu8c02}
 
 compose using the elements of music and compositional devices to communicate ideas, perspectives and/or meaning, and notate, document and/or record the music
 
@@ -94,9 +94,9 @@ compose using the elements of music and compositional devices to communicate ide
 *  arranging a familiar music piece into a different music style by manipulating the elements of music to convey meaning, and documenting the arrangement in a form that is appropriate, considering the style and the preferences of the musicians who might be performing the arrangement; for example, arranging an instrumental work for choral performance
 *  developing an arrangement or re-imagining of an existing melody/tune by improvising, using given material such as a melody, riff or chord progression
 
-### Presenting and performing
+### Presenting and performing {#presenting-and-performing}
 
-##### AC9AMU8P01
+##### AC9AMU8P01 {#ac9amu8p01}
 
 perform music using relevant vocal and/or instrumental techniques and performance skills
 
@@ -107,7 +107,7 @@ perform music using relevant vocal and/or instrumental techniques and performanc
 *  planning performances, rehearsing and performing their own vocal and/or instrumental compositions, individually or in a group, paying attention to expressive skills that convey stylistic understanding, such as articulation and accents
 *  planning and presenting an in-school performance, attending to how they manipulate elements of music and use vocal/instrumental techniques to convey stylistic understanding
 
-## Achievement Standards
+## Achievement Standards {#achievement-standards}
 
 By the end of Year 8, students analyse how the elements of music and/or compositional devices are manipulated in music they compose, perform and/or experience. They evaluate the ways music from across cultures, times, places and/or other contexts communicates ideas, perspectives and/or meaning. They describe respectful approaches to composing, performing and/or responding to music.
 

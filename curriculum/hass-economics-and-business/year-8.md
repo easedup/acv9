@@ -1,6 +1,6 @@
-# Humanities and Social Sciences - Economics and Business 7-10 - Year 8
+# Economics and Business - Year 8 {#economics-and-business-year-8}
 
-## Level Description
+## Level Description {#level-description}
 
 The focus of learning in Year 8 is the topic **"Australian markets"** within a national context.
 
@@ -15,11 +15,11 @@ Inquiry questions provide a framework for developing students’ knowledge, unde
 *   What is the role of Australia’s taxation system and how does it support individuals and business?
 *   Why are financial planning and budgeting important processes for individuals and businesses?
 
-## Strands
+## Strands {#strands}
 
-### Knowledge and understanding
+### Knowledge and understanding {#knowledge-and-understanding}
 
-##### AC9HE8K01
+##### AC9HE8K01 {#ac9he8k01}
 
 how markets influence decisions about the allocation of resources to the production of goods and services, and the effect of prices on these decisions
 
@@ -29,7 +29,7 @@ how markets influence decisions about the allocation of resources to the product
 *  discussing examples of products or services that sell for high prices and low prices, and identifying the factors that influence the setting of price; for example, factors influencing the cost of petrol include available supply, consumer demand, manufacturing costs and competition
 *  explaining how price is the means by which the decisions of consumers and businesses interact to determine the allocation of resources; for example, when the price of a good or service rises, resources are redirected to produce additional goods and services
 
-##### AC9HE8K02
+##### AC9HE8K02 {#ac9he8k02}
 
 different ways that businesses adapt to opportunities in the market and respond to the changing nature of work
 
@@ -39,7 +39,7 @@ different ways that businesses adapt to opportunities in the market and respond 
 *  explaining current influences on the ways people work; for example, technological change, outsourced labour in the global economy, rapid communication changes, casualisation of the workforce
 *  identifying and explaining changes to the workforce over time; for example, the jobs available, the way individuals or businesses value particular work, career length and human resource development, changing demography, corporate social responsibility, sustainability practices, changes to workplace laws
 
-##### AC9HE8K03
+##### AC9HE8K03 {#ac9he8k03}
 
 how First Nations Australian businesses and entrepreneurs develop opportunities in the market
 
@@ -48,7 +48,7 @@ how First Nations Australian businesses and entrepreneurs develop opportunities 
 *  investigating how First Nations Australian communities participate in contemporary markets; for example, producing, buying and selling goods and services; approaches to marketing, employment and social contribution; and strategies to overcome difficulties in accessing markets
 *  investigating how First Nations Australian businesses and entrepreneurs use connection to, and responsibility for, Country/Place to make innovations in the production and distribution of goods and services; for example, medicines and food derived from the environment or cultural tourism
 
-##### AC9HE8K04
+##### AC9HE8K04 {#ac9he8k04}
 
 the importance of Australia’s system of taxation and how this system affects decision-making by individuals and businesses
 
@@ -59,7 +59,7 @@ the importance of Australia’s system of taxation and how this system affects d
 *  identifying examples of taxes paid by individuals and businesses, and explaining how they may influence decision-making about spending; for example, the effect of income tax, import duties or excise duties on price of goods and services
 *  explaining how the collection of taxes and the provision of services supports individual human and financial wellbeing, communities and Australian society
 
-##### AC9HE8K05
+##### AC9HE8K05 {#ac9he8k05}
 
 processes that individuals and/or businesses use to plan and budget to achieve short-term and long-term financial objectives
 
@@ -68,11 +68,11 @@ processes that individuals and/or businesses use to plan and budget to achieve s
 *  explaining how financial records, such as income statements, balance sheets, budgets and cash flow statements, inform business decision-making
 *  identifying and explaining business processes that are used to manage finances and plan in the short- and long-term; for example, devising a business plan, borrowing from a financial institution, building savings by earning interest
 
-### Skills
+### Skills {#skills}
 
-#### Questioning and researching
+#### Questioning and researching {#questioning-and-researching}
 
-##### AC9HE8S01
+##### AC9HE8S01 {#ac9he8s01}
 
 develop questions to investigate a contemporary economic and business issue
 
@@ -80,7 +80,7 @@ develop questions to investigate a contemporary economic and business issue
 *  developing a range of questions to form the basis of an investigation; for example, “Why does an individual or group establish a business?” and “How are consumers’ rights protected?”
 *  developing targeted or key questions using economics and business concepts and terms, such as, “How is the price of goods and services determined?” and “Why do changes in market price act as a signal about how scarce resources should be allocated?”
 
-##### AC9HE8S02
+##### AC9HE8S02 {#ac9he8s02}
 
 locate, select and organise information and data from a range of sources
 
@@ -89,9 +89,9 @@ locate, select and organise information and data from a range of sources
 *  selecting relevant information and data from sources about websites of government departments or non-government organisations by asking questions such as “How will the data or information help answer the question?”
 *  organising data into appropriate formats using specialised digital tools; for example, constructing a diagram modelling the relationship between consumers, producers and workers in a market or a table showing the features of different ways businesses adapt to opportunities in the market
 
-#### Interpreting and analysing
+#### Interpreting and analysing {#interpreting-and-analysing}
 
-##### AC9HE8S03
+##### AC9HE8S03 {#ac9he8s03}
 
 interpret information and data to identify economic and business issues, trends and economic cause-and-effect relationships
 
@@ -100,9 +100,9 @@ interpret information and data to identify economic and business issues, trends 
 *  interpreting data displayed in tables and graphs to identify trends and answer questions such as, “For a 10-year period, what is the trend in the percentage of people over 60 paying income tax?”
 *  interpreting multi-variable data to identify a cause-and-effect relationship within an economic and business issue; for example, an increase in income earned by an individual and taxation paid, or when the supply of a good and service increases, the price adjusts
 
-#### Evaluating, concluding and decision-making
+#### Evaluating, concluding and decision-making {#evaluating-concluding-and-decision-making}
 
-##### AC9HE8S04
+##### AC9HE8S04 {#ac9he8s04}
 
 develop a response to an economic and business issue, identifying potential costs and benefits
 
@@ -112,9 +112,9 @@ develop a response to an economic and business issue, identifying potential cost
 *  identifying the potential costs and benefits of a decision; for example, doing casual work involves identifying benefits such as money earned, and costs such as less certainty about work hours each week
 *  explaining that making an economic and business decision involves choice and foregoing an alternative want; for example, the goods and/or services they must forgo or give up in order to satisfy a particular want
 
-#### Communicating
+#### Communicating {#communicating}
 
-##### AC9HE8S05
+##### AC9HE8S05 {#ac9he8s05}
 
 create descriptions and explanations, using economic and business knowledge, concepts and terms, and referencing information and data from sources
 
@@ -122,7 +122,7 @@ create descriptions and explanations, using economic and business knowledge, con
 *  developing a response to an issue that orients the audience (for example, peers or community groups) to the issue, using relevant economic and business concepts and terms such as “markets”, “business”, “consumer and financial decision-making” and “taxation”
 *  creating a description or explanation using data or information presented in appropriate formats to support decisions and conclusions about an economic and business issue
 
-## Achievement Standards
+## Achievement Standards {#achievement-standards}
 
 By the end of Year 8, students explain how markets influence the allocation of resources to the production of goods and services. They explain ways that businesses adapt to opportunities in markets and respond to the work environment. They describe the importance of Australia’s taxation system and its effect on decision-making by individuals and businesses. Students explain why individuals and/or businesses budget and plan.
 

@@ -1,6 +1,6 @@
-# Mathematics - Year 7
+# Mathematics - Year 7 {#mathematics-year-7}
 
-## Level Description
+## Level Description {#level-description}
 
 In Year 7, learning in Mathematics builds on each student’s prior learning and experiences. Students engage in a range of approaches to learning and doing mathematics that develop their understanding of and fluency with concepts, procedures and processes by making connections, reasoning, problem-solving and practice. Proficiency in mathematics enables students to respond to familiar and unfamiliar situations by employing mathematical strategies to make informed decisions and solve problems efficiently.
 
@@ -17,11 +17,11 @@ Students further develop proficiency and positive dispositions towards mathemati
 *   apply the statistical investigation process to obtain numerical data related to questions of interest, choose displays for the distributions of data and interpret summary statistics for determining the centre and spread of the data in context
 *   conduct probability simulations and experiments involving chance events, construct corresponding sample spaces and observe related frequencies, comparing expected, simulated and experimental results.
 
-## Strands
+## Strands {#strands}
 
-### Number
+### Number {#number}
 
-##### AC9M7N01
+##### AC9M7N01 {#ac9m7n01}
 
 describe the relationship between perfect square numbers and square roots, and use squares of numbers and square roots of perfect square numbers to solve problems
 
@@ -32,7 +32,7 @@ describe the relationship between perfect square numbers and square roots, and u
 *  generating a list of perfect square numbers and describing any emerging patterns; for example, the last digit of perfect square numbers, or the difference between consecutive square numbers, and recognising the constant second difference
 *  using the relationship between perfect square numbers and their square roots to determine the perimeter of a square tiled floor using square tiles; for example, an area of floor with \(144\) square tiles has a perimeter of \(48\) tile lengths
 
-##### AC9M7N02
+##### AC9M7N02 {#ac9m7n02}
 
 represent natural numbers as products of powers of prime numbers using exponent notation
 
@@ -41,7 +41,7 @@ represent natural numbers as products of powers of prime numbers using exponent 
 *  developing familiarity with the sequence \(1, 2, 4, 8, 16, 32, 64, 128, 256, 512\) and powers of \(2\); the sequence \(1, 3, 9, 27, 81, 243, 729\) and powers of \(3\); and the sequence \(1, 5, 25, 125, 625\) and powers of \(5\)
 *  solving problems involving lowest common multiples and greatest common divisors (highest common factors) for pairs of natural numbers by comparing their prime factorisation
 
-##### AC9M7N03
+##### AC9M7N03 {#ac9m7n03}
 
 represent natural numbers in expanded notation using place value and powers of 10
 
@@ -50,7 +50,7 @@ represent natural numbers in expanded notation using place value and powers of 1
 *  relating the sequences \(10, 100, 1000, 10 000\) … and \(10^1\), \(10^2\), \(10^3\), \(10^4\) ...
 *  applying and explaining the connections between place value and expanded notations; for example, \(7000=7×10^3\) and \(3750=3×10^3+7×10^2+5×10^1\)
 
-##### AC9M7N04
+##### AC9M7N04 {#ac9m7n04}
 
 find equivalent representations of rational numbers and represent rational numbers on a number line
 
@@ -60,7 +60,7 @@ find equivalent representations of rational numbers and represent rational numbe
 *  applying and explaining the equivalence between fraction, decimal and percentage representations of rational numbers; for example, \(16\%\), \(0.16\), \(\frac{16}{100}\) and \(\frac4{25}\), using manipulatives, number lines or diagrams
 *  representing positive and negative fractions and mixed numerals on various intervals of the real number line, including intervals that are not symmetrical about zero
 
-##### AC9M7N05
+##### AC9M7N05 {#ac9m7n05}
 
 round decimals to a given accuracy appropriate to the context and use appropriate rounding and estimation to check the reasonableness of solutions
 
@@ -69,7 +69,7 @@ round decimals to a given accuracy appropriate to the context and use appropriat
 *  choosing and applying conventions for rounding correct to a specified number of decimal places based upon the context
 *  checking that the accuracy of rounding is suitable for context and purpose, such as the amount of paint required and cost estimate for renovating a house; for example, purchasing \(2\) litres of paint to paint the bedroom even though \(1.89\) litres is the exact answer or estimating a renovation budget to the nearest \(\$100\)
 
-##### AC9M7N06
+##### AC9M7N06 {#ac9m7n06}
 
 use the 4 operations with positive rational numbers including fractions, decimals and percentages to solve problems using efficient calculation strategies
 
@@ -81,7 +81,7 @@ use the 4 operations with positive rational numbers including fractions, decimal
 *  developing efficient strategies with appropriate use of the commutative and associative properties, regrouping or partitioning to solve additive problems involving fractions and decimals
 *  carry out calculations to solve problems using the representation that makes computations efficient such as \(12.5\)% of \(96\) is more efficiently calculated as \(\frac18\) of \(96\), including contexts such as comparing land-use by calculating the total local municipal area set aside for parkland or manufacturing and retail, the amount of protein in daily food intake across several days, or increases/decreases in energy accounts each account cycle
 
-##### AC9M7N07
+##### AC9M7N07 {#ac9m7n07}
 
 compare, order and solve problems involving addition and subtraction of integers
 
@@ -90,7 +90,7 @@ compare, order and solve problems involving addition and subtraction of integers
 *  discussing language such as “addition”, “subtraction”, “magnitude”, “difference”, “sign” and synonyms of these terms
 *  ordering, adding and subtracting integers using a number line
 
-##### AC9M7N08
+##### AC9M7N08 {#ac9m7n08}
 
 recognise, represent and solve problems involving ratios
 
@@ -100,7 +100,7 @@ recognise, represent and solve problems involving ratios
 *  sharing quantities in a given ratio; for example, sharing an amount of money in a given ratio, such as sharing \(\$20\) in the ratio \(2:3\)
 *  applying ratios to realistic and meaningful contexts; for example, mixing \(500\) millilitres of a liquid with a concentration of \(1:4\) means \(\frac15\) concentrate and \(\frac45\) water so, \(0.2\) of \(500\) millilitres is concentrate and \(0.8\) of \(500\) millilitres is water; interpreting results in context
 
-##### AC9M7N09
+##### AC9M7N09 {#ac9m7n09}
 
 use mathematical modelling to solve practical problems, involving rational numbers and percentages, including financial contexts; formulate problems, choosing representations and efficient calculation strategies, using digital tools as appropriate; interpret and communicate solutions in terms of the situation, justifying choices made about the representation
 
@@ -110,9 +110,9 @@ use mathematical modelling to solve practical problems, involving rational numbe
 *  modelling financial problems involving profit and loss, credits and debits, gains and losses; for example, holding a fundraising sausage sizzle and determining whether the event made a percentage profit or loss
 *  using mathematical modelling to investigate the proportion of land mass/area of Australian First Nations Peoples’ traditional grain belt compared with Australia’s current grain belt
 
-### Algebra
+### Algebra {#algebra}
 
-##### AC9M7A01
+##### AC9M7A01 {#ac9m7a01}
 
 recognise and use variables to represent everyday formulas algebraically and substitute values into formulas to determine an unknown
 
@@ -122,7 +122,7 @@ recognise and use variables to represent everyday formulas algebraically and sub
 *  substituting numerical values for variables when using formulas and calculating the value of an unknown in practical situations; for example, calculating weekly wage \(W\) given base wage \(b\) and overtime hours \(h\) at \(1.5\) times rate \(r\), \(W\;=\;b+1.5\times h\times r\), using values for mass \(m\) and volume \(v\) to determine density \(d\) of a substance where \(d\;=\;\frac mv\)
 *  using everyday formulas and their application to contexts on Country/Place, investigating the relationships between variables
 
-##### AC9M7A02
+##### AC9M7A02 {#ac9m7a02}
 
 formulate algebraic expressions using constants, variables, operations and brackets
 
@@ -131,7 +131,7 @@ formulate algebraic expressions using constants, variables, operations and brack
 *  formulating algebraic expressions that represent mathematical relationships; for example, translating from words to symbols, “think of a number” type of activities
 *  recognising and applying the concept of variable as something that can change in value, investigating the relationships between variables, and the application to processes on Country/Place, including how cultural expressions of First Nations Australians, such as storytelling, communicate mathematical relationships that can be represented as mathematical expressions
 
-##### AC9M7A03
+##### AC9M7A03 {#ac9m7a03}
 
 solve one-variable linear equations with natural number solutions; verify the solution by substitution
 
@@ -140,7 +140,7 @@ solve one-variable linear equations with natural number solutions; verify the so
 *  solving equations using concrete materials, the balance model, and backtracking, explaining the process
 *  solving linear equations such as \(3x+7=19\) algebraically, and verifying the solution by substitution
 
-##### AC9M7A04
+##### AC9M7A04 {#ac9m7a04}
 
 describe relationships between variables represented in graphs of functions from authentic data
 
@@ -151,7 +151,7 @@ describe relationships between variables represented in graphs of functions from
 *  exploring how functions are used in machine learning to model relationships; for example, in linear regression models, a linear function is used to map input features to predictions
 *  using graphs of evaporation rates to explore and discuss First Nations Australians’ methods of water resource management
 
-##### AC9M7A05
+##### AC9M7A05 {#ac9m7a05}
 
 generate tables of values from visually growing patterns or the rule of a function; describe and plot these relationships on the Cartesian plane
 
@@ -162,7 +162,7 @@ generate tables of values from visually growing patterns or the rule of a functi
 *  using diagrams and manipulatives to form linear growth patterns, representing these patterns in tables and describing the relationship in terms of the way the pattern is growing and in the context of the situation
 *  using a simple general-purpose programming language to create and use algorithms that generate growing patterns and graphing the relationships on a Cartesian plane
 
-##### AC9M7A06
+##### AC9M7A06 {#ac9m7a06}
 
 manipulate formulas involving several variables using digital tools, and describe the effect of systematic variation in the values of the variables
 
@@ -173,9 +173,9 @@ manipulate formulas involving several variables using digital tools, and describ
 *  exploring how deep learning models used for training artificial intelligence agents can involve the manipulation of mathematical functions with multiple variables; for example, conducting a sensitivity analysis to understand the artificial intelligence  model's behaviour
 *  understanding that the relationship between variables in an artificial intelligence  model assists with explainability and interpretability; for example, manipulating and analysing formulas allows researchers to gain insights into how and why a model makes certain predictions
 
-### Measurement
+### Measurement {#measurement}
 
-##### AC9M7M01
+##### AC9M7M01 {#ac9m7m01}
 
 solve problems involving the area of triangles and parallelograms using established formulas and appropriate units
 
@@ -184,7 +184,7 @@ solve problems involving the area of triangles and parallelograms using establis
 *  using dynamic geometry software to demonstrate how the sliding of the vertex of a triangle at a fixed altitude opposite a side leaves the area of the triangle unchanged
 *  using established formulas to solve practical problems involving the area of triangles, parallelograms and rectangles; for example, estimating the cost of materials needed to make shade sails based on a price per metre or determining different combinations of dimensions that lead to a given area
 
-##### AC9M7M02
+##### AC9M7M02 {#ac9m7m02}
 
 solve problems involving the volume of right prisms including rectangular and triangular prisms, using established formulas and appropriate units
 
@@ -194,7 +194,7 @@ solve problems involving the volume of right prisms including rectangular and tr
 *  connecting the area of the floor space and the number of floors of a high-rise building to calculate the volume of a building
 *  using dynamic geometry software, spatial reasoning and prediction to derive the formula for the volume of prisms
 
-##### AC9M7M03
+##### AC9M7M03 {#ac9m7m03}
 
 describe the relationship between \\(π\\) and the features of circles including the circumference, radius and diameter
 
@@ -204,7 +204,7 @@ describe the relationship between \\(π\\) and the features of circles including
 *  investigating \(π\) as the constant in the proportional relationship between the circumference of a circle and its diameter, and historical approximations from different civilisations, including Egypt, Babylon, Greece, India and China
 *  investigating the applications and significance of circles in everyday life of First Nations Australians such as in basketry, symbols and architecture, recognising the relationships between the centre, radius, diameter and circumference
 
-##### AC9M7M04
+##### AC9M7M04 {#ac9m7m04}
 
 identify corresponding, alternate and co-interior relationships between angles formed when parallel lines are crossed by a transversal; use them to solve problems and explain reasons
 
@@ -214,7 +214,7 @@ identify corresponding, alternate and co-interior relationships between angles f
 *  using dynamic geometry software to demonstrate how angles and their properties are involved in the design and construction of scissor lifts, folding umbrellas, toolboxes and cherry pickers
 *  using geometric reasoning of angle properties to generalise the angle relationships of parallel lines and transversals, and related properties such as the size of an exterior angle of a triangle is equal to the sum of the sizes of opposite and non-adjacent interior angles, and the sum of the sizes of interior angles in a triangle in the plane is equal to the size of \(2\) right angles or \(180\)°
 
-##### AC9M7M05
+##### AC9M7M05 {#ac9m7m05}
 
 demonstrate that the interior angle sum of a triangle in the plane is 180° and apply this to determine the interior angle sum of other shapes and the size of unknown angles
 
@@ -222,7 +222,7 @@ demonstrate that the interior angle sum of a triangle in the plane is 180° and 
 *  using concrete materials to demonstrate that the sum of the interior angles of a triangle is 180°; for example, using paper triangles and tearing to demonstrate that the interior angles when combined form 180°
 *  using decomposition and the angle sum of a triangle to generalise the interior angle sum of an \(n\)-sided polygon, as \(180(n-2)\;=\;180n-360\)
 
-##### AC9M7M06
+##### AC9M7M06 {#ac9m7m06}
 
 use mathematical modelling to solve practical problems involving ratios; formulate problems, interpret and communicate solutions in terms of the situation, justifying choices made about the representation
 
@@ -232,9 +232,9 @@ use mathematical modelling to solve practical problems involving ratios; formula
 *  modelling the situation using manipulatives, diagrams and/or mathematical discussion; for example, mixing primary colours in a variety of ratios to investigate how new colours are created and the strength of those colours
 *  investigating commercialised substances founded on First Nations Australians’ knowledges of substances including pharmaceuticals and toxins, understanding how ratios are used in their development
 
-### Space
+### Space {#space}
 
-##### AC9M7SP01
+##### AC9M7SP01 {#ac9m7sp01}
 
 represent objects in 2 dimensions; discuss and reason about the advantages and disadvantages of different representations
 
@@ -246,7 +246,7 @@ represent objects in 2 dimensions; discuss and reason about the advantages and d
 *  using isometric and square grid paper to draw views of front, back, side, top and bottom of objects
 *  exploring different two-dimensional representations of objects in First Nations Australians’ artworks or cultural maps of Country/Place
 
-##### AC9M7SP02
+##### AC9M7SP02 {#ac9m7sp02}
 
 classify triangles, quadrilaterals and other polygons according to their side and angle properties; identify and reason about relationships
 
@@ -256,7 +256,7 @@ classify triangles, quadrilaterals and other polygons according to their side an
 *  identifying and communicating about side and angle properties of scalene, isosceles, equilateral, right-angled, acute and obtuse triangles using geometric conventions
 *  describing, comparing and contrasting squares, rectangles, rhombuses, parallelograms, kites and trapeziums, explaining the relationships between these shapes
 
-##### AC9M7SP03
+##### AC9M7SP03 {#ac9m7sp03}
 
 describe transformations of a set of points using coordinates in the Cartesian plane, translations and reflections on an axis, and rotations about a given point
 
@@ -265,7 +265,7 @@ describe transformations of a set of points using coordinates in the Cartesian p
 *  describing patterns and investigating different ways to produce the same transformation, such as using \(2\) successive reflections to provide the same result as a translation
 *  experimenting with, creating and re-creating patterns using combinations of translations, reflections and rotations, using digital tools
 
-##### AC9M7SP04
+##### AC9M7SP04 {#ac9m7sp04}
 
 design and create algorithms involving a sequence of steps and decisions that will sort and classify sets of shapes according to their attributes, and describe how the algorithms work
 
@@ -274,9 +274,9 @@ design and create algorithms involving a sequence of steps and decisions that wi
 *  creating a flow chart or hierarchy for quadrilaterals that shows the relationships between trapeziums, parallelograms, rhombuses, rectangles, squares and kites
 *  creating a classification scheme for regular, irregular, concave or convex polygons that are sorted according to the number of sides
 
-### Statistics
+### Statistics {#statistics}
 
-##### AC9M7ST01
+##### AC9M7ST01 {#ac9m7st01}
 
 acquire data sets for discrete and continuous numerical variables and calculate the range, median, mean and mode; make and justify decisions about which measures of central tendency provide useful insights into the nature of the distribution of data
 
@@ -287,7 +287,7 @@ acquire data sets for discrete and continuous numerical variables and calculate 
 *  acquire continuous numerical data by taking measurement samples during a science experiment, observation or field study, comparing measures of central tendency and identifying any anomalies in the distribution of data
 *  exploring how descriptive statistics are used by artificial intelligence  developers to summarise and analyse data, assist the artificial intelligence  in making informed decisions, and gain insights from the processed data; for example, descriptive statistics in recommendation systems can help analyse user behaviour and preferences
 
-##### AC9M7ST02
+##### AC9M7ST02 {#ac9m7st02}
 
 create different types of numerical data displays including stem-and-leaf plots using software where appropriate; describe and compare the distribution of data, commenting on the shape, centre and spread including outliers and determining the range, median, mean and mode
 
@@ -299,7 +299,7 @@ create different types of numerical data displays including stem-and-leaf plots 
 *  comparing the mean and median of data with and without extremes; for example, estimation of standard measures for length or mass, informally considering for a given set of data what might constitute an unexpected, unusual or extreme data value
 *  exploring how artificial intelligence systems can also use descriptive statistics to identify outliers or anomalies in data; for example, fraud detection and quality control
 
-##### AC9M7ST03
+##### AC9M7ST03 {#ac9m7st03}
 
 plan and conduct statistical investigations involving data for discrete and continuous numerical variables; analyse and interpret distributions of data and report findings in terms of shape and summary statistics
 
@@ -308,9 +308,9 @@ plan and conduct statistical investigations involving data for discrete and cont
 *  conducting an investigation to support claims that a modification of a Science, Technology, Engineering and Mathematics (STEM) related design has improved performance
 *  using secondary data from the Reconciliation Barometer to conduct and report on statistical investigations relating to First Nations Australians
 
-### Probability
+### Probability {#probability}
 
-##### AC9M7P01
+##### AC9M7P01 {#ac9m7p01}
 
 identify the sample space for single-stage events; assign probabilities to the outcomes of these events and predict relative frequencies for related events
 
@@ -320,7 +320,7 @@ identify the sample space for single-stage events; assign probabilities to the o
 *  exploring how relative frequencies can be used to make predictions by estimating the probability of an event; for example, in natural language processing (NLP), predictive text algorithms use the relative frequency of words in a set of texts to predict the next word in a sentence
 *  assigning the probability for throwing a \(6\) on a dice and using this to predict the number of times a \(6\) will occur when a dice is thrown multiple times
 
-##### AC9M7P02
+##### AC9M7P02 {#ac9m7p02}
 
 conduct repeated chance experiments and run simulations with a large number of trials using digital tools; compare predictions about outcomes with observed results, explaining the differences
 
@@ -329,7 +329,7 @@ conduct repeated chance experiments and run simulations with a large numbe
 *  conducting simulations using online simulation tools and comparing the combined results of a large number of trials to predicted results
 *  exploring and observing First Nations Australian children’s instructive games; for example, Koara from the Jawi and Bardi Peoples of Sunday Island in Western Australia, to investigate probability, predicting outcomes for an event and comparing with increasingly larger numbers of trials, and between observed and expected results
 
-## Achievement Standards
+## Achievement Standards {#achievement-standards}
 
 In Year 7, learning in Mathematics builds on each student’s prior learning and experiences. Students engage in a range of approaches to learning and doing mathematics that develop their understanding of and fluency with concepts, procedures and processes by making connections, reasoning, problem-solving and practice. Proficiency in mathematics enables students to respond to familiar and unfamiliar situations by employing mathematical strategies to make informed decisions and solve problems efficiently.
 

@@ -1,6 +1,6 @@
-# The Arts - Drama - Years 3 and 4
+# Drama - Years 3 and 4 {#drama-years-3-and-4}
 
-## Level Description
+## Level Description {#level-description}
 
 In this band, learning in The Arts builds on each student’s prior learning and experiences. Arts learning continues to use purposeful and creative play-based activities that foster development of students’ identity and wellbeing, and their connection with and contribution to the world. Students further develop their capability and confidence in using subject-specific skills, and creative and critical practices. They work individually and in collaboration with peers and teachers.
 
@@ -21,11 +21,11 @@ In this band, the focus is on students:
 5.  creating drama in improvised and devised forms such as dramatic play, process drama, puppetry, improvisation, Readers’ Theatre, mime and movement, and/or basic play-building
 6.  performing drama in informal settings such as spaces within the school.
 
-## Strands
+## Strands {#strands}
 
-### Exploring and responding
+### Exploring and responding {#exploring-and-responding}
 
-##### AC9ADR4E01
+##### AC9ADR4E01 {#ac9adr4e01}
 
 explore where, why and how drama is created and/or performed across cultures, times, places and/or other contexts
 
@@ -36,7 +36,7 @@ explore where, why and how drama is created and/or performed across culture
 *  examining drama in their community and comparing it to other drama of different people, times and cultures; for example, exploring examples of puppetry and/or physical (movement-based) theatre in their communities and comparing this with examples of those forms from other cultures, times or places
 *  reflecting on and sharing ideas with others about the meaning and intended purposes of their own drama; for example, sharing embodied responses using movement, gesture or language
 
-##### AC9ADR4E02
+##### AC9ADR4E02 {#ac9adr4e02}
 
 explore how First Nations Australians use drama to communicate their connection to, and responsibility for, Country/Place
 
@@ -47,9 +47,9 @@ explore how First Nations Australians use drama to communicate their connection 
 *  accessing drama created and/or performed by First Nations Australians and exploring how drama communicates knowledge, such as ways to live sustainably, and to respect and care for the land, sea, sky or waterways
 *  looking at performances that represent the importance of Country/Place and Story for First Nations Australians as a starting point for talking about different ways of seeing the same place and telling stories
 
-### Developing practices and skills
+### Developing practices and skills {#developing-practices-and-skills}
 
-##### AC9ADR4D01
+##### AC9ADR4D01 {#ac9adr4d01}
 
 use the elements of drama to explore and develop ideas for dramatic action in improvisations and/or devised drama
 
@@ -59,9 +59,9 @@ use the elements of drama to explore and develop ideas for dramatic action in im
 *  improvising ways to connect short scenes, such as clapping a rhythmic pattern, saying words or phrases and/or through movement
 *  developing spatial awareness when creating dramatic action; for example, considering how close/far apart they should stand to others in the performance space or how they can use movement to manipulate tension
 
-### Creating and making
+### Creating and making {#creating-and-making}
 
-##### AC9ADR4C01
+##### AC9ADR4C01 {#ac9adr4c01}
 
 improvise and/or devise and shape drama using the elements of drama to communicate ideas, perspectives and/or meaning
 
@@ -74,9 +74,9 @@ improvise and/or devise and shape drama using the elements of drama to communica
 *  working in groups to devise sections of a drama (for example, using process drama strategies) and then, working as a class, using a guided play-building process to combine the sections
 *  communicating with an audience their connection to and responsibility for Country/Place by Acknowledging Country before a performance or presentation, taking care to observe protocols and using resources created or co-created by First Nations Australians, and/or by participating with Elders in a Welcome to Country (as appropriate)
 
-### Presenting and performing
+### Presenting and performing {#presenting-and-performing}
 
-##### AC9ADR4P01
+##### AC9ADR4P01 {#ac9adr4p01}
 
 perform improvised and/or devised drama in informal settings
 
@@ -85,7 +85,7 @@ perform improvised and/or devised drama in informal settings
 *  demonstrating commitment to the reality/world of the drama; for example, staying “in-role” throughout the performance (even when not actively participating in the dramatic action)
 *  manipulating focus, tension, space and time to shape dramatic action when performing their drama
 
-## Achievement Standards
+## Achievement Standards {#achievement-standards}
 
 By the end of Year 4, students describe use of selected elements of drama in drama they experience, create and/or perform. TThey describe where, why and/or how drama is created and/or performed across cultures, times, places and/or other contexts.
 

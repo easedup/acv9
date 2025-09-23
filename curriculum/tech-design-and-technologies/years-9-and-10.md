@@ -1,6 +1,6 @@
-# Technologies - Design and Technologies - Years 9 and 10
+# Design and Technologies - Years 9 and 10 {#design-and-technologies-years-9-and-10}
 
-## Level Description
+## Level Description {#level-description}
 
 By the end of Year 10 students should have had the opportunity to design and produce at least 4 designed solutions focused on one or more of the 4 technologies contexts:
 
@@ -19,13 +19,13 @@ Using a range of technologies including a variety of graphical representation te
 
 Students identify the steps involved in planning the production of designed solutions. They develop detailed project management plans, incorporating elements such as sequenced time, cost and action plans, to manage design tasks safely. Students apply management plans, making adjustments when necessary, to successfully complete design tasks. They identify and establish safety procedures that minimise risk and manage projects with safety and efficiency in mind, maintaining safety standards and management procedures to ensure success.
 
-## Strands
+## Strands {#strands}
 
-### Knowledge and understanding
+### Knowledge and understanding {#knowledge-and-understanding}
 
-#### Technologies and society
+#### Technologies and society {#technologies-and-society}
 
-##### AC9TDE10K01
+##### AC9TDE10K01 {#ac9tde10k01}
 
 analyse how people in design and technologies occupations consider ethical, security and sustainability factors to innovate and improve products, services and environments
 
@@ -38,7 +38,7 @@ analyse how people in design and technologies occupations consider ethical, secu
 *  examining mass production systems taking into account ethics and sustainability considerations, for example the mass production of food, clothing and shoes and why manufacturers produce different versions of the same product and support complete product life cycle strategies
 *  explaining the consequences of ethical and sustainability decisions for products, services and environments, for example the accessibility of a managed public environment, the design of roads to include aerial bridges for wildlife and signage powered with solar technologies
 
-##### AC9TDE10K02
+##### AC9TDE10K02 {#ac9tde10k02}
 
 analyse the impact of innovation, enterprise and emerging technologies on designed solutions for global preferred futures
 
@@ -48,9 +48,9 @@ analyse the impact of innovation, enterprise and emerging technologies on design
 *  investigating scenarios of how the future may unfold and what opportunities and impacts there may be for society and particular groups in a preferred future, for example by using forecasting and backcasting techniques
 *  examining real-world problems and understanding basic needs when considering designed solutions, for example students collaborating to design solutions to challenges in the Asia region; or artists from a country in South-East Asia creating posters for the world to take action in a pandemic
 
-#### Technologies context: Engineering principles and systems
+#### Technologies context: Engineering principles and systems {#technologies-context-engineering-principles-and-systems}
 
-##### AC9TDE10K03
+##### AC9TDE10K03 {#ac9tde10k03}
 
 analyse and make judgements on how the characteristics and properties of materials are combined with force, motion and energy to control engineered systems
 
@@ -62,9 +62,9 @@ analyse and make judgements on how the characteristics and properties of materia
 *  investigating how the placement of wind turbines in a wind farm affects their performance, for example designing a layout to maximise the productivity of a wind farm within a given space
 *  investigating the main types of chargers for electric vehicles (EV) and their capabilities, for example making a recommendation for the best charger for an EV owner who uses their vehicle for commuting to work
 
-#### Technologies context: Food and fibre production
+#### Technologies context: Food and fibre production {#technologies-context-food-and-fibre-production}
 
-##### AC9TDE10K04
+##### AC9TDE10K04 {#ac9tde10k04}
 
 analyse and make judgements on the ethical, secure and sustainable production and marketing of food and fibre enterprises
 
@@ -76,9 +76,9 @@ analyse and make judgements on the ethical, secure and sustainable production an
 *  considering the meaning of food and water security and how they may influence design decisions for creating preferred futures, for example using water-efficient irrigation, protected cropping where crops are grown under cover to increase production over a longer period or choosing drought-resistant varieties of plants and animals
 *  examining the marketing chain of a range of agricultural products and outlining the effect of product processing and advertising on demand and price including the impact of cash crops on communities
 
-#### Technologies context: Food specialisations
+#### Technologies context: Food specialisations {#technologies-context-food-specialisations}
 
-##### AC9TDE10K05
+##### AC9TDE10K05 {#ac9tde10k05}
 
 analyse and make judgements on how the sensory and functional properties of food influence the design and preparation of sustainable food solutions for healthy eating
 
@@ -91,9 +91,9 @@ analyse and make judgements on how the sensory and functional properties of food
 *  investigating ways innovations may influence human health and sustainability, for example 3D printing of foods, Internet of Things (IoT) network in the food supply chain or use of augmented reality (AR) in food labelling
 *  considering factors that influence the preparation and presentation of foods using a range of techniques to ensure optimum nutrient content, flavour, texture and visual appeal, for example designing and producing a healthy snack for the canteen and using food photography and digital tools to promote the item in a healthy eating campaign
 
-#### Technologies context: Materials and technologies specialisations
+#### Technologies context: Materials and technologies specialisations {#technologies-context-materials-and-technologies-specialisations}
 
-##### AC9TDE10K06
+##### AC9TDE10K06 {#ac9tde10k06}
 
 analyse and make judgements on how characteristics and properties of materials, systems, components, tools and equipment can be combined to create designed solutions
 
@@ -106,11 +106,11 @@ analyse and make judgements on how characteristics and properties of materials, 
 *  investigating fibre-based medical textile products and structures used in a medical environment for treatment of an injury or the clinical treatment of a wound or an illness, for example collagen fibre used as a suture is as strong as silk and biodegradable
 *  investigating soft robotics including nanomaterials which enable them to function like human muscles
 
-### Processes and production skills
+### Processes and production skills {#processes-and-production-skills}
 
-#### Investigating and defining
+#### Investigating and defining {#investigating-and-defining}
 
-##### AC9TDE10P01
+##### AC9TDE10P01 {#ac9tde10p01}
 
 analyse needs or opportunities for designing; develop design briefs; and investigate, analyse and select materials, systems, components, tools and equipment to create designed solutions
 
@@ -122,9 +122,9 @@ analyse needs or opportunities for designing; develop design briefs; and investi
 *  considering the needs of community groups to identify rich design tasks, for example interviewing community members about accessibility requirements to develop the initial brief and then during specific phases of the design process to determine the best possible designed solution for the community
 *  examining tools, techniques, equipment and relationships of properties for complementary materials for product development, for example examining compressive and tensile strengths of materials
 
-#### Generating and designing
+#### Generating and designing {#generating-and-designing}
 
-##### AC9TDE10P02
+##### AC9TDE10P02 {#ac9tde10p02}
 
 apply innovation and enterprise skills to generate, test, iterate and communicate design ideas, processes and solutions, including using digital tools
 
@@ -136,9 +136,9 @@ apply innovation and enterprise skills to generate, test, iterate and communicat
 *  communicating using appropriate technical terms and recording the generation and development of design ideas and processes for an intended audience including justification of decisions, for example developing a digital portfolio with images and text which clearly communicate each step of a design process
 *  using design thinking and enterprise skills to create innovative approaches to processes and solutions, for example brainstorming novel ideas inspired by nature or transforming a solution into an enterprise for a target market
 
-#### Producing and implementing
+#### Producing and implementing {#producing-and-implementing}
 
-##### AC9TDE10P03
+##### AC9TDE10P03 {#ac9tde10p03}
 
 select, justify, test and use suitable technologies, skills and processes, and apply safety procedures to safely make designed solutions
 
@@ -149,9 +149,9 @@ select, justify, test and use suitable technologies, skills and processes, and a
 *  modifying production processes to respond to opportunities, risks or unforeseen challenges, for example when producing bulk quantities of recipes in terms of workload and coordination, the impact of lower-than-average rainfalls on crop growth or using materials with unexpected faults
 *  experimenting with the functional and sensory properties of food to determine the most successful approach, for example preparing vegetables 3 different ways to maximise colour, flavour and nutritive value
 
-#### Evaluating
+#### Evaluating {#evaluating}
 
-##### AC9TDE10P04
+##### AC9TDE10P04 {#ac9tde10p04}
 
 develop design criteria independently including sustainability to evaluate design ideas, processes and solutions
 
@@ -161,9 +161,9 @@ develop design criteria independently including sustainability to evaluate desig
 *  reflecting on learning including processes or choices made at various stages of a design process and modifying plans when needed with consideration of design criteria
 *  responding creatively to evaluation feedback to iterate and modify design ideas and processes to improve sustainability measures, for example considering opportunities to use sustainable materials, such as plant-based timber oils or bioplastics
 
-#### Collaborating and managing
+#### Collaborating and managing {#collaborating-and-managing}
 
-##### AC9TDE10P05
+##### AC9TDE10P05 {#ac9tde10p05}
 
 develop project plans for intended purposes and audiences to individually and collaboratively manage projects, taking into consideration time, cost, risk, processes and production of designed solutions
 
@@ -172,7 +172,7 @@ develop project plans for intended purposes and audiences to individually and co
 *  collaborating to develop production plans for equitable distribution of work including discussing roles, tasks and deadlines and considering flexibility and contingencies
 *  investigating manufacturing processes to identify strategies to enhance production, for example identifying techniques to reduce use, cut costs, speed up processes or to form beneficial partnerships with others in production
 
-## Achievement Standards
+## Achievement Standards {#achievement-standards}
 
 By the end of Year 10 students should have had the opportunity to design and produce at least 4 designed solutions focused on one or more of the 4 technologies contexts:
 

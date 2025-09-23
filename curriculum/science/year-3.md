@@ -1,6 +1,6 @@
-# Science - Year 3
+# Science - Year 3 {#science-year-3}
 
-## Level Description
+## Level Description {#level-description}
 
 In Year 3 students explore the value of grouping and classifying objects and events based on similarities and differences. In classifying things as living or non-living they begin to recognise that classifications are not always easy to define or apply. Students contrast patterns of growth and change in living things; compare characteristics of soils, rocks and minerals; and classify states of matter. They learn that key processes such as heat transfer can cause predictable change in simple systems. They recognise that change is described and measured in terms of differences over time and begin to quantify their observations to enable comparison. They learn more-sophisticated ways of identifying and representing relationships, including the use of tables and graphs to identify patterns and relationships. They appreciate that science involves conducting fair tests to answer questions or test predictions, and that scientific explanations are based on data.
 
@@ -12,13 +12,13 @@ Inquiry questions can help excite students’ curiosity and challenge their thin
 *   Why is a spoon hot in soup and cold in ice cream?
 *   Can you do science without a fair test?
 
-## Strands
+## Strands {#strands}
 
-### Science understanding
+### Science understanding {#science-understanding}
 
-#### Biological sciences
+#### Biological sciences {#biological-sciences}
 
-##### AC9S3U01
+##### AC9S3U01 {#ac9s3u01}
 
 compare characteristics of living and non-living things and examine the differences between the life cycles of plants and animals
 
@@ -29,9 +29,9 @@ compare characteristics of living and non-living things and examine the differen
 *  representing stages of a plant or animal’s life cycle using drawings, digital photographs, graphic organisers or concrete materials
 *  investigating how First Nations Australians understand and utilise the life cycles of certain species
 
-#### Earth and space sciences
+#### Earth and space sciences {#earth-and-space-sciences}
 
-##### AC9S3U02
+##### AC9S3U02 {#ac9s3u02}
 
 compare the observable properties of soils, rocks and minerals and investigate why they are important Earth resources
 
@@ -45,9 +45,9 @@ compare the observable properties of soils, rocks and minerals and investigate w
 *  examining information on plant tags and exploring the vocabulary used to describe soils and different plant soil requirements
 *  investigating which rocks or minerals are quarried or mined locally or regionally and how those resources are used
 
-#### Physical sciences
+#### Physical sciences {#physical-sciences}
 
-##### AC9S3U03
+##### AC9S3U03 {#ac9s3u03}
 
 identify sources of heat energy and examine how temperature changes when heat energy is transferred from one object to another
 
@@ -59,9 +59,9 @@ identify sources of heat energy and examine how temperature changes when heat en
 *  investigating how well heat is transferred by different types of materials such as metals, plastics and ceramics and identifying how materials are used to keep things hot and cold
 *  exploring how First Nations Australians developed clothing from animal skins such as possum furs and kangaroo skin cloaks that trap heat close to the body to stay warm
 
-#### Chemical sciences
+#### Chemical sciences {#chemical-sciences}
 
-##### AC9S3U04
+##### AC9S3U04 {#ac9s3u04}
 
 investigate the observable properties of solids and liquids and how adding or removing heat energy leads to a change of state
 
@@ -72,11 +72,11 @@ investigate the observable properties of solids and liquids and how adding or re
 *  investigating how changes of state in materials used by First Nations Australians such as beeswax or resins are important for their use
 *  exploring how changes from solid to liquid and liquid to solid can help us recycle materials such as glass or plastics
 
-### Science as a human endeavour
+### Science as a human endeavour {#science-as-a-human-endeavour}
 
-#### Nature and development of science
+#### Nature and development of science {#nature-and-development-of-science}
 
-##### AC9S3H01
+##### AC9S3H01 {#ac9s3h01}
 
 examine how people use data to develop scientific explanations
 
@@ -87,9 +87,9 @@ examine how people use data to develop scientific explanations
 *  exploring age-appropriate science reports and journal articles and identifying where in the text the author has included data, findings or explanations
 *  viewing a documentary or webinar and observing how scientists and researchers share their data and explanations
 
-#### Use and influence of science
+#### Use and influence of science {#use-and-influence-of-science}
 
-##### AC9S3H02
+##### AC9S3H02 {#ac9s3h02}
 
 consider how people use scientific explanations to meet a need or solve a problem
 
@@ -101,11 +101,11 @@ consider how people use scientific explanations to meet a need or solve a proble
 *  exploring how science knowledge of heat transfer has helped people develop different ways to cook food, such as by boiling, frying or roasting
 *  investigating how engineers test the insulation properties of materials, and how this information is used to design food and beverage packaging, building insulation or clothing
 
-### Science inquiry
+### Science inquiry {#science-inquiry}
 
-#### Questioning and predicting
+#### Questioning and predicting {#questioning-and-predicting}
 
-##### AC9S3I01
+##### AC9S3I01 {#ac9s3i01}
 
 pose questions to explore observed patterns and relationships and make predictions based on observations
 
@@ -118,9 +118,9 @@ pose questions to explore observed patterns and relationships and make predictio
 *  predicting which material will be the most effective insulator of heat
 *  predicting how quickly ice will melt at different ambient temperatures based on previous observations
 
-#### Planning and conducting
+#### Planning and conducting {#planning-and-conducting}
 
-##### AC9S3I02
+##### AC9S3I02 {#ac9s3i02}
 
 use provided scaffolds to plan and conduct investigations to answer questions or test predictions, including identifying the elements of fair tests, and considering the safe use of materials and equipment
 
@@ -132,7 +132,7 @@ use provided scaffolds to plan and conduct investigations to answer questions or
 *  discussing safety rules to follow when conducting investigations, such as following teacher instructions, manipulating equipment and materials with care and wearing appropriate personal safety gear, such as gloves, safety goggles and face masks when handling soils
 *  consulting with First Nations Australians to guide the planning of scientific investigations, including safety considerations for field investigations
 
-##### AC9S3I03
+##### AC9S3I03 {#ac9s3i03}
 
 follow procedures to make and record observations, including making formal measurements using familiar scaled instruments and using digital tools as appropriate
 
@@ -142,9 +142,9 @@ follow procedures to make and record observations, including making formal measu
 *  collaboratively designing a table to collect observations in the form of numerical data, written descriptions, drawings or photos
 *  identifying and taking on roles in group work, such as setting up the equipment, making observations, recording observations and ensuring safe behaviours
 
-#### Processing, modelling and analysing
+#### Processing, modelling and analysing {#processing-modelling-and-analysing}
 
-##### AC9S3I04
+##### AC9S3I04 {#ac9s3i04}
 
 construct and use representations, including tables, simple column graphs and visual or physical models, to organise data and information, show simple relationships and identify patterns
 
@@ -155,9 +155,9 @@ construct and use representations, including tables, simple column graphs and vi
 *  using graphic organisers to compare properties of solids and liquids
 *  using column graphs to show melting time for ice in containers with different insulating layers
 
-#### Evaluating
+#### Evaluating {#evaluating}
 
-##### AC9S3I05
+##### AC9S3I05 {#ac9s3i05}
 
 compare findings with those of others, consider if investigations were fair, identify questions for further investigation and draw conclusions
 
@@ -167,9 +167,9 @@ compare findings with those of others, consider if investigations were fair, ide
 *  drawing conclusions based on consideration of their own and others’ findings
 *  identifying further questions for investigation based on observations, differences in findings or new ideas
 
-#### Communicating
+#### Communicating {#communicating}
 
-##### AC9S3I06
+##### AC9S3I06 {#ac9s3i06}
 
 write and create texts to communicate findings and ideas for identified purposes and audiences, using scientific vocabulary and digital tools as appropriate
 
@@ -182,7 +182,7 @@ write and create texts to communicate findings and ideas for identified purposes
 *  creating an advertisement to promote a new insulated container design to parents of primary-school-aged children
 *  representing heat transfer using diagrams, digital drawings, arrows or labels using scientific vocabulary
 
-## Achievement Standards
+## Achievement Standards {#achievement-standards}
 
 By the end of Year 3 students classify and compare living and non-living things and different life cycles. They describe the observable properties of soils, rocks and minerals and describe their importance as resources. They identify sources of heat energy and examples of heat transfer and explain changes in the temperature of objects. They classify solids and liquids based on observable properties and describe how to cause a change of state. They describe how people use data to develop explanations. They identify solutions that use scientific explanations.
 

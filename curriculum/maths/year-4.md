@@ -1,6 +1,6 @@
-# Mathematics - Year 4
+# Mathematics - Year 4 {#mathematics-year-4}
 
-## Level Description
+## Level Description {#level-description}
 
 In Year 4, learning in Mathematics builds on each student’s prior learning and experiences. Students engage in a range of approaches to learning and doing mathematics that develop their understanding of and fluency with concepts, procedures and processes by making connections, reasoning, problem-solving and practice. Proficiency in mathematics enables students to respond to familiar and unfamiliar situations by employing mathematical strategies to make informed decisions and solve problems efficiently.
 
@@ -16,11 +16,11 @@ Students further develop proficiency and positive dispositions towards mathemati
 *   draw on their reasoning skills to analyse, categorise and order chance events and identify independent and dependent events
 *   investigate variability by conducting repeated chance experiments and observing results.
 
-## Strands
+## Strands {#strands}
 
-### Number
+### Number {#number}
 
-##### AC9M4N01
+##### AC9M4N01 {#ac9m4n01}
 
 recognise and extend the application of place value to tenths and hundredths and use the conventions of decimal notation to name and represent decimals
 
@@ -32,7 +32,7 @@ recognise and extend the application of place value to tenths and hundredths and
 *  counting large quantities of mixed notes and coins, writing the total using dollars and cents, and recognising the cents as parts of the next dollar
 *  comparing the way money and measures are read and said, and explaining how they are the same and different; for example, \(\$2.75\) is said, “two dollars seventy-five” and \(2.75\) metres is said “two point seven five metres”; recognising that the \(7\) means seven-tenths and the \(5\) means five-hundredths in both
 
-##### AC9M4N02
+##### AC9M4N02 {#ac9m4n02}
 
 explain and use the properties of odd and even numbers
 
@@ -42,7 +42,7 @@ explain and use the properties of odd and even numbers
 *  explaining the patterns involved in adding, subtracting and multiplying odd and even numbers; for example, even + even = even, odd + even = odd, odd + odd = even and using this to decide whether answers to addition, subtraction and multiplication calculations are correct or not
 *  following an algorithm consisting of a flow chart with a series of instructions and decisions to determine whether a number is even or odd; using the algorithm to identify which elements of a set of numbers are divisible by \(2\)
 
-##### AC9M4N03
+##### AC9M4N03 {#ac9m4n03}
 
 find equivalent representations of fractions using related denominators and make connections between fractions and decimal notation
 
@@ -53,7 +53,7 @@ find equivalent representations of fractions using related denominators and make
 *  identifying and using the connection between fractions of metres and decimals; for example, finding \(\frac14\) of a metre and connecting this to \(0.25\) metres or \(25\) centimetres, or finding \(\frac1{10}\) of a metre and connecting this with \(0.10\) metres or \(10\) centimetres
 *  using array diagrams to show the relationship between fractions and division and multiplication of natural numbers; for example, \(3 \times 4 = 12\), \(12 ÷ 4 = 3\), \(\frac14\) of \(12\) is \(3\), \(\frac13\) of \(12\) is \(4\)
 
-##### AC9M4N04
+##### AC9M4N04 {#ac9m4n04}
 
 count by fractions including mixed numerals; locate and represent these fractions as numbers on number lines
 
@@ -63,7 +63,7 @@ count by fractions including mixed numerals; locate and represent these fraction
 *  converting mixed numerals into improper fractions and vice versa and representing mixed numerals on a number line
 *  using a number line to represent and count in tenths, recognising that \(10\) tenths is equivalent to one
 
-##### AC9M4N05
+##### AC9M4N05 {#ac9m4n05}
 
 solve problems involving multiplying or dividing natural numbers by multiples and powers of 10 without a calculator, using the multiplicative relationship between the place value of digits
 
@@ -72,7 +72,7 @@ solve problems involving multiplying or dividing natural numbers by multiples an
 *  using materials such as place value charts, numeral expanders or sliders to recognise and explain why multiplying by \(10\) moves the digits one place to the left and dividing by \(10\) moves digits one place to the right
 *  using a calculator or other digital tools to recognise and develop an understanding of the effect of multiplying or dividing numbers by \(10\)s, \(100\)s and \(1000\)s, recording sequences in a place value chart, in a table or spreadsheet, generalising the patterns noticed and applying  them to solve multiplicative problems without a calculator
 
-##### AC9M4N06
+##### AC9M4N06 {#ac9m4n06}
 
 develop efficient strategies and use appropriate digital tools for solving problems involving addition and subtraction, and multiplication and division where there is no remainder
 
@@ -85,7 +85,7 @@ develop efficient strategies and use appropriate digital tools for solving probl
 *  using place value partitioning, basic facts and an area or region to represent and solve multiplication problems, such as \(16 \times 4\), thinking \(10 \times 4\) and \(6 \times 4\), \(40 + 24 = 64\) or a double, double strategy where double \(16\) is \(32\), double this is \(64\), so \(16 \times 4\) is \(64\)
 *  using materials or diagrams to develop and explain division strategies; for example, finding thirds, using the inverse relationship to turn division into a multiplication
 
-##### AC9M4N07
+##### AC9M4N07 {#ac9m4n07}
 
 choose and use estimation and rounding to check and explain the reasonableness of calculations including the results of financial transactions
 
@@ -94,7 +94,7 @@ choose and use estimation and rounding to check and explain the reasonableness o
 *  using rounded amounts to complete an estimated budget for a shopping trip or an excursion, explaining why overestimating the amounts is appropriate
 *  recognising the effect of rounding in addition and multiplication calculations; rounding both numbers up, both numbers down and one number up and one number down, and explaining which is the best approximation and why
 
-##### AC9M4N08
+##### AC9M4N08 {#ac9m4n08}
 
 use mathematical modelling to solve practical problems involving additive and multiplicative situations including financial contexts; formulate the problems using number sentences and choose efficient calculation strategies, using digital tools where appropriate; interpret and communicate solutions in terms of the situation
 
@@ -105,7 +105,7 @@ use mathematical modelling to solve practical problems involving additive and mu
 *  modelling and solving multiplication problems involving money, such as buying \(5\) toy scooters for \(\$96\) each, using efficient mental strategies and written jottings to keep track if needed; for example, rounding \(\$96\) up to \(\$100\) and subtracting \(5 \times\$4 = \$20\), so \(5 \times\$96\) is the same as \(5\times\$100\) less \(\$20\), giving the answer \(\$500 \space–\space \$20 = \$480\)
 *  modelling situations by formulating comparison problems using number sentences, comparison models and arrays; for example, “Ariana read \(16\) books for the readathon; Maryam read \(4\) times as many books. How many books did Maryam read?” using the expression \(4 \times 16\) and using place value partitioning, basic facts and an array, thinking \(4 \times 10 = 40\) and \(4 \times 6 = 24\), so \(4 \times 16\) can be written as \(40 + 24 = 64\)
 
-##### AC9M4N09
+##### AC9M4N09 {#ac9m4n09}
 
 follow and create algorithms involving a sequence of steps and decisions that use addition or multiplication to generate sets of numbers; identify and describe any emerging patterns
 
@@ -114,9 +114,9 @@ follow and create algorithms involving a sequence of steps and decisions that us
 *  creating a basic flow chart that represents an algorithm that will generate a sequence of numbers using multiplication by a constant term; using a calculator to model and follow the algorithm, and record the sequence of numbers generated; checking results and describing any emerging patterns
 *  using a multiplication formula in a spreadsheet and the “fill down” function to generate a sequence of numbers; for example, entering the number one in the cell A1, using “fill down” to cell A100, entering the formula “ = A1*4 “ in the cell B1 and using the “fill down” function to generate a sequence of 100 numbers; describing emerging patterns
 
-### Algebra
+### Algebra {#algebra}
 
-##### AC9M4A01
+##### AC9M4A01 {#ac9m4a01}
 
 find unknown values in numerical equations involving addition and subtraction, using the properties of numbers and operations
 
@@ -126,7 +126,7 @@ find unknown values in numerical equations involving addition and subtraction, u
 *  using relational thinking and knowledge of equivalent number sentences to explain whether equations involving addition or subtraction are true; for example, explaining that \(27 \space– \space 14 = 17\space – \space4\) is true and using a number line to show the common difference is \(13\)
 *  using part-part-whole diagrams or bar models to recognise and explain the inverse relationship between addition and subtraction, using this to make calculations easier; for example, solving \(27 + \square = 63\) using subtraction, \(\square = 63\space – \space27\)
 
-##### AC9M4A02
+##### AC9M4A02 {#ac9m4a02}
 
 recall and demonstrate proficiency with multiplication facts up to 10 x 10 and related division facts; extend and apply facts to develop efficient mental strategies for computation with larger numbers without a calculator
 
@@ -138,9 +138,9 @@ recall and demonstrate proficiency with multiplication facts up to 10 x 10 and r
 *  using known multiplication facts up to \(10 \times 10\) and the inverse relationship of multiplication and division to establish corresponding division facts
 *  designing, creating and playing instructive card games that involve the recall, recognition and explanation of the \(10 \times 10\) multiplication facts and related division facts
 
-### Measurement
+### Measurement {#measurement}
 
-##### AC9M4M01
+##### AC9M4M01 {#ac9m4m01}
 
 interpret unmarked and partial units when measuring and comparing attributes of length, mass, capacity, duration and temperature, using scaled and digital instruments and appropriate units
 
@@ -153,7 +153,7 @@ interpret unmarked and partial units when measuring and comparing attributes of 
 *  making a scaled measuring instrument such as a tape measure, ruler, sand timer, sun dial or measuring cup using scaled instruments and direct comparisons
 *  exploring the different types of scaled instruments used by First Nations Ranger Groups and other groups to make decisions about caring for Country/Place, and modelling these in local contexts
 
-##### AC9M4M02
+##### AC9M4M02 {#ac9m4m02}
 
 recognise ways of measuring and approximating the perimeter and area of shapes and enclosed spaces, using appropriate formal and informal units
 
@@ -164,7 +164,7 @@ recognise ways of measuring and approximating the perimeter and area of shapes a
 *  demonstrating how to use one unit repeatedly to measure the area of a shape; for example, using one paper square to measure and compare the area of a rectangle and a triangle; recording and explaining how they used part units to give a more accurate measure, and why they needed to ensure there were no gaps or overlaps
 *  investigating the ways First Nations Ranger Groups and other groups measure areas of land to make decisions about fire burns to care for Country/Place
 
-##### AC9M4M03
+##### AC9M4M03 {#ac9m4m03}
 
 solve problems involving the duration of time including situations involving “am” and “pm” and conversions between units of time
 
@@ -173,7 +173,7 @@ solve problems involving the duration of time including situations involving “
 *  converting units of time using relationships between units, such as \(60\) minutes in an hour and \(60\) seconds in a minute, to solve problems; for example, creating a daily timetable for an activity such as an athletics carnival or planning an exercise routine with activities and rests
 *  exploring First Nations Australians’ explanations of the passing of time through cultural accounts about cyclic phenomena involving sun, moon and stars
 
-##### AC9M4M04
+##### AC9M4M04 {#ac9m4m04}
 
 estimate and compare angles using angle names including acute, obtuse, straight angle, reflex and revolution, and recognise their relationship to a right angle
 
@@ -183,9 +183,9 @@ estimate and compare angles using angle names including acute, obtuse, straight 
 *  creating a right-angle template using cardboard or a double-folded piece of paper and using it to compare angles in the environment, commenting on whether they are smaller than or greater than a right angle
 *  using different measuring tools such as a spirit level or set squares to determine whether lines or objects are straight, square or perpendicular (at right angles)
 
-### Space
+### Space {#space}
 
-##### AC9M4SP01
+##### AC9M4SP01 {#ac9m4sp01}
 
 represent and approximate composite shapes and objects in the environment, using combinations of familiar shapes and objects
 
@@ -195,7 +195,7 @@ represent and approximate composite shapes and objects in the environment, using
 *  approximating complex shapes and objects in the environment with familiar shapes and objects; for example, drawing cartoon animals by combining familiar shapes
 *  recognising how familiar shapes and objects are used in logos and other graphics to represent more complex shapes and creating logos using graphic design software
 
-##### AC9M4SP02
+##### AC9M4SP02 {#ac9m4sp02}
 
 create and interpret grid reference systems using grid references and directions to locate and describe positions and pathways
 
@@ -206,7 +206,7 @@ create and interpret grid reference systems using grid references and directions
 *  using different sized grids as a tool to enlarge an image or artwork
 *  simulating the actions of autonomous or robotic vehicles moving to different positions within a grid, using grid references and directional language to describe positions and pathways; for example, imitating an autonomous mobile warehouse robot moving stock to different aisles, using grid reference systems to locate positions
 
-##### AC9M4SP03
+##### AC9M4SP03 {#ac9m4sp03}
 
 recognise line and rotational symmetry of shapes and create symmetrical patterns and pictures, using dynamic geometric software where appropriate
 
@@ -216,9 +216,9 @@ recognise line and rotational symmetry of shapes and create symmetrical patterns
 *  using stimulus materials such as the motifs in Central Asian textiles, Tibetan artefacts, Indian lotus designs and Islamic artwork to investigate and discuss line and rotational symmetry
 *  exploring the natural environment on Country/Place to investigate and discuss patterns and symmetry of shapes and objects such as in flowers, plants and landscapes
 
-### Statistics
+### Statistics {#statistics}
 
-##### AC9M4ST01
+##### AC9M4ST01 {#ac9m4st01}
 
 acquire data for categorical and discrete numerical variables to address a question of interest or purpose, using digital tools; represent data using many-to-one pictographs, column graphs and other displays or visualisations; interpret and discuss the information that has been created
 
@@ -230,7 +230,7 @@ acquire data for categorical and discrete numerical variables to address a quest
 *  acquiring samples of data using practical activities, observations or repeated chance experiments, recording data using tally charts, digital tables or spread sheets, graphing, discussing and comparing the results using a column graph
 *  using secondary data of fire burns to construct data displays that assist First Nations Ranger Groups and other groups to care for Country/Place
 
-##### AC9M4ST02
+##### AC9M4ST02 {#ac9m4st02}
 
 analyse the effectiveness of different displays or visualisations in illustrating and comparing data distributions, then discuss the shape of distributions and the variation in the data
 
@@ -240,7 +240,7 @@ analyse the effectiveness of different displays or visualisations in illustratin
 *  comparing different student generated diagrams, tables and graphs, describing their similarities and differences and commenting on the usefulness of each representation for interpreting the data
 *  discussing how analysing data distributions and visualising data is a fundamental step in data preparation for AI developers
 
-##### AC9M4ST03
+##### AC9M4ST03 {#ac9m4st03}
 
 conduct statistical investigations, collecting data through survey responses and other methods; record and display data using digital tools; interpret the data and communicate the results
 
@@ -249,9 +249,9 @@ conduct statistical investigations, collecting data through survey responses and
 *  conducting a statistical investigation and acquiring data from different online sources; for example, using online query interfaces to select and retrieve data from an online database such as weather records, Google Trends or the World Health Organization
 *  investigating different contexts in which statistical investigations can take place and the types of questions to ask to collect data relevant to the context; for example, investigating supermarket customer complaints that breakfast cereals with the most sugar are positioned at children’s eye level, discussing what questions they would need to ask and answer
 
-### Probability
+### Probability {#probability}
 
-##### AC9M4P01
+##### AC9M4P01 {#ac9m4p01}
 
 describe possible everyday events and the possible outcomes of chance experiments and order outcomes or events based on their likelihood of occurring; identify independent or dependent events
 
@@ -265,7 +265,7 @@ describe possible everyday events and the possible outcomes of chance experiment
 *  exploring how ordering outcomes based on their likelihood of occurring is an essential component of early warning systems that use artificial intelligence  to make decisions, such as natural disaster warning systems
 *  discussing how likelihood relates to the decisions an artificial intelligence  tool makes when generating predictive text; for example, discussing which word would most likely come next in a sentence, then refining the decision as the first letter is revealed
 
-##### AC9M4P02
+##### AC9M4P02 {#ac9m4p02}
 
 conduct repeated chance experiments to observe relationships between outcomes; identify and describe the variation in results
 
@@ -275,7 +275,7 @@ conduct repeated chance experiments to observe relationships between outcomes; i
 *  experimenting with tossing \(2\) coins at the same time, recording and commenting on the chance of outcomes after a number of tosses
 *  shuffling a set of cards, drawing a card at random, and recording whether it was a spade, club, diamond or heart, picture card or numbered; repeating the experiment a number of times and discussing the results
 
-## Achievement Standards
+## Achievement Standards {#achievement-standards}
 
 In Year 4, learning in Mathematics builds on each student’s prior learning and experiences. Students engage in a range of approaches to learning and doing mathematics that develop their understanding of and fluency with concepts, procedures and processes by making connections, reasoning, problem-solving and practice. Proficiency in mathematics enables students to respond to familiar and unfamiliar situations by employing mathematical strategies to make informed decisions and solve problems efficiently.
 

@@ -1,6 +1,6 @@
-# The Arts - Visual Arts - Years 7 and 8
+# Visual Arts - Years 7 and 8 {#visual-arts-years-7-and-8}
 
-## Level Description
+## Level Description {#level-description}
 
 In this band, learning in Visual Arts builds on each student’s prior learning and experiences. Students learn in and through visual arts practices. They use visual arts processes and available analog/physical and/or digital materials in purposeful and creative ways, and continue to develop their connection with and contribution to the world as artists and as audiences. They work individually and in collaboration with peers and teachers.
 
@@ -9,23 +9,19 @@ Students explore visual arts in local, regional, national and global contexts, s
 In this band, the focus is on students:
 
 1.  exploring and responding to
+    *   artworks and visual arts practices across cultures, times, places and/or other contexts; for example, through exploration of works in physical or virtual spaces or engagement with artists
+    *   the diversity of visual arts created by First Nations Australians and how this work demonstrates respect for Indigenous Cultural and Intellectual Property rights
+2.  developing practices and skills
+    *   creative practices and skills for developing ideas, themes and their visual arts practice
+    *   critical practices by taking opportunities to reflect on, evaluate or respond to their own work or the work of others; for example, developing intentions for artworks based on exploration, inquiry and research
+3.  creating artworks in 2D, 3D and/or 4D (time-based forms) and/or multi-disciplinary forms to communicate ideas and intentions using visual conventions, visual arts processes and materials
+4.  presenting artworks to audiences, in physical and/or virtual spaces; for example, for a specific target audience.
 
-*   artworks and visual arts practices across cultures, times, places and/or other contexts; for example, through exploration of works in physical or virtual spaces or engagement with artists
-*   the diversity of visual arts created by First Nations Australians and how this work demonstrates respect for Indigenous Cultural and Intellectual Property rights
+## Strands {#strands}
 
-3.  developing practices and skills
+### Exploring and responding {#exploring-and-responding}
 
-*   creative practices and skills for developing ideas, themes and their visual arts practice
-*   critical practices by taking opportunities to reflect on, evaluate or respond to their own work or the work of others; for example, developing intentions for artworks based on exploration, inquiry and research
-
-5.  creating artworks in 2D, 3D and/or 4D (time-based forms) and/or multi-disciplinary forms to communicate ideas and intentions using visual conventions, visual arts processes and materials
-6.  presenting artworks to audiences, in physical and/or virtual spaces; for example, for a specific target audience.
-
-## Strands
-
-### Exploring and responding
-
-##### AC9AVA8E01
+##### AC9AVA8E01 {#ac9ava8e01}
 
 investigate ways that visual conventions, visual arts processes and materials are manipulated to represent ideas, perspectives and/or meaning in artworks created across cultures, times, places and/or other contexts
 
@@ -37,7 +33,7 @@ investigate ways that visual conventions, visual arts processes and materials ar
 *  investigating and trialling techniques and visual arts processes used by artists, thinking about whether these processes and technologies have changed over time, and how they can have an impact on art-making
 *  exploring the ways that artists are inspired and influenced by the practice of artists from other countries or cultures they have relationships with; for example, the reciprocal influence and impact between Australian and Asian artists and their practices
 
-##### AC9AVA8E02
+##### AC9AVA8E02 {#ac9ava8e02}
 
 investigate the diversity of First Nations Australians’ artworks and arts practices, considering culturally responsive approaches to Indigenous Cultural and Intellectual Property rights
 
@@ -47,9 +43,9 @@ investigate the diversity of First Nations Australians’ artworks and arts prac
 *  investigating an example of cultural appropriation where it has been found that First Nations Australian Indigenous Cultural and Intellectual Property rights have been denied and identifying how this situation could have been approached respectfully; for example, a situation where an artist used symbols, techniques or styles that carry cultural knowledge without gaining permission from the knowledge holders
 *  exploring how visual artists can respect Indigenous Cultural and Intellectual Property rights when using historical or other background materials that accurately communicate First Nations Australians’ perspectives, such as their resilience in response to the impacts of colonisation; for example, by using protocols or guidelines from education authorities or those that are endorsed by First Nations Australian organisations
 
-### Developing practices and skills
+### Developing practices and skills {#developing-practices-and-skills}
 
-##### AC9AVA8D01
+##### AC9AVA8D01 {#ac9ava8d01}
 
 experiment with visual conventions, visual arts processes and materials to develop skills
 
@@ -63,7 +59,7 @@ experiment with visual conventions, visual arts processes and materials to devel
 *  exploring the ways that a range of artists use materials, visual conventions and visual art processes to communicate their concepts; for example, investigating how artists use choices of materials and visual arts processes when working on a similar concept and how this impacts the viewer response, or experimenting with these approaches to consider how they might approach the same concept
 *  observing the different ways that artists respond to sensory stimuli, such as emotions, feelings or material properties, to generate ideas and directions for their own works; for example, being guided by the tactile qualities of a material as inspiration for practical exploration
 
-##### AC9AVA8D02
+##### AC9AVA8D02 {#ac9ava8d02}
 
 reflect on the ways that they and other artists respond to influences to inform choices they make in their own visual arts practice
 
@@ -75,9 +71,9 @@ reflect on the ways that they and other artists respond to influences to inform 
 *  reflecting on the work of others and their own explorations when developing an understanding of visual conventions and how they might be manipulated to communicate meaning in artworks; for example, learning about colour theory and applying this to develop compositions that explore harmonious or contrasting colour palettes
 *  building on their understanding of composition to explore multiple ways to represent space and depth in an artwork; for example, experimenting with proportion and scale, positive and negative space in 3D work, or exploring the use of linear, aerial and atmospheric perspective, and reflecting on how they may apply this understanding to create the illusion of space
 
-### Creating and making
+### Creating and making {#creating-and-making}
 
-##### AC9AVA8C01
+##### AC9AVA8C01 {#ac9ava8c01}
 
 generate, document and develop ideas for artworks
 
@@ -89,7 +85,7 @@ generate, document and develop ideas for artworks
 *  recording and documenting their research into a subject or theme using their own images or images from other sources, written annotations and comments, or evaluations
 *  exploring ways that artists, designers, architects or craftspeople communicate ideas and meaning in their work, using written discussions, annotated images, debates or digital presentations
 
-##### AC9AVA8C02
+##### AC9AVA8C02 {#ac9ava8c02}
 
 select and manipulate visual conventions, visual arts processes and/or materials to create artworks that represent ideas, perspectives and/or meaning
 
@@ -102,9 +98,9 @@ select and manipulate visual conventions, visual arts processes and/or materials
 *  applying their knowledge and understanding of visual arts processes, materials and techniques to create artworks; for example, demonstrating understanding of relief printing and the technical skills needed to create an edition of prints, or creating artworks using skills developed in exploring digital tools, such as photographic manipulation applications or digital drawing programs
 *  representing ideas in their artworks through considered use of visual conventions, such as using modulated and directional lines in a composition to create a sense of movement, or breaking a rhythmic pattern to create discord
 
-### Presenting and performing
+### Presenting and performing {#presenting-and-performing}
 
-##### AC9AVA8P01
+##### AC9AVA8P01 {#ac9ava8p01}
 
 curate and present examples of their visual arts practice to accompany exhibits of their artworks to communicate ideas, perspectives and/or meaning to audiences
 
@@ -117,7 +113,7 @@ curate and present examples of their visual arts practice to accompany exhibits 
 *  describing the artistic vision of artists from different contexts, cultures, times and places, particularly referencing the meaning that their artworks convey
 *  using hex editors to explore information included in encrypted artworks and create their own encrypted information in their own artworks to communicate ideas, perspectives and/or meaning to audience
 
-## Achievement Standards
+## Achievement Standards {#achievement-standards}
 
 By the end of Year 8, students analyse how visual conventions, visual arts processes and materials are manipulated in artworks they create and/or experience. They evaluate the ways that visual artists across cultures, times, places and/or other contexts communicate ideas, perspectives and/or meaning through their visual arts practice. They describe respectful approaches to creating and/or responding to artworks.
 

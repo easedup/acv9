@@ -1,6 +1,6 @@
-# Technologies - Digital Technologies - Years 1 and 2
+# Digital Technologies - Years 1 and 2 {#digital-technologies-years-1-and-2}
 
-## Level Description
+## Level Description {#level-description}
 
 By the end of Year 2 students should have had the opportunity to apply computational thinking by describing algorithms that include sequences of instructions and decisions, and by using digital systems to produce simple solutions. Through practice and investigation, they become more familiar with and confident in representing data in different ways.
 
@@ -10,13 +10,13 @@ Students develop systems thinking by exploring a range of purposes for using dig
 
 In Digital Technologies, students should have frequent opportunities for authentic learning by making key connections with other learning areas.
 
-## Strands
+## Strands {#strands}
 
-### Knowledge and understanding
+### Knowledge and understanding {#knowledge-and-understanding}
 
-#### Digital systems
+#### Digital systems {#digital-systems}
 
-##### AC9TDI2K01
+##### AC9TDI2K01 {#ac9tdi2k01}
 
 identify and explore digital systems and their components for a purpose
 
@@ -25,9 +25,9 @@ identify and explore digital systems and their components for a purpose
 *  naming and using digital systems that they interact with at home and school, for example using a touchpad to move the cursor on a laptop, or the keyboard to type a simple message on a tablet
 *  using different digital systems to explore what they do and how to use them, for example selecting the camera icon allows them to take photos of things that are a familiar shape
 
-#### Data representation
+#### Data representation {#data-representation}
 
-##### AC9TDI2K02
+##### AC9TDI2K02 {#ac9tdi2k02}
 
 represent data as pictures, symbols, numbers and words
 
@@ -36,11 +36,11 @@ represent data as pictures, symbols, numbers and words
 *  recognising the equivalence of different representations of numbers, including words, digits and tally marks
 *  recognising that pictures in First Nations Australians’ seasonal calendars are used to represent and communicate data, such as how the appearance of a flower can signify a connected event or a resource availability, for example how the Gulumoerrgin Peoples from the Darwin region of the Northern Territory understand that the fruiting of freshwater mangrove signifies it is time to harvest magpie geese
 
-### Processes and production skills
+### Processes and production skills {#processes-and-production-skills}
 
-#### Investigating and defining
+#### Investigating and defining {#investigating-and-defining}
 
-##### AC9TDI2P01
+##### AC9TDI2P01 {#ac9tdi2p01}
 
 investigate simple problems for known users that can be solved with digital systems
 
@@ -50,9 +50,9 @@ investigate simple problems for known users that can be solved with digital syst
 *  identifying how digital systems are used to solve problems at school, for example taking attendance or borrowing a library book
 *  exploring how a familiar problem could be solved using a robot, for example creating a model robot using cardboard boxes and explaining how it could be used to clean up the classroom floor at the end of the day
 
-#### Generating and designing
+#### Generating and designing {#generating-and-designing}
 
-##### AC9TDI2P02
+##### AC9TDI2P02 {#ac9tdi2p02}
 
 follow and describe algorithms involving a sequence of steps, branching (decisions) and iteration (repetition)
 
@@ -64,9 +64,9 @@ follow and describe algorithms involving a sequence of steps, branching (decisio
 *  identifying the decisions needed to solve a problem and the next steps to follow in each case, for example if it is raining, take a raincoat, otherwise take a hat
 *  following algorithms that repeat a single step a fixed number of times, for example practise spelling a word 5 times or throw and catch a ball with a partner 10 times
 
-#### Evaluating
+#### Evaluating {#evaluating}
 
-##### AC9TDI2P03
+##### AC9TDI2P03 {#ac9tdi2p03}
 
 discuss how existing digital systems satisfy identified needs for known users
 
@@ -76,9 +76,9 @@ discuss how existing digital systems satisfy identified needs for known users
 *  sharing ideas about how digital systems are used at school for learning, for example sharing a student's work with the class on an interactive display screen to provide class feedback on their writing
 *  sharing and describing ways that common digital systems can be used to meet communication needs, for example tablets can be used as phones and tools for communication between families living in different locations
 
-#### Collaborating and managing
+#### Collaborating and managing {#collaborating-and-managing}
 
-##### AC9TDI2P04
+##### AC9TDI2P04 {#ac9tdi2p04}
 
 use the basic features of common digital tools to create, locate and communicate content
 
@@ -89,7 +89,7 @@ use the basic features of common digital tools to create, locate and communicate
 *  using a camera or drawing app to create a picture, for example making a card for a family member that includes a photo and short message
 *  creating individual pieces of work that contribute to a group task, for example each student contributes a recipe and photo of their favourite food to create a class recipe book
 
-##### AC9TDI2P05
+##### AC9TDI2P05 {#ac9tdi2p05}
 
 use the basic features of common digital tools to share content and collaborate demonstrating agreed behaviours, guided by trusted adults
 
@@ -98,16 +98,16 @@ use the basic features of common digital tools to share content and collaborate 
 *  applying agreed standards of behaviour when sharing content with classmates, for example using language that is considered by all students and the teacher to be appropriate when they are writing messages to each other
 *  considering the need for online safety when sharing information, for example recognising that personal information such as a photo can be used inappropriately
 
-#### Privacy and security
+#### Privacy and security {#privacy-and-security}
 
-##### AC9TDI2P06
+##### AC9TDI2P06 {#ac9tdi2p06}
 
 access their school account with a recorded username and password
 
 **Elaborations**
 *  using username and password recorded in a private place to access a digital system, for example logging into a school computer using details given on a card by the teacher
 
-##### AC9TDI2P07
+##### AC9TDI2P07 {#ac9tdi2p07}
 
 discuss that some websites and apps store their personal data online
 
@@ -115,7 +115,7 @@ discuss that some websites and apps store their personal data online
 *  sharing examples of the data collected by apps and websites they commonly use, for example usernames and email addresses used by school websites and games to log in
 *  discussing the importance of asking permission from a parent or carer before entering personal details online such as address, phone number and date of birth
 
-## Achievement Standards
+## Achievement Standards {#achievement-standards}
 
 By the end of Year 2 students show how simple digital solutions meet a need for known users. Students represent and process data in different ways. They follow and describe basic algorithms involving a sequence of steps and branching. With assistance, students access and use digital systems for a purpose. They use the basic features of common digital tools to create, locate and share content, and to collaborate, following agreed behaviours. Students recognise that digital tools may store their personal data online.
 

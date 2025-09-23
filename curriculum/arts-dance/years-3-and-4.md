@@ -1,6 +1,6 @@
-# The Arts - Dance - Years 3 and 4
+# Dance - Years 3 and 4 {#dance-years-3-and-4}
 
-## Level Description
+## Level Description {#level-description}
 
 In this band, learning in The Arts builds on each student’s prior learning and experiences. Arts learning in this band continues to use purposeful and creative play-based activities that foster development of students’ identity and wellbeing, and their connection with and contribution to the world. Students further develop their capability and confidence in using subject-specific skills, and creative and critical practices. They work individually and in collaboration with peers and teachers.
 
@@ -21,11 +21,11 @@ In this band, the focus is on students:
 5.  creating dance by selecting and combining movements and structuring dance sequences that communicate ideas and intentions using fundamental movement skills, the elements of dance and imagination. Students use processes such as improvisation to develop and extend ideas for their dance. They may focus on choreographing dance sequences or they may create work that combines dance and other arts forms, such as a dance sequence they will perform to accompany a song
 6.  performing dance they have learnt and/or choreographed in informal settings, such as spaces within the school.
 
-## Strands
+## Strands {#strands}
 
-### Exploring and responding
+### Exploring and responding {#exploring-and-responding}
 
-##### AC9ADA4E01
+##### AC9ADA4E01 {#ac9ada4e01}
 
 explore where, why and how dance is choreographed and/or performed across cultures, times, places and/or other contexts
 
@@ -34,7 +34,7 @@ explore where, why and how dance is choreographed and/or performed across cultur
 *  learning dances created for different purposes such as entertainment; for example, dances from a range of cultures, times or places that are/have been a dance craze or are a dance that “everyone” knows
 *  using Viewpoints to ask questions about dance they are experiencing, such as “Are the movements in this dance similar to movements in dances that you know?”, “Where are these dances performed?”
 
-##### AC9ADA4E02
+##### AC9ADA4E02 {#ac9ada4e02}
 
 explore how First Nations Australians use dance to communicate their connection to and responsibility for Country/Place
 
@@ -45,9 +45,9 @@ explore how First Nations Australians use dance to communicate their connectio
 *  observing how the elements of dance are used in dances choreographed and performed by First Nations Australians to communicate connection to and responsibility for Country/Place; for example, in dance about wind, water or fire
 *  exploring the movements in dances with representatives of a First Nations Australian community or through resources created or co-created by First Nations Australians; for example, dances that share cultural accounts of Country/Place
 
-### Developing practices and skills
+### Developing practices and skills {#developing-practices-and-skills}
 
-##### AC9ADA4D01
+##### AC9ADA4D01 {#ac9ada4d01}
 
 experiment with and practise skills for moving safely and expressively using fundamental movement skills and the elements of dance
 
@@ -58,9 +58,9 @@ experiment with and practise skills for moving safely and expressively using f
 *  developing the habit of always using safe dance practice; for example, warming up their bodies before executing more complex movement patterns in dance sequences and cooling/calming down afterwards, removing socks if the floor surface is slippery
 *  developing body awareness and refining technical skills of body control, accuracy, alignment, strength, balance and coordination in fundamental movements; for example, in response to teacher feedback
 
-### Creating and making
+### Creating and making {#creating-and-making}
 
-##### AC9ADA4C01
+##### AC9ADA4C01 {#ac9ada4c01}
 
 use the elements of dance to choreograph dance that communicates ideas, perspectives and/or meaning
 
@@ -71,9 +71,9 @@ use the elements of dance to choreograph dance that communicates ideas, perspe
 *  using Viewpoints to ask questions when making choices about ideas and intentions for a dance; for example, “How can we connect these 2 parts of our dance?” or “What level should we choose for the start of the dance?”
 *  using learning from explorations of dances that communicate First Nations Australians’ connection to and responsibility for Country/Place to devise dance that communicates their own connection to and responsibility for Country/Place; for example, devising a dance that communicates their feelings about a “favourite” place or shows how they care for a place in their community, taking care to follow protocols for respecting Indigenous Cultural and Intellectual Property rights
 
-### Presenting and performing
+### Presenting and performing {#presenting-and-performing}
 
-##### AC9ADA4P01
+##### AC9ADA4P01 {#ac9ada4p01}
 
 practise and perform dances in informal settings
 
@@ -83,7 +83,7 @@ practise and perform dances in informal settings
 *  being an attentive audience member during class performances and providing constructive feedback to peers
 *  sharing with others the meaning and intended purposes of their own dance; for example, in a class debrief discussion after a performance; using their own words, images and some learnt dance terminology or responding through movement or by drawing (visual)
 
-## Achievement Standards
+## Achievement Standards {#achievement-standards}
 
 By the end of Year 4, students describe use of the elements of dance in dance they experience, create and/or perform. They describe where, why and/or how dance is choreographed and/or performed across cultures, times, places and/or other contexts.
 

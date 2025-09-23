@@ -1,6 +1,6 @@
-# The Arts - Drama - Years 5 and 6
+# Drama - Years 5 and 6 {#drama-years-5-and-6}
 
-## Level Description
+## Level Description {#level-description}
 
 In this band, students continue to learn in and through the practices of The Arts subjects, building on their prior learning and experiences. They use play and imagination in purposeful and creative ways and continue to develop their connection with and contribution to the world as artist and as audience. They work individually and in collaboration with peers and teachers.
 
@@ -21,11 +21,11 @@ In this band, the focus is on students:
 5.  creating drama in improvised, devised and scripted forms such as process drama, puppetry, improvisation, Readers’ Theatre, mime and movement, play-building and devising, clowning, scripted drama/script interpretation
 6.  presenting and performing drama for audiences in available, informal and/or formal settings, including as appropriate, school-hosted digital spaces such as a school learning management system.
 
-## Strands
+## Strands {#strands}
 
-### Exploring and responding
+### Exploring and responding {#exploring-and-responding}
 
-##### AC9ADR6E01
+##### AC9ADR6E01 {#ac9adr6e01}
 
 explore ways that the elements of drama are combined to communicate ideas, perspectives and/or meaning in drama across, cultures, times, places and/or other contexts
 
@@ -34,7 +34,7 @@ explore ways that the elements of drama are combined to communicate ideas, persp
 *  identifying and discussing use of elements of drama such as space, time, language, movement, character and/or relationships in the drama; for example, using Viewpoints to develop questions such as, “What did you see in the drama?”, “How did the actors make the characters believable?”, “When was the drama set? (For example, time, place or other context)”, “What was the purpose of the drama?”
 *  exploring drama from other places and times, and discussing how it might contribute to their own drama, and how cultural understandings shape meaning in drama; for example, exploring how drama is used to share cultural knowledge in celebrations, ceremonies or rituals that happen in their local community and/or in another place, such as a country or region in Asia
 
-##### AC9ADR6E02
+##### AC9ADR6E02 {#ac9adr6e02}
 
 explore the ways that First Nations Australians use drama to continue and revitalise cultures
 
@@ -44,9 +44,9 @@ explore the ways that First Nations Australians use drama to continue and revita
 *  identifying examples that illustrate how cultural expressions change over time; for example, by using available resources published by First Nations Australian communities and organisations
 *  investigating the ways that a diverse range of First Nations Australian drama makers and performers embed themselves and their communities in drama in a range of representative forms as a visual declaration of identity, storytelling and resilience; for example, exploring how drama is used to share cultural narratives
 
-### Developing practices and skills
+### Developing practices and skills {#developing-practices-and-skills}
 
-##### AC9ADR6D01
+##### AC9ADR6D01 {#ac9adr6d01}
 
 explore ways to combine the elements of drama to communicate ideas, perspectives and/or meaning in improvisations, devised drama and/or scripted drama
 
@@ -57,9 +57,9 @@ explore ways to combine the elements of drama to communicate ideas, perspective
 *  using improvisation or process drama to compare different ways that improvised and scripted drama can create characters and action, or evaluating drama they experience in live performance and considering how they can use specific techniques in their own work
 *  imagining that they are in the time/place of an historical event and considering why people involved in the event made (or will make) certain decisions and/or what they could have done differently
 
-### Creating and making
+### Creating and making {#creating-and-making}
 
-##### AC9ADR6C01
+##### AC9ADR6C01 {#ac9adr6c01}
 
 develop characters and situations, and shape and sustain dramatic action to communicate ideas, perspectives and/or meaning in improvised, devised and/or scripted forms
 
@@ -71,9 +71,9 @@ develop characters and situations, and shape and sustain dramatic action to comm
 *  devising drama based on research or knowledge about a project happening in their school/local community to encourage cultural awareness or to present different perspectives in a debate, such as a debate about an environmental issue
 *  working collaboratively to devise drama for a school ritual, gathering (such as an assembly) or ceremony; for example, drama that explores a school motto, a health message or a campaign such as “no-packaging lunch”
 
-### Presenting and performing
+### Presenting and performing {#presenting-and-performing}
 
-##### AC9ADR6P01
+##### AC9ADR6P01 {#ac9adr6p01}
 
 rehearse and perform improvised, devised and/or scripted drama in informal and/or formal settings
 
@@ -83,7 +83,7 @@ rehearse and perform improvised, devised and/or scripted drama in informal and/o
 *  showing understanding of the purpose of rehearsing and the need for collaboration
 *  sharing ideas about their drama with audiences; for example, through choice of performance space, approach to entering or leaving the performance space, pre-show presentations or by creating an introduction such as a podcast that can be distributed when an audience member obtains their ticket
 
-## Achievement Standards
+## Achievement Standards {#achievement-standards}
 
 By the end of Year 6, students explain how the elements of drama are used in drama they create, perform and/or experience. They describe how drama created and/or performed across cultures, times, places and/or other contexts communicates ideas, perspectives and/or meaning. They describe how drama is used to continue and revitalise cultures.
 

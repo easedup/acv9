@@ -1,6 +1,6 @@
-# English - Year 6
+# English - Year 6 {#english-year-6}
 
-## Level Description
+## Level Description {#level-description}
 
 The English curriculum is built around the 3 interrelated strands of _Language, Literature_ and _Literacy_. Together, the 3 strands focus on developing students’ knowledge, understanding and skills in listening, reading, viewing, speaking, writing and creating. Learning in English is recursive and cumulative, building on concepts, skills and processes developed in earlier years.
 
@@ -14,13 +14,13 @@ Literary texts that support and extend students in Year 6 as independent readers
 
 Year 6 students create a range of imaginative, informative and persuasive types of texts that may include narratives, procedures, performances, reports, reviews, poetry, expositions, explanations and discussions for particular purposes and audiences.
 
-## Strands
+## Strands {#strands}
 
-### Language
+### Language {#language}
 
-#### Language for interacting with others
+#### Language for interacting with others {#language-for-interacting-with-others}
 
-##### AC9E6LA01
+##### AC9E6LA01 {#ac9e6la01}
 
 understand that language varies as levels of formality and social distance increase
 
@@ -29,7 +29,7 @@ understand that language varies as levels of formality and social distance incre
 *  discussing levels of language such as slang, colloquial, conversational and formal, and how their appropriateness changes with the situation and audience
 *  presenting ideas and opinions at levels of formality appropriate to the context and audience
 
-##### AC9E6LA02
+##### AC9E6LA02 {#ac9e6la02}
 
 understand the uses of objective and subjective language, and identify bias
 
@@ -38,9 +38,9 @@ understand the uses of objective and subjective language, and identify bias
 *  understanding when to share feelings and opinions; for example, in a personal recount, and when to remain more objective; for example, in a factual recount
 *  differentiating between reporting the facts; for example, in a factual recount or unedited photograph, and providing a commentary; for example, in an editorial
 
-#### Text structure and organisation
+#### Text structure and organisation {#text-structure-and-organisation}
 
-##### AC9E6LA03
+##### AC9E6LA03 {#ac9e6la03}
 
 explain how texts across the curriculum are typically organised into characteristic stages and phases depending on purposes, recognising how authors often adapt text structures and language features
 
@@ -50,7 +50,7 @@ explain how texts across the curriculum are typically organised into characteris
 *  recognising that texts are organised into stages such as an introduction and that introductions may be divided into phases; for example, the introduction stage of a narrative may begin with a phase that is a “hook” or a flashback
 *  explaining the characteristic stages and phases in reviews, discussions of alternative positions or historical recounts and identifying any adaptations of typical structures or language features
 
-##### AC9E6LA04
+##### AC9E6LA04 {#ac9e6la04}
 
 understand that cohesion can be created by the intentional use of repetition, and the use of word associations
 
@@ -58,9 +58,9 @@ understand that cohesion can be created by the intentional use of repetition, an
 *  noting how a general word is often used for a more specific word already mentioned (word association); for example, “Look at those apples. Granny Smiths are my favourite.”
 *  recognising how cohesion can be developed through repeating key words or by using synonyms or antonyms
 
-#### Language for expressing and developing ideas
+#### Language for expressing and developing ideas {#language-for-expressing-and-developing-ideas}
 
-##### AC9E6LA05
+##### AC9E6LA05 {#ac9e6la05}
 
 understand how embedded clauses can expand the variety of complex sentences to elaborate, extend and explain ideas
 
@@ -68,7 +68,7 @@ understand how embedded clauses can expand the variety of complex sentences to e
 *  investigating how the choice of conjunctions enables the construction of complex sentences to extend, to elaborate on and to explain ideas; for example, “The town that was flooded suffered extensive damage.”
 *  creating complex sentences with embedded clauses to expand noun groups; for example, “Hamish studied the rock samples that he had collected on the excursion.”
 
-##### AC9E6LA06
+##### AC9E6LA06 {#ac9e6la06}
 
 understand how ideas can be expanded and sharpened through careful choice of verbs, elaborated tenses and a range of adverb groups
 
@@ -77,7 +77,7 @@ understand how ideas can be expanded and sharpened through careful choice of ver
 *  knowing that there are various ways in English to refer to future time: using the auxiliary “will”; for example, “She will call you tomorrow.”, using the present tense; for example, “Tomorrow, I leave for Hobart.” and using adverbials of time; for example, “She arrives in the morning.”
 *  using precise verbs; for example, “slice”, “dice”, “fillet” and “segment” rather than general words; for example, “cut”
 
-##### AC9E6LA07
+##### AC9E6LA07 {#ac9e6la07}
 
 identify and explain how images, figures, tables, diagrams, maps and graphs contribute to meaning
 
@@ -86,7 +86,7 @@ identify and explain how images, figures, tables, diagrams, maps and graphs cont
 *  observing how concepts, information and relationships can be represented visually through tables, maps, graphs and diagrams
 *  understanding that images and maps may be sensitive for First Nations Australians and ensuring that a disclaimer is applied or judgement is used about cultural appropriateness and sensitivities
 
-##### AC9E6LA08
+##### AC9E6LA08 {#ac9e6la08}
 
 identify authors’ use of vivid, emotive vocabulary, such as metaphors, similes, personification, idioms, imagery and hyperbole
 
@@ -95,7 +95,7 @@ identify authors’ use of vivid, emotive vocabulary, such as metaphors, similes
 *  identifying authors’ use of vivid and emotive vocabulary in persuasive texts; for example, the vocabulary used in reviews
 *  discussing texts, using vocabulary to name text structure, literary devices and language features; for example, using words that name the literary device used in a poem
 
-##### AC9E6LA09
+##### AC9E6LA09 {#ac9e6la09}
 
 understand how to use the comma for lists, to separate a dependent clause from an independent clause, and in dialogue
 
@@ -103,11 +103,11 @@ understand how to use the comma for lists, to separate a dependent clause from a
 *  identifying different uses of commas such as commas and conjunctions between independent clauses in compound sentences
 *  using commas in dialogue; for example, Ben said, "I want pie, peas, carrots and chips for dinner, followed by ice cream for dessert, please."
 
-### Literature
+### Literature {#literature}
 
-#### Literature and contexts
+#### Literature and contexts {#literature-and-contexts}
 
-##### AC9E6LE01
+##### AC9E6LE01 {#ac9e6le01}
 
 identify responses to characters and events in literary texts, drawn from historical, social or cultural contexts, by First Nations Australian, and wide-ranging Australian and world authors
 
@@ -116,9 +116,9 @@ identify responses to characters and events in literary texts, drawn from histor
 *  sharing responses about how heroes are portrayed in science fiction or fantasy and more realistic settings
 *  exploring reviews of Australian films
 
-#### Engaging with and responding to literature
+#### Engaging with and responding to literature {#engaging-with-and-responding-to-literature}
 
-##### AC9E6LE02
+##### AC9E6LE02 {#ac9e6le02}
 
 identify similarities and differences in literary texts on similar topics, themes or plots
 
@@ -126,9 +126,9 @@ identify similarities and differences in literary texts on similar topics, theme
 *  exploring texts on a similar topic by authors with very different styles; for example, comparing fantasy quest novels or realistic novels on a specific theme
 *  identifying differences in the use of narrator, narrative structure and voice, and language and visual features, between texts and determining how these influence readers or viewers
 
-#### Examining literature
+#### Examining literature {#examining-literature}
 
-##### AC9E6LE03
+##### AC9E6LE03 {#ac9e6le03}
 
 identify and explain characteristics that define an author's individual style
 
@@ -137,7 +137,7 @@ identify and explain characteristics that define an author's individual style
 *  focusing on a First Nations Australian author and identifying characteristic elements of their writing; for example, images, theme and language
 *  comparing similarities and differences between texts, including those by the same author or illustrator, and identifying the characteristics that define an author’s style; for example, comparing illustrations in picture books by the same illustrator, noting characteristic features
 
-##### AC9E6LE04
+##### AC9E6LE04 {#ac9e6le04}
 
 explain the way authors use sound and imagery to create meaning and effect in poetry
 
@@ -147,9 +147,9 @@ explain the way authors use sound and imagery to create meaning and effect in po
 *  describing the effects of assonance, alliteration and onomatopoeia in a poem
 *  explaining the effect of rhythm in ballads
 
-#### Creating literature
+#### Creating literature {#creating-literature}
 
-##### AC9E6LE05
+##### AC9E6LE05 {#ac9e6le05}
 
 create and edit literary texts that adapt plot structure, characters, settings and/or ideas from texts students have experienced, and experiment with literary devices
 
@@ -158,11 +158,11 @@ create and edit literary texts that adapt plot structure, characters, settings a
 *  creating an autobiography of a character from a text explored
 *  discussing the setting in a literary text with a peer during the editing process, and experimenting with literary devices that may enhance the setting
 
-### Literacy
+### Literacy {#literacy}
 
-#### Texts in context
+#### Texts in context {#texts-in-context}
 
-##### AC9E6LY01
+##### AC9E6LY01 {#ac9e6ly01}
 
 examine texts including media texts that represent ideas and events, and identify how they reflect the context in which they were created
 
@@ -171,9 +171,9 @@ examine texts including media texts that represent ideas and events, and identif
 *  comparing advertising posters for animated children's films in different countries and explaining the impact of these choices on audience expectations of the film
 *  identifying how advertisements for the same products reflect the context in which they were created
 
-#### Interacting with others
+#### Interacting with others {#interacting-with-others}
 
-##### AC9E6LY02
+##### AC9E6LY02 {#ac9e6ly02}
 
 use interaction skills and awareness of formality when paraphrasing, questioning, clarifying and interrogating ideas, developing and supporting arguments, and sharing and evaluating information, experiences and opinions
 
@@ -182,7 +182,7 @@ use interaction skills and awareness of formality when paraphrasing, questioning
 *  using strategies; for example, pausing, questioning, rephrasing, repeating, summarising, reviewing and asking clarifying questions when discussing topics
 *  recognising that closed questions ask for precise responses while open questions prompt a speaker to provide more information
 
-## Achievement Standards
+## Achievement Standards {#achievement-standards}
 
 By the end of Year 6, students interact with others, and listen to and create spoken and/or multimodal texts including literary texts. For particular purposes and audiences, they share, develop, explain and elaborate on ideas from topics or texts. They use and vary text structures to organise, develop and link ideas. They use and vary language features including topic-specific vocabulary and literary devices, and/or multimodal features and features of voice.
 

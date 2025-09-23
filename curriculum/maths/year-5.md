@@ -1,6 +1,6 @@
-# Mathematics - Year 5
+# Mathematics - Year 5 {#mathematics-year-5}
 
-## Level Description
+## Level Description {#level-description}
 
 In Year 5, learning in Mathematics builds on each student’s prior learning and experiences. Students engage in a range of approaches to learning and doing mathematics that develop their understanding of and fluency with concepts, procedures and processes by making connections, reasoning, problem-solving and practice. Proficiency in mathematics enables students to respond to familiar and unfamiliar situations by employing mathematical strategies to make informed decisions and solve problems efficiently.
 
@@ -17,11 +17,11 @@ Students further develop proficiency and positive dispositions towards mathemati
 *   plan, conduct and report findings from statistical investigations that involve an increasing range of types of data and means for representing data
 *   develop their reasoning skills when they consider relationships between events and connect long-term frequency over many trials to the likelihood of an event occurring.
 
-## Strands
+## Strands {#strands}
 
-### Number
+### Number {#number}
 
-##### AC9M5N01
+##### AC9M5N01 {#ac9m5n01}
 
 interpret, compare and order numbers with more than 2 decimal places, including numbers greater than one, using place value understanding; represent these on a number line
 
@@ -32,7 +32,7 @@ interpret, compare and order numbers with more than 2 decimal places, including 
 *  interpreting and comparing the digits in decimal measures; for example, the length or mass of animals or plants, such as a baby echidna weighing \(1.78\) kilograms and a platypus weighing \(1.708\) kilograms
 *  interpreting plans or diagrams showing length measures as decimals, placing the numbers into a decimal place value chart to connect the digits to their value
 
-##### AC9M5N02
+##### AC9M5N02 {#ac9m5n02}
 
 express natural numbers as products of their factors, recognise multiples and determine if one number is divisible by another
 
@@ -42,7 +42,7 @@ express natural numbers as products of their factors, recognise multiples and de
 *  using divisibility tests to determine if larger numbers are multiples of one-digit numbers; for example, testing if \(89\) \(472\) is divisible by \(3\) using \(8 + 9 + 4 + 7 + 2=30\) as \(30\) is divisible by \(3\) then \(89\) \(472\) is a multiple of \(3\)
 *  demonstrating and reasoning that all multiples can be formed by combining or regrouping; for example, multiples of \(7\) can be formed by combining a multiple of \(2\) with the corresponding multiple of \(5\); \(3 \times 7 = 3 \times 2 + 3 \times 5\), and \(4 \times 7 = 4 \times 2 + 4 \times 5\)
 
-##### AC9M5N03
+##### AC9M5N03 {#ac9m5n03}
 
 compare and order fractions with the same and related denominators including mixed numerals, applying knowledge of factors and multiples; represent these fractions on a number line
 
@@ -53,7 +53,7 @@ compare and order fractions with the same and related denominators including mix
 *  using an understanding of factors and multiples as well as equivalence to recognise efficient methods for the location of fractions with related denominators on parallel number lines; for example, explaining on parallel number lines that \(\frac2{10}\) is located at the same position on a parallel number line as \(\frac15\) because \(\frac15\) is equivalent to \(\frac2{10}\)
 *  converting between mixed numerals and improper fractions to assist with locating them on a number line
 
-##### AC9M5N04
+##### AC9M5N04 {#ac9m5n04}
 
 recognise that 100% represents the complete whole and use percentages to describe, represent and compare relative size; connect familiar percentages to their decimal and fraction equivalents
 
@@ -63,7 +63,7 @@ recognise that 100% represents the complete whole and use percentages to describ
 *  creating a model by subdividing a collection of materials, such as blocks or money, to connect decimals and percentage equivalents of tenths and commonly used fractions \(\frac12\), \(\frac14\) and \(\frac34\); for example, one-tenth or \(0.1\) represents \(10\)% and one half or \(0.5\) represents \(50\)%; recognising that \(60\)% is \(10\)% more than \(50\)%
 *  using physical and virtual materials to represent the relationship between decimal notation and percentages; for example, \(0.3\) is \(3\) out of every \(10\), which is \(30\) out of every \(100\), which is \(30\)%)
 
-##### AC9M5N05
+##### AC9M5N05 {#ac9m5n05}
 
 solve problems involving addition and subtraction of fractions with the same or related denominators, using different strategies
 
@@ -72,7 +72,7 @@ solve problems involving addition and subtraction of fractions with the same or 
 *  representing and solving addition and subtraction problems involving fractions by using jumps on a number line, bar models or making diagrams of fractions as parts of shapes
 *  using materials, diagrams, number lines or arrays to show and explain that fraction number sentences can be rewritten in equivalent forms without changing the quantity; for example, \(\frac12\) + \(\frac14\)  is the same as \(\frac24\) + \(\frac14\)
 
-##### AC9M5N06
+##### AC9M5N06 {#ac9m5n06}
 
 solve problems involving multiplication of larger numbers by one- or two-digit numbers, choosing efficient calculation strategies and using digital tools where appropriate; check the reasonableness of answers
 
@@ -82,7 +82,7 @@ solve problems involving multiplication of larger numbers by one- or two-digit n
 *  using an array to show place value partitioning to solve multiplication, such as \(324 \times 8\), thinking \(300 \times 8 = 2400, 20 \times 8 = 160, 4 \times 8 = 32\) then adding the parts, \(2400 + 160 + 32 = 2592\) ; connecting the parts of the array to a standard written algorithm
 *  using different strategies used to multiply numbers, explaining how they work and if they have any limitations; for example, discussing how the Japanese visual method for multiplication is not effective for multiplying larger numbers
 
-##### AC9M5N07
+##### AC9M5N07 {#ac9m5n07}
 
 solve problems involving division, choosing efficient strategies and using digital tools where appropriate; interpret any remainder according to the context and express results as a whole number, decimal or fraction
 
@@ -91,7 +91,7 @@ solve problems involving division, choosing efficient strategies and using digit
 *  solving division problems mentally like \(72\) divided by \(9, 72 ÷ 9\), by thinking, “how many \(9\)s make \(72\)”, ? \(\times 9 = 72\) or “share \(72\) equally \(9\) ways”
 *  using the fact that equivalent division calculations result if both numbers are divided by the same factor
 
-##### AC9M5N08
+##### AC9M5N08 {#ac9m5n08}
 
 check and explain the reasonableness of solutions to problems including financial contexts using estimation strategies appropriate to the context
 
@@ -100,7 +100,7 @@ check and explain the reasonableness of solutions to problems including financia
 *  recognising the effect of rounding addition, subtraction, multiplication and division calculations, rounding both numbers up, both numbers down, and one number up and one number down; explaining which estimation is the best approximation and why
 *  considering the type of rounding that is appropriate when estimating the amount of money required; for example, rounding up or rounding down when buying one item from a store using cash, compared to rounding up the cost of every item when buying groceries to estimate the total cost and not rounding when the financial transactions are digital
 
-##### AC9M5N09
+##### AC9M5N09 {#ac9m5n09}
 
 use mathematical modelling to solve practical problems involving additive and multiplicative situations including financial contexts; formulate the problems, choosing operations and efficient calculation strategies, using digital tools where appropriate; interpret and communicate solutions in terms of the situation
 
@@ -110,7 +110,7 @@ use mathematical modelling to solve practical problems involving additive and mu
 *  modelling financial situations such as creating financial plans; for example, creating a budget for a class fundraising event, using a spreadsheet to tabulate data and perform calculations
 *  investigating how mathematical models involving combinations of operations can be used to represent songs, stories and/or dances of First Nations Australians
 
-##### AC9M5N010
+##### AC9M5N010 {#ac9m5n010}
 
 create and use algorithms involving a sequence of steps and decisions and digital tools to experiment with factors, multiples and divisibility; identify, interpret and describe emerging patterns
 
@@ -119,9 +119,9 @@ create and use algorithms involving a sequence of steps and decisions and digita
 *  identifying lowest common multiples and highest common factors of pairs or triples of natural numbers; for example, the lowest common multiple of {\(6, 9\)} is \(18\), and the highest common factor is \(3\); the lowest common multiple of {\(3, 4, 5\)} is \(60\) and the highest common factor is one
 *  using the “fill down” function of a spreadsheet and a multiplication formula to generate a sequence of numbers that represent the multiples of any number you enter into the cell; describing and explaining the emerging patterns
 
-### Algebra
+### Algebra {#algebra}
 
-##### AC9M5A01
+##### AC9M5A01 {#ac9m5a01}
 
 recognise and explain the connection between multiplication and division as inverse operations and use this to develop families of number facts
 
@@ -131,7 +131,7 @@ recognise and explain the connection between multiplication and division as inve
 *  demonstrating multiplicative partitioning using materials, diagrams or arrays and recording \(2\) multiplication and \(2\) division facts for each grouping; \(4 \times 6 = 24\), \(6 \times 4 = 24\), \(24 ÷ 4 = 6\) and \(24 ÷ 6 = 4\); explaining how each is different from and connected to groups in the materials, diagrams or arrays
 *  using materials, diagrams or arrays to recognise and explain the inverse relationship between multiplication and division; for example, solving \(240 ÷ 20 = \square\) by thinking \(20\times\square = 240\); using the inverse to make calculations easier; for example, solving \(17\times\square= 221\) using division, \(\square = 221 ÷ 17\)
 
-##### AC9M5A02
+##### AC9M5A02 {#ac9m5a02}
 
 find unknown values in numerical equations involving multiplication and division using the properties of numbers and operations
 
@@ -142,9 +142,9 @@ find unknown values in numerical equations involving multiplication and division
 *  using materials, diagrams or arrays to recognise and explain the distributive property; for example, where \(4 \times 13 = 4 \times 10 + 4 \times 3\)
 *  constructing equivalent number sentences involving multiplication to form a numerical equation, and applying knowledge of factors, multiples and the associative property to find unknown values in numerical equations; for example, considering \(3 \times 4 = 12\) and knowing \(2 \times 2 = 4\) then \(3 \times 4\) can be written as \(3\times\) (\(2 \times 2\)) and using the associative property (\(3 \times 2) \times 2\) so \(3 \times 4 = 6 \times 2\) and so \(6\) is the solution to \(3 \times 4 = \square\times 2\)
 
-### Measurement
+### Measurement {#measurement}
 
-##### AC9M5M01
+##### AC9M5M01 {#ac9m5m01}
 
 choose appropriate metric units when measuring the length, mass and capacity of objects; use smaller units or a combination of units to obtain a more accurate measure
 
@@ -155,7 +155,7 @@ choose appropriate metric units when measuring the length, mass and capacity of 
 *  measuring and comparing distances, such as jumps or throws using a metre length of string; for example, then measuring the part metre with centimetres and/or millimetres; explaining which unit of measure is most accurate
 *  researching how the base units are derived for the International System of Units (SI), commonly known as the metric system of units, recognising that the metric unit names for the attributes, length and mass are international standards for measurement
 
-##### AC9M5M02
+##### AC9M5M02 {#ac9m5m02}
 
 solve practical problems involving the perimeter and area of regular and irregular shapes using appropriate metric units
 
@@ -167,7 +167,7 @@ solve practical problems involving the perimeter and area of regular and irregul
 *  using a physical or a virtual “geoboard app” to recognise the relationship between area and perimeter and solve problems; for example, investigating what is the largest and what is the smallest area that has the same perimeter
 *  exploring the designs of fishing nets and dwellings of First Nations Australians, investigating the perimeter, area and purpose of the shapes within the designs
 
-##### AC9M5M03
+##### AC9M5M03 {#ac9m5m03}
 
 compare 12- and 24-hour time systems and solve practical problems involving the conversion between them
 
@@ -175,7 +175,7 @@ compare 12- and 24-hour time systems and solve practical problems involving the 
 *  using timetables written in \(24\)-hour time, such as flight schedules, to plan an overseas or interstate trip, converting between \(24\)- and \(12\)-hour time
 *  converting between the digital and analog representation of \(24\)-hour time, matching the same times represented in both systems; setting the time on an analog watch using a digital alarm clock
 
-##### AC9M5M04
+##### AC9M5M04 {#ac9m5m04}
 
 estimate, construct and measure angles in degrees, using appropriate tools including a protractor, and relate these measures to angle names
 
@@ -186,9 +186,9 @@ estimate, construct and measure angles in degrees, using appropriate tools inclu
 *  using a protractor to measure angles when creating a pattern or string design within a circle
 *  recognising the size of angles within shapes that do and do not tesselate, measuring the angles and using the sum of angles to explain why some shapes will tesselate and other shapes do not
 
-### Space
+### Space {#space}
 
-##### AC9M5SP01
+##### AC9M5SP01 {#ac9m5sp01}
 
 connect objects to their nets and build objects from their nets using spatial and geometric reasoning
 
@@ -198,7 +198,7 @@ connect objects to their nets and build objects from their nets using spatial an
 *  sketching nets for a range of prisms and pyramids considering the number, shape and placement of the faces, and test by cutting and folding
 *  investigating objects designed and developed by First Nations Australians, such as those used in fish traps and instructive toys, identifying the shape and relative position of each face to determine the net of the object
 
-##### AC9M5SP02
+##### AC9M5SP02 {#ac9m5sp02}
 
 construct a grid coordinate system that uses coordinates to locate positions within a space; use coordinates and directional language to describe position and movement
 
@@ -209,7 +209,7 @@ construct a grid coordinate system that uses coordinates to locate positions wit
 *  placing a coordinate grid over a contour line, drawing and listing the coordinates of each point in the picture, asking a peer to re-create the drawing using only the list of coordinates, and discussing the reasons for the potential similarities and differences between the \(2\) drawings
 *  investigating how autonomous vehicles use mapping, GPS systems, communication systems and path planning to navigate within a space
 
-##### AC9M5SP03
+##### AC9M5SP03 {#ac9m5sp03}
 
 describe and perform translations, reflections and rotations of shapes, using dynamic geometric software where appropriate; recognise what changes and what remains the same, and identify any symmetries
 
@@ -220,9 +220,9 @@ describe and perform translations, reflections and rotations of shapes, using dy
 *  challenging classmates to select a combination of transformations to move from an original image to the final image, noting the different combinations by using different colours to trace images
 *  investigating how animal tracks can be interpreted by First Nations Australians using the transformation of their shapes to help determine and understand animal behaviour
 
-### Statistics
+### Statistics {#statistics}
 
-##### AC9M5ST01
+##### AC9M5ST01 {#ac9m5st01}
 
 acquire, validate and represent data for nominal and ordinal categorical and discrete numerical variables, to address a question of interest or purpose using software including spreadsheets; discuss and report on data distributions in terms of highest frequency (mode) and shape, in the context of the data
 
@@ -235,7 +235,7 @@ acquire, validate and represent data for nominal and ordinal categorical and dis
 *  exploring how travel and online shopping websites and apps collect ordinal data from users to provide customer satisfaction and popularity ratings, and how they use recommendation algorithms to assist customers in travel planning or retail purchasing
 *  investigating data relating to Australia’s reconciliation process with First Nations Australians, posing questions, discussing and reporting on findings
 
-##### AC9M5ST02
+##### AC9M5ST02 {#ac9m5st02}
 
 interpret line graphs representing change over time; discuss the relationships that are represented and conclusions that can be made
 
@@ -246,7 +246,7 @@ interpret line graphs representing change over time; discuss the relationships t
 *  interpreting the data represented in a line graph making inferences; for example, reading line graphs that show the varying temperatures or UV rates over a period of a day and discussing when would be the best time to hold an outdoor assembly
 *  exploring how line graphs can be used to train AI systems to make predictions by providing historical data and showing trends
 
-##### AC9M5ST03
+##### AC9M5ST03 {#ac9m5st03}
 
 plan and conduct statistical investigations by posing questions or identifying a problem and collecting relevant data; choose appropriate displays and interpret the data; communicate findings within the context of the investigation
 
@@ -256,9 +256,9 @@ plan and conduct statistical investigations by posing questions or identifying a
 *  developing survey questions that are objective, without opinion and have a balanced set of answer choices without bias
 *  exploring First Nations Ranger Groups’ and other groups’ biodiversity detection techniques to care for Country/Place, posing investigative questions, collecting and interpreting related data to represent and communicate findings
 
-### Probability
+### Probability {#probability}
 
-##### AC9M5P01
+##### AC9M5P01 {#ac9m5p01}
 
 list the possible outcomes of chance experiments involving equally likely outcomes and compare to those which are not equally likely
 
@@ -271,7 +271,7 @@ list the possible outcomes of chance experiments involving equally likely outcom
 *  comparing the chance of a head or a tail when a coin is tossed, whether some numbers on a dice are more likely to be facing up when the dice is rolled, or the chance of getting a \(1, 2\) or \(3\) on a spinner with uneven regions for the numbers
 *  discussing supermarket promotions such as collecting stickers or objects and whether there is an equal chance of getting each of them
 
-##### AC9M5P02
+##### AC9M5P02 {#ac9m5p02}
 
 conduct repeated chance experiments including those with and without equally likely outcomes, observe and record the results; use frequency to compare outcomes and estimate their likelihoods
 
@@ -283,7 +283,7 @@ conduct repeated chance experiments including those with and without equally lik
 *  using spreadsheets to record the outcomes of an activity and calculate the total frequencies of different outcomes, representing these as a fraction; for example, using coloured balls in a bag, drawing one out at a time and recording the colour, replacing them in the bag after each draw
 *  investigating First Nations Australian children’s instructive games; for example, Diyari koolchee from the Diyari Peoples near Lake Eyre in South Australia, to conduct repeated trials and explore predictable patterns, using digital tools where appropriate
 
-## Achievement Standards
+## Achievement Standards {#achievement-standards}
 
 In Year 5, learning in Mathematics builds on each student’s prior learning and experiences. Students engage in a range of approaches to learning and doing mathematics that develop their understanding of and fluency with concepts, procedures and processes by making connections, reasoning, problem-solving and practice. Proficiency in mathematics enables students to respond to familiar and unfamiliar situations by employing mathematical strategies to make informed decisions and solve problems efficiently.
 

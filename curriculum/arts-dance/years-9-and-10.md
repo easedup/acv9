@@ -1,6 +1,6 @@
-# The Arts - Dance - Years 9 and 10
+# Dance - Years 9 and 10 {#dance-years-9-and-10}
 
-## Level Description
+## Level Description {#level-description}
 
 In this band, learning in Dance continues to build on each student’s prior learning and experiences as students develop their capability and confidence across the practices of Dance: choreography, performance and responding. They continue to use dance-specific processes in purposeful and creative ways that are informed by their engagement with the work of living choreographers and performers from across local, regional, national and global cultures, times, places and/or other contexts, such as countries or regions in Asia. This can include use of dance in multi-arts, trans-disciplinary or hybrid forms. This awareness of diverse dance practices, genres and/or styles informs their own work as choreographers and performers. They work collaboratively with peers and teachers.
 
@@ -19,11 +19,11 @@ In this band, the focus is on students:
 5.  creating work to communicate ideas and intentions using the elements of dance, choreographic devices and form. They use choreographic processes that are appropriate to the genre/style. As they develop and refine their work, students consider how they can employ technical and expressive skills to communicate ideas, perspectives and/or meaning in their work. Students may focus on choreographing in a range of dance styles and forms and/or they may choreograph dance for multi-arts, hybrid or trans-disciplinary works; for example, using immersive technologies
 6.  performing their work using technical and expressive skills and genre- or style-specific techniques to communicate their ideas and intentions to audiences; for example, in planned and rehearsed live or streamed performances.
 
-## Strands
+## Strands {#strands}
 
-### Exploring and responding
+### Exploring and responding {#exploring-and-responding}
 
-##### AC9ADA10E01
+##### AC9ADA10E01 {#ac9ada10e01}
 
 investigate performers’ and/or choreographers’ use of elements of dance, choreographic devices, genre- or style-specific techniques, conventions and/or production elements to communicate and/or challenge ideas, perspectives and/or meaning in dance across cultures, times, places and/or other contexts
 
@@ -34,7 +34,7 @@ investigate performers’ and/or choreographers’ use of elements of dance, cho
 *  extending their movement vocabulary as they explore their own stylistic preferences and personal identity; for example, using analysis of dance styles from a range of cultures they identify with or dance styles from different times to inform their choreographic practice
 *  analysing use of elements of dance in different genres/styles, such as styles that feature in popular culture or from a country or region in Asia, as a stimulus for choreography or to inform performance of a learnt work
 
-##### AC9ADA10E02
+##### AC9ADA10E02 {#ac9ada10e02}
 
 investigate the ways First Nations Australian choreographers and/or performers celebrate and challenge multiple perspectives of Australian identity through dance
 
@@ -43,9 +43,9 @@ investigate the ways First Nations Australian choreographers and/or performers 
 *  investigating dance works that challenge our understandings about “first contacts” between the First Nations Peoples of Australia and people from Britain or Europe
 *  exploring the ways that First Nations Australian choreographers and/or performers use their practice to communicate ideas, messages and lived experiences to the broader community
 
-### Developing practices and skills
+### Developing practices and skills {#developing-practices-and-skills}
 
-##### AC9ADA10D01
+##### AC9ADA10D01 {#ac9ada10d01}
 
 develop and refine safe dance practice, expressive and technical skills and genre- or style-specific techniques
 
@@ -54,7 +54,7 @@ develop and refine safe dance practice, expressive and technical skills and genr
 *  using experimentation and improvisation to develop techniques for executing expressive skills in a range of genres and/or styles
 *  practising and refining technical skills to develop proficiency in genre- and style-specific techniques
 
-##### AC9ADA10D02
+##### AC9ADA10D02 {#ac9ada10d02}
 
 reflect on own and others’ use of the elements of dance, choreographic devices, structure, genre- or style-specific techniques and/or technical and expressive skills to inform their choreographic or performance choices
 
@@ -65,9 +65,9 @@ reflect on own and others’ use of the elements of dance, choreographic devices
 *  improvising using the elements of dance and analysing movement choices to reflect their individuality and to clarify their choreographic intent
 *  considering how they can use the elements of dance and choreographic devices to reflect ways that meaning and experiences, political statements, critical theories or emotions influence and shape their approach to dance
 
-### Creating and making
+### Creating and making {#creating-and-making}
 
-##### AC9ADA10C01
+##### AC9ADA10C01 {#ac9ada10c01}
 
 choreograph dance that communicates ideas, perspectives and/or meaning by selecting and manipulating elements of dance, choreographic devices and/or structure
 
@@ -79,7 +79,7 @@ choreograph dance that communicates ideas, perspectives and/or meaning by select
 *  using motifs from a known dance as the starting point for their own choreography; for example, identifying and improvising on movements from a dance being shared via a social media platform to develop ideas that can be extended and structured into new work
 *  using a style-specific form such as a form associated with a culturally specific dance genre/style, to structure a dance
 
-##### AC9ADA10C02
+##### AC9ADA10C02 {#ac9ada10c02}
 
 apply technical and expressive skills and genre- or style-specific techniques to enhance communication of ideas, perspectives and/or meaning
 
@@ -88,9 +88,9 @@ apply technical and expressive skills and genre- or style-specific techniques to
 *  using observations/analysis of a dance in a selected genre/style to identify characteristic techniques, building ability to execute the technical and expressive skills using safe dance practice over time and applying it to enhance performance of dances
 *  seeking feedback on their choreography and performance; for example, using Viewpoints to frame questions such as “What emotion did you feel most strongly as you viewed the dance?” and using the feedback to refine use of technical and expressive skills
 
-### Presenting and performing
+### Presenting and performing {#presenting-and-performing}
 
-##### AC9ADA10P01
+##### AC9ADA10P01 {#ac9ada10p01}
 
 rehearse and perform dance for audiences, using technical and expressive skills and genre- or style-specific techniques
 
@@ -99,7 +99,7 @@ rehearse and perform dance for audiences, using technical and expressive skills 
 *  using rehearsal to build confidence that they can accurately and fluently maintain spatial placement during performance of a dance
 *  using available production elements such as music, costume and props to enhance communication of ideas, perspectives or meaning in a performance
 
-## Achievement Standards
+## Achievement Standards {#achievement-standards}
 
 In this band, learning in Dance continues to build on each student’s prior learning and experiences as students develop their capability and confidence across the practices of Dance: choreography, performance and responding. They continue to use dance-specific processes in purposeful and creative ways that are informed by their engagement with the work of living choreographers and performers from across local, regional, national and global cultures, times, places and/or other contexts, such as countries or regions in Asia. This can include use of dance in multi-arts, trans-disciplinary or hybrid forms. This awareness of diverse dance practices, genres and/or styles informs their own work as choreographers and performers. They work collaboratively with peers and teachers.
 

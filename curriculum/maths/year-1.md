@@ -1,6 +1,6 @@
-# Mathematics - Year 1
+# Mathematics - Year 1 {#mathematics-year-1}
 
-## Level Description
+## Level Description {#level-description}
 
 In Year 1, learning in Mathematics builds on each student’s prior learning and experiences. Students engage in a range of approaches to learning and doing mathematics that develop their understanding of and fluency with concepts, procedures and processes by making connections, reasoning, problem-solving and practice. Proficiency in mathematics enables students to respond to familiar and unfamiliar situations by employing mathematical strategies to make informed decisions and solve problems efficiently.
 
@@ -14,11 +14,11 @@ Students further develop proficiency and positive dispositions towards mathemati
 *   use simple surveys to collect and sort data, based on a question of interest, recognise that data can be represented in different ways, and explain patterns that they see in the results
 *   develop a sense of equivalence, fairness, repetition and variability when they engage in play-based and practical activities
 
-## Strands
+## Strands {#strands}
 
-### Number
+### Number {#number}
 
-##### AC9M1N01
+##### AC9M1N01 {#ac9m1n01}
 
 recognise, represent and order numbers to at least 120 using physical and virtual materials, numerals, number lines and charts
 
@@ -28,7 +28,7 @@ recognise, represent and order numbers to at least 120 using physical and virtua
 *  using hundreds charts to build understanding and fluency with numbers; for example, collaboratively building a hundreds chart using cards numbered from zero to \(99\); colour code the count of tens in a hundreds chart using one colour to represent the number of tens and another to represent the number of ones
 *  recognising that numbers are used in all languages and cultures but may be represented differently in words and symbols; for example, through kanji numbers in Japanese and characters in Chinese, and that there are alternate numeration systems; for example, using special characters for \(10\) and \(100\) and other multiples of \(10\) in Japanese and Chinese numeration
 
-##### AC9M1N02
+##### AC9M1N02 {#ac9m1n02}
 
 partition one- and two-digit numbers in different ways using physical and virtual materials, including partitioning two-digit numbers into tens and ones
 
@@ -37,7 +37,7 @@ partition one- and two-digit numbers in different ways using physical and virtua
 *  using physical and virtual materials to partition numbers into counts of tens and ones; for example, recognise \(35\) as \(3\) tens and \(5\) ones or as \(2\) tens and \(15\) ones
 *  using part-part-whole reasoning and physical or virtual materials to represent \(24\), then partitioning \(24\) in different ways and recording the partitions using numbers; for example, \(10, 10\) and \(4\) combine to make \(24\) or \(10\) and \(14\) combine to make \(24\)
 
-##### AC9M1N03
+##### AC9M1N03 {#ac9m1n03}
 
 quantify sets of objects, to at least 120, by partitioning collections into equal groups using number knowledge and skip counting
 
@@ -46,7 +46,7 @@ quantify sets of objects, to at least 120, by partitioning collections into equa
 *  counting collections of objects such as pencils or images of birds in a tree, by grouping them in tens to enable efficient counting and connecting the digits in the number to the groups of tens and ones
 *  counting a large collection of Australian \(\$1\) coins by stacking them into piles of \(10\), skip counting in tens and including any leftover coins to determine the total value
 
-##### AC9M1N04
+##### AC9M1N04 {#ac9m1n04}
 
 add and subtract numbers within 20, using physical and virtual materials, part-part-whole knowledge to 10 and a variety of calculation strategies
 
@@ -57,7 +57,7 @@ add and subtract numbers within 20, using physical and virtual materials, part-p
 *  representing story problems involving addition and subtraction of numbers within \(20\) using a Think Board, recognising and using  + and – symbols and the equal sign to represent the operations of addition and subtraction; showing and explaining the connections between any materials used using the language of plus and minus, and the numbers within the story problem
 *  creating and performing addition and subtraction stories told through First Nations Australians’ dances  
 
-##### AC9M1N05
+##### AC9M1N05 {#ac9m1n05}
 
 use mathematical modelling to solve practical problems involving additive situations including simple money transactions; represent the situations with diagrams, physical and virtual materials, and use calculation strategies to solve the problem
 
@@ -66,7 +66,7 @@ use mathematical modelling to solve practical problems involving additive situat
 *  modelling simple money problems involving addition and subtraction using whole dollar amounts; for example, setting up a shop and role-playing practical problems of buying and selling of goods, using addition and subtraction with play money and prices in whole dollar amounts; solving the problem “I had \(\$14\) and was given \(\$15\) for my birthday” using addition to answer the problem
 *  modelling a variety of different additive situations to solve practical problems; for example, keeping track of the number of people on a bus as it stops to pick up and drop off passengers or the number of people entering a lift
 
-##### AC9M1N06
+##### AC9M1N06 {#ac9m1n06}
 
 use mathematical modelling to solve practical problems involving equal sharing and grouping; represent the situations with diagrams, physical and virtual materials, and use calculation strategies to solve the problem
 
@@ -75,9 +75,9 @@ use mathematical modelling to solve practical problems involving equal sharing a
 *  modelling practical problems involving equal sharing situations; for example, sharing a set of dominoes between the \(2\) players in a game, and then counting or subitising to ensure they both have the same number of tiles
 *  modelling money problems involving equal sharing; for example, sorting coins from a money box according to their denominations, sharing the coins equally between \(4\) people, and using counting or subitising to ensure they have equal amounts of each denomination
 
-### Algebra
+### Algebra {#algebra}
 
-##### AC9M1A01
+##### AC9M1A01 {#ac9m1a01}
 
 recognise, continue and create pattern sequences, with numbers, symbols, shapes and objects, formed by skip counting, initially by twos, fives and tens
 
@@ -89,7 +89,7 @@ recognise, continue and create pattern sequences, with numbers, symbols, shapes 
 *  role-playing being an industrial robot on an assembly line that packs various items into boxes or packets in groups of five or ten, keeping count of the total number of items produced
 *  <p>using different variations of the popular Korean counting game <em>Sam-yuk-gu</em> for generating skip counting pattern sequences</p>
 
-##### AC9M1A02
+##### AC9M1A02 {#ac9m1a02}
 
 recognise, continue and create repeating patterns with numbers, symbols, shapes and objects, identifying the repeating unit
 
@@ -101,9 +101,9 @@ recognise, continue and create repeating patterns with numbers, symbols, shapes 
 *  identifying the repeating patterns in First Nations Australians’ systems of counting, exploring different ways of representing numbers including oral and gestural language
 *  considering how the making of shell or seed necklaces by First Nations Australians’ includes practices such as sorting shells and beads based on colour, size and shape, and creating a repeating pattern sequence
 
-### Measurement
+### Measurement {#measurement}
 
-##### AC9M1M01
+##### AC9M1M01 {#ac9m1m01}
 
 compare directly and indirectly and order objects and events using attributes of length, mass, capacity and duration, communicating reasoning
 
@@ -114,7 +114,7 @@ compare directly and indirectly and order objects and events using attributes of
 *  creating sand timers from everyday items or recycled material and comparing them to order the duration of time required for the sand to run through
 *  investigating situations where First Nations Australians estimate, compare and communicate measurements; for example, the duration of seasons; understanding animal behaviour using the length of animal tracks; investigating capacity through water management techniques of First Nations Australians, such as traditional water carrying vessels and rock holes
 
-##### AC9M1M02
+##### AC9M1M02 {#ac9m1m02}
 
 measure the length of shapes and objects using informal units, recognising that units need to be uniform and used end-to-end
 
@@ -124,7 +124,7 @@ measure the length of shapes and objects using informal units, recognising that 
 *  measuring the distance between \(2\) locations using footsteps, comparing the results and explaining why there may be different results; for example, referring to the different length of footsteps as using different units
 *  measuring and comparing the length of objects using blocks; for example, comparing the height of \(2\) toys by stacking blocks one on top of the other and counting how many it takes to reach the height of each object to decide which is taller
 
-##### AC9M1M03
+##### AC9M1M03 {#ac9m1m03}
 
 describe the duration and sequence of events using years, months, weeks, days and hours
 
@@ -135,9 +135,9 @@ describe the duration and sequence of events using years, months, weeks, days an
 *  discussing events and activities and deciding whether they would take closer to an hour, a day, a week, a month or a year; for example, it takes a day for the sun to rise and fall and rise again, but it takes less than an hour for me to walk to school
 *  investigating durations of time represented in First Nations Australians’ seasonal calendars
 
-### Space
+### Space {#space}
 
-##### AC9M1SP01
+##### AC9M1SP01 {#ac9m1sp01}
 
 make, compare and classify familiar shapes; recognise familiar shapes and objects in the environment, identifying the similarities and differences between them
 
@@ -147,7 +147,7 @@ make, compare and classify familiar shapes; recognise familiar shapes and object
 *  comparing the different objects that can be built out of the same number of blocks or centi-cubes and discussing the differences between them
 *  exploring string games used in story telling by First Nations Australians; for example, Karda from the Yandruwandha Peoples of north-east South Australia, recognising, comparing, describing and classifying the shapes made by the string and their relationship to shapes and objects on Country/Place
 
-##### AC9M1SP02
+##### AC9M1SP02 {#ac9m1sp02}
 
 give and follow directions to move people and objects to different locations within a space
 
@@ -157,9 +157,9 @@ give and follow directions to move people and objects to different locations wit
 *  following directions to move people into different positions within a line using both ordinal and positional language to describe their position; for example, directly comparing heights and following directions using ordinal and positional language to line up in height order
 *  describing a familiar journey across Country/Place using directional language
 
-### Statistics
+### Statistics {#statistics}
 
-##### AC9M1ST01
+##### AC9M1ST01 {#ac9m1st01}
 
 acquire and record data for categorical variables in various ways including using digital tools, objects, images, drawings, lists, tally marks and symbols
 
@@ -171,7 +171,7 @@ acquire and record data for categorical variables in various ways including usin
 *  role-playing being a chatbot asking simple yes/no questions and collecting data, and representing the data using virtual manipulatives, stickers or emojis
 *  exploring ways of representing, sharing and communicating data through stories and symbols used by First Nations Australians
 
-##### AC9M1ST02
+##### AC9M1ST02 {#ac9m1st02}
 
 represent collected data for a categorical variable using one-to-one displays and digital tools where appropriate; compare the data using frequencies and discuss the findings
 
@@ -183,7 +183,7 @@ represent collected data for a categorical variable using one-to-one displays an
 *  discussing what data frequency means in terms of the total count for a particular category and relating the highest frequency to being the most popular category in the collected data
 *  exploring First Nations Australian children’s instructive games; for example, Kolap from Mer Island in the Torres Strait region, recording the outcomes, representing and discussing the results
 
-## Achievement Standards
+## Achievement Standards {#achievement-standards}
 
 In Year 1, learning in Mathematics builds on each student’s prior learning and experiences. Students engage in a range of approaches to learning and doing mathematics that develop their understanding of and fluency with concepts, procedures and processes by making connections, reasoning, problem-solving and practice. Proficiency in mathematics enables students to respond to familiar and unfamiliar situations by employing mathematical strategies to make informed decisions and solve problems efficiently.
 

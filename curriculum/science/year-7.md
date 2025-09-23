@@ -1,6 +1,6 @@
-# Science - Year 7
+# Science - Year 7 {#science-year-7}
 
-## Level Description
+## Level Description {#level-description}
 
 In Year 7 students explore the diversity of life on Earth and continue to develop their understanding of the role of classification in ordering and organising information. They use and develop models to represent and analyse the flow of energy and matter through ecosystems and explore the impact of changing components within these systems. They investigate relationships in the Earth-sun-moon system and use models to predict and explain events. They extend their understanding of the particulate nature of matter and explore how interactions of matter and energy at the sub-microscopic scale determine macroscopic properties. They consider the effects of multiple forces when explaining changes in an object’s motion. Students make accurate measurements and analyse relationships between system components. They construct and use models to test hypotheses about phenomena at scales that are difficult to study directly and use these observations and other evidence to draw conclusions. They begin to understand the relationship between science and society and appreciate the need for ethical and cultural considerations when acquiring data.
 
@@ -12,13 +12,13 @@ Inquiry questions can help excite students’ curiosity and challenge their thin
 *   Why is being able to separate mixtures important?
 *   How have systems of classification changed over time? How do they differ across cultures?
 
-## Strands
+## Strands {#strands}
 
-### Science understanding
+### Science understanding {#science-understanding}
 
-#### Biological sciences
+#### Biological sciences {#biological-sciences}
 
-##### AC9S7U01
+##### AC9S7U01 {#ac9s7u01}
 
 investigate the role of classification in ordering and organising the diversity of life on Earth and use and develop classification tools including dichotomous keys
 
@@ -31,7 +31,7 @@ investigate the role of classification in ordering and organising the diversity 
 *  using provided dichotomous keys to identify organisms surveyed on a field trip
 *  investigating First Nations Australians’ systems of classifying living things and how these systems differ from those used by contemporary science
 
-##### AC9S7U02
+##### AC9S7U02 {#ac9s7u02}
 
 use models, including food webs, to represent matter and energy flow in ecosystems and predict the impact of changing abiotic and biotic factors on populations
 
@@ -43,9 +43,9 @@ use models, including food webs, to represent matter and energy flow in ecosyste
 *  investigating First Nations Australians’ responses to invasive species and their effect on food webs that many communities are a part of, and depend on, for produce and medicine
 *  considering how First Nations Australians’ fire management practices over tens of thousands of years have changed the distribution of flora and fauna in most regions of Australia
 
-#### Earth and space sciences
+#### Earth and space sciences {#earth-and-space-sciences}
 
-##### AC9S7U03
+##### AC9S7U03 {#ac9s7u03}
 
 model cyclic changes in the relative positions of the Earth, sun and moon and explain how these cycles cause eclipses and influence predictable phenomena on Earth, including seasons and tides
 
@@ -57,9 +57,9 @@ model cyclic changes in the relative positions of the Earth, sun and moon and ex
 *  investigating First Nations Australians’ calendars and how they are used to predict seasonal changes
 *  researching First Nations Australians’ oral traditions and cultural recordings of solar and lunar eclipses and investigating similarities and differences with contemporary understandings of such phenomena
 
-#### Physical sciences
+#### Physical sciences {#physical-sciences}
 
-##### AC9S7U04
+##### AC9S7U04 {#ac9s7u04}
 
 investigate and represent balanced and unbalanced forces, including gravitational force, acting on objects, and relate changes in an object’s motion to its mass and the magnitude and direction of forces acting on it
 
@@ -73,9 +73,9 @@ investigate and represent balanced and unbalanced forces, including gravitationa
 *  analysing the forces acting on boomerangs and how early First Peoples of Australia designed an air foil profile which allowed for multiple variations and applications
 *  investigating the effect of forces through the application of simple machines, such as the bow and arrows used by Torres Strait Islander Peoples or the spearthrowers used by First Peoples of Australia
 
-#### Chemical sciences
+#### Chemical sciences {#chemical-sciences}
 
-##### AC9S7U05
+##### AC9S7U05 {#ac9s7u05}
 
 use particle theory to describe the arrangement of particles in a substance, including the motion of and attraction between particles, and relate this to the properties of the substance
 
@@ -88,7 +88,7 @@ use particle theory to describe the arrangement of particles in a substance, inc
 *  investigating properties of materials such as density, melting point and compressibility and explaining these in terms of particle arrangement
 *  explaining the process of diffusion in a liquid and a gas in terms of particles
 
-##### AC9S7U06
+##### AC9S7U06 {#ac9s7u06}
 
 use a particle model to describe differences between pure substances and mixtures and apply understanding of properties of substances to separate mixtures
 
@@ -100,11 +100,11 @@ use a particle model to describe differences between pure substances and mixture
 *  analysing how the physical properties of substances in mixtures, such as particle size, density or volatility, determine the separation technique used
 *  investigating separation techniques used by First Nations Australians, such as hand-picking, sieving, winnowing, yandying, filtering, cold-pressing and steam distilling
 
-### Science as a human endeavour
+### Science as a human endeavour {#science-as-a-human-endeavour}
 
-#### Nature and development of science
+#### Nature and development of science {#nature-and-development-of-science}
 
-##### AC9S7H01
+##### AC9S7H01 {#ac9s7h01}
 
 explain how new evidence or different perspectives can lead to changes in scientific knowledge
 
@@ -115,7 +115,7 @@ explain how new evidence or different perspectives can lead to changes in scient
 *  researching developments in the understanding of astronomy, such as the predictions of eclipses and the calculation of the length of the solar year by Abu Abdallah Mohammad ibn Jabir ibn Sinan al-Raqqi al-Harrani al-Sabi al-Battani in the 10th century
 *  investigating how aeronautical engineers’ understanding of the nature of the forces acting in flight have led to changes in the design of aircraft
 
-##### AC9S7H02
+##### AC9S7H02 {#ac9s7h02}
 
 investigate how cultural perspectives and world views influence the development of scientific knowledge
 
@@ -127,9 +127,9 @@ investigate how cultural perspectives and world views influence the development 
 *  exploring the work of Wang Zhenyi, an acclaimed female scholar of 18th-century China, including her experiments in studying lunar eclipses
 *  exploring how David Unaipon, a Ngarrindjeri man from Coorong region of South Australia, used his cultural knowledge and understanding of the aerodynamic properties of boomerangs to conceptualise a ‘vertical lift flying machine’ in 1914
 
-#### Use and influence of science
+#### Use and influence of science {#use-and-influence-of-science}
 
-##### AC9S7H03
+##### AC9S7H03 {#ac9s7h03}
 
 examine how proposed scientific responses to contemporary issues may impact on society and explore ethical, environmental, social and economic considerations
 
@@ -142,7 +142,7 @@ examine how proposed scientific responses to contemporary issues may impact on s
 *  discussing how scientific knowledge of the forces involved in flight has led to changes in aircraft design and any ethical, environmental, social and economic considerations of these changes
 *  researching how properties of gases were utilised in the gas warfare in the First World War and the subsequent development of the Geneva Protocol and the later adoption of the Chemical Weapons Convention international arms control treaty
 
-##### AC9S7H04
+##### AC9S7H04 {#ac9s7h04}
 
 explore the role of science communication in informing individual viewpoints and community policies and regulations
 
@@ -154,11 +154,11 @@ explore the role of science communication in informing individual viewpoints and
 *  reflecting on the role of contemporary First Nations Australians astronomers and astrophysicists, such as Wiradjuri astrophysicist and science communicator Kirsten Banks, in promoting First Nations astronomy knowledges and understandings
 *  investigating how science communication of the impact of waste materials on the environment has led to the adoption of community policies for separating household waste and encouraged other recycling initiatives
 
-### Science inquiry
+### Science inquiry {#science-inquiry}
 
-#### Questioning and predicting
+#### Questioning and predicting {#questioning-and-predicting}
 
-##### AC9S7I01
+##### AC9S7I01 {#ac9s7i01}
 
 develop investigable questions, reasoned predictions and hypotheses to explore scientific models, identify patterns and test relationships
 
@@ -170,9 +170,9 @@ develop investigable questions, reasoned predictions and hypotheses to explore s
 *  discussing the relationship between a reasoned prediction and a hypothesis, identifying essential elements of a hypothesis and using a provided scaffold to develop hypotheses
 *  formulating hypotheses such as: ‘If the surface area of the parachute is decreased, the parachute will descend more quickly because there will be less air resistance’
 
-#### Planning and conducting
+#### Planning and conducting {#planning-and-conducting}
 
-##### AC9S7I02
+##### AC9S7I02 {#ac9s7i02}
 
 plan and conduct reproducible investigations to answer questions and test hypotheses, including identifying variables and assumptions and, as appropriate, recognising and managing risks, considering ethical issues and recognising key considerations regarding heritage sites and artefacts on Country/Place
 
@@ -187,7 +187,7 @@ plan and conduct reproducible investigations to answer questions and test hypoth
 *  collaborating with First Nations Australians communities and organisations to conduct investigations about ecosystems, ensuring mutually beneficial outcomes
 *  acknowledging and recognising First Nations Australians’ artefacts and heritage sites, such as human stonework and scatter sites in comparison with rocks changed by natural processes, and understanding not to harm or disturb sites
 
-##### AC9S7I03
+##### AC9S7I03 {#ac9s7i03}
 
 select and use equipment to generate and record data with precision, using digital tools as appropriate
 
@@ -198,9 +198,9 @@ select and use equipment to generate and record data with precision, using digit
 *  using appropriate standard units and performing simple unit conversions when recording data
 *  using digital tools such as sensors to measure abiotic factors and apps that use image or call recognition to make field identifications
 
-#### Processing, modelling and analysing
+#### Processing, modelling and analysing {#processing-modelling-and-analysing}
 
-##### AC9S7I04
+##### AC9S7I04 {#ac9s7i04}
 
 select and construct appropriate representations, including tables, graphs, models and mathematical relationships, to organise and process data and information
 
@@ -212,7 +212,7 @@ select and construct appropriate representations, including tables, graphs, mode
 *  distinguishing between discrete and continuous data and selecting appropriate data representations
 *  acknowledging, analysing and interpreting data and information from First Nations Australians’ astronomical observations
 
-##### AC9S7I05
+##### AC9S7I05 {#ac9s7i05}
 
 analyse data and information to describe patterns, trends and relationships and identify anomalies
 
@@ -223,9 +223,9 @@ analyse data and information to describe patterns, trends and relationships and 
 *  identifying anomalies in data and investigating their effect on observed patterns or relationships
 *  collaborating with First Nations Australians communities to create a calendar as a representation of seasonal patterns and relationships using digital tools
 
-#### Evaluating
+#### Evaluating {#evaluating}
 
-##### AC9S7I06
+##### AC9S7I06 {#ac9s7i06}
 
 analyse methods, conclusions and claims for assumptions, possible sources of error, conflicting evidence and unanswered questions
 
@@ -237,7 +237,7 @@ analyse methods, conclusions and claims for assumptions, possible sources of err
 *  identifying possible sources of error in the method used and describing how the method could be improved to remove these sources of error
 *  identifying the evidence being cited to support a claim and evaluating conflicting evidence
 
-##### AC9S7I07
+##### AC9S7I07 {#ac9s7i07}
 
 construct evidence-based arguments to support conclusions or evaluate claims and consider any ethical issues and cultural protocols associated with using or citing secondary data or information
 
@@ -248,9 +248,9 @@ construct evidence-based arguments to support conclusions or evaluate claims and
 *  investigating the cultural, historical and archaeological evidence used in the scientific debate about the role of early First Nations Australians in the extinction of Australian megafauna
 *  researching the development of commercial products that are founded on the traditional knowledges and practices of First Nations Australians and discussing related ethical considerations associated with biopiracy and intellectual property rights
 
-#### Communicating
+#### Communicating {#communicating}
 
-##### AC9S7I08
+##### AC9S7I08 {#ac9s7i08}
 
 write and create texts to communicate ideas, findings and arguments for specific purposes and audiences, including selection of appropriate language and text features, using digital tools as appropriate
 
@@ -262,7 +262,7 @@ write and create texts to communicate ideas, findings and arguments for specific
 *  creating an informative text for a younger audience to show how the tilt of Earth’s axis, rotation of Earth on that axis, and the revolution of Earth around the sun cause the seasons
 *  creating an animation that explains particle theory to a peer audience
 
-## Achievement Standards
+## Achievement Standards {#achievement-standards}
 
 By the end of Year 7 students explain how biological diversity is ordered and organised. They represent flows of matter and energy in ecosystems and predict the effects of environmental changes. They model cycles in the Earth-sun-moon system and explain the effects of these cycles on Earth phenomena. They represent and explain the effects of forces acting on objects. They use particle theory to explain the physical properties of substances and develop processes that separate mixtures. Students identify the factors that can influence development of and lead to changes in scientific knowledge. They explain how scientific responses are developed and can impact society. They explain the role of science communication in shaping viewpoints, policies and regulations.
 

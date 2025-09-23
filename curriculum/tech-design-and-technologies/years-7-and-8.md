@@ -1,6 +1,6 @@
-# Technologies - Design and Technologies - Years 7 and 8
+# Design and Technologies - Years 7 and 8 {#design-and-technologies-years-7-and-8}
 
-## Level Description
+## Level Description {#level-description}
 
 By the end of Year 8 students should have had the opportunity to create at least 3 types of designed solutions, and addressed each of the 4 technologies contexts:
 
@@ -17,13 +17,13 @@ Using a range of technologies including a variety of graphical representation te
 
 With greater autonomy, students identify the sequences and steps involved in design tasks. They develop plans to manage design tasks, including safe and responsible use of materials and tools, and apply their plans to successfully complete these tasks. Students establish safety procedures that minimise risk and manage a project with safety and efficiency when making designed solutions.
 
-## Strands
+## Strands {#strands}
 
-### Knowledge and understanding
+### Knowledge and understanding {#knowledge-and-understanding}
 
-#### Technologies and society
+#### Technologies and society {#technologies-and-society}
 
-##### AC9TDE8K01
+##### AC9TDE8K01 {#ac9tde8k01}
 
 analyse how people in design and technologies occupations consider ethical and sustainability factors to design and produce products, services and environments
 
@@ -34,7 +34,7 @@ analyse how people in design and technologies occupations consider ethical and s
 *  researching the rights and responsibilities of those working in design and technologies occupations, for example taking into account First Nations Australian protocols and Indigenous cultural and intellectual property rights
 *  analysing the ethical and social requirements when designing solutions for cultural groups including their involvement and consultation, for example designing a solution with community members from other cultural backgrounds or those who usually communicate in a language other than English
 
-##### AC9TDE8K02
+##### AC9TDE8K02 {#ac9tde8k02}
 
 analyse the impact of innovation and the development of technologies on designed solutions for global preferred futures
 
@@ -45,9 +45,9 @@ analyse the impact of innovation and the development of technologies on designed
 *  investigating influences impacting on manufactured products and processes such as historical developments, societal change, new materials, accessibility guidelines, control systems or biomimicry, for example researching the development of Velcro, which was inspired by burrs, or researching contemporary designers who use new materials to design and produce innovative products
 *  considering factors that impact on innovation, for example developing novel ideas, responding quickly to change, creating a point of differentiation, adding value for society, reducing costs and improving efficiency
 
-#### Technologies context: Engineering principles and systems
+#### Technologies context: Engineering principles and systems {#technologies-context-engineering-principles-and-systems}
 
-##### AC9TDE8K03
+##### AC9TDE8K03 {#ac9tde8k03}
 
 analyse how force, motion and energy are used to manipulate and control engineered systems
 
@@ -60,9 +60,9 @@ analyse how force, motion and energy are used to manipulate and control engineer
 *  experimenting with control systems to understand motion, for example programming a microcontroller or an object-based programming application to control a system such as a remote-controlled car or robotic arm
 *  investigating components, tools and equipment in terms of force, motion or energy, for example testing the durability of batteries or determining the effective range of wireless devices
 
-#### Technologies context: Food and fibre production
+#### Technologies context: Food and fibre production {#technologies-context-food-and-fibre-production}
 
-##### AC9TDE8K04
+##### AC9TDE8K04 {#ac9tde8k04}
 
 analyse how food and fibre are produced in managed environments and how these can become sustainable
 
@@ -74,9 +74,9 @@ analyse how food and fibre are produced in managed environments and how these ca
 *  investigating different animal nutrition strategies such as grazing and supplementary feeding, and their effects on quality when producing food and fibre products, for example meat tenderness, wool-fibre diameter (micron), milk fat and protein content
 *  recognising the importance of food and fibre production to Australia’s food security and economy, including exports and imports to and from countries across Asia, for example exports of Tasmanian Candy Abalone (wild-caught dried abalone)
 
-#### Technologies context: Food specialisations
+#### Technologies context: Food specialisations {#technologies-context-food-specialisations}
 
-##### AC9TDE8K05
+##### AC9TDE8K05 {#ac9tde8k05}
 
 analyse how properties of foods determine preparation and presentation techniques when designing solutions for healthy eating
 
@@ -86,9 +86,9 @@ analyse how properties of foods determine preparation and presentation technique
 *  investigating the relationship between food preparation techniques and the impact on nutrient value including how a recipe can be modified to enhance health benefits, for example stir-frying, steaming vegetables, leaving skin on vegetables or removing skin from chicken
 *  analysing food preparation techniques used in different cultures including those from countries across Asia and the impact of these on nutrient retention, aesthetics, taste and palatability, for example stir-frying, steaming, poaching and using a wide variety of vegetables
 
-#### Technologies context: Materials and technologies specialisations
+#### Technologies context: Materials and technologies specialisations {#technologies-context-materials-and-technologies-specialisations}
 
-##### AC9TDE8K06
+##### AC9TDE8K06 {#ac9tde8k06}
 
 analyse how characteristics and properties of materials, systems, components, tools and equipment can be combined to create designed solutions
 
@@ -101,11 +101,11 @@ analyse how characteristics and properties of materials, systems, components, to
 *  testing and selecting the most appropriate hand tools, equipment, processes and materials to produce a product, for example a stool or smartphone stand that can be assembled from bending and interlocking cardboard pieces or from wood using a laser cutter or other digital tools
 *  investigating carbon fibres (reinforced polymers) and graphite fibres which are strong, stiff, lightweight material used in specialised high-performance products, for example on the design of sporting equipment
 
-### Processes and production skills
+### Processes and production skills {#processes-and-production-skills}
 
-#### Investigating and defining
+#### Investigating and defining {#investigating-and-defining}
 
-##### AC9TDE8P01
+##### AC9TDE8P01 {#ac9tde8p01}
 
 analyse needs or opportunities for designing, and investigate and select materials, components, tools, equipment and processes to create designed solutions
 
@@ -118,9 +118,9 @@ analyse needs or opportunities for designing, and investigate and select materia
 *  analysing the viability of using different techniques and materials in areas considered remote, isolated areas or less developed countries and selecting appropriate materials to acknowledge sustainability needs by using life cycle thinking
 *  creating a survey to determine students’ food choices and developing a range of healthy food items such as snacks, juices, breakfast or nourish bowls such as a Buddha bowl which could be sold at the school canteen
 
-#### Generating and designing
+#### Generating and designing {#generating-and-designing}
 
-##### AC9TDE8P02
+##### AC9TDE8P02 {#ac9tde8p02}
 
 generate, test, iterate and communicate design ideas, processes and solutions using technical terms and graphical representation techniques, including using digital tools
 
@@ -131,9 +131,9 @@ generate, test, iterate and communicate design ideas, processes and solutions us
 *  producing annotated concept sketches and drawings, using technical terms, scale, symbols, pictorial and aerial views to draw environments; production drawings, perspective drawings, orthogonal drawings; patterns and templates to explain product design ideas
 *  documenting and communicating the generation and development and selection of design ideas for an intended audience, for example developing a digital portfolio with images and text which clearly communicate each step of a design process
 
-#### Producing and implementing
+#### Producing and implementing {#producing-and-implementing}
 
-##### AC9TDE8P03
+##### AC9TDE8P03 {#ac9tde8p03}
 
 select, justify and use suitable materials, components, tools, equipment, skills and processes to safely make designed solutions
 
@@ -144,9 +144,9 @@ select, justify and use suitable materials, components, tools, equipment, skills
 *  identifying and managing risks in the development of various projects, for example working safely, responsibly, cooperatively and ethically on design projects; assessing and responding to uncertainty and risk in relation to long-term health and environmental impacts, for example ensuring appropriate personal protective equipment (PPE) is worn or that ventilation is appropriate where solvents, glues or 3D printers are used
 *  considering how to improve technical expertise required to use tools or equipment needed to design a solution, for example using an online tutorial to learn to use software for design or production
 
-#### Evaluating
+#### Evaluating {#evaluating}
 
-##### AC9TDE8P04
+##### AC9TDE8P04 {#ac9tde8p04}
 
 develop design criteria collaboratively including sustainability to evaluate design ideas, processes and solutions
 
@@ -156,9 +156,9 @@ develop design criteria collaboratively including sustainability to evaluate des
 *  re-evaluating, iterating and modifying design processes to improve efficiency and increase production, for example when mass producing a product for an enterprise or improving sustainability
 *  evaluating designed solutions and processes and transferring new knowledge and skills to future design projects, for example considering project planning skills learnt in producing an engineered product and using them in future projects
 
-#### Collaborating and managing
+#### Collaborating and managing {#collaborating-and-managing}
 
-##### AC9TDE8P05
+##### AC9TDE8P05 {#ac9tde8p05}
 
 develop project plans to individually and collaboratively manage time, cost and production of designed solutions
 
@@ -167,7 +167,7 @@ develop project plans to individually and collaboratively manage time, cost and 
 *  identifying risks and how to minimise them, organising time, evaluating decisions and managing resources to ensure successful project completion, for example using digital tools to keep track of tasks, resources, expenses and deadlines
 *  investigating the time needed for each step of production, for example estimating time allocations on a planning template for the different stages of the design process needed to produce a clock, acoustic speaker or desk lamp using prior knowledge, research and testing
 
-## Achievement Standards
+## Achievement Standards {#achievement-standards}
 
 By the end of Year 8 students explain how people design, innovate and produce products, services and environments for preferred futures. For each of the 4 prescribed technologies contexts they explain how the features of technologies impact on design decisions, and create designed solutions based on analysis of needs or opportunities. Students create and adapt design ideas, processes and solutions, and justify their decisions against developed design criteria that include sustainability. They communicate design ideas and solutions to audiences using technical terms and graphical representation techniques, including using digital tools. They independently and collaboratively document and manage production processes to safely produce designed solutions.
 

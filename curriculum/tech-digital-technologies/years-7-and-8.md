@@ -1,6 +1,6 @@
-# Technologies - Digital Technologies - Years 7 and 8
+# Digital Technologies - Years 7 and 8 {#digital-technologies-years-7-and-8}
 
-## Level Description
+## Level Description {#level-description}
 
 By the end of Year 8 students should have had the opportunity to apply computational thinking by defining and decomposing real-world problems, creating user experiences, designing and modifying algorithms, and implementing them in a general-purpose programming language. This involves students practising problem decomposition, using approaches such as divide and conquer to more clearly understand a problem by describing its component parts. Students represent and communicate their algorithmic solutions using flowcharts and pseudocode. Students check their solutions meet the specifications by testing and debugging their algorithms before and during implementation. They develop a deeper understanding of abstraction by explaining how and why digital systems represent data as whole numbers, which are then represented in binary.
 
@@ -12,13 +12,13 @@ Students apply systems thinking by exploring the connections between hardware ca
 
 In Digital Technologies, students should have frequent opportunities for authentic learning by making key connections with other learning areas.
 
-## Strands
+## Strands {#strands}
 
-### Knowledge and understanding
+### Knowledge and understanding {#knowledge-and-understanding}
 
-#### Digital systems
+#### Digital systems {#digital-systems}
 
-##### AC9TDI8K01
+##### AC9TDI8K01 {#ac9tdi8k01}
 
 explain how hardware specifications affect performance and select appropriate hardware for particular tasks and workloads
 
@@ -28,7 +28,7 @@ explain how hardware specifications affect performance and select appropriate ha
 *  considering how First Nations Australians communities in areas classified as remote often share access to smartphone and internet services, and how the hardware specifications of these devices affect performance, for example where immediate and extended families share and access data through a single smartphone or device
 *  explaining how the specifications of components in a system impact the speed with which AI models can be trained; for example, GPUs are more efficient at performing the mathematical calculations necessary for training generative AI than CPUs
 
-##### AC9TDI8K02
+##### AC9TDI8K02 {#ac9tdi8k02}
 
 investigate how data is transmitted and secured in wired and wireless networks including the internet
 
@@ -38,9 +38,9 @@ investigate how data is transmitted and secured in wired and wireless networks i
 *  exploring simple encryption and decryption algorithms, for example ROT13 and XOR
 *  explaining how problems occur in network communication and how they can be solved, for example routers can drop packets and how Transmission Control Protocol (TCP) uses acknowledgements to confirm packets have been received
 
-#### Data representation
+#### Data representation {#data-representation}
 
-##### AC9TDI8K03
+##### AC9TDI8K03 {#ac9tdi8k03}
 
 investigate how digital systems represent text, image and audio data using integers
 
@@ -50,7 +50,7 @@ investigate how digital systems represent text, image and audio data using integ
 *  explaining how digital systems represent bitmap images (for example PNG and JPEG) as the colour of each pixel in separate red, green and blue (RGB) channels ranging from 0 to 255, and represent Scalable Vector graphics (SVG) using the geometry of lines and shapes
 *  investigating how a digital system converts audio data to integers as it records, stores and outputs sound, for example using the Welcome to Country app to understand the local history and Traditional Owners of the lands which students learn on to inform the programming of an Acknowledgement of Country in a local First Nations Australian language
 
-##### AC9TDI8K04
+##### AC9TDI8K04 {#ac9tdi8k04}
 
 explain how and why digital systems represent integers in binary
 
@@ -59,11 +59,11 @@ explain how and why digital systems represent integers in binary
 *  explaining how digital systems represent data in binary, for example by converting a character to its Unicode value, then converting that value into binary
 *  explaining how circuits can perform binary operations represented as on/off states, for example showing how circuits with 2 switches can represent AND or OR gates
 
-### Processes and production skills
+### Processes and production skills {#processes-and-production-skills}
 
-#### Acquiring, managing and analysing data
+#### Acquiring, managing and analysing data {#acquiring-managing-and-analysing-data}
 
-##### AC9TDI8P01
+##### AC9TDI8P01 {#ac9tdi8p01}
 
 acquire, store and validate data from a range of sources using software, including spreadsheets and databases
 
@@ -74,7 +74,7 @@ acquire, store and validate data from a range of sources using software, includi
 *  acquiring, storing and validating data from a reputable source, such as the Australian Bureau of Statistics, to analyse the geographic distribution of First Nations Australians, with the aim to highlight past and emerging trends
 *  ensuring that the data used to train an AI model minimises any potential biases in its output and is representative of the target audience; for example, training a model on data collected from a single demographic group may not produce correct outputs for a more diverse population
 
-##### AC9TDI8P02
+##### AC9TDI8P02 {#ac9tdi8p02}
 
 analyse and visualise data using a range of software, including spreadsheets and databases, to draw conclusions and make predictions by identifying trends
 
@@ -84,7 +84,7 @@ analyse and visualise data using a range of software, including spreadsheets and
 *  using an AI model with a natural language interface to generate queries to perform analysis; for example, describing a database schema and asking the model to generate an SQL query to find results that match a set of criteria
 *  comparing the analysis performed by a trained predictive AI model with other analysis techniques; for example, comparing the output from a classification model against data tagged manually to verify its accuracy and effectiveness
 
-##### AC9TDI8P03
+##### AC9TDI8P03 {#ac9tdi8p03}
 
 model and query the attributes of objects and events using structured data
 
@@ -93,9 +93,9 @@ model and query the attributes of objects and events using structured data
 *  using a spreadsheet table to model objects and events, including choosing appropriate formats for each column, and filtering and sorting rows to answer questions
 *  interpreting and querying single-table databases using visual or simple SQL queries with SELECT, WHERE and ORDER BY clauses, for example answering queries in a database for a historical event
 
-#### Investigating and defining
+#### Investigating and defining {#investigating-and-defining}
 
-##### AC9TDI8P04
+##### AC9TDI8P04 {#ac9tdi8p04}
 
 define and decompose real-world problems with design criteria and by creating user stories
 
@@ -105,9 +105,9 @@ define and decompose real-world problems with design criteria and by creating us
 *  using a template such as "As a <type of user>, I want <some goal> so that <some reason>", for example "As a user with a visual impairment I want to be able to get the news on my smartphone so that I can keep up with my world"
 *  making predictions about future population distribution of First Nations Australians based on identified trends, for example analysing and visualising data using spreadsheets and databases on their population growth in metropolitan areas
 
-#### Generating and designing
+#### Generating and designing {#generating-and-designing}
 
-##### AC9TDI8P05
+##### AC9TDI8P05 {#ac9tdi8p05}
 
 design algorithms involving nested control structures and represent them using flowcharts and pseudocode
 
@@ -116,7 +116,7 @@ design algorithms involving nested control structures and represent them using f
 *  describing algorithms precisely in pseudocode (structured English) or with flowcharts for each part of the problem, for example using separate flowcharts to describe the purchase of an item and the giving of change during the purchase
 *  describing algorithms with nested control structures, including a nested if, for example IF it is raining THEN [IF parents are home THEN drive to school]; or an IF inside a loop, for example REPEAT [select the largest coin smaller than the remaining total, and subtract it] UNTIL the remainder is zero
 
-##### AC9TDI8P06
+##### AC9TDI8P06 {#ac9tdi8p06}
 
 trace algorithms to predict output for a given input and to identify errors
 
@@ -125,7 +125,7 @@ trace algorithms to predict output for a given input and to identify errors
 *  specifying test cases and comparing the expected and actual output to determine the correctness of an algorithm, for example a test case of the change-calculating algorithm could have input $1.45 and expected output 1 x $1, 2 x 20c and 1 x 5c coins
 *  following instructions for making woven baskets or nets by hand, as done by First Nations Australians, and making predictions of how the instructions would need to be modified to enable the item to be produced through automated manufacturing processes
 
-##### AC9TDI8P07
+##### AC9TDI8P07 {#ac9tdi8p07}
 
 design the user experience of a digital system
 
@@ -134,7 +134,7 @@ design the user experience of a digital system
 *  considering the factors of why a user might buy and use a product, in addition to its utility, for example how aligning the brand with the user’s values and identity contributes to its appeal
 *  exploring the evolution of a user interface, for example comparing the design and branding of different search engines over time
 
-##### AC9TDI8P08
+##### AC9TDI8P08 {#ac9tdi8p08}
 
 generate, modify, communicate and evaluate alternative designs
 
@@ -143,9 +143,9 @@ generate, modify, communicate and evaluate alternative designs
 *  using concept maps, wireframes or other diagrams to record and discuss the generated ideas, for example creating and discussing wireframes of a music streaming service, evaluating it against design criteria and user stories, such as the needs of diverse users
 *  comparing multiple outputs from a generative model to determine the most suitable; for example, using AI tools to generate multiple prototypes of a user interface and selecting the design or features that best address users’ needs
 
-#### Producing and implementing
+#### Producing and implementing {#producing-and-implementing}
 
-##### AC9TDI8P09
+##### AC9TDI8P09 {#ac9tdi8p09}
 
 implement, modify and debug programs involving control structures and functions in a general-purpose programming language
 
@@ -156,9 +156,9 @@ implement, modify and debug programs involving control structures and functions 
 *  writing a program that contains nested control structures to perform more complicated branching and decisions, for example using an IF statement inside a loop to count the warm days from an array containing temperature data only when the temperature for each day is more than 20 degrees Celsius
 *  defining and using a function that produces different output based on the argument(s) it receives, for example a function that receives the name of an actor from user input, and searches a file or database to return a list of movies that actor appears in
 
-#### Evaluating
+#### Evaluating {#evaluating}
 
-##### AC9TDI8P10
+##### AC9TDI8P10 {#ac9tdi8p10}
 
 evaluate existing and student solutions against the design criteria, user stories and possible future impact
 
@@ -168,9 +168,9 @@ evaluate existing and student solutions against the design criteria, user storie
 *  judging existing solutions on the basis of their possible impact on the economy, environment or society, for example cloud computing services decrease data loss but require vast amounts of electricity to power the servers
 *  discussing the risks and consequences of AI-generated content on social media platforms; for example, the potential for the spread of misinformation due to high volumes of automatically generated and intentionally misleading content being posted
 
-#### Collaborating and managing
+#### Collaborating and managing {#collaborating-and-managing}
 
-##### AC9TDI8P11
+##### AC9TDI8P11 {#ac9tdi8p11}
 
 select and use a range of digital tools efficiently, including unfamiliar features, to create, locate and communicate content, consistently applying common conventions
 
@@ -182,7 +182,7 @@ select and use a range of digital tools efficiently, including unfamiliar featur
 *  using effective prompts with generative AI models to create output that is better suited to the problem being solved; for example, specifying the voice, tone and brevity for a persuasive news article with a restrictive word limit
 *  using a progressive series of prompts with generative models to refine output to improve its correctness; for example, performing translation from one language to another and instructing the model to correct errors in translation
 
-##### AC9TDI8P12
+##### AC9TDI8P12 {#ac9tdi8p12}
 
 select and use a range of digital tools efficiently and responsibly to share content online, and plan and manage individual and collaborative agile projects
 
@@ -193,9 +193,9 @@ select and use a range of digital tools efficiently and responsibly to share con
 *  determining and recording the tasks, responsibilities and timeframes for a collaborative project, for example using a spreadsheet to record tasks and their sequence, critical dates and who is responsible for each task so a project can be finished on time
 *  using AI tools to decompose high-level instructions into more detailed steps to assist with completing a task; for example, asking an AI model to break down the steps involved in building a website from scratch
 
-#### Privacy and security
+#### Privacy and security {#privacy-and-security}
 
-##### AC9TDI8P13
+##### AC9TDI8P13 {#ac9tdi8p13}
 
 explain how multi-factor authentication protects an account when the password is compromised and identify phishing and other cyber security threats
 
@@ -203,7 +203,7 @@ explain how multi-factor authentication protects an account when the password is
 *  explaining how multi-factor authentication prevents unauthorised access by prompting the account owner for a token or single-use password, for example demonstrating how a funds transfer from their bank account requires not only logging in, but provision of a one-time password received via SMS
 *  identifying the common techniques used in phishing scams to identify and exploit susceptible users, for example using an email address from an unofficial domain when pretending to be an online retailer, or including grammatical errors to help filter out users who are more likely to detect the scam
 
-##### AC9TDI8P14
+##### AC9TDI8P14 {#ac9tdi8p14}
 
 investigate and manage the digital footprint existing systems and student solutions collect and assess if the data is essential to their purpose
 
@@ -214,7 +214,7 @@ investigate and manage the digital footprint existing systems and student soluti
 *  assessing the appropriateness and relevance of data collected by surveys from other students and organisations they complete online, for example identifying that providing your address data is not necessary for a survey asking about your food preferences but providing the address for the Census would be appropriate
 *  explaining the risks associated with sharing personal data due to the ease with which generative AI models can create new content; for example, from short videos and audio recordings it is possible for convincing deepfake videos to be generated and distributed for malicious purposes
 
-## Achievement Standards
+## Achievement Standards {#achievement-standards}
 
 By the end of Year 8 students develop and modify creative digital solutions, decompose real-world problems, and evaluate alternative solutions against user stories and design criteria. Students acquire, interpret and model data with spreadsheets and represent data with integers and binary. They design and trace algorithms and implement them in a general-purpose programming language. Students select appropriate hardware for particular tasks, explain how data is transmitted and secured in networks, and identify cyber security threats. They select and use a range of digital tools efficiently and responsibly to create, locate and share content; and to plan, collaborate on and manage projects. Students manage their digital footprint.
 

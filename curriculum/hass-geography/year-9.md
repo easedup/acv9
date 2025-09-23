@@ -1,6 +1,6 @@
-# Humanities and Social Sciences - Geography 7-10 - Year 9
+# Geography - Year 9 {#geography-year-9}
 
-## Level Description
+## Level Description {#level-description}
 
 The Year 9 curriculum involves the study of 2 sub-strands.
 
@@ -18,13 +18,13 @@ Inquiry questions provide a framework for developing students’ knowledge, unde
 *   What are the future implications of changes to places and environments?
 *   Why are interconnections and interdependencies important for the future of places and environments?
 
-## Strands
+## Strands {#strands}
 
-### Knowledge and understanding
+### Knowledge and understanding {#knowledge-and-understanding}
 
-#### Biomes and food security
+#### Biomes and food security {#biomes-and-food-security}
 
-##### AC9HG9K01
+##### AC9HG9K01 {#ac9hg9k01}
 
 the distribution and characteristics of biomes as regions with distinctive climates, soils, vegetation and productivity
 
@@ -33,7 +33,7 @@ the distribution and characteristics of biomes as regions with distinctive clima
 *  interpreting and explaining patterns and trends in the productivity of the major aquatic and terrestrial biomes in Australia compared with a country in Asia
 *  explaining the effects of interconnections between environmental processes (atmosphere, hydrosphere, lithosphere and biosphere) and human activities, such as deforestation, mining and agriculture on the characteristics of biomes
 
-##### AC9HG9K02
+##### AC9HG9K02 {#ac9hg9k02}
 
 the effects on environments of human alteration of biomes to produce food, industrial materials and fibres
 
@@ -42,7 +42,7 @@ the effects on environments of human alteration of biomes to produce food, indu
 *  explaining the differences between natural and agricultural ecosystems in flows of nutrients and water, and in biodiversity; for example, the tropical rainforest biome in Indonesia produces food such as fruit, grains, nuts, vegetables and spices, and non-food products such as wood, rubber, coffee, chocolate and palm oil
 *  explaining how human alteration of biomes (for example, drip irrigation, fertilisers, pesticides, genetically modified seeds, agrobiotics, terracing, and controlling erosion and overgrazing) has increased agricultural productivity in Australia and a country in Asia
 
-##### AC9HG9K03
+##### AC9HG9K03 {#ac9hg9k03}
 
 the environmental, economic and technological factors that impact agricultural productivity, in Australia and a country in Asia
 
@@ -52,7 +52,7 @@ the environmental, economic and technological factors that impact agricultural p
 *  examining how agricultural innovations have reduced environmental limitations on food production in Australia and a country in Asia; for example, increased food production due to research into and development of high-yielding and genetically engineered pest resistant varieties, construction of drip irrigation systems, and the use of stubble mulching, intercropping, agroforestry and crop rotation
 *  explaining the impact of the interconnections between environmental, economic and technological factors on the yield of a particular crop, such as wheat, rice or maize, in Australia
 
-##### AC9HG9K04
+##### AC9HG9K04 {#ac9hg9k04}
 
 challenges to sustainable food production and food security in Australia and appropriate management strategies
 
@@ -64,9 +64,9 @@ challenges to sustainable food production and food security in Australia and
 *  explaining management strategies that restore the quality or diversity of agriculture in Australia; for example, improving the function of natural biomes and anthropogenic biomes, monitoring land management practices, improving the condition of the soil or building the capability of farmers
 *  generating ideas for a strategy to expand agricultural production in Australia; for example, market bush food such as herbs and wattle seed, invest in research, support farm innovations or develop the expertise of farmers
 
-#### Geographies of interconnections
+#### Geographies of interconnections {#geographies-of-interconnections}
 
-##### AC9HG9K05
+##### AC9HG9K05 {#ac9hg9k05}
 
 the ways changing transportation and technologies are used to connect people to services, information and people in other places
 
@@ -77,7 +77,7 @@ the ways changing transportation and technologies are used to connect peopl
 *  interpreting differences in people’s access to the internet between and within countries, such as in rural areas across Australia and across the world, including a country of Asia, and explaining how technologies are used to connect people to information, services and other people
 *  examining how technologies have made it possible for places to provide a range of global business services, such as businesses operating call centres in India and the Philippines
 
-##### AC9HG9K06
+##### AC9HG9K06 {#ac9hg9k06}
 
 the effects on places of people’s travel, recreational, cultural or leisure choices, and the strategies for managing the impacts on these places
 
@@ -86,7 +86,7 @@ the effects on places of people’s travel, recreational, cultural or leisure ch
 *  explaining the impacts of people’s cultural and leisure choices on the sustainability of places popular with tourists (for example, visiting Mecca, Vatican City or Varanasi as religious pilgrimages) and predicting how space tourism or the impacts of COVID-19 may affect places
 *  examining how management plans for national parks, such as Uluru-Kata Tjuta National Park, bring together cultural and scientific knowledge and experience, and examining governance and past experience to manage the effects of people’s cultural and leisure choices
 
-##### AC9HG9K07
+##### AC9HG9K07 {#ac9hg9k07}
 
 the ways that places and people are interconnected with other places through trade in goods and services, at all scales
 
@@ -95,7 +95,7 @@ the ways that places and people are interconnected with other places through tra
 *  examining how and why places are interconnected nationally, regionally and globally through trade in goods and services
 *  identifying examples of change in interconnections between places and people through trade in goods and/or services over time at the local, national and global scale
 
-##### AC9HG9K08
+##### AC9HG9K08 {#ac9hg9k08}
 
 the impacts of the production and consumption of goods on places throughout the world, and strategies to manage sustainability in these places
 
@@ -105,11 +105,11 @@ the impacts of the production and consumption of goods on places throughout the 
 *  evaluating the environmental, economic and social impacts of the global oil supply chain, from where the resource is extracted, processed and sold, and how impacts could be sustainably managed in Australia and in West Asia
 *  examining a strategy used by local, state or national governments to manage waste in one of Australia’s cities or regional urban centres, and identifying implications for sustainability (environmental, economic and social factors)
 
-### Skills
+### Skills {#skills}
 
-#### Questioning and researching using geographical methods
+#### Questioning and researching using geographical methods {#questioning-and-researching-using-geographical-methods}
 
-##### AC9HG9S01
+##### AC9HG9S01 {#ac9hg9s01}
 
 develop a range of questions for a geographical inquiry related to a phenomenon or challenge
 
@@ -118,7 +118,7 @@ develop a range of questions for a geographical inquiry related to a phenomenon 
 *  developing and modifying questions to sharpen the focus of an investigation using concepts or scale of study; for example, “Why is the security and sustainability of food production important at the national scale?”, “How can bush food become a sustainable nutritional source of food in Australia?”, “How can connections between people, environments and places affect the sustainability of places at the global scale?”
 *  planning an investigation of a geographical phenomenon or challenge being studied at a range of scales, using digital tools; for example, the diverse types of biomes modified by humans for food and non-food products at a national and global scale, or the different types of connections between people and places at local, national and global scales
 
-##### AC9HG9S02
+##### AC9HG9S02 {#ac9hg9s02}
 
 collect, represent and compare data and information from primary research methods, including fieldwork and secondary research materials, using geospatial technologies and digital tools as appropriate
 
@@ -130,9 +130,9 @@ collect, represent and compare data and information from primary research met
 *  creating visual representations of multi-variable geographical data using digital tools; for example, a table to compare the daily consumption of meat per person in developed and developing countries; a complex graph to illustrate the relationship between temperature, precipitation and biomes; or a cross-section identifying horizons in a soil profile, and the impacts of mining and fracking on agricultural land
 *  representing spatial distribution of geographical phenomena by constructing special purpose maps that conform to cartographic conventions, for example creating a map to show the relationship between biomes and world food production
 
-#### Interpreting and analysing geographical data and information
+#### Interpreting and analysing geographical data and information {#interpreting-and-analysing-geographical-data-and-information}
 
-##### AC9HG9S03
+##### AC9HG9S03 {#ac9hg9s03}
 
 evaluate geographical data and information to make generalisations and predictions, explain patterns and trends and infer relationships
 
@@ -141,9 +141,9 @@ evaluate geographical data and information to make generalisations and predictio
 *  explaining a pattern; for example, using the current Global Hunger Index and the updated Food and Agricultural Organization’s Low-Income Food-Deficit Countries (LIFDCs) to identify locations of food scarcity and malnutrition, or comparing maps showing transport networks with survey responses on personal mobility
 *  explaining relationships between causes and impacts of factors represented in data; for example, the impact of the use of Global Positioning System (GPS) and Geographic Information Systems (GIS) on the way farmers control the dispersion of fertilisers and pesticides to produce higher yields and limit run-off, or the effects of the use of GPS to construct maps on how tourists use different transport systems to visits popular places in Australia
 
-#### Concluding and decision-making
+#### Concluding and decision-making {#concluding-and-decision-making}
 
-##### AC9HG9S04
+##### AC9HG9S04 {#ac9hg9s04}
 
 evaluate data and information to justify conclusions
 
@@ -151,7 +151,7 @@ evaluate data and information to justify conclusions
 *  drawing conclusions about the impact of a geographical challenge on people, places and environments; for example, investigating the causes of a decline in food species, its impacts on food security and the establishment of the Svalbard Global Seed Vault, or the effects of cyberattacks on technological interconnections and implementation of international laws related to cyber security
 *  justifying conclusions by reflecting on perspectives identified and reasons for these perspectives; for example, considering environmental, economic and social factors when challenging disappearing arable land converted from food production to non-food crops, or promoting ecotourism that impacts on people and places
 
-##### AC9HG9S05
+##### AC9HG9S05 {#ac9hg9s05}
 
 develop and evaluate strategies using environmental, economic or social criteria; recommend a strategy and explain the predicted impacts
 
@@ -162,9 +162,9 @@ develop and evaluate strategies using environmental, economic or social criteria
 *  explaining the outcomes and impacts of a strategy, such as providing people with adequate and quality food that is acceptable in different cultures, or reducing the global movement of hazardous waste between countries
 *  reflecting on the influence of personal values and attitudes on predicted outcomes and impacts; for example, how preferring to buy locally produced food reduces food miles and greenhouse gases, or how reducing, recycling and reusing goods contributes to a more sustainable environment
 
-#### Communicating
+#### Communicating {#communicating}
 
-##### AC9HG9S06
+##### AC9HG9S06 {#ac9hg9s06}
 
 create descriptions, explanations and responses, using geographical knowledge and geographical tools as appropriate, and concepts and terms that incorporate and acknowledge research findings
 
@@ -173,7 +173,7 @@ create descriptions, explanations and responses, using geographical knowledge an
 *  creating a description, using representations of data (for example, using maps to illustrate the major terrestrial biomes of Australia and photographs to show their impacts on people and places) and research findings (for example, using diagrams, graphs, tables and/or satellite images to show how environmental, economic or technological factors affect crop yields)
 *  creating an explanation that applies tone appropriate to the audience; such as reducing food wastage, or developing a management plan for a tourist hot spot, in an authoritative tone and reasoned argument
 
-## Achievement Standards
+## Achievement Standards {#achievement-standards}
 
 By the end of Year 9, students explain how peoples’ activities or environmental processes change the characteristics of places. They explain the effects of human activity on environments, and the effects of environments on human activity. They explain the features of biomes’ distribution and identify implications for environments. They analyse the interconnections between people and places and environments. They identify and explain how these interconnections influence people, and change places and environments. Students analyse strategies to address a geographical phenomenon or challenge using environmental, social or economic criteria.
 

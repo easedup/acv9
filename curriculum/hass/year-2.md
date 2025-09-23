@@ -1,6 +1,6 @@
-# Humanities and Social Sciences - HASS F-6 - Year 2
+# Humanities and Social Sciences - Year 2 {#humanities-and-social-sciences-year-2}
 
-## Level Description
+## Level Description {#level-description}
 
 In Year 2, the focus is on **"past and present connections to people and places"**.
 
@@ -14,13 +14,13 @@ Inquiry questions provide a framework for developing students’ knowledge, unde
 *   How are people connected to their place and other places, past or present?
 *   How has technology affected daily life over time and the connections between people in different places?
 
-## Strands
+## Strands {#strands}
 
-### Knowledge and understanding
+### Knowledge and understanding {#knowledge-and-understanding}
 
-#### History
+#### History {#history}
 
-##### AC9HS2K01
+##### AC9HS2K01 {#ac9hs2k01}
 
 a local individual, group, place or building and the reasons for their importance, including social, cultural or spiritual significance
 
@@ -31,7 +31,7 @@ a local individual, group, place or building and the reasons for their importan
 *  identifying and visiting, where appropriate, local sites, places and landscapes of significance to First Nations Australians; for example, engraving sites, rock paintings, natural sites or features such as the creeks or mountains
 *  identifying and designing a local historical tour of a building or site; for example, one related to a particular cultural group
 
-##### AC9HS2K02
+##### AC9HS2K02 {#ac9hs2k02}
 
 how technological developments changed people’s lives at home, and in the ways they worked, travelled and communicated
 
@@ -42,9 +42,9 @@ how technological developments changed people’s lives at home, and in the way
 *  identifying the technologies used by local First Nations Australians for aspects of daily life such as providing food, shelter and transportation
 *  identifying the ways current communication and transport technologies impact on our interconnections with other places; for example, online communication, accessibility to other places through different types of transport
 
-#### Geography
+#### Geography {#geography}
 
-##### AC9HS2K03
+##### AC9HS2K03 {#ac9hs2k03}
 
 how places can be spatially represented in geographical divisions from local to regional to state/territory, and how people and places are interconnected across those scales
 
@@ -54,7 +54,7 @@ how places can be spatially represented in geographical divisions from local 
 *  identifying links they and other people in their community have with people and places at the regional and/or state/territory scale; for example, where produce in their supermarket comes from or produce from their farms goes to, relatives they visit, places they go for holidays
 *  describing how communication and transport technologies connect their place to other places at the regional and/or state/territory level; for example, online communication, phone, road, rail, planes, ferries
 
-##### AC9HS2K04
+##### AC9HS2K04 {#ac9hs2k04}
 
 the interconnections of First Nations Australians to a local Country/Place
 
@@ -63,11 +63,11 @@ the interconnections of First Nations Australians to a local Country/Place
 *  liaising with community to identify language groups of First Nations Australians who belong to the local area and exploring the relationship between language, Country/Place and spirituality (this is intended to be a local area study with a focus on one language group; however, if information or sources are not readily available, another representative area may be studied)
 *  discussing when to use Acknowledgement of Country and Welcome to Country at ceremonies and events to respectfully recognise the Country/Place and Traditional Owners and Custodians of the land, sea, waterways, and sky
 
-### Skills
+### Skills {#skills}
 
-#### Questioning and researching
+#### Questioning and researching {#questioning-and-researching}
 
-##### AC9HS2S01
+##### AC9HS2S01 {#ac9hs2s01}
 
 develop questions about objects, people, places and events in the past and present
 
@@ -76,7 +76,7 @@ develop questions about objects, people, places and events in the past and 
 *  developing inquiry questions about places; for example, “What are the features of the place?”, “How far away is it?”, “How easy is it to get to?”, “How am I connected to it?”, “How is it connected to other places?”
 *  posing questions using the stems, “How do I feel about …?”, ‘What would it be like to …?” and “What effect …?”
 
-##### AC9HS2S02
+##### AC9HS2S02 {#ac9hs2s02}
 
 collect, sort and record information and data from observations and from provided sources, including unscaled timelines and labelled maps or models
 
@@ -86,9 +86,9 @@ collect, sort and record information and data from observations and from pr
 *  locating the places they are connected to, such as through family, travel or friends, or the places they visit for shopping, recreation or other reasons on a print, electronic or wall map
 *  ordering key events in the history of the local community or in its development using formats such as unscaled timelines, slideshows or stories; for example, the history of a person, place or building, or the developmental stages of telecommunications technologies
 
-#### Interpreting, analysing and evaluating
+#### Interpreting, analysing and evaluating {#interpreting-analysing-and-evaluating}
 
-##### AC9HS2S03
+##### AC9HS2S03 {#ac9hs2s03}
 
 interpret information and data from observations and provided sources, including the comparison of objects from the past and present
 
@@ -98,7 +98,7 @@ interpret information and data from observations and provided sources, includ
 *  interpreting symbols and codes that provide information, such as map legends
 *  identifying how objects and activities are similar or different depending on conditions in local and distant places; for example, clothes, transport, technology
 
-##### AC9HS2S04
+##### AC9HS2S04 {#ac9hs2s04}
 
 discuss perspectives related to objects, people, places and events
 
@@ -107,9 +107,9 @@ discuss perspectives related to objects, people, places and events
 *  examining the points of view of older generations about changes over time; for example, changes to the natural or built environment, changes to daily living
 *  exploring how the same place has significance to different groups for different reasons; for example, traditional meeting places for First Nations Australians within an urban area that include buildings or monuments that are important to other cultural groups.
 
-#### Concluding and decision-making
+#### Concluding and decision-making {#concluding-and-decision-making}
 
-##### AC9HS2S05
+##### AC9HS2S05 {#ac9hs2s05}
 
 draw conclusions and make proposals
 
@@ -120,9 +120,9 @@ draw conclusions and make proposals
 *  identifying how knowledge of special places and natural systems in their local area contributes to behaviour, and ideas about how to care for these places and to preserve their significance
 *  using their knowledge about a familiar place or site to imagine how it might change in the future and how they can influence a positive future for it
 
-#### Communicating
+#### Communicating {#communicating}
 
-##### AC9HS2S06
+##### AC9HS2S06 {#ac9hs2s06}
 
 develop narratives and share observations, using sources, and subject-specific terms
 
@@ -131,7 +131,7 @@ develop narratives and share observations, using sources, and subject-specific t
 *  sharing observations using sources such as how access to and use of a place has changed over time
 *  sharing with their teacher, other students and members of their family what they know about the past, using terms in speech and writing to denote the passing of time (for example, “in the past”, “years ago”, “the olden days”, “in the future”) and to describe direction and location of a place (for example, “north”, “south”, “opposite”, “near”, “far”)
 
-## Achievement Standards
+## Achievement Standards {#achievement-standards}
 
 By the end of Year 2, students identify the significance of a local person, group, place and/or building. They identify the effects of changes in technologies on people’s lives. Students identify that places can be spatially represented in different geographical divisions. They identify how people and places are interconnected both at local and broader scales.
 

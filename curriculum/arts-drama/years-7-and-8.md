@@ -1,6 +1,6 @@
-# The Arts - Drama - Years 7 and 8
+# Drama - Years 7 and 8 {#drama-years-7-and-8}
 
-## Level Description
+## Level Description {#level-description}
 
 In this band, learning in Drama builds on each student’s prior learning and experiences. Students learn in and through the practices of Drama: creating, performing and responding. They use drama processes in purposeful and creative ways, and continue to develop their connection with and contribution to the world as artist and as audience. They work individually and in collaboration with peers and teachers.
 
@@ -21,11 +21,11 @@ In this band, the focus is on students:
 5.  creating drama in improvised, devised and scripted forms such as process drama, puppetry, object theatre, short- or long-form improvisation, play-building and devising, scripted drama/script interpretation; for example, interpretation of realism and/or non-realism, exploration of historic, contemporary or hybrid styles
 6.  presenting and performing drama in informal and/or formal settings; for example, performing for a specific target audience.
 
-## Strands
+## Strands {#strands}
 
-### Exploring and responding
+### Exploring and responding {#exploring-and-responding}
 
-##### AC9ADR8E01
+##### AC9ADR8E01 {#ac9adr8e01}
 
 investigate ways the elements of drama and/or conventions are used to communicate ideas, perspectives and/or meaning in drama created and/or performed across cultures, times, places and/or other contexts
 
@@ -35,7 +35,7 @@ investigate ways the elements of drama and/or conventions are used to communica
 *  writing or pod/vodcasting a review of a drama they experience, focusing on use of specific elements of drama and/or conventions; for example, identifying and describing how an element of drama has been manipulated to communicate ideas, perspectives and/or meaning
 *  analysing how linear and non-linear narrative is used in examples of drama from diverse cultures; for example, in contemporary drama from countries or regions in Asia or in drama from historical times
 
-##### AC9ADR8E02
+##### AC9ADR8E02 {#ac9adr8e02}
 
 investigate the diversity of drama created and/or performed by First Nations Australians, considering culturally responsive approaches to Indigenous Cultural and Intellectual Property rights
 
@@ -46,9 +46,9 @@ investigate the diversity of drama created and/or performed by First Nations Aus
 *  investigating specific examples of how drama practitioners select and use First Nations Australians’ historical and cultural material to develop and create contemporary First Nations Australian theatre; for example, using historical and cultural materials that accurately communicate First Nations Australian perspectives, such as resilience to the impacts of colonisation
 *  identifying and analysing what cultural appropriation is and how to avoid it by considering the original purpose, context and intended audience of cultural expressions; for example, using advice from protocols for protecting Indigenous Cultural and Intellectual Property rights
 
-### Developing practices and skills
+### Developing practices and skills {#developing-practices-and-skills}
 
-##### AC9ADR8D01
+##### AC9ADR8D01 {#ac9adr8d01}
 
 develop performance skills relevant to selected drama styles and/or forms
 
@@ -61,7 +61,7 @@ develop performance skills relevant to selected drama styles and/or forms
 *  experimenting with ways to manipulate elements of drama and use performance skills to communicate status/power relationships in drama being devised and/or when interpreting scripts
 *  understanding the importance of and applying respectful relationships and empathy when developing roles and characters, and conveying historical and cultural ideas and meaning
 
-##### AC9ADR8D02
+##### AC9ADR8D02 {#ac9adr8d02}
 
 reflect on their own and others’ drama to inform choices when manipulating elements of drama and/or conventions to shape dramatic action
 
@@ -71,9 +71,9 @@ reflect on their own and others’ drama to inform choices when manipulating ele
 *  developing understanding of human behaviours and emotions using appropriate boundaries, by recalling and re-enacting past experiences and people they have observed in situations relevant to the text or content being used; asking “What did my/their body do?”, “How did my/their voice sound/communicate meaning in the situation?”, “How can I adapt my facial expression, posture, gesture, movement and voice/vocalisation to portray age, power or attitude?”, “How can I express character relationships through vocal dynamics, eye contact, distance and space?”
 *  reflecting on how performance skills are used to communicate perspectives; for example, how performance skills can be used in drama that seeks to communicate ideas such as perpetuating or challenging unequal power relationships and oppression
 
-### Creating and making
+### Creating and making {#creating-and-making}
 
-##### AC9ADR8C01
+##### AC9ADR8C01 {#ac9adr8c01}
 
 improvise and devise drama and/or interpret scripted drama, manipulating elements of drama and applying conventions relevant to the style/form
 
@@ -85,7 +85,7 @@ improvise and devise drama and/or interpret scripted drama, manipulating element
 *  employing voice/vocalisation and movement appropriate to situation, and manipulating space and time in dramatic action to heighten tension, focus action and shape meaning
 *  using feedback, reflection or evaluation to develop and extend ideas when improvising, devising and/or scripting drama
 
-##### AC9ADR8C02
+##### AC9ADR8C02 {#ac9adr8c02}
 
 evaluate and refine use of elements of drama and/or conventions to shape and sustain dramatic action and/or communicate ideas, perspectives and/or meaning
 
@@ -95,9 +95,9 @@ evaluate and refine use of elements of drama and/or conventions to shape and su
 *  planning, organising and rehearsing dramatic action to stage devised and scripted drama; for example, arranging use of available theatre technologies and collaborating in rehearsal to stage drama for a clear and intended purpose and effect, considering choices within the overall structure
 *  considering how and why empathy should be considered when creating effects and communicating intended meaning; for example, exploring conventions for developing characters and stories in drama from a range of cultures
 
-### Presenting and performing
+### Presenting and performing {#presenting-and-performing}
 
-##### AC9ADR8P01
+##### AC9ADR8P01 {#ac9adr8p01}
 
 rehearse and perform improvised, devised and/or scripted drama to audiences, using performance skills and conventions relevant to style and/or form
 
@@ -108,7 +108,7 @@ rehearse and perform improvised, devised and/or scripted drama to audiences, usi
 *  respecting Indigenous Cultural and Intellectual Property rights when performing drama that explores First Nations Australians’ perspectives on themes and issues such as identity, resilience, oppression or environmental practices
 *  reflecting on how respectful relationships and empathy were applied in their performance, and interpreted by the audience
 
-## Achievement Standards
+## Achievement Standards {#achievement-standards}
 
 By the end of Year 8, students analyse how elements of drama and/or conventions are manipulated in drama they create and/or experience. They evaluate the ways drama created and/or performed across cultures, times, places and/or other contexts communicates ideas, perspectives and/or meaning. They describe respectful approaches to creating, performing and/or responding to drama.
 

@@ -1,6 +1,6 @@
-# The Arts - Media Arts - Years 3 and 4
+# Media Arts - Years 3 and 4 {#media-arts-years-3-and-4}
 
-## Level Description
+## Level Description {#level-description}
 
 In this band, learning in The Arts builds on each student’s prior learning and experiences. Arts learning in this band continues to use purposeful and creative play-based activities that foster development of students’ identity and wellbeing, and their connection with and contribution to the world. Students further develop their capability and confidence in using subject-specific skills and creative and critical practices. They work individually and in collaboration with peers and teachers.
 
@@ -21,11 +21,11 @@ In this band, the focus is on students:
 5.  creating (producing) media arts works in a range of forms to communicate ideas to audiences using media technologies and media languages
 6.  presenting media arts works they have created in informal settings such as spaces within the school.
 
-## Strands
+## Strands {#strands}
 
-### Exploring and responding
+### Exploring and responding {#exploring-and-responding}
 
-##### AC9AMA4E01
+##### AC9AMA4E01 {#ac9ama4e01}
 
 explore where, why and how media arts is created and/or distributed across cultures, times, places and/or other contexts
 
@@ -36,7 +36,7 @@ explore where, why and how media arts is created and/or distributed across cultu
 *  using appropriate language to discuss the meaning of their own media arts works; for example, in writing or through an oral, visual or multimedia presentation
 *  investigating digital or analog storyboarding as a planning tool; for example, preparing a storyboard for a short film, stop motion or comic strip, to create a sequence of actions, changes or events; rearranging the sequence of boards, or adding and removing boards, to change the meaning or add new meaning to the narrative, and testing how a group of people responds
 
-##### AC9AMA4E02
+##### AC9AMA4E02 {#ac9ama4e02}
 
 explore how First Nations Australians use media arts to communicate their connection to and responsibility for Country/Place
 
@@ -49,9 +49,9 @@ explore how First Nations Australians use media arts to communicate their connec
 *  exploring how stories and ideas can communicate connection to and responsibility for Country/Place; for example, cultural stories of cyclic phenomena, knowledge of land, sea, sky and waterways, how First Nations Australians perceive themselves and their environment
 *  exploring a media arts work that includes images, sound and/or text and communicates the diversity of First Nations Australians’ cultures, such as an interactive map of First Nations Australian languages, considering, for example, how media technologies and languages are used to communicate and create a relationship with the viewer
 
-### Developing practices and skills
+### Developing practices and skills {#developing-practices-and-skills}
 
-##### AC9AMA4D01
+##### AC9AMA4D01 {#ac9ama4d01}
 
 develop media production skills by exploring ways of shaping ideas using media technologies, images, sounds, text and/or interactive elements
 
@@ -62,9 +62,9 @@ develop media production skills by exploring ways of shaping ideas using media
 *  exploring media technologies and languages when creating sound effects or images to convey a mood or main idea of a story; for example, reviewing captured images, storyboarding, zooming in and out, deleting unwanted images, adding sound/text to images to create or support a story, considering how different options might be perceived by the intended audience
 *  using Viewpoints to develop questions to respond to their experiences as they work, such as, “In what ways does the meaning of the image change when I manipulate the sound effects?”, “Where is the suspense happening in this work, and how do I know?”, “Which images will best represent the story I am trying to tell?”
 
-### Creating and making
+### Creating and making {#creating-and-making}
 
-##### AC9AMA4C01
+##### AC9AMA4C01 {#ac9ama4c01}
 
 use media languages, media technologies and production processes to construct representations that communicate ideas, perspectives and/or meaning
 
@@ -76,9 +76,9 @@ use media languages, media technologies and production processes to construc
 *  filming a short sequence that focuses on conflict by selecting camera angles, lighting and/or costume to convey meaning without dialogue
 *  collaborating with others to make a small publication to explore ideas that are significant in their lives; for example, a zine or new website, using collaged images and texts and drawings
 
-### Presenting and performing
+### Presenting and performing {#presenting-and-performing}
 
-##### AC9AMA4P01
+##### AC9AMA4P01 {#ac9ama4p01}
 
 share media arts works in informal settings considering responsible media practice
 
@@ -87,7 +87,7 @@ share media arts works in informal settings considering responsible media practi
 *  seeking permission to take photos of class members; for example, documenting a school excursion for publication on the school intranet and acknowledging that this permission has been obtained when sharing the work
 *  considering media concepts, such as audience and relationships, when formatting and laying out a story, using available software and appropriate text conventions for a front-page news story or print advertisement
 
-## Achievement Standards
+## Achievement Standards {#achievement-standards}
 
 By the end of Year 4, students describe the use of media languages and media technologies to construct representations in media arts works they experience and/or produce. They describe where, why and/or how media arts works are created and/or distributed across cultures, times, places, and/or other contexts.
 

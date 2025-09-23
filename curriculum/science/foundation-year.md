@@ -1,6 +1,6 @@
-# Science - Foundation Year
+# Science - Foundation Year {#science-foundation-year}
 
-## Level Description
+## Level Description {#level-description}
 
 In Foundation, learning in Science builds on the Early Years Learning Framework and each student’s prior learning and experiences. Science encourages students to explore their environment and be curious about their surroundings.
 
@@ -8,21 +8,19 @@ Students build wonder and their natural curiosity by observing everyday objects,
 
 Inquiry questions can help excite students’ curiosity and challenge their thinking. Following are examples of inquiry questions that could be used to prompt discussion and exploration:
 
- 
-
 *   Why do we have different senses? How do we use them?
 *   Why is sorting important?
 *   How are a spider and a fly alike and different?
 *   Are wheels the only way to get around?
 *   Why do people describe things differently?
 
-## Strands
+## Strands {#strands}
 
-### Science understanding
+### Science understanding {#science-understanding}
 
-#### Biological sciences
+#### Biological sciences {#biological-sciences}
 
-##### AC9SFU01
+##### AC9SFU01 {#ac9sfu01}
 
 observe external features of plants and animals and describe ways they can be grouped based on these features
 
@@ -34,9 +32,9 @@ observe external features of plants and animals and describe ways they can be gr
 *  recognising First Nations Australians’ use of observable features to group living things
 *  exploring how First Nations Australians’ observations of external features of living things are replicated in traditional dance
 
-#### Physical sciences
+#### Physical sciences {#physical-sciences}
 
-##### AC9SFU02
+##### AC9SFU02 {#ac9sfu02}
 
 describe how objects move and how factors including their size, shape or material influence their movement
 
@@ -47,9 +45,9 @@ describe how objects move and how factors including their size, shape or materia
 *  exploring how the material a ball is made from affects the way it moves, such as plastic, foam, cloth or rubber balls on a surface
 *  exploring how the size and shape of traditional instructive toys used by First Nations Australians influence their movement
 
-#### Chemical sciences
+#### Chemical sciences {#chemical-sciences}
 
-##### AC9SFU03
+##### AC9SFU03 {#ac9sfu03}
 
 recognise that objects can be composed of different materials and describe the observable properties of those materials
 
@@ -62,11 +60,11 @@ recognise that objects can be composed of different materials and describe the o
 *  suggesting why different parts of everyday objects, such as saucepans and clothing, are made from different materials
 *  investigating the ways in which First Nations Australians make utensils for different purposes by combining different materials
 
-### Science as a human endeavour
+### Science as a human endeavour {#science-as-a-human-endeavour}
 
-#### Use and influence of science
+#### Use and influence of science {#use-and-influence-of-science}
 
-##### AC9SFH01
+##### AC9SFH01 {#ac9sfh01}
 
 explore the ways people make and use observations and questions to learn about the natural world
 
@@ -77,11 +75,11 @@ explore the ways people make and use observations and questions to learn about t
 *  interacting with stories or documentaries about scientists such as Dame Jane Goodall or Sir Joseph Banks and noticing the ways they make their observations such as through drawings, collections, sound recordings and photography and how they ask questions about what they think they will observe and find
 *  watching an age-appropriate documentary; noticing how people including scientists, engineers, naturalists or citizen scientists ask questions; and posing their own questions
 
-### Science inquiry
+### Science inquiry {#science-inquiry}
 
-#### Questioning and predicting
+#### Questioning and predicting {#questioning-and-predicting}
 
-##### AC9SFI01
+##### AC9SFI01 {#ac9sfi01}
 
 pose questions and make predictions based on experiences
 
@@ -91,9 +89,9 @@ pose questions and make predictions based on experiences
 *  making predictions before field work, such as which plants and animals they may observe in the school grounds
 *  making predictions about how an unusually shaped object such as an egg or a hexagonal block might move down a slope
 
-#### Planning and conducting
+#### Planning and conducting {#planning-and-conducting}
 
-##### AC9SFI02
+##### AC9SFI02 {#ac9sfi02}
 
 engage in investigations safely and make observations using their senses
 
@@ -103,9 +101,9 @@ engage in investigations safely and make observations using their senses
 *  using provided tools such as binoculars, magnifying glasses, digital photography or video to enhance their observations of plants and animals
 *  recording observations using numbers, dots, drawings, voice recordings, digital photography or video
 
-#### Processing, modelling and analysing
+#### Processing, modelling and analysing {#processing-modelling-and-analysing}
 
-##### AC9SFI03
+##### AC9SFI03 {#ac9sfi03}
 
 represent observations in provided templates and identify patterns with guidance
 
@@ -116,9 +114,9 @@ represent observations in provided templates and identify patterns with guidance
 *  identifying patterns of movement of objects, with guidance, such as that balls roll easily in a straight line when pushed, or toy cars move in certain ways because of their wheels
 *  identifying patterns in uses of everyday objects made of similar materials, such as wood, plastic, metal or glass
 
-#### Evaluating
+#### Evaluating {#evaluating}
 
-##### AC9SFI04
+##### AC9SFI04 {#ac9sfi04}
 
 compare observations with predictions with guidance
 
@@ -127,9 +125,9 @@ compare observations with predictions with guidance
 *  comparing, with guidance, observations of plants or animals made during field work with their predictions
 *  using a provided table to draw or dictate their prediction and their observation and identifying whether they are the same or different
 
-#### Communicating
+#### Communicating {#communicating}
 
-##### AC9SFI05
+##### AC9SFI05 {#ac9sfi05}
 
 share questions, predictions, observations and ideas with others
 
@@ -142,7 +140,7 @@ share questions, predictions, observations and ideas with others
 *  representing external features of animals and plants using a range of materials such as blocks, modelling clay, craft materials or paper
 *  communicating questions, predictions and observations using posters, collages, digital displays, drawings or storyboards
 
-## Achievement Standards
+## Achievement Standards {#achievement-standards}
 
 By the end of Foundation students group plants and animals based on external features. They identify factors that influence the movement of objects. They describe the observable properties of the materials that make up objects. They identify examples of people using observation and questioning to learn about the natural world.
 

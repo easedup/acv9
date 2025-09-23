@@ -1,6 +1,6 @@
-# The Arts - Drama - Years 1 and 2
+# Drama - Years 1 and 2 {#drama-years-1-and-2}
 
-## Level Description
+## Level Description {#level-description}
 
 In this band, learning in The Arts builds on each student’s prior learning and experiences. Students continue to learn through purposeful and creative play in structured learning programs designed to foster a strong sense of wellbeing and develop their connection with and contribution to the world. They work individually and in collaboration with peers and teachers, drawing on their imagination, real-life experiences and learnings from across the curriculum.
 
@@ -21,11 +21,11 @@ In this band, the focus is on students:
 5.  creating drama using forms such as dramatic play, process drama, puppetry, improvisation, Readers’ Theatre and/or mime and movement
 6.  performing/sharing drama in informal settings such as classroom presentations.
 
-## Strands
+## Strands {#strands}
 
-### Exploring and responding
+### Exploring and responding {#exploring-and-responding}
 
-##### AC9ADR2E01
+##### AC9ADR2E01 {#ac9adr2e01}
 
 explore where, why and how people across cultures, communities and/or other contexts experience drama
 
@@ -35,7 +35,7 @@ explore where, why and how people across cultures, communities and/or other cont
 *  asking questions about the drama they experience; for example, “How and why are these people making drama?”, “Where are they making drama?”, “What is the drama about?”
 *  considering how drama communicates cultural knowledge in their own communities; for example, exploring how drama communicates stories, traditions and experiences that are important to people, such as drama that communicates stories from cultures, countries or regions in Asia
 
-##### AC9ADR2E02
+##### AC9ADR2E02 {#ac9adr2e02}
 
 explore examples of drama created and/or performed by First Nations Australians
 
@@ -46,9 +46,9 @@ explore examples of drama created and/or performed by First Nations Australians
 *  exploring ways of communicating knowledge through stories; for example, learning about stories that communicate knowledge of the environment in their region, through direct engagement (co-creating drama to share the knowledge) or using resources created or co-created by First Nations Australians
 *  co-creating a Welcome to Country (as appropriate) or an Acknowledgement of Country to perform before their drama class with a First Nations Australian person who has cultural authority, or using advice from a resource such as protocols from their school sector
 
-### Developing practices and skills
+### Developing practices and skills {#developing-practices-and-skills}
 
-##### AC9ADR2D01
+##### AC9ADR2D01 {#ac9adr2d01}
 
 use the elements of drama and imagination in dramatic play and/or process drama
 
@@ -60,9 +60,9 @@ use the elements of drama and imagination in dramatic play and/or process drama
 *  taking turns in offering and accepting ideas, and staying in a role when participating in improvised drama
 *  brainstorming and discussing situations based on their experiences, such as situations related to games played during break time, and using these ideas to improvise drama
 
-### Creating and making
+### Creating and making {#creating-and-making}
 
-##### AC9ADR2C01
+##### AC9ADR2C01 {#ac9adr2c01}
 
 create and co-create fictional situations based on imagination and/or experience
 
@@ -77,9 +77,9 @@ create and co-create fictional situations based on imagination and/or experience
 *  accepting the pretence situation established by others or participating in its active development; for example, by creating relevant props and suggesting relevant roles or additional situations to explore
 *  using inquiry questions to propose situations to explore in dramatic play and process drama, such as “What else might happen to these characters?”, “What might happen next?”, “What might have happened before the story?”, “What if I was there?”
 
-### Presenting and performing
+### Presenting and performing {#presenting-and-performing}
 
-##### AC9ADR2P01
+##### AC9ADR2P01 {#ac9adr2p01}
 
 share their drama in informal settings
 
@@ -88,7 +88,7 @@ share their drama in informal settings
 *  performing sequences of frozen images linked by transitions in order to communicate key scenes from a familiar story
 *  considering their personal responses to drama experiences at school, in their homes or in their communities; for example, reflecting on their drama using questions such as, “What do you want your audience to think about your drama?”, “What did this drama make you think about?”, “How did you feel when making/watching the drama?”, and evaluating: “What did you like best in the drama? Why?”
 
-## Achievement Standards
+## Achievement Standards {#achievement-standards}
 
 By the end of Year 2, students identify where they experience drama. They describe where, why and/or how people across cultures, communities and/or other contexts experience drama.
 

@@ -1,6 +1,6 @@
-# English - Year 3
+# English - Year 3 {#english-year-3}
 
-## Level Description
+## Level Description {#level-description}
 
 The English curriculum is built around the 3 interrelated strands of _Language, Literature_ and _Literacy_. Together, the 3 strands focus on developing students’ knowledge, understanding and skills in listening, reading, viewing, speaking, writing and creating. Learning in English is recursive and cumulative, building on concepts, skills and processes developed in earlier years.
 
@@ -14,13 +14,13 @@ The range of literary texts for Foundation to Year 10 comprises the oral narrati
 
 Year 3 students create imaginative, informative and persuasive types of texts, which may include narratives, procedures, performances, reports, reviews, poetry and argument for particular purposes and audiences.
 
-## Strands
+## Strands {#strands}
 
-### Language
+### Language {#language}
 
-#### Language for interacting with others
+#### Language for interacting with others {#language-for-interacting-with-others}
 
-##### AC9E3LA01
+##### AC9E3LA01 {#ac9e3la01}
 
 understand that cooperation with others depends on shared understanding of social conventions, including turn-taking language, which vary according to the degree of formality
 
@@ -28,7 +28,7 @@ understand that cooperation with others depends on shared understanding of socia
 *  recognising and using collaborative language in group and pair work; for example, initiating a topic, changing a topic through negotiation, affirming other speakers and building on their comments, asking relevant questions, providing useful feedback, prompting, and checking individual and group understanding
 *  understanding some First Nations Australian cultural protocols, cultural practices, specific roles, and ways of interacting and speaking
 
-##### AC9E3LA02
+##### AC9E3LA02 {#ac9e3la02}
 
 understand how the language of evaluation and emotion, such as modal verbs, can be varied to be more or less forceful
 
@@ -37,9 +37,9 @@ understand how the language of evaluation and emotion, such as modal verbs, can 
 *  recognising how choice of adverbs, nouns and verbs present different evaluations of characters in texts
 *  exploring examples of language that demonstrate a range of emotions and positions, and building a vocabulary to express judgements about characters or events; for example, “the wizard was cunning, expert, inventive”
 
-#### Text structure and organisation
+#### Text structure and organisation {#text-structure-and-organisation}
 
-##### AC9E3LA03
+##### AC9E3LA03 {#ac9e3la03}
 
 describe how texts across the curriculum use different language features and structures relevant to their purpose
 
@@ -47,7 +47,7 @@ describe how texts across the curriculum use different language features and str
 *  identifying the stages of a basic argument such as introduction, argument one, argument 2 and conclusion
 *  describing the typical text structure and language features of factual recounts, autobiographies, information reports, narratives, personal responses to literary texts (with reasons), sequential explanations, verse poetry and simple arguments, and describe their purposes
 
-##### AC9E3LA04
+##### AC9E3LA04 {#ac9e3la04}
 
 understand that paragraphs are a key organisational feature of the stages of written texts, grouping related information together
 
@@ -56,7 +56,7 @@ understand that paragraphs are a key organisational feature of the stages of wri
 *  recognising that paragraphs in narrative texts vary in length and do not always follow a predictable structure
 *  examining models of well-constructed paragraphs and identifying their features
 
-##### AC9E3LA05
+##### AC9E3LA05 {#ac9e3la05}
 
 identify the purpose of layout features in print and digital texts and the words used for navigation
 
@@ -65,9 +65,9 @@ identify the purpose of layout features in print and digital texts and the words
 *  discussing words used as headings and subheadings in digital and print information texts
 *  discussing words used for chapter headings in narratives
 
-#### Language for expressing and developing ideas
+#### Language for expressing and developing ideas {#language-for-expressing-and-developing-ideas}
 
-##### AC9E3LA06
+##### AC9E3LA06 {#ac9e3la06}
 
 understand that a clause is a unit of grammar usually containing a subject and a verb that need to agree
 
@@ -75,7 +75,7 @@ understand that a clause is a unit of grammar usually containing a subject and a
 *  identifying clauses in texts by locating verbs and the key words that link to the verbs; for example, “While the cat slept, the mouse scurried across the path.”
 *  identifying that a singular subject has a singular verb and a plural subject has a plural verb; for example, “The girls play cricket.” “The girl plays cricket.”
 
-##### AC9E3LA07
+##### AC9E3LA07 {#ac9e3la07}
 
 understand how verbs represent different processes for doing, feeling, thinking, saying and relating
 
@@ -85,7 +85,7 @@ understand how verbs represent different processes for doing, feeling, thinking,
 *  exploring the use of relating verbs in constructing definitions and descriptions; for example, identifying the relating verb “is” or “are”, “has” or “have” in descriptions of animals
 *  identifying different types of verbs and the way they control meaning in a clause
 
-##### AC9E3LA08
+##### AC9E3LA08 {#ac9e3la08}
 
 understand that verbs are anchored in time through tense
 
@@ -93,7 +93,7 @@ understand that verbs are anchored in time through tense
 *  learning how time is represented through the tense of a verb; for example, “She arrived.” “She is arriving.” and adverbials of time; for example, “She arrived yesterday.” “She is arriving in the morning.”
 *  learning that tenses for some verbs are formed by changing the word; for example, “She catches the ball.” “She caught the ball.”
 
-##### AC9E3LA09
+##### AC9E3LA09 {#ac9e3la09}
 
 identify how images extend the meaning of a text
 
@@ -101,7 +101,7 @@ identify how images extend the meaning of a text
 *  recognising how the relationship between characters can be depicted in images through the positioning of the characters; for example, facing each other or facing away from each other, the distance between them, the relative size, one character looking up (or down) at the other (power relationships), facial expressions and body gestures
 *  recognising how images construct a relationship with the viewer through direct gaze into the viewer's eyes, inviting involvement, and how close-ups are more engaging than distanced images, which can suggest alienation or loneliness
 
-##### AC9E3LA10
+##### AC9E3LA10 {#ac9e3la10}
 
 extend topic-specific and technical vocabulary and know that words can have different meanings in different contexts
 
@@ -111,7 +111,7 @@ extend topic-specific and technical vocabulary and know that words can have diff
 *  identifying words that have different meanings in different contexts; for example, “warm temperature” and “warm character”
 *  extending vocabulary by adding prefixes and suffixes to base words; for example, “different”, “differently” and “difference”
 
-##### AC9E3LA11
+##### AC9E3LA11 {#ac9e3la11}
 
 understand that apostrophes signal missing letters in contractions, and apostrophes are used to show singular and plural possession
 
@@ -120,11 +120,11 @@ understand that apostrophes signal missing letters in contractions, and apostrop
 *  using apostrophes to show singular possession; for example, “my friend’s book” and “the princess’s shoe”
 *  using apostrophes to show plural possession; for example, “the bees’ hive” and the “princesses’ shoes”
 
-### Literature
+### Literature {#literature}
 
-#### Literature and contexts
+#### Literature and contexts {#literature-and-contexts}
 
-##### AC9E3LE01
+##### AC9E3LE01 {#ac9e3le01}
 
 discuss characters, events and settings in different contexts in literature by First Nations Australian, and wide-ranging Australian and world authors and illustrators
 
@@ -134,9 +134,9 @@ discuss characters, events and settings in different contexts in literature by F
 *  discussing similarities and differences in the way the wolf is portrayed in different versions of children’s stories by wide-ranging world authors
 *  exploring the ways Australian settings are portrayed in stories
 
-#### Engaging with and responding to literature
+#### Engaging with and responding to literature {#engaging-with-and-responding-to-literature}
 
-##### AC9E3LE02
+##### AC9E3LE02 {#ac9e3le02}
 
 discuss connections between personal experiences and character experiences in literary texts and share personal preferences
 
@@ -144,9 +144,9 @@ discuss connections between personal experiences and character experiences in li
 *  discussing relevant prior knowledge and past experiences to make meaningful connections to the people, places, events, issues and ideas in texts
 *  selecting and discussing favourite texts and explaining reasons for assigning greater or lesser merit to particular texts or types of texts
 
-#### Examining literature
+#### Examining literature {#examining-literature}
 
-##### AC9E3LE03
+##### AC9E3LE03 {#ac9e3le03}
 
 discuss how an author uses language and illustrations to portray characters and settings in texts, and explore how the settings and events influence the mood of the narrative
 
@@ -154,7 +154,7 @@ discuss how an author uses language and illustrations to portray characters and 
 *  identifying and discussing how the use of descriptive language creates setting and influences atmosphere, and draws readers into events that follow; for example, “The castle loomed dark and forbidding.”
 *  discussing the language used to describe the traits of characters in stories, their actions and motivations; for example, “Claire was so lonely; she desperately wanted a pet, so she hatched a plan to get what she wanted.”
 
-##### AC9E3LE04
+##### AC9E3LE04 {#ac9e3le04}
 
 discuss the effects of some literary devices used to enhance meaning and shape the reader’s reaction, including rhythm and onomatopoeia in poetry and prose
 
@@ -162,9 +162,9 @@ discuss the effects of some literary devices used to enhance meaning and shape t
 *  discussing the effects of imagery in texts; for example, the use of imagery related to nature in haiku poems
 *  generating questions to discuss effects; for example, “Why does the poet use onomatopoeia in this line of the poem?”
 
-#### Creating literature
+#### Creating literature {#creating-literature}
 
-##### AC9E3LE05
+##### AC9E3LE05 {#ac9e3le05}
 
 create and edit imaginative texts, using or adapting language features, characters, settings, plot structures and ideas encountered in literary texts
 
@@ -173,11 +173,11 @@ create and edit imaginative texts, using or adapting language features, characte
 *  adapting texts read, viewed and listened to by changing the setting or revising an ending
 *  discussing characters encountered in literary texts and sharing ideas about how those characters may be a model for their own writing
 
-### Literacy
+### Literacy {#literacy}
 
-#### Texts in context
+#### Texts in context {#texts-in-context}
 
-##### AC9E3LY01
+##### AC9E3LY01 {#ac9e3ly01}
 
 recognise how texts can be created for similar purposes but different audiences
 
@@ -185,9 +185,9 @@ recognise how texts can be created for similar purposes but different audiences
 *  identifying the ways in which a safety campaign varies depending on its audience; for example, comparing how a road safety campaign for adults driving is different to a road safety campaign for children crossing the road
 *  identifying how the instructions for assembling and using toys vary according to the age of the user
 
-#### Interacting with others
+#### Interacting with others {#interacting-with-others}
 
-##### AC9E3LY02
+##### AC9E3LY02 {#ac9e3ly02}
 
 use interaction skills to contribute to conversations and discussions to share information and ideas
 
@@ -197,9 +197,9 @@ use interaction skills to contribute to conversations and discussions to share i
 *  learning the specific speaking or listening skills of different group roles; for example, group leader, note taker and reporter
 *  using language appropriately in different situations; for example, explaining a procedure to a group, engaging in a game with friends
 
-#### Analysing, interpreting and evaluating 
+#### Analysing, interpreting and evaluating  {#analysing-interpreting-and-evaluating}
 
-##### AC9E3LY03
+##### AC9E3LY03 {#ac9e3ly03}
 
 identify the audience and purpose of imaginative, informative and persuasive texts through their use of language features and/or images
 
@@ -208,7 +208,7 @@ identify the audience and purpose of imaginative, informative and persuasive tex
 *  identifying features of advertisements that target children
 *  identifying the purpose of an imaginative text; for example, identifying the purpose of a fable
 
-##### AC9E3LY04
+##### AC9E3LY04 {#ac9e3ly04}
 
 read a range of texts using phonic, semantic and grammatical knowledge to read accurately and fluently, re-reading and self-correcting when required
 
@@ -216,7 +216,7 @@ read a range of texts using phonic, semantic and grammatical knowledge to read a
 *  using phonic knowledge, word knowledge, vocabulary and grammatical knowledge to read unknown words
 *  reading a wider range of texts from different learning areas, including chapter books and informative texts
 
-##### AC9E3LY05
+##### AC9E3LY05 {#ac9e3ly05}
 
 use comprehension strategies when listening and viewing to build literal and inferred meaning, and begin to evaluate texts by drawing on a growing knowledge of context, text structures and language features
 
@@ -228,9 +228,9 @@ use comprehension strategies when listening and viewing to build literal and inf
 *  drawing inferences, using evidence from the text and prior knowledge and experience; for example, making predictions about a character's likely actions or about the content of tabbed pages on a website
 *  determining the relevance of a text for a particular task
 
-#### Creating texts
+#### Creating texts {#creating-texts}
 
-##### AC9E3LY06
+##### AC9E3LY06 {#ac9e3ly06}
 
 plan, create, edit and publish imaginative, informative and persuasive written and multimodal texts, using visual features, appropriate form and layout, with ideas grouped in simple paragraphs, mostly correct tense, topic-specific vocabulary and correct spelling of most high-frequency and phonetically regular words
 
@@ -243,7 +243,7 @@ plan, create, edit and publish imaginative, informative and persuasive written a
 *  using print and online dictionaries, and spellcheck to edit spelling, realising that spellcheck accuracy depends on understanding the word function; for example, “there” or “their” and “rain” or “reign”
 *  checking for correct use of apostrophes for contractions and to indicate possession
 
-##### AC9E3LY07
+##### AC9E3LY07 {#ac9e3ly07}
 
 plan, create, rehearse and deliver short oral and/or multimodal presentations to inform, express opinions or tell stories, using a clear structure, details to elaborate ideas, topic-specific and precise vocabulary, visual features, and appropriate tone, pace, pitch and volume
 
@@ -253,15 +253,15 @@ plan, create, rehearse and deliver short oral and/or multimodal presentations to
 *  adjusting tone and pace to purpose and audience
 *  explaining ideas to a peer when planning a presentation
 
-##### AC9E3LY08
+##### AC9E3LY08 {#ac9e3ly08}
 
 write words using joined letters that are clearly formed and consistent in size
 
 **Elaborations**
 
-#### Phonic and word knowledge
+#### Phonic and word knowledge {#phonic-and-word-knowledge}
 
-##### AC9E3LY09
+##### AC9E3LY09 {#ac9e3ly09}
 
 understand how to apply knowledge of phoneme–grapheme (sound–letter) relationships, syllables, and blending and segmenting to fluently read and write multisyllabic words with more complex letter patterns
 
@@ -269,7 +269,7 @@ understand how to apply knowledge of phoneme–grapheme (sound–letter) relatio
 *  reading and writing more complex words with consonant digraphs and consonant blends; for example, “shrinking”, “against” and “rocket”
 *  reading and writing consonant digraphs representing different sounds; for example, “machine”, “change” and “school”
 
-##### AC9E3LY10
+##### AC9E3LY10 {#ac9e3ly10}
 
 understand how to apply knowledge of common base words, prefixes, suffixes and generalisations for adding a suffix to a base word to read and comprehend new multimorphemic words
 
@@ -277,7 +277,7 @@ understand how to apply knowledge of common base words, prefixes, suffixes and g
 *  understanding how to use knowledge of prefixes to change the meaning of a base word; for example, “undone”, “remove” and “misunderstand”
 *  using generalisations for adding a suffix to a base word to form a plural or past tense; for example, to make a word plural when it ends in “ss”, “sh”, “ch” or “z”, add “es”
 
-##### AC9E3LY11
+##### AC9E3LY11 {#ac9e3ly11}
 
 use phoneme–grapheme (sound–letter) relationships and less common letter patterns to spell words
 
@@ -285,14 +285,14 @@ use phoneme–grapheme (sound–letter) relationships and less common letter pat
 *  using phonic knowledge to explore less common letter patterns after short vowels; for example, words that end in “dge”, “badge”, “edge” and “fridge”
 *  using phonic knowledge and knowledge of letter patterns to spell words with 3-letter blends; for example, “str-ip”
 
-##### AC9E3LY12
+##### AC9E3LY12 {#ac9e3ly12}
 
 recognise and know how to write most high-frequency words including some homophones
 
 **Elaborations**
 *  using context and syntactic knowledge to spell homophones; for example, “break” or “brake” and “ate” or “eight”
 
-## Achievement Standards
+## Achievement Standards {#achievement-standards}
 
 By the end of Year 3, students interact with others, and listen to and create spoken and/or multimodal texts including stories. They relate ideas; express opinion, preferences and appreciation of texts; and include relevant details from learnt topics, topics of interest or texts. They group, logically sequence and link ideas. They use language features including topic-specific vocabulary, and/or visual features and features of voice.
 

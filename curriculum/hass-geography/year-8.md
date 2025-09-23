@@ -1,6 +1,6 @@
-# Humanities and Social Sciences - Geography 7-10 - Year 8
+# Geography - Year 8 {#geography-year-8}
 
-## Level Description
+## Level Description {#level-description}
 
 The Year 8 curriculum involves the study of 2 sub-strands.
 
@@ -18,13 +18,13 @@ Inquiry questions provide a framework for developing students’ knowledge, unde
 *   How do the interconnections between places, people and environments affect the lives of people?
 *   What are the consequences of changes to places and environments, and how can these changes be managed?
 
-## Strands
+## Strands {#strands}
 
-### Knowledge and understanding
+### Knowledge and understanding {#knowledge-and-understanding}
 
-#### Landscapes and landforms
+#### Landscapes and landforms {#landscapes-and-landforms}
 
-##### AC9HG8K01
+##### AC9HG8K01 {#ac9hg8k01}
 
 geomorphological processes that produce different landscapes and significant landforms
 
@@ -34,7 +34,7 @@ geomorphological processes that produce different landscapes and significant lan
 *  explaining the effects of rock type on a selected landform at the local scale; such as Fraser Island, Queensland or Twelve Apostles, Victoria; for example, sedimentary – igneous and metamorphic; chemical weathering – oxidation and solution; physical weathering – exfoliation and frost wedging
 *  explaining the effects of erosion, transportation and deposition of water and wind on a selected landform at the local scale; for example, Fraser Island, Queensland, formed by wind, waves and ocean currents; the Twelve Apostles, Victoria, formed by erosion, tides and ocean currents
 
-##### AC9HG8K02
+##### AC9HG8K02 {#ac9hg8k02}
 
 the location and distribution of Australia’s distinctive landscapes and significant landforms
 
@@ -44,7 +44,7 @@ the location and distribution of Australia’s distinctive landscapes and sig
 *  comparing the distribution of Australia’s distinctive landscapes with distinctive landscapes in another country; for example, grasslands in Arnhem Land in northern Australia compared to grasslands in Mongolia; tropical rainforests in northern Australia compared to forests in Laos and Cambodia
 *  explaining the significance of a landform important to First Nations Australians; for example, the names, meanings and significance of the Three Sisters in the Blue Mountains, New South Wales; Budj Bim cultural landscape within Gunditjmara Country; Uluru-Kata Tjuta National Park in Northern Territory
 
-##### AC9HG8K03
+##### AC9HG8K03 {#ac9hg8k03}
 
 the spiritual, aesthetic and cultural value of landscapes and landforms for people, including Country/Place of First Nations Australians
 
@@ -56,7 +56,7 @@ the spiritual, aesthetic and cultural value of landscapes and landforms for peop
 *  discussing the multilayered meanings (material, cultural and spiritual wellbeing) associated with landscapes and significant landforms for First Nations Australians
 *  explaining the formation of a landform with reference to the special connections First Nations Australians have to Country/Place
 
-##### AC9HG8K04
+##### AC9HG8K04 {#ac9hg8k04}
 
 the interconnections between human activity and geomorphological processes, and ways of managing distinctive landscapes
 
@@ -66,7 +66,7 @@ the interconnections between human activity and geomorphological processes, and 
 *  explaining the effects of river regulation, including dams, locks, channel straightening and drains, on the quality of riverine and wetland environments; for example, the Three Gorges Dam on the Yangtze River in China, or dams and weirs on the Murray–Darling River system
 *  identifying the contribution of the knowledges of First Nations Australians to the use and management of distinctive landscapes; for example, Indigenous Peoples’ Knowledge (IPK) incorporated into modern management of diverse landscapes and landforms such as Kakadu National Park, Uluru, the Great Barrier Reef and the Snowy Mountains
 
-##### AC9HG8K05
+##### AC9HG8K05 {#ac9hg8k05}
 
 the causes and impacts of a geomorphological hazard on people, places and environments, and the effects of responses
 
@@ -76,9 +76,9 @@ the causes and impacts of a geomorphological hazard on people, places and env
 *  reflecting on observations of a location where the environment has been altered by human activities to explain how the change has heightened the impact of a hazard
 *  reflecting on the principles of prevention, mitigation and preparedness to explain how the harmful effects of a hazard can be reduced by the implementation of a management strategy
 
-#### Changing nations
+#### Changing nations {#changing-nations}
 
-##### AC9HG8K06
+##### AC9HG8K06 {#ac9hg8k06}
 
 causes of urbanisation and its impacts on places and environments, drawing on a study from a country such as the United States of America, and its implications
 
@@ -89,7 +89,7 @@ causes of urbanisation and its impacts on places and environments, drawing on a 
 *  explaining the connections between urbanisation and economic and social opportunities; for example, the location of universities, sporting stadiums or parliaments in capital cities
 *  explaining how urbanisation can positively or negatively affect the quality of the environment; for example, increases in carbon emissions or increases in water consumption
 
-##### AC9HG8K07
+##### AC9HG8K07 {#ac9hg8k07}
 
 differences in the distribution of urban settlements and urban concentration in Australia compared with another country such as the United States of America, and their implications
 
@@ -99,7 +99,7 @@ differences in the distribution of urban settlements and urban concentration in 
 *  examining the effects of urban concentration in a country other than Australia; for example, the decline in biodiversity and increase in waste, the increase in carbon emissions leading to a large carbon footprint, or the decline in access to adequate clean water and the development of slums
 *  interpreting and explaining the relationship between population density and proximity to urban centres at the national scale; for example, higher population density towards the urban central business district (CBD) as a centre of employment, education, culture and government, such as in Brisbane, and declining towards the rural-urban fringe (core and periphery)
 
-##### AC9HG8K08
+##### AC9HG8K08 {#ac9hg8k08}
 
 reasons for, and effects of, internal migration and international migration in Australia, China or other countries
 
@@ -111,7 +111,7 @@ reasons for, and effects of, internal migration and international migration in
 *  interpreting population data and describing the relationship between international migration and urban concentration within Australia, and internal migration and urban concentration within China
 *  exploring the connections between the cultural diversity of places and how they are affected by internal and international migration; for example, in Australia or China
 
-##### AC9HG8K09
+##### AC9HG8K09 {#ac9hg8k09}
 
 strategies to manage the sustainability of Australia’s changing urban places
 
@@ -119,11 +119,11 @@ strategies to manage the sustainability of Australia’s changing urban places
 *  examining a strategy used by local, state or national governments to manage projected population growth in one of Australia’s cities or regional urban centres, and identifying implications for sustainability (environmental, economic and social factors) and liveability
 *  generating ideas for a strategy for a more balanced distribution of urban population, such as decentralisation, using Canberra as an example
 
-### Skills
+### Skills {#skills}
 
-#### Questioning and researching using geographical methods
+#### Questioning and researching using geographical methods {#questioning-and-researching-using-geographical-methods}
 
-##### AC9HG8S01
+##### AC9HG8S01 {#ac9hg8s01}
 
 develop questions for a geographical inquiry related to a phenomenon or challenge
 
@@ -131,7 +131,7 @@ develop questions for a geographical inquiry related to a phenomenon or challeng
 *  developing questions to investigate why a geographical phenomenon has changed or why a challenge may arise; for example, “How does urban development affect the sustainability of wetlands?”, “Why is biodiversity declining in urban places?”
 *  planning an investigation of a geographical phenomenon or challenge being studied, at a range of scales using digital planning tools; for example, how geomorphological processes produce significant landforms at the local scale, or the causes and consequences of urbanisation at the national scale
 
-##### AC9HG8S02
+##### AC9HG8S02 {#ac9hg8s02}
 
 collect, organise and represent data and information from primary research methods, including fieldwork and secondary research materials, using geospatial technologies and digital tools as appropriate
 
@@ -144,9 +144,9 @@ collect, organise and represent data and information from primary research m
 *  representing relevant and reliable data and information in appropriate formats to combine ideas, using digital tools; for example, creating annotated diagrams to show the changes to a landform over time or using digital mapping tools to show the cultural and demographic diversity of First Nations Australians
 *  representing spatial distributions of different types of geographical phenomena by constructing appropriate maps at different scales that conform to cartographic conventions; for example, constructing a map to show the relationship between landforms such as mountains and landscapes such as deserts, or contrasting the spatial distribution of population in Australia and/or China
 
-#### Interpreting and analysing geographical data and information
+#### Interpreting and analysing geographical data and information {#interpreting-and-analysing-geographical-data-and-information}
 
-##### AC9HG8S03
+##### AC9HG8S03 {#ac9hg8s03}
 
 interpret and analyse geographical data and information to identify similarities and differences, explain patterns and trends and infer relationships
 
@@ -155,9 +155,9 @@ interpret and analyse geographical data and information to identify similarities
 *  explaining patterns and trends; for example, comparing compound graphs or census data for different time periods to identify patterns in urban concentration in Australia and the United States of America, or trends in international migration
 *  inferring relationships from data and information collected during primary research; for example, using observations, field sketches, field measurements, questionnaires or interviews to explain the distribution of population in your local area and suggesting possible causes, effects and trends
 
-#### Concluding and decision-making
+#### Concluding and decision-making {#concluding-and-decision-making}
 
-##### AC9HG8S04
+##### AC9HG8S04 {#ac9hg8s04}
 
 draw conclusions based on the analysis of the data and information
 
@@ -165,7 +165,7 @@ draw conclusions based on the analysis of the data and information
 *  drawing on the results of an analysis and using at least one of the concepts of place, space, environment, interconnections, sustainability, scale or change as an organiser to respond to a question; for example, using research about the value of distinctive landscapes to form conclusions about the influence they have on peoples’ lives or an analysis of the distribution of urban settlements to form conclusions about how space is used
 *  explaining reasons for decisions and choices; for example, reflecting on research findings or data analysis of the impacts of geomorphological hazards or urbanisation to identify and explain significant impacts on people, places and environments
 
-##### AC9HG8S05
+##### AC9HG8S05 {#ac9hg8s05}
 
 identify a strategy for action in relation to environmental, economic, social or other factors, and explain potential impacts
 
@@ -175,9 +175,9 @@ identify a strategy for action in relation to environmental, economic, social 
 *  evaluating the effectiveness of a strategy in relation to environmental, economic and social factors
 *  reflecting on personal values and attitudes and how these influence explanations of potential outcomes; for example, applying sustainable design principles to urban redevelopment projects that provide green, open spaces for citizens
 
-#### Communicating
+#### Communicating {#communicating}
 
-##### AC9HG8S06
+##### AC9HG8S06 {#ac9hg8s06}
 
 create descriptions, explanations and responses, using geographical knowledge and methods, concepts, terms and reference sources
 
@@ -186,7 +186,7 @@ create descriptions, explanations and responses, using geographical knowledge a
 *  constructing an explanation, using research findings to support ideas, such as the causes and effects of a geographical phenomenon or challenge, and reinforcing knowledge and understanding of the interconnections between people, places and the environment
 *  developing a response, using representations of data and information to support actions and conclusions, such as a map showing the location of iconic landforms or a flow map showing the international movement of refugees
 
-## Achievement Standards
+## Achievement Standards {#achievement-standards}
 
 By the end of Year 8, students explain how the interactions of people and environmental processes impact on the characteristics of places. They explain how the characteristics of places are perceived and valued differently by people. They describe the effects of human activity or hazards on environments. They explain the features of a distribution and identify implications. They explain the interconnections between people and places and environments. They explain how these interconnections change places or environments. Students explain responses or strategies to address a geographical phenomenon or challenge, referring to environmental, economic or social factors.
 

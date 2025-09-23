@@ -1,6 +1,6 @@
-# Mathematics - Year 10
+# Mathematics - Year 10 {#mathematics-year-10}
 
-## Level Description
+## Level Description {#level-description}
 
 In Year 10, learning in Mathematics builds on each student’s prior learning and experiences. Students engage in a range of approaches to learning and doing mathematics that develop their understanding of and fluency with concepts, procedures and processes by making connections, reasoning, problem-solving and practice. Proficiency in mathematics enables students to respond to familiar and unfamiliar situations by employing mathematical strategies to make informed decisions and solve problems efficiently.
 
@@ -15,11 +15,11 @@ Students further develop proficiency and positive dispositions towards mathemati
 *   investigate conditional probability and its relation to dependent and independent events, including sampling with and without replacement; devise and use simulations to test intuitions involving chance events that may or may not be independent
 *   compare different ways of representing the distribution of continuous data and interpret key features of the distribution; explore association between pairs of variables, decide the form of representation, interpret the data with respect to the context and discuss possible conclusions; use scatterplots to informally discuss and consider association between 2 numerical variables and informally consider lines of good fit by eye, interpolation, extrapolation and limitations.
 
-## Strands
+## Strands {#strands}
 
-### Number
+### Number {#number}
 
-##### AC9M10N01
+##### AC9M10N01 {#ac9m10n01}
 
 recognise the effect of using approximations of real numbers in repeated calculations and compare the results when using exact representations
 
@@ -27,9 +27,9 @@ recognise the effect of using approximations of real numbers in repeated calcula
 *  comparing and contrasting the effect of truncation or rounding on the final result of calculations when using approximations of real numbers rather than exact representations
 *  investigating the impact of approximation on multiple calculations in contexts that involve the area of compound shapes involving circles, the surface area and volume of compound objects, and repeated calculations of simple interest where the solutions are not exact cents
 
-### Algebra
+### Algebra {#algebra}
 
-##### AC9M10A01
+##### AC9M10A01 {#ac9m10a01}
 
 expand, factorise and simplify expressions and solve equations algebraically, applying exponent laws involving products, quotients and powers of variables, and the distributive property
 
@@ -37,7 +37,7 @@ expand, factorise and simplify expressions and solve equations algebraically, ap
 *  explaining the relationship between factorisation and expansion, including the completed square form for quadratic expressions
 *  applying knowledge of exponent laws to algebraic terms and using both positive and negative integral exponents to simplifying algebraic expressions and solve equations algebraically
 
-##### AC9M10A02
+##### AC9M10A02 {#ac9m10a02}
 
 solve linear inequalities and simultaneous linear equations in 2 variables; interpret solutions graphically and communicate solutions in terms of the situation
 
@@ -49,7 +49,7 @@ solve linear inequalities and simultaneous linear equations in 2 variables; inte
 *  testing when a circle of a specified radius has a corresponding area greater than a given value, or whether a point satisfies an inequality; for example, whether the point (\(3, 5\)) satisfies \(2y<x^2\)
 *  investigating the strategies inherent in First Nations Australian children’s instructive games; for example, Weme from the Warlpiri Peoples of central Australia, and their connection to strategies to solve simultaneous linear equations in \(2\) variables
 
-##### AC9M10A03
+##### AC9M10A03 {#ac9m10a03}
 
 recognise the connection between algebraic and graphical representations of exponential relations and solve related exponential equations, using digital tools where appropriate
 
@@ -59,7 +59,7 @@ recognise the connection between algebraic and graphical representations of expo
 *  using digital tools with symbolic manipulation functionality to systematically explore exponential relations
 *  investigating First Nations Australian Ranger groups’ and other groups’ programs that attempt to eradicate feral animals for survival of native animals on Country/Place, exploring the competition between feral and native animals and their impact on natural resources by formulating exponential equations for population growth for each animal species
 
-##### AC9M10A04
+##### AC9M10A04 {#ac9m10a04}
 
 use mathematical modelling to solve applied problems involving growth and decay, including financial contexts; formulate problems, choosing to apply linear, quadratic or exponential models; interpret solutions in terms of the situation; evaluate and modify models as necessary and report assumptions, methods and findings
 
@@ -70,7 +70,7 @@ use mathematical modelling to solve applied problems involving growth and decay,
 *  modelling and investigating how exponential equations are used in carbon dating to estimate the age of First Nations Australians’ artefacts or material culture
 *  modelling and formulating situations involving population growths of native animals on Country/Place with varying reproductive behaviour, using exponential equations and critiquing their applicability to real-world situations
 
-##### AC9M10A05
+##### AC9M10A05 {#ac9m10a05}
 
 experiment with functions and relations using digital tools, making and testing conjectures and generalising emerging patterns
 
@@ -83,9 +83,9 @@ experiment with functions and relations using digital tools, making and testing 
 *  using a table of values to determine when an exponential growth or decay function exceeds or falls below a given value, such as monitoring the trend in value of a share price in a context of exponential growth or decay
 *  investigating how functions and relations serve as the mathematical underpinnings of machine learning, allowing data to be transformed, models to be defined and optimisation to occur
 
-### Measurement
+### Measurement {#measurement}
 
-##### AC9M10M01
+##### AC9M10M01 {#ac9m10m01}
 
 solve problems involving the surface area and volume of composite objects using appropriate units
 
@@ -94,7 +94,7 @@ solve problems involving the surface area and volume of composite objects using 
 *  estimating the surface area and volume of composite objects in practical contexts
 *  using mathematical modelling to provide solutions to problems involving surface area and volume; for example, ascertaining the rainfall that can be saved from a roof top and the optimal shape and dimensions for rainwater storage based on where it will be located on a property; determining whether to hire extra freezer space for the amount of ice cream required at a fundraising event for the school or community
 
-##### AC9M10M02
+##### AC9M10M02 {#ac9m10m02}
 
 interpret and use logarithmic scales  in applied contexts involving small and large quantities and change
 
@@ -105,7 +105,7 @@ interpret and use logarithmic scales  in applied contexts involving small
 *  investigating how logarithmic scaling can be used in machine learning algorithms to compress large values while preserving small ones, allowing the algorithms to efficiently work on problems with a wide range of values
 *  investigating dating methods of geological sites to provide evidence of First Peoples of Australia’s human presence in Australia, including the Madjedbebe dig in the Northern Territory, that use logarithmic scales (scientific notation) and measurement accuracy in the dating
 
-##### AC9M10M03
+##### AC9M10M03 {#ac9m10m03}
 
 solve practical problems applying Pythagoras’ theorem and trigonometry of right-angled triangles, including problems involving direction and angles of elevation and depression
 
@@ -117,7 +117,7 @@ solve practical problems applying Pythagoras’ theorem and trigonometry of rig
 *  investigating how autonomous vehicles use algorithms that use Pythagoras' theorem and trigonometry to calculate distance and navigate spaces; for example, if  an autonomous vehicle knows its current position \((x, y)\) and the coordinates of a target location \((x', y')\), it can determine the straight-line distance between them using the formula distance \(=\sqrt{(x'-x)^2 + (y'-y)^2}\)
 *  exploring navigation, design of technologies or surveying by First Nations Australians, investigating geometric and spatial reasoning, and how these connect to trigonometry
 
-##### AC9M10M04
+##### AC9M10M04 {#ac9m10m04}
 
 identify the impact of measurement errors on the accuracy of results in practical contexts
 
@@ -128,7 +128,7 @@ identify the impact of measurement errors on the accuracy of results in practica
 *  investigating the impact of measurement errors in the perception and control systems of autonomous vehicles, such as measurement errors due to sensor limitations
 *  investigating scientific measuring techniques, including dating methods and genetic sequencing, applied to First Peoples of Australia and their artefacts, and the social impact of measurement errors
 
-##### AC9M10M05
+##### AC9M10M05 {#ac9m10m05}
 
 use mathematical modelling to solve practical problems involving proportion and scaling of objects; formulate problems and interpret solutions in terms of the situation; evaluate and modify models as necessary, and report assumptions, methods and findings
 
@@ -139,9 +139,9 @@ use mathematical modelling to solve practical problems involving proportion and
 *  investigating compliance with building codes and standards in design and construction, such as for escalators in shopping centres
 *  investigating how artificial intelligence  image generators use proportion and scaling techniques, such as aspect ratio preservation, to ensure that the generated content adheres to realistic visual principles and maintains appropriate relationships between objects and elements within the scene
 
-### Space
+### Space {#space}
 
-##### AC9M10SP01
+##### AC9M10SP01 {#ac9m10sp01}
 
 apply deductive reasoning to proofs involving shapes in the plane and use theorems to solve spatial problems
 
@@ -153,7 +153,7 @@ apply deductive reasoning to proofs involving shapes in the plane and use theor
 *  using dynamic geometric software to investigate the shortest path that touches 3 sides of a rectangle, starting and finishing at the same point and proving that the path forms a parallelogram
 *  investigating how automated theorem provers (ATP) and interactive proof assistants (IPA) allow mathematicians and artificial intelligence systems to work collaboratively to construct or test formal proofs
 
-##### AC9M10SP02
+##### AC9M10SP02 {#ac9m10sp02}
 
 interpret networks and network diagrams used to represent relationships in practical situations and describe connectedness
 
@@ -166,7 +166,7 @@ interpret networks and network diagrams used to represent relationships in pract
 *  investigating the use of networks to represent authentic situations; for example, rail or air travel between or within London, Paris, Hong Kong; a food web representing a simple eco-system; metabolic networks and other chemical or biological structures
 *  representing First Nations Australians’ kinship systems using network diagrams and exploring the significance of relationships to Country/Place
 
-##### AC9M10SP03
+##### AC9M10SP03 {#ac9m10sp03}
 
 design, test and refine solutions to spatial problems using algorithms and digital tools; communicate and justify solutions
 
@@ -177,9 +177,9 @@ design, test and refine solutions to spatial problems using algorithms and digit
 *  designing, creating and testing algorithms using pseudocode or flow charts for producing self-similar patterns; validating algorithms using a range of test cases to compare their output
 *  exploring geospatial technologies used by First Nations Australians’ communities to consider spatial problems including position and transformation
 
-### Statistics
+### Statistics {#statistics}
 
-##### AC9M10ST01
+##### AC9M10ST01 {#ac9m10st01}
 
 analyse claims, inferences and conclusions of statistical reports in the media, including ethical considerations and identification of potential sources of bias
 
@@ -191,7 +191,7 @@ analyse claims, inferences and conclusions of statistical reports in the media, 
 *  recognising how the identification of bias is a critical aspect of machine learning and deep learning because biases can significantly impact the fairness, accuracy and ethical implications of artificial intelligence systems
 *  using the concept of Indigenous data sovereignty to critique and evaluate the Australian Government’s “Closing the Gap” report
 
-##### AC9M10ST02
+##### AC9M10ST02 {#ac9m10st02}
 
 compare data distributions for continuous numerical variables using appropriate data displays including boxplots; discuss the shapes of these distributions in terms of centre, spread, shape and outliers in the context of the data
 
@@ -203,7 +203,7 @@ compare data distributions for continuous numerical variables using appropriate 
 *  comparing the information that can be extracted and the stories that can be told about continuous and discrete numerical data sets that have been displayed in different ways, including histograms, dot plots, box plots and cumulative frequency graphs
 *  exploring how the identification and appropriate handling of outliers is an important step in machine learning to ensure that they don't unduly influence the model
 
-##### AC9M10ST03
+##### AC9M10ST03 {#ac9m10st03}
 
 construct scatterplots and comment on the association between the 2 numerical variables in terms of strength, direction and linearity
 
@@ -215,7 +215,7 @@ construct scatterplots and comment on the association between the 2 numerical va
 *  investigating artificial intelligence  systems that analyse bivariate data to forecast or make predictions based on association using correlation analysis and discussing limitations; for example, the artificial intelligence  may not capture the causality between variables or account for the contextual or ethical implications
 *  investigating the relationship between \(2\) variables of spear throwers used by First Peoples of Australia by using data to construct scatterplots, make comparisons and draw conclusions
 
-##### AC9M10ST04
+##### AC9M10ST04 {#ac9m10st04}
 
 construct two-way tables and discuss possible relationship between categorical variables
 
@@ -224,7 +224,7 @@ construct two-way tables and discuss possible relationship between categorical v
 *  recording data in two-way tables and using percentages and proportions to identify patterns and associations in the data
 *  conducting a litter survey around the school, considering the relationship between different categorical variables such as the day of the week as canteen specials might lead to different types of litter or the weather due to hot days leading to more ice blocks and cold drinks being sold
 
-##### AC9M10ST05
+##### AC9M10ST05 {#ac9m10st05}
 
 plan and conduct statistical investigations of situations that involve bivariate data; evaluate and report findings with consideration of limitations of any inferences
 
@@ -234,9 +234,9 @@ plan and conduct statistical investigations of situations that involve bivariate
 *  using a statistical investigation to address the question, “Is there a relationship between vaccines and immunity from a virus”
 *  investigating biodiversity changes in Australia before and after colonisation by comparing related bivariate numerical data, discussing and reporting on associations
 
-### Probability
+### Probability {#probability}
 
-##### AC9M10P01
+##### AC9M10P01 {#ac9m10p01}
 
 use the language of “if ... then”, “given”, “of”, “knowing that” to describe and interpret situations involving conditional probability
 
@@ -245,7 +245,7 @@ use the language of “if ... then”, “given”, “of”, “knowing that”
 *  using arrays and tree diagrams to represent, interpret and compare probabilities of dependent and independent events
 *  investigating how conditional probability is used in natural language processing tasks like text or image generation, language translation, data augmentation and recommendation systems
 
-##### AC9M10P02
+##### AC9M10P02 {#ac9m10p02}
 
 design and conduct repeated chance experiments and simulations using digital tools to model conditional probability and interpret results
 
@@ -256,7 +256,7 @@ design and conduct repeated chance experiments and simulations using digital t
 *  identifying situations in real-life where probability simulations are used for decision-making, such as supply and demand of product, insurance risk and queueing
 *  using simulation to predict the number of people likely to be infected with a strain of flu or virus
 
-## Achievement Standards
+## Achievement Standards {#achievement-standards}
 
 In Year 10, learning in Mathematics builds on each student’s prior learning and experiences. Students engage in a range of approaches to learning and doing mathematics that develop their understanding of and fluency with concepts, procedures and processes by making connections, reasoning, problem-solving and practice. Proficiency in mathematics enables students to respond to familiar and unfamiliar situations by employing mathematical strategies to make informed decisions and solve problems efficiently.
 

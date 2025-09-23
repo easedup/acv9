@@ -1,6 +1,6 @@
-# Mathematics - Year 8
+# Mathematics - Year 8 {#mathematics-year-8}
 
-## Level Description
+## Level Description {#level-description}
 
 In Year 8, learning in Mathematics builds on each student’s prior learning and experiences. Students engage in a range of approaches to learning and doing mathematics that develop their understanding of and fluency with concepts, procedures and processes by making connections, reasoning, problem-solving and practice. Proficiency in mathematics enables students to respond to familiar and unfamiliar situations by employing mathematical strategies to make informed decisions and solve problems efficiently.
 
@@ -17,11 +17,11 @@ Students further develop proficiency and positive dispositions towards mathemati
 *   consider a variety of situations involving complementary and mutually exclusive events, combinations of 2 events; represent these using tables and diagrams, conducting simulations and calculating corresponding probabilities
 *   examine experimental and observational data and identify populations and samples with respect to context; investigate variation in summary statistics across samples of varying size and discuss their findings.
 
-## Strands
+## Strands {#strands}
 
-### Number
+### Number {#number}
 
-##### AC9M8N01
+##### AC9M8N01 {#ac9m8n01}
 
 recognise irrational numbers in applied contexts, including square roots and \\(π\\)
 
@@ -31,7 +31,7 @@ recognise irrational numbers in applied contexts, including square roots and \\(
 *  investigating the golden ratio in art and design, and historical approximations to \(π\) in different societies
 *  connecting the ratio between the circumference and diameter of any circle to the irrational value of \(π\) using circular objects and string or dynamic drawing software
 
-##### AC9M8N02
+##### AC9M8N02 {#ac9m8n02}
 
 establish and apply the exponent laws with positive integer exponents and the zero-exponent, using exponent notation with numbers
 
@@ -41,7 +41,7 @@ establish and apply the exponent laws with positive integer exponents and the ze
 *  using digital tools to systematically explore the application of the exponent laws; observing that the bases need to be the same
 *  using examples such as \(\frac{3^4}{3^4}\;=\;1\), and \(3^{4-4}\;=\;3^0\) to illustrate the necessity that for any non-zero natural number \(n,\;n^0\;=\;1\)
 
-##### AC9M8N03
+##### AC9M8N03 {#ac9m8n03}
 
 recognise terminating and recurring decimals, using digital tools as appropriate
 
@@ -49,7 +49,7 @@ recognise terminating and recurring decimals, using digital tools as appropriate
 *  identifying when a fraction has a terminating decimal expansion from the prime factorisation of its denominator; for example, \(\frac7{24}\;=\;0.291\overset\_6\) does not have a terminating decimal expansion, while \(\frac7{25}\;=\;0.28\) does
 *  identifying terminating, recurring and non-terminating decimals and choosing their appropriate representations such as \(\frac13\) is represented as \(0.\overset\_3\)
 
-##### AC9M8N04
+##### AC9M8N04 {#ac9m8n04}
 
 use the 4 operations with integers and with rational numbers, choosing and using efficient strategies and digital tools where appropriate
 
@@ -58,7 +58,7 @@ use the 4 operations with integers and with rational numbers, choosing and using
 *  applying and explaining efficient strategies such as using the commutative or associative property for regrouping, partitioning, place value, patterning, multiplication or division facts to solve problems involving positive and negative integers, fractions and decimals
 *  recognising the effect of sign in the multiplication of integers; for example, (-\(1)^4\;=\;1\) and (-\(1)^5\;=\) -\(1\)
 
-##### AC9M8N05
+##### AC9M8N05 {#ac9m8n05}
 
 use mathematical modelling to solve practical problems involving rational numbers and percentages, including financial contexts; formulate problems, choosing efficient calculation strategies and using digital tools where appropriate; interpret and communicate solutions in terms of the situation, reviewing the appropriateness of the model
 
@@ -68,9 +68,9 @@ use mathematical modelling to solve practical problems involving rational number
 *  modelling situations involving personal income tax, interpreting tax tables to determine income tax at various levels of income, including overall percentage of income allocated to tax
 *  modelling situations involving percentage increase or decrease such as market trends, effects on population, or effects on the environment over extended time periods
 
-### Algebra
+### Algebra {#algebra}
 
-##### AC9M8A01
+##### AC9M8A01 {#ac9m8a01}
 
 create, expand, factorise, rearrange and simplify linear expressions, applying the associative, commutative, identity, distributive and inverse properties
 
@@ -79,7 +79,7 @@ create, expand, factorise, rearrange and simplify linear expressions, applying t
 *  demonstrating the relationship between factorising and expanding linear expressions using manipulatives, such as algebra tiles or area models, and describing with mathematical language
 *  using the distributive, associative, commutative, identity and inverse properties to expand and factorise algebraic expressions using strategies such as the area model
 
-##### AC9M8A02
+##### AC9M8A02 {#ac9m8a02}
 
 graph linear relations on the Cartesian plane using digital tools where appropriate; solve linear equations and one-variable inequalities using graphical and algebraic techniques; verify solutions by substitution
 
@@ -91,7 +91,7 @@ graph linear relations on the Cartesian plane using digital tools where appropri
 *  solving linear equations of the form \(ax+b\;=\;c\) and one-variable inequalities of the form \(ax+b\;<\;c\) or \(ax+b\;>\;c\) where \(a>0\) using inverse operations and digital tools, and checking solutions by substitution
 *  solving linear equations such as \(3x+7\;=\;6x-9\), representing these graphically, and verifying solutions by substitution
 
-##### AC9M8A03
+##### AC9M8A03 {#ac9m8a03}
 
 use mathematical modelling to solve applied problems involving linear relations, including financial contexts; formulate problems with linear functions, choosing a representation; interpret and communicate solutions in terms of the situation, reviewing the appropriateness of the model
 
@@ -101,7 +101,7 @@ use mathematical modelling to solve applied problems involving linear relations,
 *  modelling financial problems involving pay rates, using a table of values to represent the pay amounts and hours worked using an hourly rate of pay, and graphing the relationship to make inferences
 *  modelling patterns on Country/Place and exploring their connections and meaning to linear equations, using the model as a predictive tool and critiquing results by connecting back to Country/Place
 
-##### AC9M8A04
+##### AC9M8A04 {#ac9m8a04}
 
 experiment with linear functions and relations using digital tools, making and testing conjectures and generalising emerging patterns
 
@@ -111,9 +111,9 @@ experiment with linear functions and relations using digital tools, making and t
 *  using digital tools to investigate integer solutions to equations such as \(2x+3y\;=\;48\)
 *  exploring how linear functions are used in linear regression models as a statistical technique in machine learning of artificial intelligence agents; for example, linear functions are used to model the relationship between input variables and a target variable, to predict stock or house prices in the financial and real-estate sectors
 
-### Measurement
+### Measurement {#measurement}
 
-##### AC9M8M01
+##### AC9M8M01 {#ac9m8m01}
 
 solve problems involving the area and perimeter of irregular and composite shapes using appropriate units
 
@@ -122,7 +122,7 @@ solve problems involving the area and perimeter of irregular and composite shape
 *  using arrays and rectangles to approximate the area of irregular shapes in situations such as a council needing to work out how much mosquito spray to use for a swamp area or a farmer needing to work out how much seed, fertilizer and herbicide are required to cover a paddock
 *  determining the perimeter and area of irregular shapes by sums of increasingly accurate covering measurements, such as line segments and grids; for example, using millimetres or square millimetres as opposed to centimetres or square centimetres
 
-##### AC9M8M02
+##### AC9M8M02 {#ac9m8m02}
 
 solve problems involving the volume and capacity of right prisms using appropriate units
 
@@ -132,7 +132,7 @@ solve problems involving the volume and capacity of right prisms using appropria
 *  choosing which measurements are useful to consider when solving practical problems in context; for example, when purchasing a new washing machine, the dimensions are useful when determining whether it will fit in the available space in the laundry and its capacity is useful when considering the maximum washing load it can carry
 *  investigating, reasoning and finding solutions to measurement problems involving dimensions, rates, volume and capacity of objects; for example, given the dimensions of a pool and the rate of flow from a tap, determining how long it will take to fill the pool to its normal capacity
 
-##### AC9M8M03
+##### AC9M8M03 {#ac9m8m03}
 
 solve problems involving the circumference and area of a circle using formulas and appropriate units
 
@@ -142,7 +142,7 @@ solve problems involving the circumference and area of a circle using formulas a
 *  applying the formulas for the area and circumference of a circle to solve practical problems, and using one of the measures of radius, diameter, circumference or area to deduce the value of the other measures; for example, determining the length of material needed to edge a round table, given its dimensions as the area of the tabletop
 *  exploring traditional weaving designs by First Nations Australians and investigating the significance and use of circles
 
-##### AC9M8M04
+##### AC9M8M04 {#ac9m8m04}
 
 solve problems involving duration, including using 12- and 24-hour time across multiple time zones
 
@@ -151,7 +151,7 @@ solve problems involving duration, including using 12- and 24-hour time across m
 *  recognising the challenges of planning regular virtual meeting times for a company that has both international staff and staff within different states and territories, and the impact daylight savings has due to multiple time zones, explaining the mathematical language used to communicate current time such as Coordinated Universal Time (UTC)+\(8\), AEST, ACST and AWST
 *  planning an international travel itinerary that covers destinations in different time zones across Asia
 
-##### AC9M8M05
+##### AC9M8M05 {#ac9m8m05}
 
 recognise and use rates to solve problems involving the comparison of 2 related quantities of different units of measure
 
@@ -162,7 +162,7 @@ recognise and use rates to solve problems involving the comparison of 2 related 
 *  using taxation tables to calculate an individual's annual income tax
 *  investigating the application of rates in First Nation Australians’ land management practices, including the rate of fire spread under different environmental conditions such as fuel types, wind speed, temperature and relative humidity; the conservation of water by First Nations Australians by estimating rates of water evaporation based on surface area and climatic conditions
 
-##### AC9M8M06
+##### AC9M8M06 {#ac9m8m06}
 
 use Pythagoras’ theorem to solve problems involving the side lengths of right-angled triangles
 
@@ -173,7 +173,7 @@ use Pythagoras’ theorem to solve problems involving the side lengths of right-
 *  identifying Pythagorean triples, such as (\(3,4,5\)), (\(5,12,13\)), (\(7, 24, 25\)) and (\(8,15, 17\))
 *  investigating how Pythagoras' theorem can be applied to determine the distance between two points in the plane, and how this can be used by predictive algorithms to navigate autonomous vehicles
 
-##### AC9M8M07
+##### AC9M8M07 {#ac9m8m07}
 
 use mathematical modelling to solve practical problems involving ratios and rates, including financial contexts; formulate problems; interpret and communicate solutions in terms of the situation, reviewing the appropriateness of the model
 
@@ -184,9 +184,9 @@ use mathematical modelling to solve practical problems involving ratios and rate
 *  modelling situations involving the use of ratios in radiocarbon dating methods, including the ratio of carbon-\(14\) to carbon-\(12\) isotopes in organisms, to measure dates of First Peoples of Australia’s habitation on the Australian continent
 *  modelling situations involving ratio and its application in the making of string and cordage by First Nations Australians, including the ratio of length to the mass of a rope, the strength of the ply in proportion to a rope’s pulling force, and the proportion of fibre for the length of string required
 
-### Space
+### Space {#space}
 
-##### AC9M8SP01
+##### AC9M8SP01 {#ac9m8sp01}
 
 identify the conditions for congruence and similarity of triangles and explain the conditions for other sets of common shapes to be congruent or similar, including those formed by transformations
 
@@ -198,7 +198,7 @@ identify the conditions for congruence and similarity of triangles and explain t
 *  comparing angle and side measurements of shapes under transformation to answer questions such as “What changes?” and “What stays the same?”
 *  establishing that \(2\) shapes are congruent if one lies exactly on top of the other after one or more transformations including translations, reflections and rotations, and recognising that the matching sides and the matching angles are equal
 
-##### AC9M8SP02
+##### AC9M8SP02 {#ac9m8sp02}
 
 establish properties of quadrilaterals using congruent triangles and angle properties, and solve related problems explaining reasoning
 
@@ -207,7 +207,7 @@ establish properties of quadrilaterals using congruent triangles and angle prope
 *  identifying properties of quadrilaterals related to side lengths, parallel sides, angles, diagonals and symmetry
 *  applying the properties of triangles and quadrilaterals to construction designs such as car jacks, scissor lifts, folding umbrellas, toolboxes and cherry pickers
 
-##### AC9M8SP03
+##### AC9M8SP03 {#ac9m8sp03}
 
 describe the position and location of objects in 3 dimensions in different ways, including using a three-dimensional coordinate system with the use of dynamic geometric software and other digital tools
 
@@ -219,7 +219,7 @@ describe the position and location of objects in 3 dimensions in different ways,
 *  interpreting  three-dimensional coordinate locations for objects in multi-storey car parks; playing games based on  three-dimensional coordinate systems such as  three-dimensional Noughts and Crosses (Tic-Tac-Toe)
 *  exploring position and transformation through geospatial technologies used by First Nations Australians’ communities
 
-##### AC9M8SP04
+##### AC9M8SP04 {#ac9m8sp04}
 
 design, create and test algorithms involving a sequence of steps and decisions that identify congruency or similarity of shapes, and describe how the algorithm works
 
@@ -228,9 +228,9 @@ design, create and test algorithms involving a sequence of steps and decisions t
 *  using the conditions for congruence of triangles and similarity of triangles to develop a sorting algorithm; for example, creating a flow chart
 *  evaluating algorithms for accuracy in classifying and distinguishing between similar and congruent triangles
 
-### Statistics
+### Statistics {#statistics}
 
-##### AC9M8ST01
+##### AC9M8ST01 {#ac9m8st01}
 
 investigate techniques for data collection including census, sampling, experiment and observation, and explain the practicalities and implications of obtaining data through these techniques
 
@@ -241,7 +241,7 @@ investigate techniques for data collection including census, sampling, experimen
 *  using digital tools such as simulations and digital measuring devices to observe, measure and record qualitative and quantitative data, discussing precision and the implications of error
 *  investigating how decisions concerning sampling relate to the training of artificial intelligence  systems, recognising the need to mitigate any potential bias that may lead to the development of biased models
 
-##### AC9M8ST02
+##### AC9M8ST02 {#ac9m8st02}
 
 analyse and report on the distribution of data from primary and secondary sources using random and non-random sampling techniques to select and study samples
 
@@ -251,7 +251,7 @@ analyse and report on the distribution of data from primary and secondary source
 *  defining and distinguishing between probabilistic terms such as random, sample space, sample and sample distribution
 *  investigating primary and secondary data sources relating to reconciliation between First Nations Australians and non-Indigenous Australians, analysing and reporting on findings
 
-##### AC9M8ST03
+##### AC9M8ST03 {#ac9m8st03}
 
 compare variations in distributions and proportions obtained from random samples of the same size drawn from a population and recognise the effect of sample size on this variation
 
@@ -263,7 +263,7 @@ compare variations in distributions and proportions obtained from random samples
 *  investigating First Nations Ranger Groups and other groups’ use of sampling techniques to track biodiversity of species
 *  exploring how the comparison of variations in distributions and proportions from the same population applies to data-driven decision-making and how this relates to training of artificial intelligence systems
 
-##### AC9M8ST04
+##### AC9M8ST04 {#ac9m8st04}
 
 plan and conduct statistical investigations involving samples of a population; use ethical and fair methods to make inferences about the population and report findings, acknowledging uncertainty
 
@@ -272,9 +272,9 @@ plan and conduct statistical investigations involving samples of a population; u
 *  identifying situations where the collection of data from a sample is necessary due to efficiency, cost or restricted time for collection of data, and sufficiently reliable for making inferences about a population
 *  exploring progress in reconciliation between First Nations Australians and non-Indigenous Australians, investigating and evaluating sampling techniques and methods to gather relevant data to measure progress
 
-### Probability
+### Probability {#probability}
 
-##### AC9M8P01
+##### AC9M8P01 {#ac9m8p01}
 
 recognise that complementary events have a combined probability of one; use this relationship to calculate probabilities in applied contexts
 
@@ -284,7 +284,7 @@ recognise that complementary events have a combined probability of one; use this
 *  using the sum of probabilities to solve problems, such as the probability of starting a game by throwing a \(5\) or \(6\) on a dice is \(\frac13\) and probability of not throwing a \(5\) or \(6\) is \(\frac23\)
 *  investigating how various applications of artificial intelligence  use the probability of complementary events when assessing the likelihood of favourable and unfavourable outcomes and making informed decisions based on these probabilities; for example, in binary classification problems where data is classified into one of two categories, such as spam or not spam, fraud or not fraud
 
-##### AC9M8P02
+##### AC9M8P02 {#ac9m8p02}
 
 determine all possible combinations for 2 events, using two-way tables, tree diagrams and Venn diagrams, and use these to determine probabilities of specific outcomes in practical situations
 
@@ -294,7 +294,7 @@ determine all possible combinations for 2 events, using two-way tables, tree dia
 *  using Venn diagrams or two-way tables to demonstrate the difference between events that are mutually exclusive, such as whether a coin toss will land on a head or a tail, or those that are not mutually exclusive, such as people who have blonde hair and people who have blue eyes
 *  exploring First Nations Australian children’s instructive games; for example, Battendi from the Ngarrindjeri Peoples of Lake Murray and Lake Albert in southern Australia, applying possible combinations and relationships and calculating probabilities using two-way tables and Venn diagrams
 
-##### AC9M8P03
+##### AC9M8P03 {#ac9m8p03}
 
 conduct repeated chance experiments and simulations, using digital tools to determine probabilities for compound events, and describe results
 
@@ -303,7 +303,7 @@ conduct repeated chance experiments and simulations, using digital tools to dete
 *  using a random number generator and digital tools, including generative artificial intelligence, to simulate rolling \(2\) dice and calculating the difference between them, investigating what difference is likely to occur more often
 *  using online simulation software to conduct probability simulations to determine in the long run if events are complementary
 
-## Achievement Standards
+## Achievement Standards {#achievement-standards}
 
 In Year 8, learning in Mathematics builds on each student’s prior learning and experiences. Students engage in a range of approaches to learning and doing mathematics that develop their understanding of and fluency with concepts, procedures and processes by making connections, reasoning, problem-solving and practice. Proficiency in mathematics enables students to respond to familiar and unfamiliar situations by employing mathematical strategies to make informed decisions and solve problems efficiently.
 

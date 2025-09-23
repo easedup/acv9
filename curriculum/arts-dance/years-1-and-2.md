@@ -1,6 +1,6 @@
-# The Arts - Dance - Years 1 and 2
+# Dance - Years 1 and 2 {#dance-years-1-and-2}
 
-## Level Description
+## Level Description {#level-description}
 
 In this band, learning in The Arts builds on each student’s prior learning and experiences. Students continue to learn through purposeful and creative play in structured learning programs designed to foster a strong sense of wellbeing and develop their connection with and contribution to the world. They work individually and in collaboration with peers and teachers, drawing on their imaginations, real-life experiences, stimulus materials and learnings from across the curriculum.
 
@@ -21,11 +21,11 @@ In this band, the focus is on students:
 5.  creating dance sequences by selecting and combining movements that communicate ideas and intentions using fundamental movement skills, the elements of dance and imagination. Students may focus on choreographing dance sequences, or they may create work that combines dance and other arts forms, such as a dance sequence for use in a dramatic re-telling of a story
 6.  performing/sharing dance they have learnt and/or choreographed in informal settings such as classroom presentations.
 
-## Strands
+## Strands {#strands}
 
-### Exploring and responding
+### Exploring and responding {#exploring-and-responding}
 
-##### AC9ADA2E01
+##### AC9ADA2E01 {#ac9ada2e01}
 
 explore where, why and how people across cultures, communities and/or other contexts experience dance
 
@@ -36,7 +36,7 @@ explore where, why and how people across cultures, communities and/or other cont
 *  identifying similarities and differences in dances by sharing, viewing and/or learning dances that they are familiar with or have experienced with their families and communities
 *  identifying how dance can show what feelings people have about places, people or experiences
 
-##### AC9ADA2E02
+##### AC9ADA2E02 {#ac9ada2e02}
 
 explore examples of dance choreographed and/or performed by First Nations Australians
 
@@ -46,9 +46,9 @@ explore examples of dance choreographed and/or performed by First Nations Austra
 *  identifying where they might experience dance in First Nations Australians’ cultural expressions, such as in ceremonies at their school, in their community, or as part of state and national events, and taking notice of ways the performers and audiences observe protocols and respect Elders or knowledge holders
 *  learning about First Nations Australians’ interpretations of the night sky; for example, working with First Nations Australians who have cultural authority to co-create movements to represent shapes and patterns that can be seen at different times of the year
 
-### Developing practices and skills
+### Developing practices and skills {#developing-practices-and-skills}
 
-##### AC9ADA2D01
+##### AC9ADA2D01 {#ac9ada2d01}
 
 experiment with ways to move safely and expressively using fundamental movement skills and the elements of dance
 
@@ -59,9 +59,9 @@ experiment with ways to move safely and expressively using fundamental movement
 *  exploring fundamental movements safely to develop ideas for movement; for example, ideas about familiar situations, objects, animals or environmental features, such as running in a race, jumping like a frog, stomping like a giant, rolling like a log, falling like an autumn leaf, floating like a cloud, gliding like a bird
 *  moving around open and crowded spaces safely and using a variety of travelling steps, such as running, skipping, rolling, jumping, walking backwards and sideways movements; identifying the distance between themselves and others when dancing and using props such as scarves; and responding by reflecting on the space and movements that made them feel safe or unsafe
 
-### Creating and making
+### Creating and making {#creating-and-making}
 
-##### AC9ADA2C01
+##### AC9ADA2C01 {#ac9ada2c01}
 
 use the elements of dance to choreograph dance sequences
 
@@ -73,9 +73,9 @@ use the elements of dance to choreograph dance sequences
 *  using patterns of movement such as a sequence of locomotor movements (travelling movements) they have improvised, sharing/teaching these movements to a partner (and learning the partner’s movements), and working collaboratively to combine and extend these movement ideas to create a dance sequence
 *  using their own words and learnt dance terminology to share ideas about the dance they are creating and recognising and accepting constructive feedback from peers or teachers; for example, in response to a “work-in-progress” sharing
 
-### Presenting and performing
+### Presenting and performing {#presenting-and-performing}
 
-##### AC9ADA2P01
+##### AC9ADA2P01 {#ac9ada2p01}
 
 share dance sequences in informal settings
 
@@ -85,7 +85,7 @@ share dance sequences in informal settings
 *  expressing ideas to an audience through movement; for example, showing contrasting dynamics by stamping heavily and tip­toeing lightly or using movement qualities, such as slow controlled sinking to the floor to express melting ice or sharp jerky movement to express a robot
 *  using Viewpoints to develop questions when responding to dances they experience in order to reflect on their choreography and/or performance; for example, “What did this dance make you think about?”, “Did the dance movements remind you of anything?”, “How did you communicate the ideas or intention in this dance?”
 
-## Achievement Standards
+## Achievement Standards {#achievement-standards}
 
 By the end of Year 2, students identify where they experience dance. They describe where, why and/or how people across cultures, communities and/or other contexts experience dance.
 

@@ -1,6 +1,6 @@
-# Technologies - Design and Technologies - Years 5 and 6
+# Design and Technologies - Years 5 and 6 {#design-and-technologies-years-5-and-6}
 
-## Level Description
+## Level Description {#level-description}
 
 By the end of Year 6 students should have had the opportunity to create 3 types of designed solutions, and addressed each of these 3 technologies contexts:
 
@@ -16,13 +16,13 @@ Using a range of technologies including a variety of graphical representation te
 
 Students work individually and collaboratively to identify and sequence steps needed for a design task, including negotiating criteria for success. They develop and follow plans to complete design tasks safely, adjusting when necessary. Students identify and maintain safety standards and practices when making designed solutions.
 
-## Strands
+## Strands {#strands}
 
-### Knowledge and understanding
+### Knowledge and understanding {#knowledge-and-understanding}
 
-#### Technologies and society
+#### Technologies and society {#technologies-and-society}
 
-##### AC9TDE6K01
+##### AC9TDE6K01 {#ac9tde6k01}
 
 explain how people in design and technologies occupations consider competing factors including sustainability in the design of products, services and environments
 
@@ -34,9 +34,9 @@ explain how people in design and technologies occupations consider competing fac
 *  considering how engineers resolve competing factors to produce innovative solutions, for example experimenting with novel ideas such as biomimicry to engineer a solution such as a soft robotic device
 *  considering how Safety by Design principles have been used in the design of products, services or environments, for example considering how prevention, protection and proactive change can be used to improve safety of designed solutions
 
-#### Technologies context: Engineering principles and systems
+#### Technologies context: Engineering principles and systems {#technologies-context-engineering-principles-and-systems}
 
-##### AC9TDE6K02
+##### AC9TDE6K02 {#ac9tde6k02}
 
 explain how electrical energy can be transformed into movement, sound or light in a product or system
 
@@ -47,9 +47,9 @@ explain how electrical energy can be transformed into movement, sound or light i
 *  producing models using materials, tools and equipment to show how to control movement, sound or light, for example constructing an automation or lifting system including a pulley to raise a bucket or toy
 *  deconstructing a product or system to discover how movement, sound or light can be controlled, for example taking apart a torch or buzzer, or exploring circuit design in a security system and investigating the properties of materials to solve problems including the amount of light reflected from different surfaces to control a sensor
 
-#### Technologies context: Food and fibre production; Food specialisations
+#### Technologies context: Food and fibre production; Food specialisations {#technologies-context-food-and-fibre-production-food-specialisations}
 
-##### AC9TDE6K03
+##### AC9TDE6K03 {#ac9tde6k03}
 
 explain how and why food and fibre are produced in managed environments
 
@@ -60,7 +60,7 @@ explain how and why food and fibre are produced in managed environments
 *  sequencing the process of converting on-farm food or fibre products into a product suitable for retail sale, for example creating a digital flowchart to record a paddock-to-plate supply chain, or the fibre-to-garment life cycle (fibre, yarn, fabric, garment)
 *  visiting a farm or participating in a virtual tour to ask questions about how and why food and fibre are produced in that environment
 
-##### AC9TDE6K04
+##### AC9TDE6K04 {#ac9tde6k04}
 
 explain how the characteristics of foods influence selection and preparation for healthy eating
 
@@ -72,9 +72,9 @@ explain how the characteristics of foods influence selection and preparation for
 *  <p>developing strategies to communicate healthy choices based on the <em>Australian Dietary Guidelines</em>, for example designing a website with food preparation tips for healthy eating for pre-teens</p>
 *  exploring the food service options of a local restaurant, café, fast food or takeaway establishment and identifying the food preparation skills needed to prepare food for healthy eating
 
-#### Technologies context: Materials and technologies specialisations
+#### Technologies context: Materials and technologies specialisations {#technologies-context-materials-and-technologies-specialisations}
 
-##### AC9TDE6K05
+##### AC9TDE6K05 {#ac9tde6k05}
 
 explain how characteristics and properties of materials, systems, components, tools and equipment affect their use when producing designed solutions
 
@@ -86,11 +86,11 @@ explain how characteristics and properties of materials, systems, components, to
 *  comparing the design and production of products, services or environments in Australia and a country in Asia, for example comparing the diversity, availability and properties of preferred materials and the design of public shelters and housing in Indonesia and Australia
 *  investigating the properties of fibres and how these are used to create products, for example designing an experiment to test which fabrics are warmest and explaining how those properties influence what they are used for
 
-### Processes and production skills
+### Processes and production skills {#processes-and-production-skills}
 
-#### Investigating and defining
+#### Investigating and defining {#investigating-and-defining}
 
-##### AC9TDE6P01
+##### AC9TDE6P01 {#ac9tde6p01}
 
 investigate needs or opportunities for designing, and the materials, components, tools, equipment and processes needed to create designed solutions
 
@@ -102,9 +102,9 @@ investigate needs or opportunities for designing, and the materials, components,
 *  testing a range of materials, components, tools and equipment to determine the appropriate technologies needed to make products, services or environments, for example the materials for a product such as a rubber-band-powered vehicle or item of protective clothing
 *  investigating how to minimise material use and manage waste by comparing the environmental and social impacts of materials, components, tools and equipment, for example comparing the cost and environmental impact of repurposing an old item of clothing to create a carry bag with buying a new one, or using vegetable scraps to make a healthy soup versus buying takeaway soup
 
-#### Generating and designing
+#### Generating and designing {#generating-and-designing}
 
-##### AC9TDE6P02
+##### AC9TDE6P02 {#ac9tde6p02}
 
 generate, iterate and communicate design ideas, decisions and processes using technical terms and graphical representation techniques, including using digital tools
 
@@ -116,9 +116,9 @@ generate, iterate and communicate design ideas, decisions and processes using te
 *  experimenting with materials, tools and equipment to refine design decisions and processes, for example considering the selection of materials and joining techniques to suit the purpose of a product, such as a pop-up book, a fabric bag or an electric circuit
 *  considering the social values and ethics of clients when designing an environment, for example interviewing users of a space or seeking permission to use designs or images created by others including respect of cultural and intellectual property
 
-#### Producing and implementing
+#### Producing and implementing {#producing-and-implementing}
 
-##### AC9TDE6P03
+##### AC9TDE6P03 {#ac9tde6p03}
 
 select and use suitable materials, components, tools, equipment and techniques to safely make designed solutions
 
@@ -128,9 +128,9 @@ select and use suitable materials, components, tools, equipment and techniques t
 *  choosing appropriate materials, tools, equipment and techniques for a specific purpose, for example when safely and hygienically preparing food, cultivating garden beds or constructing electronic products
 *  identifying work practices that show an understanding of nutrition, environmental considerations, hygiene and food safety when designing and making a food product, for example washing fruit and vegetables carefully to remove residues, safe disposal of cooking oils to avoid environmental damage, refrigerated storage of highly perishable foods, being aware of food allergies
 
-#### Evaluating
+#### Evaluating {#evaluating}
 
-##### AC9TDE6P04
+##### AC9TDE6P04 {#ac9tde6p04}
 
 negotiate design criteria including sustainability to evaluate design ideas, processes and solutions
 
@@ -141,9 +141,9 @@ negotiate design criteria including sustainability to evaluate design ideas, pro
 *  evaluating their designed solutions including considering the benefits and costs of production processes and the environmental impact, for example for the production of an animal shelter
 *  reflecting on designed solutions to evaluate and assess suitability and sustainability and determine how well they meet design criteria, for example gathering relevant data to make judgements about a school or community fundraising event in relation to waste reduction, attendance and funds raised, and considering how these aspects could be handled in future events
 
-#### Collaborating and managing
+#### Collaborating and managing {#collaborating-and-managing}
 
-##### AC9TDE6P05
+##### AC9TDE6P05 {#ac9tde6p05}
 
 develop project plans that include consideration of resources to individually and collaboratively make designed solutions
 
@@ -152,7 +152,7 @@ develop project plans that include consideration of resources to individually an
 *  identifying the human resources, materials, tools and equipment that will be needed to make the designed solution as part of the project plan and specifying when these will be needed, for example access to a wildlife expert at the planning stage and scheduling access to shared tools when building a habitat for local animals
 *  planning production steps needed to produce a product, service or environment using digital tools, for example making a flowchart or using a digital planner to record the sequence of tasks and deadlines needed to complete a project
 
-## Achievement Standards
+## Achievement Standards {#achievement-standards}
 
 By the end of Year 6 students explain how people design products, services and environments to meet the needs of communities, including sustainability. For each of the 3 prescribed technologies contexts they explain how the features of technologies impact on design decisions and they create designed solutions. Students select and justify design ideas and solutions against design criteria that include sustainability. They communicate design ideas to an audience using technical terms and graphical representation techniques. Students develop project plans, including production processes, and select technologies and techniques to safely produce designed solutions.
 

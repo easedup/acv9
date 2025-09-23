@@ -1,6 +1,6 @@
-# Humanities and Social Sciences - Economics and Business 7-10 - Year 7
+# Economics and Business - Year 7 {#economics-and-business-year-7}
 
-## Level Description
+## Level Description {#level-description}
 
 The focus of learning in Year 7 is the topic **"individuals, businesses and entrepreneurs"** within a personal, community and national context.
 
@@ -14,11 +14,11 @@ Inquiry questions provide a framework for developing students’ knowledge, unde
 *   Why do individuals contribute to their community and how do they derive an income?
 *   Why do consumers and businesses have both rights and responsibilities?
 
-## Strands
+## Strands {#strands}
 
-### Knowledge and understanding
+### Knowledge and understanding {#knowledge-and-understanding}
 
-##### AC9HE7K01
+##### AC9HE7K01 {#ac9he7k01}
 
 why opportunity cost exists as decisions are made to allocate limited resources to meet unlimited needs and wants
 
@@ -29,7 +29,7 @@ why opportunity cost exists as decisions are made to allocate limited resources 
 *  investigating how First Nations communities use exchange systems (barter) or networks (partnerships) to decide about the use of limited resources in sustainable ways
 *  explaining the concept of “opportunity cost” in relation to a choice; for example, if a student chooses to spend their time (resource) riding their bike after school, they cannot go for a swim (trade-off)
 
-##### AC9HE7K02
+##### AC9HE7K02 {#ac9he7k02}
 
 the reasons businesses exist and how different types of businesses provide goods and services
 
@@ -39,7 +39,7 @@ the reasons businesses exist and how different types of businesses provide goods
 *  investigating a business owned by First Nations Australians, exploring the types of goods and services offered and why this business was started
 *  identifying examples of different types of businesses that sell goods and/or services in the local community; for example, a sole proprietor operating a car yard, a partnership providing legal services or a corporation selling groceries through a chain of supermarkets
 
-##### AC9HE7K03
+##### AC9HE7K03 {#ac9he7k03}
 
 characteristics of entrepreneurs and how these influence the success of a business
 
@@ -49,7 +49,7 @@ characteristics of entrepreneurs and how these influence the success of a busine
 *  analysing the influence of values on entrepreneurial decision-making; for example, identifying and taking advantage of an opportunity, negotiating with stakeholders, and complying with the law and regulations
 *  combining knowledge, skills and attitudes demonstrated by entrepreneurs with observations of successful local businesses to explain factors that contribute to success, such as seeing and taking advantage of an opportunity or demonstrating initiative and innovation
 
-##### AC9HE7K04
+##### AC9HE7K04 {#ac9he7k04}
 
 the reasons individuals work, the types of work they are involved in, and how they may derive an income
 
@@ -59,7 +59,7 @@ the reasons individuals work, the types of work they are involved in, and how th
 *  describing examples of how continuity of cultural practices and management of Country/Place contributes to and sustains First Nations communities; for example, regional tourism ventures, coaching and mentoring initiatives, and fostering entrepreneurial and start-up cultures in regional and remote communities
 *  analysing the contribution that work can make to an individual’s identity and role within a community; for example, earning an income, contributing to self-esteem and happiness, supporting the community through volunteering, enhancing material and non-material living standards
 
-##### AC9HE7K05
+##### AC9HE7K05 {#ac9he7k05}
 
 the rights and responsibilities of individuals and businesses in relation to consumer and financial products and services
 
@@ -69,11 +69,11 @@ the rights and responsibilities of individuals and businesses in relation to con
 *  discussing the responsibilities of businesses in relation to consumer and financial products and services, such as the role of mandatory and voluntary standards, and product safety recalls
 *  explaining the importance of developing personal or business budgets or savings plans before making decisions in relation to consumer and financial products and services
 
-### Skills
+### Skills {#skills}
 
-#### Questioning and researching
+#### Questioning and researching {#questioning-and-researching}
 
-##### AC9HE7S01
+##### AC9HE7S01 {#ac9he7s01}
 
 develop questions to investigate a contemporary economic and business issue
 
@@ -81,7 +81,7 @@ develop questions to investigate a contemporary economic and business issue
 *  developing questions to form the basis of an investigation; for example, “How does an understanding of consumer rights and responsibilities impact on decision-making?” and “What are the attributes of an entrepreneur?”
 *  developing questions, using economic and business concepts and terms; for example, “How do businesses decide what to produce?”, “What is economic scarcity?” and “Why can individuals not have all the items they want, meaning they must choose?”
 
-##### AC9HE7S02
+##### AC9HE7S02 {#ac9he7s02}
 
 locate, select and organise information and data from a range of sources
 
@@ -91,9 +91,9 @@ locate, select and organise information and data from a range of sources
 *  collaborating and safely exchanging information online with an entrepreneur to identify attributes that built success
 *  organising data into appropriate formats using specialised digital tools, such as tables and graphs, visual displays
 
-#### Interpreting and analysing
+#### Interpreting and analysing {#interpreting-and-analysing}
 
-##### AC9HE7S03
+##### AC9HE7S03 {#ac9he7s03}
 
 interpret information and data to identify economic and business issues, trends and economic cause-and-effect relationships
 
@@ -102,9 +102,9 @@ interpret information and data to identify economic and business issues, trends 
 *  interpreting multi-variable data by using interactive digital tools to identify trends and to answer questions such as “For a 10-year period, to what extent has the number of people in casual work changed?”
 *  interpreting visual displays of multi-variable data to identify a cause-and-effect relationship within an economic and business issue, such as the relationship between income earned by an individual and levels of saving and spending
 
-#### Evaluating, concluding and decision-making
+#### Evaluating, concluding and decision-making {#evaluating-concluding-and-decision-making}
 
-##### AC9HE7S04
+##### AC9HE7S04 {#ac9he7s04}
 
 develop a response to an economic and business issue, identifying potential costs and benefits
 
@@ -114,9 +114,9 @@ develop a response to an economic and business issue, identifying potential cost
 *  identifying the potential costs and benefits of a decision; for example, deciding whether to work part-time involves identifying benefits such as earning money and recognising costs such as time on the weekend devoted to travelling to and from work
 *  explaining how making an economic and business decision involves selecting one alternative over another; for example, to satisfy a particular want, a selection of goods or services is preferred or purchased over another
 
-#### Communicating
+#### Communicating {#communicating}
 
-##### AC9HE7S05
+##### AC9HE7S05 {#ac9he7s05}
 
 create descriptions and explanations, using economic and business knowledge, concepts and terms, and referencing information and data from sources
 
@@ -124,7 +124,7 @@ create descriptions and explanations, using economic and business knowledge, con
 *  developing a response to an issue that orients the audience (for example, peers or community members) to the issue, using relevant economic and business concepts and terms such as “market”, “income”, “business”, “goods and services” and “costs and benefits”
 *  explaining ideas and decisions with details and examples, using data and information presented in appropriate formats; for example, visual displays, tables and graphs, or budget and savings plans, and research findings presented in appropriate formats, such as a graphic organiser or summary
 
-## Achievement Standards
+## Achievement Standards {#achievement-standards}
 
 By the end of Year 7, students describe how decisions are made to allocate limited resources to individuals and communities in an economy. They describe the reasons businesses exist and types of businesses, and identify how entrepreneurial characteristics contribute to the success of a business. They describe the reasons individuals choose to work, how they may derive an income and the types of work that exist. Students identify the rights and responsibilities of individuals and businesses in terms of products and services.
 

@@ -1,6 +1,6 @@
-# The Arts - Drama - Foundation Year
+# Drama - Foundation Year {#drama-foundation-year}
 
-## Level Description
+## Level Description {#level-description}
 
 In Foundation, learning in The Arts builds on the Early Years Learning Framework and each student’s prior learning and experiences. The curriculum allows for play-based approaches that integrate arts learning experiences across the 5 Arts subjects and/or specialist teaching. There are examples in the content elaborations for each subject and examples that span across the subjects.
 
@@ -15,11 +15,11 @@ In Foundation, learning in Drama can involve students:
 *   accepting and participating in fictional situations
 *   reflecting on their drama experiences and contributing to the drama using language and/or in embodied ways.
 
-## Strands
+## Strands {#strands}
 
-### Exploring and responding
+### Exploring and responding {#exploring-and-responding}
 
-##### AC9ADRFE01
+##### AC9ADRFE01 {#ac9adrfe01}
 
 explore how and why the arts are important for people and communities
 
@@ -32,9 +32,9 @@ explore how and why the arts are important for people and communities
 *  exploring how illustrations/images in a text (fiction or non-fiction, print or screen) help to communicate narrative or information about characters, settings and/or mood
 *  listening to First Nations Australians talk about the importance of the arts for connecting to people, culture and Country/Place; for example, using resources created or co-created by First Nations Australians
 
-### Developing practices and skills
+### Developing practices and skills {#developing-practices-and-skills}
 
-##### AC9ADRFD01
+##### AC9ADRFD01 {#ac9adrfd01}
 
 use play, imagination, arts knowledge, processes and/or skills to discover possibilities and develop ideas
 
@@ -48,9 +48,9 @@ use play, imagination, arts knowledge, processes and/or skills to discover poss
 *  exploring their speaking and singing voices and discovering ways to use their voices/vocalisation to communicate ideas and feelings
 *  improvising movements to explain the steps in a process, and then using a camera to capture a series of images or a photographic story that can be displayed in the classroom to remind everybody about the process
 
-### Creating and making
+### Creating and making {#creating-and-making}
 
-##### AC9ADRFC01
+##### AC9ADRFC01 {#ac9adrfc01}
 
 create arts works that communicate ideas
 
@@ -63,9 +63,9 @@ create arts works that communicate ideas
 *  repurposing materials and objects such as clothing or packing boxes as starting points for imagining and developing scenes and scenarios; for example, using packing boxes to create an imagined environment or vehicle
 *  considering as a class the characters and situations associated with a story and then re-imagining them by asking questions of the story, such as “What’s up?”, “What happens next?” or “What else might/could happen?" to support the development of their own socio-dramatic or miniature worlds play
 
-### Presenting and performing
+### Presenting and performing {#presenting-and-performing}
 
-##### AC9ADRFP01
+##### AC9ADRFP01 {#ac9adrfp01}
 
 share their arts works with audiences
 
@@ -79,7 +79,7 @@ share their arts works with audiences
 *  performing movement/dance sequences they have created for other groups in their class and introducing their work by describing their favourite moments in the sequence or explaining why they chose a particular movement
 *  using digital devices to record their arts explorations; for example, curating (selecting, ordering) a sequence of digital images (photos) to show the steps in a process; for example, images that show how they created new colours by mixing primary colours (using playdough or paint) and adding commentary that expresses their feelings, emotions and understandings
 
-## Achievement Standards
+## Achievement Standards {#achievement-standards}
 
 In Foundation, learning in The Arts builds on the Early Years Learning Framework and each student’s prior learning and experiences. The curriculum allows for play-based approaches that integrate arts learning experiences across the 5 Arts subjects and/or specialist teaching. There are examples in the content elaborations for each subject and examples that span across the subjects.
 

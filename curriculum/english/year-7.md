@@ -1,6 +1,6 @@
-# English - Year 7
+# English - Year 7 {#english-year-7}
 
-## Level Description
+## Level Description {#level-description}
 
 The English curriculum is built around the 3 interrelated strands of _Language, Literature_ and _Literacy_. Together, the 3 strands focus on developing students’ knowledge, understanding and skills in listening, reading, viewing, speaking, writing and creating. Learning in English is recursive and cumulative, building on concepts, skills and processes developed in earlier years.
 
@@ -14,13 +14,13 @@ Literary texts that support and extend students in Year 7 as independent readers
 
 Year 7 students create a range of texts whose purposes may be aesthetic, imaginative, reflective, informative, persuasive and/or analytical; for example, narratives, performances, reports, reviews and arguments for different audiences.
 
-## Strands
+## Strands {#strands}
 
-### Language
+### Language {#language}
 
-#### Language for interacting with others
+#### Language for interacting with others {#language-for-interacting-with-others}
 
-##### AC9E7LA01
+##### AC9E7LA01 {#ac9e7la01}
 
 understand how language expresses and creates personal and social identities
 
@@ -28,7 +28,7 @@ understand how language expresses and creates personal and social identities
 *  understanding local idioms and discussing their connection with personal and social identities
 *  developing dialogue that reveals character in comics, cartoons and animations
 
-##### AC9E7LA02
+##### AC9E7LA02 {#ac9e7la02}
 
 recognise language used to evaluate texts including visual and multimodal texts, and how evaluations of a text can be substantiated by reference to the text and other sources
 
@@ -37,9 +37,9 @@ recognise language used to evaluate texts including visual and multimodal texts,
 *  analysing how evaluative language can be used to assess the qualities of a narrative or persuasive text; for example, its impact on the reader or the author’s skill in the use of language
 *  recognising how evaluative language is used to critically assess the validity of evidence and the reliability of sources
 
-#### Text structure and organisation
+#### Text structure and organisation {#text-structure-and-organisation}
 
-##### AC9E7LA03
+##### AC9E7LA03 {#ac9e7la03}
 
 identify and describe how texts are structured differently depending on their purpose and how language features vary in texts
 
@@ -48,7 +48,7 @@ identify and describe how texts are structured differently depending on their pu
 *  recognising the social purpose of a persuasive text and how the purpose is reflected in the text structure and by the language features; for example, analysing the structure and language features of advertising posters
 *  describing the structure and language features of literary texts, arguments, discussions, creative and analytical responses to literary texts, films or popular media, and discussing how the structure and language serves the purpose of the text
 
-##### AC9E7LA04
+##### AC9E7LA04 {#ac9e7la04}
 
 understand that the cohesion of texts relies on devices that signal structure and guide readers, such as overviews and initial and concluding paragraphs
 
@@ -56,9 +56,9 @@ understand that the cohesion of texts relies on devices that signal structure an
 *  comparing and analysing the structure of media texts such as digital news sites or print media, identifying strategies used to create cohesion
 *  identifying how authors foreshadow how a text will unfold; for example, identifying the topic sentence, sentence openers and text connectives
 
-#### Language for expressing and developing ideas
+#### Language for expressing and developing ideas {#language-for-expressing-and-developing-ideas}
 
-##### AC9E7LA05
+##### AC9E7LA05 {#ac9e7la05}
 
 understand how complex and compound-complex sentences can be used to elaborate, extend and explain ideas
 
@@ -67,7 +67,7 @@ understand how complex and compound-complex sentences can be used to elaborate, 
 *  consolidating knowledge of simple, compound and complex sentences, recognising that a simple sentence can express sophisticated ideas and a complex sentence need not express “complex” ideas
 *  examining the addition of ideas using a complex-compound sentence; for example, “When dinosaurs roamed the earth, weather patterns shifted significantly and as a result vegetation depleted.”
 
-##### AC9E7LA06
+##### AC9E7LA06 {#ac9e7la06}
 
 understand how consistency of tense through verbs and verb groups achieves clarity in sentences
 
@@ -75,7 +75,7 @@ understand how consistency of tense through verbs and verb groups achieves clari
 *  identifying and discussing how verb tense is maintained in compound, complex and compound-complex sentences
 *  identifying and discussing different forms of verb tenses and their use to maintain consistency of tense in different sentences; for example, “I organise the cake stall every week, and I am running the meeting this weekend, as well.”
 
-##### AC9E7LA07
+##### AC9E7LA07 {#ac9e7la07}
 
 analyse how techniques such as vectors, angle and/or social distance in visual texts can be used to create a perspective
 
@@ -84,7 +84,7 @@ analyse how techniques such as vectors, angle and/or social distance in visual t
 *  comparing how different advertisements advertise the same product, using techniques to create different perspectives for effect
 *  analysing how the illustrations in picture books, graphic novels and advertisements use size, colour, angle, proximity, vector and salience to influence the reader
 
-##### AC9E7LA08
+##### AC9E7LA08 {#ac9e7la08}
 
 investigate the role of vocabulary in building specialist and technical knowledge, including terms that have both everyday and technical meanings
 
@@ -92,18 +92,18 @@ investigate the role of vocabulary in building specialist and technical knowledg
 *  recognising vocabulary used to represent high utility, abstract academic concepts; for example, “factor”, “hypothesise”, “issue” and “critique”
 *  identifying vocabulary used to write about a topic; for example, using terms for poetic devices and words to explain the effects of the devices in poems
 
-##### AC9E7LA09
+##### AC9E7LA09 {#ac9e7la09}
 
 understand the use of punctuation including colons and brackets to support meaning
 
 **Elaborations**
 *  examining the impact of information added to sentences when colons and brackets are used
 
-### Literature
+### Literature {#literature}
 
-#### Literature and contexts
+#### Literature and contexts {#literature-and-contexts}
 
-##### AC9E7LE01
+##### AC9E7LE01 {#ac9e7le01}
 
 identify and explore ideas, points of view, characters, events and/or issues in literary texts, drawn from historical, social and/or cultural contexts, by First Nations Australian, and wide-ranging Australian and world authors
 
@@ -113,9 +113,9 @@ identify and explore ideas, points of view, characters, events and/or issues in 
 *  exploring representations of characters and events in literary texts by First Nations Australians
 *  exploring depictions of the city or the bush in Australian poems and short stories from different eras
 
-#### Engaging with and responding to literature
+#### Engaging with and responding to literature {#engaging-with-and-responding-to-literature}
 
-##### AC9E7LE02
+##### AC9E7LE02 {#ac9e7le02}
 
 form an opinion about characters, settings and events in texts, identifying areas of agreement and difference with others’ opinions and justifying a response
 
@@ -123,7 +123,7 @@ form an opinion about characters, settings and events in texts, identifying area
 *  establishing forums and criteria for discussing the relative merits of characters, settings and events in literary texts
 *  comparing personal opinions on texts and justifying responses in discussions which may include referencing behaviours such as integrity and loyalty
 
-##### AC9E7LE03
+##### AC9E7LE03 {#ac9e7le03}
 
 explain the ways that literary devices and language features such as dialogue, and images are used to create character, and to influence emotions and opinions in different types of texts
 
@@ -131,7 +131,7 @@ explain the ways that literary devices and language features such as dialogue, a
 *  comparing the representation of a character’s appearance in a novel and film version of the same text
 *  explaining the impact and significance of language features in a text
 
-##### AC9E7LE04
+##### AC9E7LE04 {#ac9e7le04}
 
 discuss the aesthetic and social value of literary texts using relevant and appropriate metalanguage
 
@@ -139,9 +139,9 @@ discuss the aesthetic and social value of literary texts using relevant and appr
 *  determining criteria for evaluating the aesthetic value of a literary text and share opinions
 *  comparing a film adaptation of a literary text using specific language for naming the text structure, literary devices and language features of film and novels, and sharing opinions about the aesthetic and social value of each
 
-#### Examining literature
+#### Examining literature {#examining-literature}
 
-##### AC9E7LE05
+##### AC9E7LE05 {#ac9e7le05}
 
 identify and explain the ways that characters, settings and events combine to create meaning in narratives
 
@@ -149,7 +149,7 @@ identify and explain the ways that characters, settings and events combine to cr
 *  analysing and explaining the structure and features of short stories, discussing the purposes and appeal of different authorial choices for structure
 *  exploring traditional stories from Asia and discussing their features; for example, use of the oral mode, visual elements and verse to convey the narrative
 
-##### AC9E7LE06
+##### AC9E7LE06 {#ac9e7le06}
 
 identify and explain how literary devices create layers of meaning in texts including poetry
 
@@ -157,9 +157,9 @@ identify and explain how literary devices create layers of meaning in texts incl
 *  explaining the sound and rhythm of poetry using metalanguage; for example, “end and internal rhyme”, “meter” and “alliteration”, and discussing how layers of meaning are created
 *  viewing or reading First Nations Australian films, plays and poetry, and explaining the layers of meaning created by imagery
 
-#### Creating literature
+#### Creating literature {#creating-literature}
 
-##### AC9E7LE07
+##### AC9E7LE07 {#ac9e7le07}
 
 create and edit literary texts that experiment with language features and literary devices encountered in texts
 
@@ -171,11 +171,11 @@ create and edit literary texts that experiment with language features and litera
 *  experimenting with imagery, sentence variation, metaphor and word choice when creating a literary text
 *  transforming familiar print narratives into short video or film narratives, drawing on knowledge of the type of text and possible adaptations to setting for a new mode
 
-### Literacy
+### Literacy {#literacy}
 
-#### Texts in context
+#### Texts in context {#texts-in-context}
 
-##### AC9E7LY01
+##### AC9E7LY01 {#ac9e7ly01}
 
 explain the effect of current technology on reading, creating and responding to texts including media texts
 
@@ -184,9 +184,9 @@ explain the effect of current technology on reading, creating and responding to 
 *  analysing the impact of interactive elements of digital texts on texts such as magazines read in a digital form
 *  identifying changes in topics considered to be newsworthy as a result of technological change
 
-#### Interacting with others
+#### Interacting with others {#interacting-with-others}
 
-##### AC9E7LY02
+##### AC9E7LY02 {#ac9e7ly02}
 
 use interaction skills when discussing and presenting ideas and information including evaluations of the features of spoken texts
 
@@ -197,9 +197,9 @@ use interaction skills when discussing and presenting ideas and information incl
 *  choosing vocabulary and sentence structures for purposes and audiences, adapting language choices to meet the perceived audience needs
 *  ensuring that ways of communicating for particular audiences are acknowledged
 
-#### Analysing, interpreting and evaluating 
+#### Analysing, interpreting and evaluating  {#analysing-interpreting-and-evaluating}
 
-##### AC9E7LY03
+##### AC9E7LY03 {#ac9e7ly03}
 
 analyse the ways in which language features shape meaning and vary according to audience and purpose
 
@@ -207,14 +207,14 @@ analyse the ways in which language features shape meaning and vary according to 
 *  explaining the relationship between language features, and audience and purpose, such as identifying which group would be the most likely target audience for the information in an advertisement and justifying why
 *  examining depictions of the histories and cultures of First Nations Australians, discussing language features that shape meaning
 
-##### AC9E7LY04
+##### AC9E7LY04 {#ac9e7ly04}
 
 explain the structure of ideas such as the use of taxonomies, cause and effect, extended metaphors and chronology
 
 **Elaborations**
 *  identifying cause and effect in explanations and how these are used to convince an audience of a course of action
 
-##### AC9E7LY05
+##### AC9E7LY05 {#ac9e7ly05}
 
 use comprehension strategies such as visualising, predicting, connecting, summarising, monitoring, questioning and inferring to analyse and summarise information and ideas
 
@@ -223,9 +223,9 @@ use comprehension strategies such as visualising, predicting, connecting, summar
 *  analysing visual features including choice of image, colour, composition and font in covers of different editions of books when predicting the tone of a text
 *  determining and summarising the key idea(s) of paragraphs and chapters in an extended text
 
-#### Creating texts
+#### Creating texts {#creating-texts}
 
-##### AC9E7LY06
+##### AC9E7LY06 {#ac9e7ly06}
 
 plan, create, edit and publish written and multimodal texts, selecting subject matter, and using text structures, language features, literary devices and visual features as appropriate to convey information, ideas and opinions in ways that may be imaginative, reflective, informative, persuasive and/or analytical
 
@@ -235,7 +235,7 @@ plan, create, edit and publish written and multimodal texts, selecting subject m
 *  editing for meaning by removing unnecessary repetition, reordering sentences and varying sentence structures to refine ideas, adding or substituting words for impact, and reviewing accuracy of grammar, spelling and punctuation
 *  tracking a word-processed document to jointly edit texts
 
-##### AC9E7LY07
+##### AC9E7LY07 {#ac9e7ly07}
 
 plan, create, rehearse and deliver presentations for purposes and audiences in ways that may be imaginative, reflective, informative, persuasive and/or analytical, by selecting text structures, language features, literary devices and visual features, and using features of voice including volume, tone, pitch and pace
 
@@ -245,15 +245,15 @@ plan, create, rehearse and deliver presentations for purposes and audiences in w
 *  monitoring ideas developed at each stage of creating a presentation in a blog or journal
 *  sharing feedback with a peer while planning, creating and rehearsing a presentation
 
-#### Word knowledge
+#### Word knowledge {#word-knowledge}
 
-##### AC9E7LY08
+##### AC9E7LY08 {#ac9e7ly08}
 
 understand how to use spelling rules and word origins; for example, Greek and Latin roots, base words, suffixes, prefixes and spelling patterns to learn new words and how to spell them
 
 **Elaborations**
 
-## Achievement Standards
+## Achievement Standards {#achievement-standards}
 
 By the end of Year 7, students interact with others, and listen to and create spoken and/or multimodal texts including literary texts. With different purposes and for audiences, they discuss, express and expand ideas with evidence. They adopt text structures to organise, develop and link ideas. They adopt language features including literary devices, and/or multimodal features and features of voice.
 

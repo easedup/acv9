@@ -1,6 +1,6 @@
-# Science - Year 9
+# Science - Year 9 {#science-year-9}
 
-## Level Description
+## Level Description {#level-description}
 
 In Year 9 students consider the operation of systems at a range of scales and how those systems respond to external changes in order to maintain stability. They explore ways in which the human body system responds to changes in the external environment through physiological feedback mechanisms and the reproductive processes that enable a species to respond to a changing environment over time. They are introduced to the notion of the atom as a system of protons, electrons and neutrons, and how this system can change through nuclear decay. They learn that matter can be rearranged through chemical change and that these changes play an important role in many systems. They are introduced to the concepts of conservation of matter and energy and begin to develop a more sophisticated view of energy transfer. They explore these concepts as they relate to the global carbon cycle. Students begin to consider how well a sample or model represents the phenomena under study and use a range of evidence to support their conclusions.
 
@@ -12,13 +12,13 @@ Inquiry questions can help excite students’ curiosity and challenge their thin
 *   How does the carbon cycle affect life on Earth?
 *   How do different technologies help humans to communicate?
 
-## Strands
+## Strands {#strands}
 
-### Science understanding
+### Science understanding {#science-understanding}
 
-#### Biological sciences
+#### Biological sciences {#biological-sciences}
 
-##### AC9S9U01
+##### AC9S9U01 {#ac9s9u01}
 
 compare the role of body systems in regulating and coordinating the body’s response to a stimulus, and describe the operation of a negative feedback mechanism
 
@@ -30,7 +30,7 @@ compare the role of body systems in regulating and coordinating the body’s res
 *  examining the effects of a disorder in a feedback system, such as diabetes-induced blindness or hypothermia
 *  considering how understanding of feedback mechanisms has enabled the development of pharmaceuticals and other products to address issues or enhance performance, such as insulin or electrolytes in sports drinks
 
-##### AC9S9U02
+##### AC9S9U02 {#ac9s9u02}
 
 describe the form and function of reproductive cells and organs in animals and plants, and analyse how the processes of sexual and asexual reproduction enable survival of the species
 
@@ -42,9 +42,9 @@ describe the form and function of reproductive cells and organs in animals and p
 *  examining how the reproductive strategies of multicellular animals are related to their environment and the complexity of the organism
 *  examining how the number of offspring produced by animals is related to the amount of parental care
 
-#### Earth and space sciences
+#### Earth and space sciences {#earth-and-space-sciences}
 
-##### AC9S9U03
+##### AC9S9U03 {#ac9s9u03}
 
 represent the carbon cycle and examine how key processes including combustion, photosynthesis and respiration rely on interactions between Earth’s spheres (the geosphere, biosphere, hydrosphere and atmosphere)
 
@@ -59,9 +59,9 @@ represent the carbon cycle and examine how key processes including combustion, p
 *  identifying how carbon dioxide is captured and stored naturally or through the use of technologies
 *  calculating an individual’s carbon footprint, examining the impact of human activities and suggesting strategies to reduce carbon dioxide emissions
 
-#### Physical sciences
+#### Physical sciences {#physical-sciences}
 
-##### AC9S9U04
+##### AC9S9U04 {#ac9s9u04}
 
 use wave and particle models to describe energy transfer through different mediums and examine the usefulness of each model for explaining phenomena
 
@@ -74,7 +74,7 @@ use wave and particle models to describe energy transfer through different mediu
 *  investigating the impact of material selection on the transfer of sound energy in First Nations Australians’ traditional musical, hunting and communication instruments
 *  examining the forms of electromagnetic radiation that are used in different modern communication technologies and identifying any limitations
 
-##### AC9S9U05
+##### AC9S9U05 {#ac9s9u05}
 
 apply the law of conservation of energy to analyse system efficiency in terms of energy inputs, outputs, transfers and transformations
 
@@ -87,9 +87,9 @@ apply the law of conservation of energy to analyse system efficiency in terms of
 *  examining the meaning of energy star ratings given to appliances such as refrigerators and washing machines and criteria used to determine these ratings
 *  examining how improving efficiency in energy transfer and transformations in sporting activities such as pole vaulting or archery improves athletic performance
 
-#### Chemical sciences
+#### Chemical sciences {#chemical-sciences}
 
-##### AC9S9U06
+##### AC9S9U06 {#ac9s9u06}
 
 explain how the model of the atom changed following the discovery of electrons, protons and neutrons and describe how natural radioactive decay results in stable atoms
 
@@ -103,7 +103,7 @@ explain how the model of the atom changed following the discovery of electrons, 
 *  identifying where applications of radioactivity are used in medicine and industry such as diagnosing and treating cancer and checking for faults in materials used in aircraft and spacecraft
 *  discussing how mass and energy are connected at all scales and energy conversion processes within atomic nuclei
 
-##### AC9S9U07
+##### AC9S9U07 {#ac9s9u07}
 
 model the rearrangement of atoms in chemical reactions using a range of representations, including word and simple balanced chemical equations, and use these to demonstrate the law of conservation of mass
 
@@ -115,11 +115,11 @@ model the rearrangement of atoms in chemical reactions using a range of represen
 *  investigating why most elements are not found in their elemental state and processes which are used to obtain the element
 *  predicting how ideas of green chemistry such as minimising the amount of unusable waste products, energy use and using more environmentally friendly chemical processes will affect the environment
 
-### Science as a human endeavour
+### Science as a human endeavour {#science-as-a-human-endeavour}
 
-#### Nature and development of science
+#### Nature and development of science {#nature-and-development-of-science}
 
-##### AC9S9H01
+##### AC9S9H01 {#ac9s9h01}
 
 explain how scientific knowledge is validated and refined, including the role of publication and peer review
 
@@ -131,7 +131,7 @@ explain how scientific knowledge is validated and refined, including the role 
 *  researching how JJ Thomson’s discovery of the electron, Robert Millikan’s oil drop experiment, and Ernest Rutherford’s gold foil experiment provide consistency of evidence for the particle model of electricity
 *  examining how Marie and Pierre Curie’s discovery of new elements was validated
 
-##### AC9S9H02
+##### AC9S9H02 {#ac9s9h02}
 
 investigate how advances in technologies enable advances in science, and how science has contributed to developments in technologies and engineering
 
@@ -144,9 +144,9 @@ investigate how advances in technologies enable advances in science, and how sci
 *  exploring how understanding of the nature of matter and energy has changed over time, and how modern technology has enabled exploration of energy conversion processes at all scales, from black holes to atoms to sub-atomic particles
 *  examining how advances in understanding of radioactivity and radioisotopes have led to new applications and technologies
 
-#### Use and influence of science
+#### Use and influence of science {#use-and-influence-of-science}
 
-##### AC9S9H03
+##### AC9S9H03 {#ac9s9h03}
 
 analyse the key factors that contribute to science knowledge and practices being adopted more broadly by society
 
@@ -159,7 +159,7 @@ analyse the key factors that contribute to science knowledge and practices being
 *  analysing factors that have led to the adoption of solar panels and battery storage by individuals, industries and communities
 *  investigating how an understanding of materials and concern for the environment have led to the adoption of widespread recycling practices
 
-##### AC9S9H04
+##### AC9S9H04 {#ac9s9h04}
 
 examine how the values and needs of society influence the focus of scientific research
 
@@ -172,11 +172,11 @@ examine how the values and needs of society influence the focus of scientific re
 *  considering how the development of new materials and procedures has contributed to safe sound levels for humans in the workplace and leisure activities
 *  examining why many manufacturers are adopting green chemistry processes
 
-### Science inquiry
+### Science inquiry {#science-inquiry}
 
-#### Questioning and predicting
+#### Questioning and predicting {#questioning-and-predicting}
 
-##### AC9S9I01
+##### AC9S9I01 {#ac9s9i01}
 
 develop investigable questions, reasoned predictions and hypotheses to test relationships and develop explanatory models
 
@@ -187,9 +187,9 @@ develop investigable questions, reasoned predictions and hypotheses to test rela
 *  discussing why a scientific hypothesis has to be able to be supported or refuted through evidence
 *  proposing a hypothesis to test an identified relationship, such as: ‘If objects of different temperatures are placed in contact, heat energy will transfer from an object of higher temperature to an object of lower temperature until both objects reach the same temperature’
 
-#### Planning and conducting
+#### Planning and conducting {#planning-and-conducting}
 
-##### AC9S9I02
+##### AC9S9I02 {#ac9s9i02}
 
 plan and conduct valid, reproducible investigations to answer questions and test hypotheses, including identifying and controlling for possible sources of error and, as appropriate, developing and following risk assessments, considering ethical issues, and addressing key considerations regarding heritage sites and artefacts on Country/Place
 
@@ -201,7 +201,7 @@ plan and conduct valid, reproducible investigations to answer questions and test
 *  discussing the ethical and social issues involved in the care and use of animals for scientific purposes before starting an investigation involving animals
 *  recognising First Nations Australians’ heritage laws and public responsibilities to report new sites or artefacts, and developing awareness of the consequences for disturbing heritage sites on, above or below the land surface, or in waters
 
-##### AC9S9I03
+##### AC9S9I03 {#ac9s9i03}
 
 select and use equipment to generate and record data with precision to obtain useful sample sizes and replicable data, using digital tools as appropriate
 
@@ -213,9 +213,9 @@ select and use equipment to generate and record data with precision to obtain us
 *  discussing the amount of data needed to produce a useful sample size and why sample size is important
 *  considering an appropriate sample size for the investigation, and how the use of digital tools might enable more-efficient data collection for larger sample sizes
 
-#### Processing, modelling and analysing
+#### Processing, modelling and analysing {#processing-modelling-and-analysing}
 
-##### AC9S9I04
+##### AC9S9I04 {#ac9s9i04}
 
 select and construct appropriate representations, including tables, graphs, descriptive statistics, models and mathematical relationships, to organise and process data and information
 
@@ -226,7 +226,7 @@ select and construct appropriate representations, including tables, graphs, desc
 *  applying ratios to accurately represent usable and waste energy in transfer and transformation diagrams such as Sankey diagrams
 *  comparing the information provided by molecular models and word and balanced symbolic chemical equations when examining the law of conservation of mass
 
-##### AC9S9I05
+##### AC9S9I05 {#ac9s9i05}
 
 analyse and connect a variety of data and information to identify and explain patterns, trends, relationships and anomalies
 
@@ -237,9 +237,9 @@ analyse and connect a variety of data and information to identify and explain pa
 *  analysing data on heat transfer through multiple layers of an insulating material and identifying patterns and proportional relationships, such as: ‘When the thickness of the material is doubled the amount of heat transferred is halved’
 *  examining tables, graphs and digital simulations of radioactive decay half-life to predict changes in mass over time
 
-#### Evaluating
+#### Evaluating {#evaluating}
 
-##### AC9S9I06
+##### AC9S9I06 {#ac9s9i06}
 
 assess the validity and reproducibility of methods and evaluate the validity of conclusions and claims, including by identifying assumptions, conflicting evidence and areas of uncertainty
 
@@ -251,7 +251,7 @@ assess the validity and reproducibility of methods and evaluate the validity of 
 *  considering if areas of uncertainty could lead to a viable alternative conclusion
 *  considering how general practitioners manage conflicting evidence to diagnose illness
 
-##### AC9S9I07
+##### AC9S9I07 {#ac9s9i07}
 
 construct arguments based on analysis of a variety of evidence to support conclusions or evaluate claims, and consider any ethical issues and cultural protocols associated with accessing, using or citing secondary data or information
 
@@ -264,9 +264,9 @@ construct arguments based on analysis of a variety of evidence to support conclu
 *  acknowledging and identifying the relationship between First Peoples’ knowledges and contemporary science and the co-contributions in arriving at shared understandings when working ‘both ways’
 *  acknowledging and constructing an argument for the contributions to medicine of First Nations Australians’ knowledges of physiological pathways and contemporary medicinal delivery systems
 
-#### Communicating
+#### Communicating {#communicating}
 
-##### AC9S9I08
+##### AC9S9I08 {#ac9s9i08}
 
 write and create texts to communicate ideas, findings and arguments effectively for identified purposes and audiences, including selection of appropriate content, language and text features, using digital tools as appropriate
 
@@ -278,7 +278,7 @@ write and create texts to communicate ideas, findings and arguments effectively 
 *  planning a social media campaign to encourage young people to reduce their carbon footprint
 *  collaborating to prepare a written report for local government on estimated carbon storage across different local ecosystems and proposals to increase carbon storage across the area
 
-## Achievement Standards
+## Achievement Standards {#achievement-standards}
 
 By the end of Year 9 students explain how body systems provide a coordinated response to stimuli. They describe how the processes of sexual and asexual reproduction enable survival of the species. They explain how interactions within and between Earth’s spheres affect the carbon cycle. They analyse energy conservation in simple systems and apply wave and particle models to describe energy transfer. They explain observable chemical processes in terms of changes in atomic structure, atomic rearrangement and mass. Students explain the role of publication and peer review in the development of scientific knowledge and explain the relationship between science, technologies and engineering. They analyse the different ways in which science and society are interconnected.
 

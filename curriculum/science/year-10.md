@@ -1,6 +1,6 @@
-# Science - Year 10
+# Science - Year 10 {#science-year-10}
 
-## Level Description
+## Level Description {#level-description}
 
 In Year 10 students explore the biological, chemical, geological and astronomical evidence for different theories, such as the theory of natural selection and the big bang theory. Through investigating natural selection and processes of heredity they come to understand the evolutionary feedback mechanisms that ensure the continuity of life. They appreciate how energy drives the Earth system and how climate models simulate the flow of energy and matter within and between Earth’s spheres. Students develop a more sophisticated understanding of atomic theory to understand patterns and relationships within the periodic table. They understand that motion and forces are related by applying physical laws and can be modelled mathematically. Students analyse and synthesise data from systems at multiple scales to develop evidence-based explanations for phenomena. They learn that all models involve assumptions and approximations, and that this can limit the reliability of predictions based on those models.
 
@@ -12,13 +12,13 @@ Inquiry questions can help excite students’ curiosity and challenge their thin
 *   Just because we can, should we?
 *   How have advanced computing and big data changed science?
 
-## Strands
+## Strands {#strands}
 
-### Science understanding
+### Science understanding {#science-understanding}
 
-#### Biological sciences
+#### Biological sciences {#biological-sciences}
 
-##### AC9S10U01
+##### AC9S10U01 {#ac9s10u01}
 
 explain the role of meiosis and mitosis and the function of chromosomes, DNA and genes in heredity and predict patterns of Mendelian inheritance
 
@@ -31,7 +31,7 @@ explain the role of meiosis and mitosis and the function of chromosomes, DNA and
 *  exploring environmental and other factors that cause mutations and identifying changes in DNA or chromosomes
 *  exploring the role of DNA in cancer or genetic disorders such as haemochromatosis, sickle cell anaemia, cystic fibrosis or Klinefelter syndrome
 
-##### AC9S10U02
+##### AC9S10U02 {#ac9s10u02}
 
 use the theory of evolution by natural selection to explain past and present diversity and analyse the scientific evidence supporting the theory
 
@@ -43,9 +43,9 @@ use the theory of evolution by natural selection to explain past and present div
 *  relating genetic characteristics to survival and reproductive rates
 *  investigating some of the structural and physiological adaptations of First Nations Australians to the Australian environment
 
-#### Earth and space sciences
+#### Earth and space sciences {#earth-and-space-sciences}
 
-##### AC9S10U03
+##### AC9S10U03 {#ac9s10u03}
 
 describe how the big bang theory models the origin and evolution of the universe and analyse the supporting evidence for the theory
 
@@ -58,7 +58,7 @@ describe how the big bang theory models the origin and evolution of the universe
 *  identifying the different technologies used to collect astronomical data and the types of data collected
 *  exploring recent advances in astronomy, including the Australian Square Kilometre Array Pathfinder, and astrophysics, such as the discovery of gravitational waves, dark matter and dark energy; and identifying new knowledge which has emerged
 
-##### AC9S10U04
+##### AC9S10U04 {#ac9s10u04}
 
 use models of energy flow between the geosphere, biosphere, hydrosphere and atmosphere to explain patterns of global climate change
 
@@ -70,9 +70,9 @@ use models of energy flow between the geosphere, biosphere, hydrosphere and atmo
 *  investigating how quantum computers enhance modelling of complex weather and climate systems
 *  predicting changes to the Earth system and identifying strategies designed to reduce climate change or mitigate its effects
 
-#### Physical sciences
+#### Physical sciences {#physical-sciences}
 
-##### AC9S10U05
+##### AC9S10U05 {#ac9s10u05}
 
 investigate Newton’s laws of motion and quantitatively analyse the relationship between force, mass and acceleration of objects
 
@@ -85,9 +85,9 @@ investigate Newton’s laws of motion and quantitatively analyse the relationshi
 *  constructing an argument, supported by data, to support lower speed limits near schools or for trucks in urban environments
 *  investigating how driverless vehicles apply Newton’s laws of motion to brake in time
 
-#### Chemical sciences
+#### Chemical sciences {#chemical-sciences}
 
-##### AC9S10U06
+##### AC9S10U06 {#ac9s10u06}
 
 explain how the structure and properties of atoms relate to the organisation of the elements in the periodic table
 
@@ -99,7 +99,7 @@ explain how the structure and properties of atoms relate to the organisation of 
 *  conducting flame tests for a selection of elements and examining emission spectra
 *  examining how the development of the spectroscope led to further development of the model of the atom
 
-##### AC9S10U07
+##### AC9S10U07 {#ac9s10u07}
 
 identify patterns in synthesis, decomposition and displacement reactions and investigate the factors that affect reaction rates
 
@@ -112,11 +112,11 @@ identify patterns in synthesis, decomposition and displacement reactions and inv
 *  investigating some of the chemical reactions and methods employed by First Nations Australians to convert toxic plants into edible food products
 *  examining reactions that are used to produce a range of useful products
 
-### Science as a human endeavour
+### Science as a human endeavour {#science-as-a-human-endeavour}
 
-#### Nature and development of science
+#### Nature and development of science {#nature-and-development-of-science}
 
-##### AC9S10H01
+##### AC9S10H01 {#ac9s10h01}
 
 explain how scientific knowledge is validated and refined, including the role of publication and peer review
 
@@ -128,7 +128,7 @@ explain how scientific knowledge is validated and refined, including the role 
 *  examining how the discovery of gravity waves validated Einstein’s theory of general relativity and why this discovery did not occur until 100 years after the theory was proposed
 *  investigating how the development of the periodic table has been disputed and refined as science has progressed and new elements have been discovered
 
-##### AC9S10H02
+##### AC9S10H02 {#ac9s10h02}
 
 investigate how advances in technologies enable advances in science, and how science has contributed to developments in technologies and engineering
 
@@ -142,9 +142,9 @@ investigate how advances in technologies enable advances in science, and how sci
 *  exploring how the development of new materials and thin films has led to better computer chips and solar cells
 *  investigating how the development of superstrong, lighter alloys has enabled engineers to improve structural components in building, transportation and industry and to design products such as improved protective armour for police and soldiers
 
-#### Use and influence of science
+#### Use and influence of science {#use-and-influence-of-science}
 
-##### AC9S10H03
+##### AC9S10H03 {#ac9s10h03}
 
 analyse the key factors that contribute to science knowledge and practices being adopted more broadly by society
 
@@ -156,7 +156,7 @@ analyse the key factors that contribute to science knowledge and practices being
 *  discussing citizen science projects such as the GLOBE Project or others of local relevance and examining why people would choose to be involved
 *  considering how the traditional ecological knowledges of First Nations Australians are being reaffirmed by modern science and how these practices are being used by Traditional Owners in carbon farming initiatives
 
-##### AC9S10H04
+##### AC9S10H04 {#ac9s10h04}
 
 examine how the values and needs of society influence the focus of scientific research
 
@@ -166,11 +166,11 @@ examine how the values and needs of society influence the focus of scientific re
 *  recognising that financial backing from governments or commercial organisations is needed for scientific developments and that this can determine what research is carried out
 *  examining the link between scientific research and real-world applications such as space research and new material development
 
-### Science inquiry
+### Science inquiry {#science-inquiry}
 
-#### Questioning and predicting
+#### Questioning and predicting {#questioning-and-predicting}
 
-##### AC9S10I01
+##### AC9S10I01 {#ac9s10i01}
 
 develop investigable questions, reasoned predictions and hypotheses to test relationships and develop explanatory models
 
@@ -181,9 +181,9 @@ develop investigable questions, reasoned predictions and hypotheses to test rela
 *  asking questions about the relationship between crash impact force and speed and developing a hypothesis which can then be tested
 *  observing how changing the surface area, concentration and temperature affects the rate of a chemical reaction and developing reasoned predictions
 
-#### Planning and conducting
+#### Planning and conducting {#planning-and-conducting}
 
-##### AC9S10I02
+##### AC9S10I02 {#ac9s10i02}
 
 plan and conduct valid, reproducible investigations to answer questions and test hypotheses, including identifying and controlling for possible sources of error and, as appropriate, developing and following risk assessments, considering ethical issues, and addressing key considerations regarding heritage sites and artefacts on Country/Place
 
@@ -196,7 +196,7 @@ plan and conduct valid, reproducible investigations to answer questions and test
 *  modelling how to report the discovery of unregistered First Nations Australians artefacts and heritage or any unauthorised disturbance
 *  considering the ethical and social issues and legal responsibilities involved in the care and use of animals for scientific purposes before starting an investigation involving animals
 
-##### AC9S10I03
+##### AC9S10I03 {#ac9s10i03}
 
 select and use equipment to generate and record data with precision to obtain useful sample sizes and replicable data, using digital tools as appropriate
 
@@ -206,9 +206,9 @@ select and use equipment to generate and record data with precision to obtain us
 *  identifying how human error can affect replicability and reproducibility
 *  deciding how much data is needed to produce valid conclusions
 
-#### Processing, modelling and analysing
+#### Processing, modelling and analysing {#processing-modelling-and-analysing}
 
-##### AC9S10I04
+##### AC9S10I04 {#ac9s10i04}
 
 select and construct appropriate representations, including tables, graphs, descriptive statistics, models and mathematical relationships, to organise and process data and information
 
@@ -220,7 +220,7 @@ select and construct appropriate representations, including tables, graphs, desc
 *  evaluating the merits and limitations of time-lapse visual representations of changes in polar ice coverage with a mathematical representation
 *  comparing merits and limitations of patterns as represented by the periodic table with graphical representations of patterns such as melting point or boiling point, and with consideration of anomalies
 
-##### AC9S10I05
+##### AC9S10I05 {#ac9s10i05}
 
 analyse and connect a variety of data and information to identify and explain patterns, trends, relationships and anomalies
 
@@ -231,9 +231,9 @@ analyse and connect a variety of data and information to identify and explain pa
 *  representing speed and acceleration data from investigations or simulations in tables and graphs and comparing how these facilitate the identification of relationships
 *  exploring how different interpretations can be made from data that is organised or processed in different ways, and the implications of this for data analysis
 
-#### Evaluating
+#### Evaluating {#evaluating}
 
-##### AC9S10I06
+##### AC9S10I06 {#ac9s10i06}
 
 assess the validity and reproducibility of methods and evaluate the validity of conclusions and claims, including by identifying assumptions, conflicting evidence and areas of uncertainty
 
@@ -245,7 +245,7 @@ assess the validity and reproducibility of methods and evaluate the validity of 
 *  considering how data variation can indicate uncertainty and might affect confidence in conclusions reached and claims made
 *  analysing conclusions and claims to identify facts or premises that are taken for granted to be true, and evaluating the reasonableness of those assumptions
 
-##### AC9S10I07
+##### AC9S10I07 {#ac9s10i07}
 
 construct arguments based on analysis of a variety of evidence to support conclusions or evaluate claims, and consider any ethical issues and cultural protocols associated with accessing, using or citing secondary data or information
 
@@ -259,9 +259,9 @@ construct arguments based on analysis of a variety of evidence to support conclu
 *  using primary or secondary scientific evidence to support or oppose a local action that may impact on global climate change
 *  preparing an argument for increased funding for a particular scientific research focus
 
-#### Communicating
+#### Communicating {#communicating}
 
-##### AC9S10I08
+##### AC9S10I08 {#ac9s10i08}
 
 write and create texts to communicate ideas, findings and arguments effectively for identified purposes and audiences, including selection of appropriate content, language and text features, using digital tools as appropriate
 
@@ -273,7 +273,7 @@ write and create texts to communicate ideas, findings and arguments effectively 
 *  using animation or comic strip software to create an explanation of the Big Bang for an audience of their peers
 *  creating a campaign to lower speed limits in specific areas of the local community
 
-## Achievement Standards
+## Achievement Standards {#achievement-standards}
 
 By the end of Year 10 students explain the processes that underpin heredity and genetic diversity and describe the evidence supporting the theory of evolution by natural selection. They sequence key events in the origin and evolution of the universe and describe the supporting evidence for the big bang theory. They describe trends in patterns of global climate change and identify causal factors. They explain how Newton’s laws describe motion and apply them to predict motion of objects in a system. They explain patterns and trends in the periodic table and predict the products of reactions and the effect of changing reactant and reaction conditions. Students analyse the importance of publication and peer review in the development of scientific knowledge and analyse the relationship between science, technologies and engineering. They analyse the key factors that influence interactions between science and society.
 

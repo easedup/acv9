@@ -1,6 +1,6 @@
-# Health and Physical Education - Years 3 and 4
+# Health and Physical Education - Years 3 and 4 {#health-and-physical-education-years-3-and-4}
 
-## Level Description
+## Level Description {#level-description}
 
 The Years 3–4 curriculum builds on each student’s prior learning. During this time, students are further developing their understanding of themselves and others, and the changing world in which they live.
 
@@ -14,13 +14,13 @@ Students develop greater proficiency across the range of fundamental movement sk
 
 Students combine different movement skills in game-like situations to create more complex movement patterns and sequences. Through exploration of, and participation in, a variety of physical activities, students further develop their knowledge about movement, how the body moves and the benefits of regular physical activity.
 
-## Strands
+## Strands {#strands}
 
-### Personal, social and community health
+### Personal, social and community health {#personal-social-and-community-health}
 
-#### Identities and change
+#### Identities and change {#identities-and-change}
 
-##### AC9HP4P01
+##### AC9HP4P01 {#ac9hp4p01}
 
 investigate how success, challenge, setbacks and failure strengthen resilience and identities in a range of contexts
 
@@ -31,7 +31,7 @@ investigate how success, challenge, setbacks and failure strengthen resilience a
 *  exploring how responses to success, challenge, setbacks and failures are influenced by cultural beliefs and values
 *  recognising how success, challenge, failure and enjoyment of physical activities influence identities
 
-##### AC9HP4P02
+##### AC9HP4P02 {#ac9hp4p02}
 
 plan, rehearse and reflect on strategies to cope with the different changes and transitions they experience, such as the changes associated with puberty
 
@@ -42,7 +42,7 @@ plan, rehearse and reflect on strategies to cope with the different changes and 
 *  practising and refining coping skills they can use when faced with challenges or changes, such as positive self-talk, problem-solving, mindfulness, seeking help from families, peers and teachers
 *  identifying scenarios in texts where characters experience and react to change and transition, evaluating the effectiveness of these responses and identifying other possible options that may be helpful
 
-##### AC9HP4P03
+##### AC9HP4P03 {#ac9hp4p03}
 
 describe how choices and actions can be influenced by stereotypes
 
@@ -52,9 +52,9 @@ describe how choices and actions can be influenced by stereotypes
 *  describing ways to make roles and responsibilities at home, at school and in communities fair, equitable and inclusive
 *  practising ways in which they can contribute to people of different genders being treated in fair and equal ways
 
-#### Interacting with others
+#### Interacting with others {#interacting-with-others}
 
-##### AC9HP4P04
+##### AC9HP4P04 {#ac9hp4p04}
 
 select, use and refine personal and social skills to establish, manage and strengthen relationships
 
@@ -65,7 +65,7 @@ select, use and refine personal and social skills to establish, manage and stren
 *  discussing how demonstrating respect and empathy for First Nations Australians can build positive relationships
 *  recognising that bullying behaviour can take many forms, including online, and proposing strategies to challenge bullying in and out of school
 
-##### AC9HP4P05
+##### AC9HP4P05 {#ac9hp4p05}
 
 describe how valuing diversity influences wellbeing and identify actions that promote inclusion in their communities
 
@@ -77,7 +77,7 @@ describe how valuing diversity influences wellbeing and identify actions that pr
 *  recognising the important role of cultural narratives in describing the diversity, and sharing beliefs and practices, of First Nations Australian communities
 *  exploring the diversity of backgrounds, experiences, beliefs and practices of different cultures, including the cultures of Asia
 
-##### AC9HP4P06
+##### AC9HP4P06 {#ac9hp4p06}
 
 explain how and why emotional responses can vary and practise strategies to manage their emotions
 
@@ -88,7 +88,7 @@ explain how and why emotional responses can vary and practise strategies to mana
 *  explaining the strategies characters in texts use to identify and manage their emotions before deciding to act
 *  implementing self-regulation strategies to manage the expression of emotional responses
 
-##### AC9HP4P07
+##### AC9HP4P07 {#ac9hp4p07}
 
 rehearse and refine strategies for seeking, giving and denying permission respectfully and describe situations when permission is required
 
@@ -97,9 +97,9 @@ rehearse and refine strategies for seeking, giving and denying permission respec
 *  exploring actions they can take if someone has done something hurtful or disrespectful to them without their permission or consent including in online environments
 *  exploring actions they can take when they or others are unsafe, such as saying no, leaving the situation and reporting the incident, and discussing how to use these strategies in situations in which someone posts an embarrassing picture online without permission, touches private parts of their body, or uses violence against them
 
-#### Making healthy and safe choices
+#### Making healthy and safe choices {#making-healthy-and-safe-choices}
 
-##### AC9HP4P08
+##### AC9HP4P08 {#ac9hp4p08}
 
 describe and apply protective behaviours and help-seeking strategies in a range of online and offline situations
 
@@ -111,7 +111,7 @@ describe and apply protective behaviours and help-seeking strategies in a range 
 *  proposing strategies for managing online safety by recognising when they feel uncomfortable or unsafe, and identifying steps for reporting negative or harmful behaviour
 *  discussing different protective behaviours and help-seeking strategies characters in texts use to keep themselves and others safe
 
-##### AC9HP4P09
+##### AC9HP4P09 {#ac9hp4p09}
 
 interpret the nature and intention of health information and messages, and reflect on how they influence personal decisions and behaviours
 
@@ -121,7 +121,7 @@ interpret the nature and intention of health information and messages, and refle
 *  identifying, examining and combining information and opinions from a range of sources to inform decisions and behaviours on a range of health issues
 *  investigating the level of influence health messages from different people and sources may have on their health decisions
 
-##### AC9HP4P10
+##### AC9HP4P10 {#ac9hp4p10}
 
 investigate and apply behaviours that contribute to their own and others’ health, safety, relationships and wellbeing
 
@@ -135,11 +135,11 @@ investigate and apply behaviours that contribute to their own and others’ heal
 *  identifying ways they can change their behaviours to support the sustainability of the Earth’s systems; for example, recycling or composting systems to minimise waste in the school, and community fruit and vegetable gardens to create healthy and sustainable lunches or snacks
 *  practising strategies for enhancing mental wellbeing such as positive self-talk, mindfulness and meditation
 
-### Movement and physical activity
+### Movement and physical activity {#movement-and-physical-activity}
 
-#### Moving our bodies
+#### Moving our bodies {#moving-our-bodies}
 
-##### AC9HP4M01
+##### AC9HP4M01 {#ac9hp4m01}
 
 refine and apply fundamental movement skills in new movement situations
 
@@ -150,7 +150,7 @@ refine and apply fundamental movement skills in new movement situations
 *  coordinating kicking with arm movements to move the body through the water using different types of strokes
 *  performing routines incorporating different jumping, landing and balancing techniques, and connecting movements to create a movement sequence
 
-##### AC9HP4M02
+##### AC9HP4M02 {#ac9hp4m02}
 
 apply and adapt movement strategies to achieve movement outcomes
 
@@ -160,7 +160,7 @@ apply and adapt movement strategies to achieve movement outcomes
 *  manipulating centre of gravity to enhance stability as they perform a range of balance activities and explaining how centre of gravity and base of support influence stability
 *  evaluating the outcome of a game tactic that has been adapted to improve scoring options using set criteria
 
-##### AC9HP4M03
+##### AC9HP4M03 {#ac9hp4m03}
 
 demonstrate how movement concepts related to effort, space, time, objects and people can be applied when performing movement sequences
 
@@ -170,9 +170,9 @@ demonstrate how movement concepts related to effort, space, time, objects and pe
 *  using the body to demonstrate an understanding of symmetry, shapes and angles when performing movement skills, balances or movement sequences
 *  exploring different ways of manipulating space to receive passes, maintain possession, or increase or decrease scoring opportunities in invasion, net/court, striking and fielding, and target games
 
-#### Making active choices
+#### Making active choices {#making-active-choices}
 
-##### AC9HP4M04
+##### AC9HP4M04 {#ac9hp4m04}
 
 participate in physical activities to explore how their body feels and describe how regular physical activity helps the body stay healthy and well
 
@@ -181,7 +181,7 @@ participate in physical activities to explore how their body feels and describe 
 *  performing warm-up and stretching routines to understand how to prepare the body to be active
 *  investigating the influence of regular physical activity on quality of sleep, concentration and overall wellbeing
 
-##### AC9HP4M05
+##### AC9HP4M05 {#ac9hp4m05}
 
 participate in physical activities in natural and outdoor settings to examine factors that can influence their own and others’ participation
 
@@ -191,7 +191,7 @@ participate in physical activities in natural and outdoor settings to examine fa
 *  participating in physical activities they can do at home and exploring how they can be more active at home using everyday items as equipment
 *  exploring ways in which people can connect with other members of their community through participating in physical activities
 
-##### AC9HP4M06
+##### AC9HP4M06 {#ac9hp4m06}
 
 explore recommendations about physical activity and sedentary behaviours, and discuss strategies to achieve the recommendations
 
@@ -200,9 +200,9 @@ explore recommendations about physical activity and sedentary behaviours, and di
 *  examining the benefits of regular physical activity, including the influence on sleep, concentration and wellbeing
 *  exploring physical activity and screen-usage time recommendations in the Australian 24-Hour Movement Guidelines for Children and Young People and proposing how they can meet these recommendations
 
-#### Learning through movement
+#### Learning through movement {#learning-through-movement}
 
-##### AC9HP4M07
+##### AC9HP4M07 {#ac9hp4m07}
 
 apply creative thinking when designing movement sequences and solving movement problems
 
@@ -211,7 +211,7 @@ apply creative thinking when designing movement sequences and solving movement p
 *  drawing on prior knowledge from other physical activity experiences to solve challenges faced when participating in outdoor activities
 *  developing questions and seeking and trialling answers with others as a strategy for solving movement challenges, such as partner or group balance challenges, game tactics to increase scoring chances and obstacle course challenges
 
-##### AC9HP4M08
+##### AC9HP4M08 {#ac9hp4m08}
 
 apply rules and scoring systems to promote fair play when participating or designing physical activities
 
@@ -221,7 +221,7 @@ apply rules and scoring systems to promote fair play when participating or desig
 *  interpreting and applying rules fairly in physical activities where they are in the role of officiating
 *  exploring rules and scoring systems used in traditional games of First Nations Australians and comparing them to rules and systems used in other games they have played
 
-##### AC9HP4M09
+##### AC9HP4M09 {#ac9hp4m09}
 
 perform a range of roles in respectful ways to achieve successful outcomes in group or team movement activities
 
@@ -230,7 +230,7 @@ perform a range of roles in respectful ways to achieve successful outcomes in gr
 *  working cooperatively with team members to maintain possession in a game by passing to other players and listening to teammates
 *  modifying physical activities to ensure that everyone is included, such as changing equipment, rules or playing space
 
-## Achievement Standards
+## Achievement Standards {#achievement-standards}
 
 The Years 3–4 curriculum builds on each student’s prior learning. During this time, students are further developing their understanding of themselves and others, and the changing world in which they live.
 

@@ -1,6 +1,6 @@
-# Humanities and Social Sciences - HASS F-6 - Year 3
+# Humanities and Social Sciences - Year 3 {#humanities-and-social-sciences-year-3}
 
-## Level Description
+## Level Description {#level-description}
 
 In Year 3, the focus is on **"diverse communities and places, and the contributions people make"**.
 
@@ -12,13 +12,13 @@ Inquiry questions provide a framework for developing students’ knowledge, unde
 *   How do people contribute to their communities, past and present?
 *   How are people in Australia connected to places and what are the similarities and differences between those places?
 
-## Strands
+## Strands {#strands}
 
-### Knowledge and understanding
+### Knowledge and understanding {#knowledge-and-understanding}
 
-#### History
+#### History {#history}
 
-##### AC9HS3K01
+##### AC9HS3K01 {#ac9hs3k01}
 
 causes and effects of changes to the local community, and how people who may be from diverse backgrounds have contributed to these changes
 
@@ -28,7 +28,7 @@ causes and effects of changes to the local community, and how people who may be 
 *  identifying individuals and groups of diverse backgrounds from the past, who have contributed to the community’s economic, social, cultural, civic and environmental development and character
 *  investigating reasons for change in the local community, why change was brought about and what happened because of it; for example, the change in use of a building, wasteland turning to wetland
 
-##### AC9HS3K02
+##### AC9HS3K02 {#ac9hs3k02}
 
 significant events, symbols and emblems that are important to Australia’s identity and diversity, and how they are celebrated, commemorated or recognised in Australia, including Australia Day, Anzac Day, NAIDOC Week, National Sorry Day, Easter, Christmas, and other religious and cultural festivals
 
@@ -39,9 +39,9 @@ significant events, symbols and emblems that are important to Australia’s iden
 *  examining the symbolism found in the design and positioning of flags (for example, the Australian flag, First Nations Australians’ flags) and recognising special occasions when they are flown (for example, all three flags are flown during NAIDOC Week, National Reconciliation Week, National Sorry Day and Mabo Day)
 *  examining the roles, rights and responsibilities the community has when observing protocols around flag flying
 
-#### Geography
+#### Geography {#geography}
 
-##### AC9HS3K03
+##### AC9HS3K03 {#ac9hs3k03}
 
 the representation of contemporary Australia as states and territories, and as the Countries/Places of First Nations Australians prior to colonisation, and the locations of Australia’s neighbouring regions and countries
 
@@ -50,7 +50,7 @@ the representation of contemporary Australia as states and territories, and as t
 *  using a globe or digital source to locate the Pacific Island nations, New Zealand, Papua New Guinea, Timor-Leste, Indonesia and countries relevant to students, labelling them on a map and identifying the direction of each country from Australia
 *  using the Australian Institute of Aboriginal and Torres Strait Islander Studies Map of Indigenous Australia and a states and territories map of Australia to compare the boundaries of Aboriginal Countries and Torres Strait Islander Places with the surveyed boundaries between Australian states and territories, to gain an appreciation of the different ways Australia can be represented
 
-##### AC9HS3K04
+##### AC9HS3K04 {#ac9hs3k04}
 
 the ways First Nations Australians in different parts of Australia are interconnected with Country/Place
 
@@ -59,7 +59,7 @@ the ways First Nations Australians in different parts of Australia are interconn
 *  discussing how some people are connected to one Country; for example, because it is “Mother’s” Country or “Father’s” Country
 *  exploring the ways Australian First Nations Peoples connect to Country/Place, by reading and viewing poems, songs, paintings and stories from different groups outside the local area
 
-##### AC9HS3K05
+##### AC9HS3K05 {#ac9hs3k05}
 
 the similarities and differences between places in Australia and neighbouring countries in terms of their natural, managed and constructed features
 
@@ -70,9 +70,9 @@ the similarities and differences between places in Australia and neighbouring co
 *  exploring different types of settlement and classifying them into hierarchical categories, such as isolated dwellings, outstations, villages, towns, regional centres and large cities
 *  choosing a place in a neighbouring country, such as Indonesia or Pacific Island nations, to compare with a place in Australia in terms of managed and built features to explore the reasons for similarities and differences
 
-#### Civics and Citizenship
+#### Civics and Citizenship {#civics-and-citizenship}
 
-##### AC9HS3K06
+##### AC9HS3K06 {#ac9hs3k06}
 
 who makes rules, why rules are important in the school and/or the local community, and the consequences of rules not being followed
 
@@ -83,7 +83,7 @@ who makes rules, why rules are important in the school and/or the local communit
 *  discussing situations where it is not fair to have one rule that treats everyone the same; for example, if some people, such as students with disability, have different needs or would be unable to follow the rules
 *  exploring cultural norms behind some rulemaking; for example, removing shoes before entering places of cultural or religious significance
 
-##### AC9HS3K07
+##### AC9HS3K07 {#ac9hs3k07}
 
 why people participate within communities and how students can actively participate and contribute to communities
 
@@ -93,11 +93,11 @@ why people participate within communities and how students can actively particip
 *  investigating how an individual’s contribution can be recognised; for example, an Order of Australia award
 *  exploring the motivations of individuals who contribute to communities, such as local community volunteers, leaders and Elders
 
-### Skills
+### Skills {#skills}
 
-#### Questioning and researching
+#### Questioning and researching {#questioning-and-researching}
 
-##### AC9HS3S01
+##### AC9HS3S01 {#ac9hs3s01}
 
 develop questions to guide investigations about people, events, places and issues
 
@@ -106,7 +106,7 @@ develop questions to guide investigations about people, events, places and issue
 *  asking probing questions during an investigation (for example, “Why is that so?”, “What else do we need to know?”)
 *  posing questions to compare such as “How have things changed?” and “How is my house the same or different to one in a neighbouring country?”
 
-##### AC9HS3S02
+##### AC9HS3S02 {#ac9hs3s02}
 
 locate, collect and record information and data from a range of sources, including annotated timelines and maps
 
@@ -118,9 +118,9 @@ locate, collect and record information and data from a range of sources, includi
 *  acquiring geographical information from schools in geographically contrasting parts of Australia and neighbouring countries and recording that information by constructing and annotating maps, using the appropriate cartographic conventions, including map symbols, title and north point
 *  creating tables or picture and column graphs to show patterns in data collected from class vote on participation in community activities
 
-#### Interpreting, analysing and evaluating
+#### Interpreting, analysing and evaluating {#interpreting-analysing-and-evaluating}
 
-##### AC9HS3S03
+##### AC9HS3S03 {#ac9hs3s03}
 
 interpret information and data displayed in different formats
 
@@ -131,7 +131,7 @@ interpret information and data displayed in different formats
 *  interpreting data to identify patterns of change over time: for example, examine building dates to make inferences about changing designs and materials used
 *  using maps, ground and aerial photographs, and a digital source such as online satellite images to identify, locate and describe features, including the interpretation of cartographic information such as titles, map symbols, north point and compass direction
 
-##### AC9HS3S04
+##### AC9HS3S04 {#ac9hs3s04}
 
 analyse information and data, and identify perspectives
 
@@ -141,9 +141,9 @@ analyse information and data, and identify perspectives
 *  analysing information collected from interviews with different people, such as children, teachers, coaches and community members, about rules and how decisions are made
 *  using visible thinking strategies to examine a group of paintings and/or maps across a period of time, to explore evidence of continuity and change, and significant events in the local area
 
-#### Concluding and decision-making
+#### Concluding and decision-making {#concluding-and-decision-making}
 
-##### AC9HS3S05
+##### AC9HS3S05 {#ac9hs3s05}
 
 draw conclusions based on analysis of information
 
@@ -152,7 +152,7 @@ draw conclusions based on analysis of information
 *  drawing conclusions about the preservation of unique features of the natural environment
 *  drawing conclusions about the ways people are connected with places, and the similarities and differences of places in Australia and those of neighbouring countries
 
-##### AC9HS3S06
+##### AC9HS3S06 {#ac9hs3s06}
 
 propose actions or responses to an issue or challenge that consider possible effects of actions
 
@@ -162,9 +162,9 @@ propose actions or responses to an issue or challenge that consider possible eff
 *  developing a plan of action to achieve a set goal; for example, to protect a place, to participate in a community festival or commemoration, to raise awareness about an issue, to raise money for a purpose
 *  arguing a point of view on a civics and citizenship issue relevant to their lives (for example, the consequences of breaking school rules, the value of contributing to their community, the need to preserve an endangered species) and making effective use of persuasive language such as “I think” and “I dis/agree that” to gain the support of others
 
-#### Communicating
+#### Communicating {#communicating}
 
-##### AC9HS3S07
+##### AC9HS3S07 {#ac9hs3s07}
 
 present descriptions and explanations, using ideas from sources and relevant subject-specific terms
 
@@ -172,7 +172,7 @@ present descriptions and explanations, using ideas from sources and relevant sub
 *  selecting ideas from sources such as graphs, tables, timelines, photographs and pictures
 *  using appropriate terms when speaking, writing and illustrating; for example, historical terms such as “immigration”, “exploration”, “development”, “settlement”, “naming days of commemoration” and “emblems”; geographical terms such as “climate”, “environment”, “natural” and “constructed”; and civics terms such as “community”, “decision-making” and “participation”
 
-## Achievement Standards
+## Achievement Standards {#achievement-standards}
 
 By the end of Year 3, students describe the causes, effects and contributions of people to change. They identify the significance of events, symbols and emblems to Australia’s identity and diversity. They describe the representation of places within and near Australia. They identify the similarities, differences and connections of people to places across those scales. Students describe the importance of rules and people’s contributions to communities.
 

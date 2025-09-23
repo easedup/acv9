@@ -1,6 +1,6 @@
-# Humanities and Social Sciences - HASS F-6 - Year 6
+# Humanities and Social Sciences - Year 6 {#humanities-and-social-sciences-year-6}
 
-## Level Description
+## Level Description {#level-description}
 
 In Year 6, the focus is **"Australia in the past and present, and its connections with a diverse world"**.
 
@@ -12,13 +12,13 @@ Inquiry questions provide a framework for developing students’ knowledge, unde
 *   How have experiences of democracy and citizenship differed between groups over time and place, and what is the role of citizens in contributing to environmental, economic and social sustainability?
 *   How has Australia developed as a society with global connections, and in what ways is Australia similar and different to other countries?
 
-## Strands
+## Strands {#strands}
 
-### Knowledge and understanding
+### Knowledge and understanding {#knowledge-and-understanding}
 
-#### History
+#### History {#history}
 
-##### AC9HS6K01
+##### AC9HS6K01 {#ac9hs6k01}
 
 significant individuals, events and ideas that led to Australia’s Federation, the Constitution and democratic system of government
 
@@ -27,7 +27,7 @@ significant individuals, events and ideas that led to Australia’s Federation, 
 *  exploring how the United States of America’s model of federalism (the Washington system) contributed to the ideas for Andrew Clark’s first draft of the Constitution
 *  investigating how Australia’s system of law and government has origins in the Magna Carta, the English Civil War and Westminster system and, therefore, why we have a constitutional monarchy and why there was a separation of powers (legislative, executive, judiciary)
 
-##### AC9HS6K02
+##### AC9HS6K02 {#ac9hs6k02}
 
 changes in Australia's political system and to Australian citizenship after Federation and throughout the 20th century that impacted First Nations Australians, migrants, women and children
 
@@ -37,7 +37,7 @@ changes in Australia's political system and to Australian citizenship after Fede
 *  investigating the developments in advancing democracy and citizenship for all citizens, including migrant groups; for example, the establishment of the minimum wage, anti-discrimination legislation and official national multicultural policy
 *  investigating the experiences of children who were placed in orphanages, homes and other institutions; for example, their food and shelter, protection, education and contacts with family
 
-##### AC9HS6K03
+##### AC9HS6K03 {#ac9hs6k03}
 
 the motivation of people migrating to Australia since Federation and throughout the 20th century, their stories and effects on Australian society, including migrants from the Asia region
 
@@ -49,9 +49,9 @@ the motivation of people migrating to Australia since Federation and throughout 
 *  investigating the role of specific cultural groups in Australia’s economic and social development in, for example, the cattle industry, the Snowy Mountains Scheme and the pearling industry
 *  considering the contributions to Australia of notable Australians who were migrants or from migrant families, across a range of fields; for example, Hieu Van Le (the 35th Governor of South Australia), Sir Frank Lowy, Marita Cheng, Dame Marie Bashir
 
-#### Geography
+#### Geography {#geography}
 
-##### AC9HS6K04
+##### AC9HS6K04 {#ac9hs6k04}
 
 the geographical diversity and location of places in the Asia region, and its location in relation to Australia
 
@@ -63,7 +63,7 @@ the geographical diversity and location of places in the Asia region, and 
 *  identifying examples of Indigenous peoples who live in different regions in Asia, such as Orang Asli of Malaysia and Indonesia, the Tibetans and the Mongols, and appreciating their similarities and differences, and the ways they have lived sustainably over time
 *  researching the proportion of the Australian population and of the population from their local area who were born in each world cultural region, using data from the Australian Bureau of Statistics, and then comparing aspects of selected cultures
 
-##### AC9HS6K05
+##### AC9HS6K05 {#ac9hs6k05}
 
 Australia’s interconnections with other countries and how these change people and places
 
@@ -72,9 +72,9 @@ Australia’s interconnections with other countries and how these change peopl
 *  researching connections between Australia and countries in the Asia and Pacific regions in terms of migration, trade, tourism, aid, education, defence or cultural influences, and explaining the effects of at least one of these connections on their own place and another place in Australia
 *  exploring the provision of Australian government or non-government aid to a country in the Asia and Pacific regions or elsewhere in the world and analysing its effects on places in that country
 
-#### Civics and Citizenship
+#### Civics and Citizenship {#civics-and-citizenship}
 
-##### AC9HS6K06
+##### AC9HS6K06 {#ac9hs6k06}
 
 the key institutions of Australia’s system of government, how it is based on the Westminster system, and the key values and beliefs of Western democracies
 
@@ -86,7 +86,7 @@ the key institutions of Australia’s system of government, how it is based on
 *  examining the role of the Executive in relation to the development of policies and the introduction of bills, including the role of Cabinet in approving the drafting of a bill and the role of the public service in drafting and implementing legislation
 *  investigating the impact of the Western democracies such as France and the United States of America on our constitution, and the impact of British law on the Australian system of law, as well as the origin of values such as freedom of speech, equality before the law and social justice
 
-##### AC9HS6K07
+##### AC9HS6K07 {#ac9hs6k07}
 
 the roles and responsibilities of the 3 levels of government in Australia
 
@@ -97,9 +97,9 @@ the roles and responsibilities of the 3 levels of government in Australia
 *  identifying instances where there may be multiple levels of government involved; for example, in relation to the environment such as management of the Murray–Darling river system
 *  categorising the different types of laws and regulations in their community, which level of government makes those laws, and who enforces them; for example, road laws, health laws, pollution laws
 
-#### Economics and Business
+#### Economics and Business {#economics-and-business}
 
-##### AC9HS6K08
+##### AC9HS6K08 {#ac9hs6k08}
 
 influences on consumer choices and strategies that can be used to help make informed personal consumer and financial choices
 
@@ -111,11 +111,11 @@ influences on consumer choices and strategies that can be used to help make info
 *  exploring how a decision to buy an item at the local supermarket affects the family (for example, “Did the family have to put off buying another item to have this one?”) and the local community, such as providing jobs
 *  considering if their actions affect the environment; for example, “Does choosing local products rather than imports affect the environment?”
 
-### Skills
+### Skills {#skills}
 
-#### Questioning and researching
+#### Questioning and researching {#questioning-and-researching}
 
-##### AC9HS6S01
+##### AC9HS6S01 {#ac9hs6s01}
 
 develop questions to investigate people, events, developments, places and systems
 
@@ -124,7 +124,7 @@ develop questions to investigate people, events, developments, places and system
 *  developing different types of research questions for different purposes, such as probing questions to seek details, open-ended questions to elicit more ideas, practical questions to guide the application of enterprising behaviours, and ethical questions regarding sensitivities and cultural protocol
 *  mind-mapping a concept to create research questions that reveal connections between economic, political, and/or environmental systems; for example, “How do the purchases my family makes influence the environment?”, “How do laws aim to ensure sustainable use of resources in the products we use?”, “What actions can consumers take to ensure their purchases protect the environment?”
 
-##### AC9HS6S02
+##### AC9HS6S02 {#ac9hs6s02}
 
 locate, collect and organise information and data from primary and secondary sources in a range of formats
 
@@ -135,9 +135,9 @@ locate, collect and organise information and data from primary and secondary
 *  creating maps, using spatial technologies and cartographic conventions as appropriate, including border, source, scale, legend, title and north point, to show information and data such as location; for example, a large-scale map to show the location of places and their features in Australia and countries of Asia; a flow map or small-scale map to show the connections Australia has with Asian countries such as shipping or migration
 *  developing flow charts to show steps in a sequence; for example, the flow of goods and services, the passage of a bill through parliament, the chain of events leading to the Formal Apology to the Stolen Generations, and timelines to show the chronological sequence of key events, ideas, movements and lives
 
-#### Interpreting, analysing and evaluating
+#### Interpreting, analysing and evaluating {#interpreting-analysing-and-evaluating}
 
-##### AC9HS6S03
+##### AC9HS6S03 {#ac9hs6s03}
 
 evaluate information and data in a range of formats to identify and describe patterns and trends, or to infer relationships
 
@@ -147,7 +147,7 @@ evaluate information and data in a range of formats to identify and describe p
 *  evaluating attitudes and actions of the past that now seem strange and unacceptable, and imagining what aspects of current society may be viewed in this way in the future
 *  proposing reasons why socially sustainable practices such as negotiation, arbitration, reconciliation and cultural mediation resolve issues peacefully
 
-##### AC9HS6S04
+##### AC9HS6S04 {#ac9hs6s04}
 
 evaluate primary and secondary sources to determine origin, purpose and perspectives
 
@@ -157,9 +157,9 @@ evaluate primary and secondary sources to determine origin, purpose and persp
 *  discussing issues explored through sources where there are, or were, a range of views, such as deportation of South Sea Islanders from 1901, the vote for women, how to manage an environment more sustainably and the encouragement of migration, and proposing reasons for different perspectives
 *  evaluating points of view about a sustainability issue; for example, considering producers’ and consumers’ views on the sustainable use of resources and the expertise of people expressing views
 
-#### Concluding and decision-making
+#### Concluding and decision-making {#concluding-and-decision-making}
 
-##### AC9HS6S05
+##### AC9HS6S05 {#ac9hs6s05}
 
 develop evidence-based conclusions
 
@@ -168,7 +168,7 @@ develop evidence-based conclusions
 *  drawing conclusions based on identified evidence; for example, using census data to construct arguments for and against migration; using business council information to identify the ways different businesses provide goods and services to a community
 *  drawing conclusions that demonstrate consideration of questions, understanding of disciplinary concepts and evidence
 
-##### AC9HS6S06
+##### AC9HS6S06 {#ac9hs6s06}
 
 propose actions or responses to issues or challenges and use criteria to assess the possible effects
 
@@ -179,9 +179,9 @@ propose actions or responses to issues or challenges and use criteria to assess 
 *  determining a preferred option for action by identifying the advantages and disadvantages of different proposals, surveying people’s views and opinions, analysing the data, and debating and voting on alternatives
 *  identifying the possible social, cultural, economic and environmental effects of consumer or financial choices and developing strategies to minimise negative effects
 
-#### Communicating
+#### Communicating {#communicating}
 
-##### AC9HS6S07
+##### AC9HS6S07 {#ac9hs6s07}
 
 present descriptions and explanations, drawing ideas, findings and viewpoints from sources, and using relevant terms and conventions
 
@@ -189,7 +189,7 @@ present descriptions and explanations, drawing ideas, findings and viewpoints fr
 *  composing informative and persuasive texts, supported by evidence, to describe and explain conclusions from their economic, civic, historical and geographical inquiries
 *  selecting and referencing findings and viewpoints from sources and visual materials such as journals, diaries, graphs, tables, timelines, photographs and pictures, in descriptions and explanations
 
-## Achievement Standards
+## Achievement Standards {#achievement-standards}
 
 By the end of Year 6, students explain the roles of significant people, events and ideas that led to Australian Federation, democracy and citizenship. They explain the causes and effects of migration to Australia since Federation. They explain the geographical diversity of places and the effects of interconnections with other countries. Students explain the key institutions, roles and responsibilities of Australia’s levels of government, and democratic values and beliefs. They explain influences on consumers and strategies for informed consumer and financial choices.
 

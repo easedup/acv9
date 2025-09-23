@@ -1,6 +1,6 @@
-# Health and Physical Education - Years 1 and 2
+# Health and Physical Education - Years 1 and 2 {#health-and-physical-education-years-1-and-2}
 
-## Level Description
+## Level Description {#level-description}
 
 The Years 1­–2 curriculum builds on each student’s prior learning. In the early years, priority is given to the development of movement skills, participation in physical activity, and development of safe and healthy personal practices.
 
@@ -16,13 +16,13 @@ Students are supported in increasing the range and complexity of their fundament
 
 Through participation in active play, small group games and minor games, students apply different ways to move safely, and investigate how to select and apply fundamental movement skills individually, in groups and in teams in a range of movement situations.
 
-## Strands
+## Strands {#strands}
 
-### Personal, social and community health
+### Personal, social and community health {#personal-social-and-community-health}
 
-#### Identities and change
+#### Identities and change {#identities-and-change}
 
-##### AC9HP2P01
+##### AC9HP2P01 {#ac9hp2p01}
 
 describe their personal qualities and those of others, and explain how they contribute to developing identities
 
@@ -34,9 +34,9 @@ describe their personal qualities and those of others, and explain how they cont
 *  participating in physical activities and describing how their own and others’ personal qualities contribute to successful outcomes
 *  describing personal achievements and sharing how they felt and how it influenced their personal identities
 
-#### Interacting with others
+#### Interacting with others {#interacting-with-others}
 
-##### AC9HP2P02
+##### AC9HP2P02 {#ac9hp2p02}
 
 identify and explore skills and strategies to develop respectful relationships
 
@@ -47,7 +47,7 @@ identify and explore skills and strategies to develop respectful relationships
 *  discussing strategies we can use to show respect to First Nations Australians and acknowledge difference using appropriate language
 *  describing behaviours that may cause hurt or harm to others, or cause them to feel disrespected, including verbal and physical forms of bullying
 
-##### AC9HP2P03
+##### AC9HP2P03 {#ac9hp2p03}
 
 identify how different situations influence emotional responses
 
@@ -59,7 +59,7 @@ identify how different situations influence emotional responses
 *  predicting how a person or character might be feeling based on the words they use, their facial expressions and body language
 *  recognising how self and others are feeling in a range of situations
 
-##### AC9HP2P04
+##### AC9HP2P04 {#ac9hp2p04}
 
 practise strategies they can use when they need to seek, give or deny permission respectfully
 
@@ -68,9 +68,9 @@ practise strategies they can use when they need to seek, give or deny permission
 *  practising ways to interact with others in a fair and respectful way in play and other activities, regardless of differences in gender, abilities, race or personality
 *  exploring situations where they need to seek, give or deny permission and practising strategies to assert themselves; for example, saying no to inappropriate touching
 
-#### Making healthy and safe choices
+#### Making healthy and safe choices {#making-healthy-and-safe-choices}
 
-##### AC9HP2P05
+##### AC9HP2P05 {#ac9hp2p05}
 
 identify and demonstrate protective behaviours and help-seeking strategies they can use to help them and others stay safe
 
@@ -82,7 +82,7 @@ identify and demonstrate protective behaviours and help-seeking strategies they 
 *  discussing the importance of seeking help when problems are too big to solve by themselves
 *  exploring how characters in texts use protective behaviours and help-seeking strategies to keep themselves and others safe
 
-##### AC9HP2P06
+##### AC9HP2P06 {#ac9hp2p06}
 
 investigate a range of health messages and practices in their community and discuss their purposes
 
@@ -93,11 +93,11 @@ investigate a range of health messages and practices in their community and disc
 *  exploring sustainable practices that students can implement in the classroom to improve the health and wellbeing of the class, such as composting food waste, creating an edible garden and reducing single-use plastics
 *  creating rules and applying them at school and home to implement healthy and manageable practices with their use of digital tools
 
-### Movement and physical activity
+### Movement and physical activity {#movement-and-physical-activity}
 
-#### Moving our bodies
+#### Moving our bodies {#moving-our-bodies}
 
-##### AC9HP2M01
+##### AC9HP2M01 {#ac9hp2m01}
 
 practise fundamental movement skills and apply them in a variety of movement situations
 
@@ -108,7 +108,7 @@ practise fundamental movement skills and apply them in a variety of movement sit
 *  practising gliding forward and backward in the water using arm and kicking movements
 *  demonstrating balances and describing what helps to maintain stable positions
 
-##### AC9HP2M02
+##### AC9HP2M02 {#ac9hp2m02}
 
 investigate different ways of moving their body, and manipulating objects and space, and draw conclusions about their effectiveness
 
@@ -119,9 +119,9 @@ investigate different ways of moving their body, and manipulating objects and sp
 *  using different types of equipment to create an original game or solve a movement challenge and evaluating the game or solution against a set of criteria
 *  participating in activities that require students to move around different outdoor spaces and discussing which types of movement are most appropriate to move around safely and efficiently
 
-#### Making active choices
+#### Making active choices {#making-active-choices}
 
-##### AC9HP2M03
+##### AC9HP2M03 {#ac9hp2m03}
 
 participate in a range of physical activities in natural and outdoor settings, and investigate factors and settings that make physical activity enjoyable
 
@@ -131,9 +131,9 @@ participate in a range of physical activities in natural and outdoor settings, a
 *  participating in a range of minor games and exploring which ones they enjoy and what makes them enjoyable
 *  comparing the characteristics and benefits of physical activities that can take place in an outdoor setting to those that take place inside
 
-#### Learning through movement
+#### Learning through movement {#learning-through-movement}
 
-##### AC9HP2M04
+##### AC9HP2M04 {#ac9hp2m04}
 
 co-construct and apply rules to promote fair play in a range of physical activities
 
@@ -142,7 +142,7 @@ co-construct and apply rules to promote fair play in a range of physical activit
 *  explaining how rules contribute to fair play and applying them in group activities
 *  demonstrating turn-taking and sharing equipment when participating in play and minor games
 
-##### AC9HP2M05
+##### AC9HP2M05 {#ac9hp2m05}
 
 apply strategies to work collaboratively when participating in physical activities
 
@@ -151,7 +151,7 @@ apply strategies to work collaboratively when participating in physical activiti
 *  describing and demonstrating how to include others in physical activities
 *  proposing and trialling how a game can be changed so that everyone can be included
 
-## Achievement Standards
+## Achievement Standards {#achievement-standards}
 
 The Years 1­–2 curriculum builds on each student’s prior learning. In the early years, priority is given to the development of movement skills, participation in physical activity, and development of safe and healthy personal practices.
 

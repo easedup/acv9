@@ -1,6 +1,6 @@
-# The Arts - Drama - Years 9 and 10
+# Drama - Years 9 and 10 {#drama-years-9-and-10}
 
-## Level Description
+## Level Description {#level-description}
 
 In this band, learning in Drama continues to build on each student’s prior learning and experiences as students develop their capability and confidence across the practices of Drama: creating, performing and responding. They continue to use drama processes in purposeful and creative ways that are informed by their engagement with the work of living performers and drama-makers from across local, regional, national and global contexts, such as countries or regions in Asia, including use of drama in multi-arts, trans-disciplinary and/or hybrid forms. This awareness of diverse drama practices, genres and/or styles informs their own drama practice. They work collaboratively with peers and teachers.
 
@@ -19,11 +19,11 @@ In this band, the focus is on students:
 5.  creating drama in improvised, devised and scripted forms such as process drama, puppetry, object theatre, short- or long-form improvisation, play building and devising, scripted drama/script interpretation; for example, interpretation of realism and non-realism, exploration of historic, contemporary and/or hybrid styles
 6.  presenting and performing drama in informal and/or formal settings; for example, using acting skills and working in an ensemble to perform drama for familiar and unfamiliar audiences.
 
-## Strands
+## Strands {#strands}
 
-### Exploring and responding
+### Exploring and responding {#exploring-and-responding}
 
-##### AC9ADR10E01
+##### AC9ADR10E01 {#ac9adr10e01}
 
 investigate use of elements of drama, performance skills and/or conventions to communicate and/or challenge ideas, perspectives and/or meaning in drama across cultures, times, places and/or other contexts
 
@@ -35,7 +35,7 @@ investigate use of elements of drama, performance skills and/or conventions to c
 *  viewing or reading and exploring examples of historical texts and styles from a range of cultural traditions where artists have used the conventions of contemporary performance, such as mediatisation or intertextuality, or styles such as physical theatre, non-realist or emerging/innovative forms, to affect meaning and for various purposes; then unpacking this as a foundation for their own creative process
 *  identifying conventions of a collaborative, improvised style to communicate ideas or intentions to audiences; for example, to satirise or to elicit change; then considering how they, as artists, could use these creative tools for their own purposes
 
-##### AC9ADR10E02
+##### AC9ADR10E02 {#ac9adr10e02}
 
 investigate the ways that drama created and/or performed by First Nations Australians celebrates and challenges multiple perspectives of Australian identity
 
@@ -45,9 +45,9 @@ investigate the ways that drama created and/or performed by First Nations Austra
 *  investigating specific examples of how Contemporary First Nations Australian Theatre explores and challenges concepts and histories of Australia and Australian identity
 *  comparing and critiquing ways in which contemporary drama and cultural expressions celebrate and challenge influences on Australia's identity
 
-### Developing practices and skills
+### Developing practices and skills {#developing-practices-and-skills}
 
-##### AC9ADR10D01
+##### AC9ADR10D01 {#ac9adr10d01}
 
 develop performance skills and/or techniques to manipulate elements of drama and/or use conventions to communicate the physical and psychological aspects of roles and characters consistent with intentions
 
@@ -56,7 +56,7 @@ develop performance skills and/or techniques to manipulate elements of drama and
 *  using analysis of examined text and performances to provide information for exploring and refining the implied or underlying aspects of character and dramatic action in a text or devised action
 *  refining their skills of voice/vocalisation through warm-ups or exercises focusing on character and delivery or movement
 
-##### AC9ADR10D02
+##### AC9ADR10D02 {#ac9adr10d02}
 
 reflect on their own and others’ drama or practices to refine and inform their use of elements of drama, conventions and/or approaches to shape and sustain dramatic action
 
@@ -65,9 +65,9 @@ reflect on their own and others’ drama or practices to refine and inform their
 *  analysing and making choices about how to manipulate elements of drama and experimenting with the application of conventions, such as subtext or beats, to affect meaning, focus action or shape a scene
 *  shaping their use of elements of drama, conventions and styles to achieve an intended meaning or effect
 
-### Creating and making
+### Creating and making {#creating-and-making}
 
-##### AC9ADR10C01
+##### AC9ADR10C01 {#ac9adr10c01}
 
 improvise and devise drama, and interpret scripted drama, using elements of drama and conventions to shape and manipulate dramatic action and convey intended ideas, perspectives and/or meaning
 
@@ -79,7 +79,7 @@ improvise and devise drama, and interpret scripted drama, using elements of dram
 *  scripting scenes initially developed through improvisation or process drama and using play-building techniques to develop the scenes; for example, scenes for a music theatre work
 *  considering use of props, set items or digital tools to enhance communication of meaning in their drama
 
-##### AC9ADR10C02
+##### AC9ADR10C02 {#ac9adr10c02}
 
 rehearse and refine drama making deliberate aesthetic choices to unify dramatic meaning
 
@@ -92,9 +92,9 @@ rehearse and refine drama making deliberate aesthetic choices to unify dramatic 
 *  considering the impact of design elements such as costume, prop, set, lighting, sound or technologies on meaning and aesthetic effect
 *  manipulating elements of drama and using conventions to create and manipulate actor–audience relationships
 
-### Presenting and performing
+### Presenting and performing {#presenting-and-performing}
 
-##### AC9ADR10P01
+##### AC9ADR10P01 {#ac9adr10p01}
 
 perform improvised, devised and/or scripted drama to audiences, using performance skills and conventions to shape the drama.
 
@@ -104,7 +104,7 @@ perform improvised, devised and/or scripted drama to audiences, using performanc
 *  performing on stage or in class in a sustained presentation
 *  reflecting on and evaluating how successfully their intentions/purposes, clear action and meaning, and effects were achieved in context, through use of the elements, conventions, performance skills and design, and what can be learnt from this for future dramatic practice
 
-## Achievement Standards
+## Achievement Standards {#achievement-standards}
 
 In this band, learning in Drama continues to build on each student’s prior learning and experiences as students develop their capability and confidence across the practices of Drama: creating, performing and responding. They continue to use drama processes in purposeful and creative ways that are informed by their engagement with the work of living performers and drama-makers from across local, regional, national and global contexts, such as countries or regions in Asia, including use of drama in multi-arts, trans-disciplinary and/or hybrid forms. This awareness of diverse drama practices, genres and/or styles informs their own drama practice. They work collaboratively with peers and teachers.
 

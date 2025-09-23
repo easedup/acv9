@@ -1,6 +1,6 @@
-# The Arts - Music - Years 5 and 6
+# Music - Years 5 and 6 {#music-years-5-and-6}
 
-## Level Description
+## Level Description {#level-description}
 
 In this band, students continue to learn in and through the practices of The Arts subjects, building on their prior learning and experiences. They work creatively and purposefully, and continue to develop their connection with and contribution to the world as artists and as audiences. They work individually and in collaboration with peers and teachers.
 
@@ -21,11 +21,11 @@ In this band, the focus is on students:
 5.  composing and practising music for performance, manipulating the elements of music such as duration/time (including beat and rhythm, tempo, pulse, metre), pitch, dynamics and expression, texture, articulation (accent) and/or timbre to compose music; for example, songwriting, arranging a known melody or composing for an instrument they are learning, singing and playing instruments, and using aural skills to support these processes
 6.  performing music they have learnt and/or composed in informal and/or formal settings, such as spaces within the school including as appropriate, school-hosted digital spaces such as a school learning management system.
 
-## Strands
+## Strands {#strands}
 
-### Exploring and responding
+### Exploring and responding {#exploring-and-responding}
 
-##### AC9AMU6E01
+##### AC9AMU6E01 {#ac9amu6e01}
 
 explore ways that the elements of music are combined in music across cultures, times, places and/or other contexts
 
@@ -37,7 +37,7 @@ explore ways that the elements of music are combined in music across cultures, t
 *  considering ways in which music is used in celebrations, ceremonies or rituals; for example, at their school or in their local community, and exploring ways the music is used to give structure to the occasion or to communicate themes such as identity or belonging
 *  demonstrating understanding of the form and structure of popular songs; for example, using parody to demonstrate the different structures used within popular song, discussing different processes for writing lyrics that tell a story, collaboratively generating ideas to create new lyrics to known music, rehearsing the re-imagined song (using aural, technical and expressive skills) and performing their song parody to their peers
 
-##### AC9AMU6E02
+##### AC9AMU6E02 {#ac9amu6e02}
 
 explore ways First Nations Australians use music to continue and revitalise culture
 
@@ -47,9 +47,9 @@ explore ways First Nations Australians use music to continue and revitalise c
 *  investigating music that First Nations Australian composers are creating for dance, drama, media arts or visual arts works that share cultural knowledge; for example, music for animations that share cultural knowledge about places, birds or animals
 *  investigating how First Nations Australian composers and/or performers share knowledge about their culture as part of performances; for example, acknowledging Country/Place before a performance, or sharing information about the language they are using in their song/performance or their inspiration for composing a song or instrumental work
 
-### Developing practices and skills
+### Developing practices and skills {#developing-practices-and-skills}
 
-##### AC9AMU6D01
+##### AC9AMU6D01 {#ac9amu6d01}
 
 develop listening/aural skills and skills for manipulating elements of music to achieve expressive effects when composing, singing and playing instruments
 
@@ -61,9 +61,9 @@ develop listening/aural skills and skills for manipulating elements of music to 
 *  using digital tools to build skills such as accuracy and control; for example, using a digital tuner, using software to monitor articulation or dynamic range, or a digital metronome to monitor tempo
 *  practising techniques for singing and playing to develop technical skills in solo and ensemble music; for example, to accurately interpret rhythm and pitch
 
-### Creating and making
+### Creating and making {#creating-and-making}
 
-##### AC9AMU6C01
+##### AC9AMU6C01 {#ac9amu6c01}
 
 manipulate elements of music and use compositional devices to communicate ideas, perspectives and/or meaning when composing and practising music for performance, and notate, document and/or record the music they compose
 
@@ -77,9 +77,9 @@ manipulate elements of music and use compositional devices to communicate ideas,
 *  using voice/vocalisation and sounds such as body percussion or drumming; for example, developing a song, chant or soundscape to accompany a Welcome to Country (for example, First Nations Australian students working with an Elder or a group of people who have permission to develop this part of a ceremony) or an Acknowledgement of Country (using correct protocols)
 *  using digital tools, voices and instruments to compose, notate, document music and/or record music; for example, combining loops constructed from melodic and/or rhythmic patterns with live performance, using voices and instruments or using notation software to create a score for performance by voice and instruments
 
-### Presenting and performing
+### Presenting and performing {#presenting-and-performing}
 
-##### AC9AMU6P01
+##### AC9AMU6P01 {#ac9amu6p01}
 
 perform music in a range of forms they have learnt and/or composed in informal and/or formal settings
 
@@ -88,7 +88,7 @@ perform music in a range of forms they have learnt and/or composed in informal a
 *  providing and responding to feedback to refine performances and compositions; for example, discussing how the composer indicates dynamics in the music and how the performer/s interpret this information and how the performer/s communicate the mood of the music; for example, using tone colour/timbre and/or articulation (phrasing, staccato, legato)
 *  presenting performances via digital platforms including, if age-appropriate, interacting with audiences via platforms such as school intranet or website, and considering online safety protocols; for example, streaming or uploading recordings of performances and posing questions for the audience to respond to in a chat space
 
-## Achievement Standards
+## Achievement Standards {#achievement-standards}
 
 By the end of Year 6, students explain how elements of music are manipulated in music they compose, perform and/or experience. They describe how music composed and/or performed across contexts, cultures, times and/or places communicates ideas, perspectives and/or meanings. They describe how music is used to continue and/or revitalise cultures.
 

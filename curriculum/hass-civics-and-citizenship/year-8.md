@@ -1,6 +1,6 @@
-# Humanities and Social Sciences - Civics and Citizenship 7-10 - Year 8
+# Civics and Citizenship - Year 8 {#civics-and-citizenship-year-8}
 
-## Level Description
+## Level Description {#level-description}
 
 In Year 8, students understand how citizens can actively participate in Australia’s political system, the role and impact of elections, and the ways political parties, interest groups, media and individuals influence government and decision-making processes. Students consider how laws are made and the types of laws used in Australia. Students also examine what it means to be Australian by identifying the reasons for and influences that shape national identity, and how this contributes to active citizenship.
 
@@ -11,13 +11,13 @@ Inquiry questions provide a framework for developing students’ knowledge, unde
 *   How are laws made and applied in Australia?
 *   What different perspectives are there about national identity?
 
-## Strands
+## Strands {#strands}
 
-### Knowledge and understanding
+### Knowledge and understanding {#knowledge-and-understanding}
 
-#### Government and democracy
+#### Government and democracy {#government-and-democracy}
 
-##### AC9HC8K01
+##### AC9HC8K01 {#ac9hc8k01}
 
 how Australians are informed about and participate in democracy
 
@@ -29,7 +29,7 @@ how Australians are informed about and participate in democracy
 *  explaining how citizens’ understanding of issues, policies and political choices are shaped and can contribute to active and informed citizenship, including the influence of the media and social media, political parties, interest groups and election campaigns
 *  examining a range of strategies used to influence citizens’ electoral choices, such as public debate, media and social media, opinion polls and political consulting firms, advertising, interest groups and political party campaigns
 
-##### AC9HC8K02
+##### AC9HC8K02 {#ac9hc8k02}
 
 the role of political parties and independent representatives in Australian democracy, including elections and the formation of governments
 
@@ -39,9 +39,9 @@ the role of political parties and independent representatives in Australian demo
 *  understanding how government is formed and may be lost, through discussing concepts such as parliamentary majority, the opposition, hung parliament, minority government, party discipline and balance of power
 *  investigating the roles of political parties and elected representatives, including independents
 
-#### Laws and citizens
+#### Laws and citizens {#laws-and-citizens}
 
-##### AC9HC8K03
+##### AC9HC8K03 {#ac9hc8k03}
 
 the characteristics of laws and how laws are made in Australia through parliaments (statutory law) and through the courts (common law)
 
@@ -52,7 +52,7 @@ the characteristics of laws and how laws are made in Australia through parliamen
 *  identifying the 2 chief sources of law (parliament and the courts) and analysing a case study of statute and common law
 *  examining the relationship between parliament and the courts
 
-##### AC9HC8K04
+##### AC9HC8K04 {#ac9hc8k04}
 
 the types of law in Australia, including criminal law and civil law, and the place of First Nations Australian customary law
 
@@ -62,9 +62,9 @@ the types of law in Australia, including criminal law and civil law, and the pla
 *  examining the significance of customary law for First Nations Australians through selected case studies
 *  evaluating the opportunities and limitations of Native Title law for First Nations Australians
 
-#### Citizenship, diversity and identity
+#### Citizenship, diversity and identity {#citizenship-diversity-and-identity}
 
-##### AC9HC8K05
+##### AC9HC8K05 {#ac9hc8k05}
 
 how culture and religion may influence individuals' and groups' perceptions and expressions of citizenship and their actions as citizens
 
@@ -73,7 +73,7 @@ how culture and religion may influence individuals' and groups' perceptions and 
 *  exploring the collective identities of several different groups in Australia’s multicultural society, and how these identities might be represented and perceived
 *  discussing the differences between legal citizenship, active citizenship and global citizenship
 
-##### AC9HC8K06
+##### AC9HC8K06 {#ac9hc8k06}
 
 different experiences of, perspectives on and debates about Australia’s national identity and citizenship, including the perspectives of First Nations Australians as owners of their respective nations, and of different migrant groups
 
@@ -85,11 +85,11 @@ different experiences of, perspectives on and debates about Australia’s nation
 *  examining the types of questions asked in the citizenship test and exploring how these questions reflect our national identity
 *  discussing how the national anthem contributes to our national identity
 
-### Skills
+### Skills {#skills}
 
-#### Questioning and researching
+#### Questioning and researching {#questioning-and-researching}
 
-##### AC9HC8S01
+##### AC9HC8S01 {#ac9hc8s01}
 
 develop questions to investigate Australia’s political and legal systems, and contemporary civic issues
 
@@ -98,7 +98,7 @@ develop questions to investigate Australia’s political and legal systems, and 
 *  developing a range of closed and open-ended questions about a particular topic or issue; for example, “What are the main features of a democracy?”, “How are laws made?” and “What is the relationship between democracy and active citizenship?"
 *  considering current events to generate ideas for research; for example, how Australian governments have developed media and communications campaigns on public health issues to reach the culturally and linguistically diverse groups in Australia, why media coverage of the National Agreement on Closing the Gap reflects changing perspectives on Australia's national identity
 
-##### AC9HC8S02
+##### AC9HC8S02 {#ac9hc8s02}
 
 locate, select and organise information, data and ideas from different sources
 
@@ -107,9 +107,9 @@ locate, select and organise information, data and ideas from different source
 *  selecting information from a range of sources by applying understandings of accuracy and reliability to the selection of information
 *  organising the ideas in different sources, such as opinion pieces, information from political parties, government reports and reports from independent organisations, by identifying bias, language choices and selective use of information
 
-#### Analysis, evaluation and interpretation
+#### Analysis, evaluation and interpretation {#analysis-evaluation-and-interpretation}
 
-##### AC9HC8S03
+##### AC9HC8S03 {#ac9hc8s03}
 
 analyse information, data and ideas about political, legal or civic issues to identify and explain differences in perspectives and potential challenges
 
@@ -119,9 +119,9 @@ analyse information, data and ideas about political, legal or civic issues to id
 *  examining letters to the editor about current issues, and identifying and explaining the differences of opinion
 *  identifying and explaining possible reasons for the difference in perspectives about a civics and citizenship issue, such as marriage equality
 
-#### Civic participation and decision-making
+#### Civic participation and decision-making {#civic-participation-and-decision-making}
 
-##### AC9HC8S04
+##### AC9HC8S04 {#ac9hc8s04}
 
 explain the methods or strategies related to making decisions about civic participation
 
@@ -129,9 +129,9 @@ explain the methods or strategies related to making decisions about civic partic
 *  describing how active citizenship strategies may contribute to an informed and positive change, and to building a democratically cohesive society; for example, stopping whaling, reducing carbon emissions
 *  explaining the links between democratic societies, active citizenship and global citizenship at national, regional and global levels, and methods used to take civic action; for example, citizens who protest against militaristic and authoritarian regimes and/or abuses of human rights in other societies
 
-#### Communicating
+#### Communicating {#communicating}
 
-##### AC9HC8S05
+##### AC9HC8S05 {#ac9hc8s05}
 
 create descriptions, explanations and arguments using civics and citizenship knowledge, concepts and terms that reference evidence
 
@@ -139,7 +139,7 @@ create descriptions, explanations and arguments using civics and citizenship kno
 *  persuading the public on a contemporary issue or about a need for action, using evidence; for example, to argue the case for a constitutional change or an advertisement promoting participation in Australia’s democracy
 *  using appropriate terms and concepts such as “freedoms”, “responsibilities”, “common law”, “statutory law” and “customary law”
 
-## Achievement Standards
+## Achievement Standards {#achievement-standards}
 
 By the end of Year 8, students explain how Australians are informed about and participate in their democracy. They describe the roles of political parties and elected representatives in Australian government. They explain the characteristics of laws, how laws are made and the types of law in Australia. Students identify ways in which Australians express different aspects of their identity and explain perspectives on Australia’s national identity.
 

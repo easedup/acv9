@@ -1,6 +1,6 @@
-# Science - Year 2
+# Science - Year 2 {#science-year-2}
 
-## Level Description
+## Level Description {#level-description}
 
 In Year 2 students build on their experiences of the natural and physical world to identify the components of simple systems. They appreciate that Earth is a planet in space and identify other celestial objects. They explore the ways components in a system interact, such as by using their bodies or combining and manipulating objects to make sounds. They build on their understanding of properties of materials to recognise that those properties stay the same when the material is changed physically. They continue to build their understanding of patterns by observing that some patterns, such as the changing positions of the sun, moon and stars, can only be observed over certain timescales. As they explore patterns and relationships, they use counting and informal measurements to make and compare observations and recognise that organising these observations in tables makes it easier to identify and represent patterns. They appreciate that science involves making and organising observations to identify patterns and relationships, and that these patterns and relationships are the basis of scientific predictions.
 
@@ -12,13 +12,13 @@ Inquiry questions can help excite students’ curiosity and challenge their thin
 *   What’s the best material? Why?
 *   How does the sky change over time?
 
-## Strands
+## Strands {#strands}
 
-### Science understanding
+### Science understanding {#science-understanding}
 
-#### Earth and space sciences
+#### Earth and space sciences {#earth-and-space-sciences}
 
-##### AC9S2U01
+##### AC9S2U01 {#ac9s2u01}
 
 recognise Earth is a planet in the solar system and identify patterns in the changing position of the sun, moon, planets and stars in the sky
 
@@ -34,9 +34,9 @@ recognise Earth is a planet in the solar system and identify patterns in the cha
 *  distinguishing between regular events that occur in the sky, such as the appearance of a full moon, and irregular events such as ‘blue’, ‘blood’ or ‘super’ moons
 *  exploring how cultural stories of First Nations Peoples of Australia describe the patterns in the changing positions of the sun, moon and stars
 
-#### Physical sciences
+#### Physical sciences {#physical-sciences}
 
-##### AC9S2U02
+##### AC9S2U02 {#ac9s2u02}
 
 explore different actions to make sounds and how to make a variety of sounds, and recognise that sound energy causes objects to vibrate
 
@@ -51,9 +51,9 @@ explore different actions to make sounds and how to make a variety of sounds, an
 *  designing and making instruments that produce different sounds, such as drums, rain makers, thongophones or box guitars
 *  discussing situations in which they have heard echoes and exploring how humans with vision impairment and other animals such as dolphins and bats use echolocation to locate objects in their environments
 
-#### Chemical sciences
+#### Chemical sciences {#chemical-sciences}
 
-##### AC9S2U03
+##### AC9S2U03 {#ac9s2u03}
 
 recognise that materials can be changed physically without changing their material composition and explore the effect of different actions on materials including bending, twisting, stretching and breaking into smaller pieces
 
@@ -64,11 +64,11 @@ recognise that materials can be changed physically without changing their materi
 *  exploring how First Nations Australians make physical changes to natural materials to produce objects such as bowls, baskets and various fibre crafts
 *  creating an ‘odd one out’ game by providing samples of the same material that has been physically changed in different ways, and one sample of a different material, and challenging other students to identify the odd one out
 
-### Science as a human endeavour
+### Science as a human endeavour {#science-as-a-human-endeavour}
 
-#### Use and influence of science
+#### Use and influence of science {#use-and-influence-of-science}
 
-##### AC9S2H01
+##### AC9S2H01 {#ac9s2h01}
 
 describe how people use science in their daily lives, including using patterns to make scientific predictions
 
@@ -83,11 +83,11 @@ describe how people use science in their daily lives, including using patterns t
 *  exploring how physically changing materials helps us to re-use them in a variety of ways, and decrease waste
 *  considering how First Nations Australians use scientific practices such as sorting, classification and estimation to make predictions
 
-### Science inquiry
+### Science inquiry {#science-inquiry}
 
-#### Questioning and predicting
+#### Questioning and predicting {#questioning-and-predicting}
 
-##### AC9S2I01
+##### AC9S2I01 {#ac9s2i01}
 
 pose questions to explore observed simple patterns and relationships and make predictions based on experiences
 
@@ -98,9 +98,9 @@ pose questions to explore observed simple patterns and relationships and make pr
 *  making predictions about the relationship between vibration and sound, such as: ‘I think that if a ruler is twanged harder, it will make a louder sound’
 *  making predictions about future appearances of phenomena in the sky at certain times of the week, month or year, such as the moon or satellites
 
-#### Planning and conducting
+#### Planning and conducting {#planning-and-conducting}
 
-##### AC9S2I02
+##### AC9S2I02 {#ac9s2i02}
 
 suggest and follow safe procedures to investigate questions and test predictions
 
@@ -110,7 +110,7 @@ suggest and follow safe procedures to investigate questions and test predictions
 *  following visual or verbal steps to construct a musical instrument or manipulate a material
 *  suggesting ways they could manipulate materials and tools they could use
 
-##### AC9S2I03
+##### AC9S2I03 {#ac9s2i03}
 
 make and record observations, including informal measurements, using digital tools as appropriate
 
@@ -121,9 +121,9 @@ make and record observations, including informal measurements, using digital too
 *  representing informal measurements with concrete objects, such as drawing chalk lines and using lengths of string to measure shadows
 *  exploring how digital tools can be used to make observations, such as simple clap-o-meter apps that measure sound volume, time lapse digital photography for observing apparent movement of celestial objects or slow-motion videos for observing a vibrating ruler
 
-#### Processing, modelling and analysing
+#### Processing, modelling and analysing {#processing-modelling-and-analysing}
 
-##### AC9S2I04
+##### AC9S2I04 {#ac9s2i04}
 
 sort and order data and information and represent patterns, including with provided tables and visual or physical models
 
@@ -134,9 +134,9 @@ sort and order data and information and represent patterns, including with provi
 *  constructing simple column graphs and picture graphs with guidance to represent class investigations, such as recording objects that produce or do not produce sound
 *  completing a table to record the number of ways different materials can be changed physically
 
-#### Evaluating
+#### Evaluating {#evaluating}
 
-##### AC9S2I05
+##### AC9S2I05 {#ac9s2i05}
 
 compare observations with predictions and others’ observations, consider if investigations are fair and identify further questions with guidance
 
@@ -146,9 +146,9 @@ compare observations with predictions and others’ observations, consider if in
 *  proposing ways to ensure that the same sound is produced in an investigation in order to keep the investigation fair
 *  comparing findings from investigations about physically changing a material, such as cutting and folding, and exploring questions that investigate similar changes to different materials
 
-#### Communicating
+#### Communicating {#communicating}
 
-##### AC9S2I06
+##### AC9S2I06 {#ac9s2i06}
 
 write and create texts to communicate observations, findings and ideas, using everyday and scientific vocabulary
 
@@ -161,7 +161,7 @@ write and create texts to communicate observations, findings and ideas, using ev
 *  presenting findings of investigations using charts, read-alouds, slideshows or displays using everyday and scientific vocabulary
 *  acknowledging and learning about First Nations Australians’ ways of sharing astronomical knowledge across generations through oral traditions that include cultural accounts, stories, song and dance
 
-## Achievement Standards
+## Achievement Standards {#achievement-standards}
 
 By the end of Year 2 students identify celestial objects and describe patterns they observe in the sky. They demonstrate how different sounds can be produced and describe the effect of sound energy on objects. They identify ways to change materials without changing their material composition. They describe how people use science in their daily lives and how people use patterns to make scientific predictions.
 

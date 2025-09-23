@@ -1,6 +1,6 @@
-# Humanities and Social Sciences - History 7-10 - Year 7
+# History - Year 7 {#history-year-7}
 
-## Level Description
+## Level Description {#level-description}
 
 The Year 7 curriculum provides a study of history from the time of the earliest human communities to the end of the ancient period, approximately 60,000 years ago – c.650 (CE), and a study of early First Nations Peoples of Australia. It was a period defined by the development of cultural practices and organised societies. The study of the ancient world includes the discoveries (the remains of the past and what we know) and the mysteries (what we do not know) about this period of history, in a range of societies from places including Egypt, Greece, Rome, India and China.
 
@@ -22,13 +22,13 @@ Inquiry questions provide a framework for developing students’ knowledge, unde
 *   What emerged as the defining features and achievements of ancient societies?
 *   What have been the significant legacies of ancient societies?
 
-## Strands
+## Strands {#strands}
 
-### Knowledge and understanding
+### Knowledge and understanding {#knowledge-and-understanding}
 
-#### Deep time history of Australia
+#### Deep time history of Australia {#deep-time-history-of-australia}
 
-##### AC9HH7K01
+##### AC9HH7K01 {#ac9hh7k01}
 
 theories and historical interpretations about early human evolution and migration, such as the theory that people moved out of Africa and the causes of migration to other parts of the world, including Australia
 
@@ -37,7 +37,7 @@ theories and historical interpretations about early human evolution and migratio
 *  describing how environmental changes, such as climate change and desertification, triggered the movement of peoples from Africa
 *  identifying how different approaches, such as the use of excavation and stratigraphy, oral history and the data derived from radiocarbon dating, inform historical interpretations
 
-##### AC9HH7K02
+##### AC9HH7K02 {#ac9hh7k02}
 
 theories about the causes and effects of the arrival of early First Nations Australians on the Australian continent and their migration routes across the continent
 
@@ -47,7 +47,7 @@ theories about the causes and effects of the arrival of early First Nations Aust
 *  examining online maps and information to investigate the relationship between geographical features and the location of known ancient sites on the mega-continent known as Sahul; for example, investigating the vegetation types and water sources in different parts of the continent and how they reflect the location of ancient sites
 *  investigating the techniques used to predict the chronology and the routes taken in the dispersal of early First Nations Australians across the continent; for example, using online information that explains how research into ancient landscapes, waterways, terrain and important early First Nations Australians’ habitation sites can model the movement of people across the continent, or how DNA taken from hair samples can track the genetic connections of First Nations Australians back to specific parts of Australia as far back as tens of thousands of years ago
 
-##### AC9HH7K03
+##### AC9HH7K03 {#ac9hh7k03}
 
 how First Nations Australians are the world’s oldest continuing cultures, displaying evidence of both continuity and change over deep time
 
@@ -58,7 +58,7 @@ how First Nations Australians are the world’s oldest continuing cultures, disp
 *  exploring evidence of continuing culture that was evident in the ancient period, such as the use of ochre
 *  examining First Nations Australians’ views on creation and changes in the landscape that have been passed down through oral tradition, such as the existence of megafauna, changes from wetter to drier climates and changes in vegetation in central Australia
 
-##### AC9HH7K04
+##### AC9HH7K04 {#ac9hh7k04}
 
 how First Nations Australians have responded to environmental processes and changes over time
 
@@ -69,7 +69,7 @@ how First Nations Australians have responded to environmental processes and chan
 *  exploring evidence of how First Nations Australians responded to environmental changes in the Holocene epoch; for example, archaeological evidence that people maintained seasonal presence in the Willandra Lakes region at times when water was available, the maritime specialisation of those on the Torres Strait Islands and Cape York around 2,500 BP, and the de-population of islands such as Rottnest, Kangaroo and Flinders islands when cut off from the mainland
 *  investigating the water management techniques used by early First Nations Australians in environments with scarce supplies of fresh water, such as islands and deserts
 
-##### AC9HH7K05
+##### AC9HH7K05 {#ac9hh7k05}
 
 the technological achievements of early First Nations Australians, and how these developed in different places and contributed to daily life, and land and water source management
 
@@ -79,7 +79,7 @@ the technological achievements of early First Nations Australians, and how these
 *  exploring land and water management practices developed by early First Nations Australians, such as cultural burning practices, and the conservation and use of water through the development of weirs, irrigation and water evaporation reduction systems
 *  exploring aquaculture practices developed by early First Nations Australians, such as eel traps of the Gundtitjmara People at Budj Bim, Victoria, the mollusc harvesting of the Kombumerri People on the Gold Coast, Queensland, and stone fish traps used by the Ngemba People at Brewarrina, New South Wales
 
-##### AC9HH7K06
+##### AC9HH7K06 {#ac9hh7k06}
 
 the social organisation and cultural practices of early First Nations Australians, and their continuity and change over time
 
@@ -89,7 +89,7 @@ the social organisation and cultural practices of early First Nations Australian
 *  investigating important cultural practices of early First Nations Australians and their continuity and change over time; for example, lore, rites of passage, and the antiquity and types of funerary customs and burial practices such as the early example of cremation at the Willandra Lakes in New South Wales, the tombstone openings of the Torres Strait Islands and the log coffins used by the Yolngu Peoples of Arnhem Land
 *  exploring the existence of defined land, sea and sky territories, and the social and political systems that governed early First Nations Australians’ societies, such as land tenure systems, delineation and reciprocal access rights, and the trade and bartering of items such as ochre, medicine and trepang
 
-##### AC9HH7K07
+##### AC9HH7K07 {#ac9hh7k07}
 
 the cultural obligations of First Nations Australians about significant heritage sites, including ancestral remains, material culture and artefacts, and the role of collaboration between First Nations Australians and other individuals and groups to ensure cultural preservation
 
@@ -100,9 +100,9 @@ the cultural obligations of First Nations Australians about significant heritage
 *  investigating world heritage criteria for the listing of significant sites such as the Budj Bim and Willandra Lakes regions, and cultural landscapes such as Uluru-Kata Tjuta and Kakadu
 *  examining the role of national and state/territory galleries, libraries, archives, museums, historical societies and field-sites in curating, conserving and showcasing First Nations Australians’ histories and cultures
 
-#### The ancient world
+#### The ancient world {#the-ancient-world}
 
-##### AC9HH7K08
+##### AC9HH7K08 {#ac9hh7k08}
 
 the different methods and sources of evidence used by historians and archaeologists to investigate early societies, and the importance of archaeology and conserving the remains, material culture and heritage of the past
 
@@ -113,7 +113,7 @@ the different methods and sources of evidence used by historians and archaeologi
 *  examining the roles and responsibilities of governments and other bodies, such as UNESCO, in protecting key archaeological sites; for example, the rescue mission to save the temples of Abu Simbel or the campaign for the return of the Elgin Marbles to Greece
 *  investigating world heritage criteria for the listing of significant sites; for example, the Great Wall of China or the Mausoleum of the First Qin Emperor (Qin Shi Huang) or Mohenjo-dara in India
 
-##### AC9HH7K09
+##### AC9HH7K09 {#ac9hh7k09}
 
 how the physical environment and geographical features influenced the development of the ancient society
 
@@ -126,7 +126,7 @@ how the physical environment and geographical features influenced the developmen
 *  examining the role of climate in enabling the establishment and expansion of agriculture around the Yellow River and how this supported the ancient society
 *  describing the impact of topographic features, such as the Himalayas, rivers and seas, on contact with other societies, including trade and warfare
 
-##### AC9HH7K10
+##### AC9HH7K10 {#ac9hh7k10}
 
 the organisation and roles of key groups in ancient society such as the nobility, bureaucracy, women and slaves, and how they influenced and changed society
 
@@ -142,7 +142,7 @@ the organisation and roles of key groups in ancient society such as the nobility
 *  describing the role of women in shaping ancient society in the areas of marriage, family life, work and education
 *  outlining the rights and responsibilities of the Shi class
 
-##### AC9HH7K11
+##### AC9HH7K11 {#ac9hh7k11}
 
 key beliefs, values and practices of an ancient society, with a particular emphasis on one of the following areas: everyday life, warfare, or death and funerary customs
 
@@ -158,7 +158,7 @@ key beliefs, values and practices of an ancient society, with a particular empha
 *  identifying how the Mandate of Heaven assisted people in understanding and justifying periods of warfare
 *  investigating the significant beliefs, values and practices of Chinese society associated with daily life; for example, irrigation and the practice of agriculture, the teachings of Confucius, the evidence of daily life from the Han tombs
 
-##### AC9HH7K12
+##### AC9HH7K12 {#ac9hh7k12}
 
 causes and effects of contacts and conflicts within ancient societies and/or with other societies, resulting in developments such as the conquest of other lands, the expansion of trade and peace treaties
 
@@ -175,7 +175,7 @@ causes and effects of contacts and conflicts within ancient societies and/or wit
 *  <p>explaining the rise of imperial China; for example, through chariot warfare and the adoption of mass infantry armies, the building of the first phase of the Great Wall of China, military strategies as codified in Sun Tzu’s <em>The Art of War</em></p>
 *  describing indirect contact and interactions between the Roman Empire and the Han Dynasty
 
-##### AC9HH7K13
+##### AC9HH7K13 {#ac9hh7k13}
 
 the role and achievements of a significant individual in an ancient society
 
@@ -191,11 +191,11 @@ the role and achievements of a significant individual in an ancient society
 *  describing the social, political and cultural impact of Confucius on ancient Chinese society
 *  examining the historical context, early life and achievements of a significant historical figure such as Confucius or Qin Shi Huang, and how each was perceived by their contemporaries
 
-### Skills
+### Skills {#skills}
 
-#### Questioning and researching
+#### Questioning and researching {#questioning-and-researching}
 
-##### AC9HH7S01
+##### AC9HH7S01 {#ac9hh7s01}
 
 develop historical questions about the past to inform historical inquiry
 
@@ -203,7 +203,7 @@ develop historical questions about the past to inform historical inquiry
 *  developing a key question such as “How were the pyramids at Giza built?” and understanding that there may not be a definitive answer; identifying related questions to inform the inquiry, including “What evidence is there?” and “What theories have been developed?”
 *  developing questions using historical concepts such as cause, effect, change, continuity, perspectives, interpretations and significance; for example, “What were the effects of rising sea levels on the movements of early First Nations Australians?”
 
-##### AC9HH7S02
+##### AC9HH7S02 {#ac9hh7s02}
 
 locate and identify primary and secondary sources to use in historical inquiry
 
@@ -214,9 +214,9 @@ locate and identify primary and secondary sources to use in historical inquiry
 *  examining methods for investigating the ancient past for providing information relevant to inquiry questions; for example, stratigraphy to date discoveries, DNA testing to identify past individuals from their remains (such as Egyptian mummies) and common diseases
 *  explaining the challenges of translation and intercultural understanding when interrogating sources of evidence, such as the inscriptions of Asoka and other edicts carved in stone and contained in religious literature, and the Vedas and epics of the Ramayana and Mahabharata
 
-#### Using historical sources
+#### Using historical sources {#using-historical-sources}
 
-##### AC9HH7S03
+##### AC9HH7S03 {#ac9hh7s03}
 
 identify the origin, content, context and purpose of primary and secondary sources
 
@@ -225,7 +225,7 @@ identify the origin, content, context and purpose of primary and secondary sourc
 *  identifying and explaining the origin, content, features and purposes of different sources in understanding the impact and legacy of a key individual such as Leonidas (King of Sparta), Pericles or Alexander the Great
 *  explaining the difficulties in identifying the origin and purpose of some sources, such as the Kimberley Bradshaw paintings
 
-##### AC9HH7S04
+##### AC9HH7S04 {#ac9hh7s04}
 
 identify and describe the accuracy and usefulness of primary and secondary sources as evidence
 
@@ -235,9 +235,9 @@ identify and describe the accuracy and usefulness of primary and secondary sourc
 *  distinguishing between a fact (for example, “Some gladiators wore helmets”) and an opinion (for example, “All gladiators were brave”)
 *  identifying information within a source that can be useful evidence to support an interpretation of an event, movement, individual, group or society
 
-#### Historical perspectives and interpretations
+#### Historical perspectives and interpretations {#historical-perspectives-and-interpretations}
 
-##### AC9HH7S05
+##### AC9HH7S05 {#ac9hh7s05}
 
 describe causes and effects, and explain continuities and changes
 
@@ -247,7 +247,7 @@ describe causes and effects, and explain continuities and changes
 *  identifying gaps in timelines or narratives and explaining possible reasons for why these gaps occur
 *  sequencing a range of primary sources in chronological order to support the development of an explanation of continuities or changes
 
-##### AC9HH7S06
+##### AC9HH7S06 {#ac9hh7s06}
 
 identify perspectives, attitudes and values of the past in sources
 
@@ -256,7 +256,7 @@ identify perspectives, attitudes and values of the past in sources
 *  identifying that, while evidence may be limited for a particular group of people such as women, slaves, peoples living in newly conquered areas and ethnic groups, such evidence can provide useful insights into the power structures of a society
 *  identifying the possible meanings of, and attitudes and values shown by, images and symbols in primary sources, such as funerary texts or religious manuscripts
 
-##### AC9HH7S07
+##### AC9HH7S07 {#ac9hh7s07}
 
 explain historical interpretations about significant events, individuals and groups
 
@@ -264,9 +264,9 @@ explain historical interpretations about significant events, individuals and gro
 *  examining different interpretations to explain short-term triggers and/or turning points of the decline of an empire or society, such as failing economy, political upheaval, foreign invasion or conflict
 *  developing a historical argument about why an event, individual or group is interpreted in different ways
 
-#### Communicating
+#### Communicating {#communicating}
 
-##### AC9HH7S08
+##### AC9HH7S08 {#ac9hh7s08}
 
 create descriptions, explanations and historical arguments, using historical knowledge, concepts and terms that reference evidence from sources
 
@@ -276,7 +276,7 @@ create descriptions, explanations and historical arguments, using historical kno
 *  creating a presentation using different formats; for example, visual displays to recreate and show the specific features of an ancient battle, temple, pyramid complex or burial site supported by a timeline, annotations on a diagram or a summary
 *  developing a historical argument; for example, explaining the significance of a past event, providing reasons for the event with reference to relevant evidence
 
-## Achievement Standards
+## Achievement Standards {#achievement-standards}
 
 By the end of Year 7, students describe the historical significance of the ancient past and the histories of early First Nations Peoples of Australia. They identify the causes and effects of events, developments and achievements connected to groups and individuals in Australia and other societies from the ancient past. Students describe the social, religious, cultural, economic, environmental and/or political aspects related to changes and continuities in these societies. They identify the roles and achievements of significant individuals and groups, and the influences on the development of ancient societies. Students explain the importance of heritage sites connected to Australia and other societies from the ancient past.
 
