@@ -87,7 +87,7 @@ recognise, continue and create pattern sequences, with numbers, symbols, shapes 
 *  recognising the patterns in sequences formed by skip counting; for example, that skip counting in fives starting from zero always results in either a \(5\) or zero as the final digit
 *  counting by twos, fives, or tens to determine how much money is in a collection of coins or notes of the same denomination; for example, \(5\) cent, \(10\) cent and \(\$2\) coins, or \(\$5\) and \(\$10\) notes
 *  role-playing being an industrial robot on an assembly line that packs various items into boxes or packets in groups of five or ten, keeping count of the total number of items produced
-*  <p>using different variations of the popular Korean counting game <em>Sam-yuk-gu</em> for generating skip counting pattern sequences</p>
+*  using different variations of the popular Korean counting game *Sam-yuk-gu* for generating skip counting pattern sequences
 
 ##### AC9M1A02 {#ac9m1a02}
 

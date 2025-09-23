@@ -24,7 +24,7 @@ the role of the Australian Constitution in providing the basis for Australia’s
 *  understanding the aims of the founding fathers prior to Federation in writing the Australian Constitution, including the need for compromise
 *  describing the process by which referendums to change the Australian Constitution are initiated and decided, including the role of the Australian Electoral Commission, and discussing the advantages and disadvantages of having a constitution that can only be amended by referendum
 *  investigating the extent to which the Constitution upholds and enables democratic institutions and processes, including a constitutional monarchy, a federal parliamentary system with elected legislatures, protection of states’ rights and individual rights, and representation of the interests of all Australians
-*  <p>assessing the effectiveness of the process of constitutional change and the degree to which it supports popular sovereignty through examining selected referendum proposals; for example, the successful vote on the <em>Constitution Alteration (Aboriginals) 1967</em> or the unsuccessful vote on the <em>Constitution Alteration (Establishment of Republic) 1999</em></p>
+*  assessing the effectiveness of the process of constitutional change and the degree to which it supports popular sovereignty through examining selected referendum proposals; for example, the successful vote on the *Constitution Alteration (Aboriginals) 1967* or the unsuccessful vote on the *Constitution Alteration (Establishment of Republic) 1999*
 
 ##### AC9HC9K02 {#ac9hc9k02}
 

@@ -19,7 +19,7 @@ Students should have opportunities to experience designing and producing a produ
 explore how familiar products, services and environments are designed by people
 
 **Elaborations**
-*  <p>identifying how First Nations Australians have long designed and produced domestic items including clothing, tools and shelter, for example the Lamalama Peoples of the eastern Cape York Peninsula weave the reddish coloured fibres from <em>Acacia latifolia</em> alternately with white coloured fibres from <em>Brachychiton diversifolium</em> to produce a striped woven bag</p>
+*  identifying how First Nations Australians have long designed and produced domestic items including clothing, tools and shelter, for example the Lamalama Peoples of the eastern Cape York Peninsula weave the reddish coloured fibres from *Acacia latifolia* alternately with white coloured fibres from *Brachychiton diversifolium* to produce a striped woven bag
 *  exploring how local delivery services meet different needs of people, for example describing how gift packages can be sent to and from people who live in different locations and how online shopping items arrive at a person’s home
 *  exploring how an environment such as a local playground may have shade structures to protect users and be designed to allow access for all
 *  describing how community gardens, public swimming pools and parks are designed to help people stay healthy

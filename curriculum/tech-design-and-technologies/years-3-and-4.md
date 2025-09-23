@@ -45,7 +45,7 @@ describe how forces and the properties of materials affect function in a product
 *  researching how First Nations Australians consider buoyant forces as they select materials for watercraft, for example making bark or dugout canoes
 *  looking at models to identify how materials are used and movement is created, for example in the design of a toy with wheels or moving parts
 *  exploring through play how movement can be started by combining materials and using forces, for example releasing a wound rubber band to propel a model boat, how different materials may impact a marble roll speed, or how various surfaces from carpet to grass to concrete might affect a robot’s movement
-*  <p>deconstructing a product or system to identify how motion and forces affect performance, for example in a puppet such as a Japanese <em>bunraku puppet</em> or a model windmill with moving sails</p>
+*  deconstructing a product or system to identify how motion and forces affect performance, for example in a puppet such as a Japanese *bunraku puppet* or a model windmill with moving sails
 *  identifying engineered systems and experimenting with available local materials, tools and equipment to solve problems, for example designing a container or parachute that will keep an egg intact when dropped from a height; a pop-up card; a tower; or a vehicle
 
 #### Technologies context: Food and fibre production; Food specialisations {#technologies-context-food-and-fibre-production-food-specialisations}

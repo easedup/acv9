@@ -48,7 +48,7 @@ the role of the parliament and the High Court of Australia in protecting rights 
 **Elaborations**
 *  explaining the role of the High Court in interpreting and applying the law, using contemporary Australian examples
 *  exploring the concepts of express and implied rights through High Court cases such as the Stolen Generations Case (Kruger v the Commonwealth [1997]) and the Vicki Lee Roach Case (Roach v Electoral Commissioner [2007])
-*  <p>investigating understanding of terra nullius and how the <em>Native Title Act 1993</em> property rights were developed through High Court interpretation of common law and enshrined in statutory law</p>
+*  investigating understanding of terra nullius and how the *Native Title Act 1993* property rights were developed through High Court interpretation of common law and enshrined in statutory law
 *  comparing the effectiveness of a constitutional bill of rights, such as in the USA, with a statutory bill of rights, such as in New Zealand
 
 ##### AC9HC10K04 {#ac9hc10k04}

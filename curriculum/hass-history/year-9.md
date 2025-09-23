@@ -58,10 +58,10 @@ significant events, ideas, people, groups and movements in the development of Au
 **Elaborations**
 *  discussing the rise of nationalist sentiment in Australia in the mid- to late 19th century
 *  explaining the factors that contributed to Federation and the development of democracy in Australia, such as defence concerns, economic concerns and the 1890s depression, the “White Australia" ideal, nationalist ideals and egalitarianism
-*  <p>describing the key steps to Federation, such as the Australasian Federation Conference (1890), the first Federal Constitutional Convention (1891), the second Federal Constitutional Convention (1897–1898), the first referendum on the Federal Constitution (1898), the second referendum on the Federal Constitution (1899), the <em>Commonwealth of Australia Constitution Act</em> (1900) and Federation Day (1 January 1901)</p>
+*  describing the key steps to Federation, such as the Australasian Federation Conference (1890), the first Federal Constitutional Convention (1891), the second Federal Constitutional Convention (1897–1898), the first referendum on the Federal Constitution (1898), the second referendum on the Federal Constitution (1899), the *Commonwealth of Australia Constitution Act* (1900) and Federation Day (1 January 1901)
 *  examining the influences on the development of the Australian Constitution, such as the British Westminster system, the Washington system and federalism
-*  <p>analysing the significance of the advance of women’s voting rights to the development of Australian democracy, including the suffragist movements, the Christian Women's Temperance Union and the <em>Commonwealth Franchise Act</em> 1902</p>
-*  <p>investigating key people and groups involved in the Federation movement and the development of an Australian identity, such as Sir Henry Parkes, Sir Samuel Griffith, William Guthrie Spence, John Feltham Archibald, Catherine Helen Spence, Alfred Deakin, Tom Roberts, Frederick McCubbin, Arthur Streeton, Joseph Furphy, Barbara Baynton, Banjo Paterson, Henry Lawson, “Federation leagues”, the Australian Natives Association and <em>The Bulletin</em></p>
+*  analysing the significance of the advance of women’s voting rights to the development of Australian democracy, including the suffragist movements, the Christian Women's Temperance Union and the *Commonwealth Franchise Act* 1902
+*  investigating key people and groups involved in the Federation movement and the development of an Australian identity, such as Sir Henry Parkes, Sir Samuel Griffith, William Guthrie Spence, John Feltham Archibald, Catherine Helen Spence, Alfred Deakin, Tom Roberts, Frederick McCubbin, Arthur Streeton, Joseph Furphy, Barbara Baynton, Banjo Paterson, Henry Lawson, “Federation leagues”, the Australian Natives Association and *The Bulletin*
 
 ##### AC9HH9K05 {#ac9hh9k05}
 
@@ -89,7 +89,7 @@ different experiences and perspectives of colonisers, settlers and First Nations
 the development of Australian society in relation to other nations in the world by 1914, including the effects of ideas and movements of people
 
 **Elaborations**
-*  <p>investigating how the major social legislation of the new Federal Government affected living and working conditions in Australia; for example, the Harvester Judgment, the <em>Immigration Restriction Act 1901</em>, invalid and old-age pensions, the maternity allowance scheme and the <em>Defence Act 1903</em></p>
+*  investigating how the major social legislation of the new Federal Government affected living and working conditions in Australia; for example, the Harvester Judgment, the *Immigration Restriction Act 1901*, invalid and old-age pensions, the maternity allowance scheme and the *Defence Act 1903*
 *  explaining the continuities and changes in the role of women, such as advocating for women’s rights, suffrage, political representation and pacificism; (for example, Elizabeth Macquarie, Caroline Chisholm, Catherine Helen Spence, Louisa Lawson, Muriel Matters, Vida Goldstein)
 
 #### First World War (1914–1918) {#first-world-war-19141918}
@@ -197,7 +197,7 @@ the ideas that emerged and influenced change in society, such as nationalism, ca
 the role of a significant individual or group such as agricultural and factory workers, inventors and entrepreneurs, landowners, politicians and religious groups in promoting and enacting some of the ideas that emerged during the Industrial Revolution
 
 **Elaborations**
-*  <p>explaining responses to particular ideas; for example, how religious groups responded to ideas in Charles Darwin’s 1859 book <em>On the Origin of Species</em> or how workers responded to the idea of capitalism or socialism</p>
+*  explaining responses to particular ideas; for example, how religious groups responded to ideas in Charles Darwin’s 1859 book *On the Origin of Species* or how workers responded to the idea of capitalism or socialism
 *  investigating the role played by an individual or group in promoting a key idea; for example, the role of Adam Smith and entrepreneurs in promoting capitalism, Florence Nightingale in promoting reform to health care and the rights of women, Pope Leo XIII in promoting the rights of workers in capitalist economies, Chartist William Cuffay in Tasmania or British Chartists on the goldfields in Victoria and New South Wales
 
 #### Asia and the World (1750–1914) {#asia-and-the-world-17501914}

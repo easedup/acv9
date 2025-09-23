@@ -124,7 +124,7 @@ model the rearrangement of atoms in chemical reactions using a range of represen
 explain how scientific knowledge is validated and refined, including the role of publication and peer review
 
 **Elaborations**
-*  <p>investigating the process of publishing a paper in a scientific journal such as <em>Science</em>, which receives about 12,000 submissions per year, and considering how editors evaluate submitted papers</p>
+*  investigating the process of publishing a paper in a scientific journal such as *Science*, which receives about 12,000 submissions per year, and considering how editors evaluate submitted papers
 *  investigating how the publication of data and findings related to the reintroduction of First Nations Australians’ traditional fire regimes has informed more effective fire-reduction strategies and policies
 *  exploring why the work of Professor Barry Marshall and Dr Robin Warren related to the cause of peptic ulcers was first rejected for publication then later validated
 *  examining the scientific consensus supporting global warming
