@@ -81,6 +81,6 @@ share their arts works with audiences
 
 ## Achievement Standards {#achievement-standards}
 
-By the end of the Foundation year, students describe experiences, observations, ideas and/or feelings about arts works they encounter at school, home and/or in the community.
+[By the end of the Foundation year, students describe experiences, observations, ideas and/or feelings about arts works they encounter at school, home and/or in the community.](?standard=ac9adafe01&standard=ac9adafp01)
 
-Students use play, imagination, arts knowledge, processes and/or skills to create and share arts works in different forms.
+[Students use play, imagination, arts knowledge, processes and/or skills to create and share arts works in different forms.](?standard=ac9adafe01&standard=ac9adafd01&standard=ac9adafc01&standard=ac9adap01)
