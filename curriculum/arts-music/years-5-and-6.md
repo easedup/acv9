@@ -90,7 +90,10 @@ perform music in a range of forms they have learnt and/or composed in informal a
 
 ## Achievement Standards {#achievement-standards}
 
+### Learning area achievement standard {#learning-area-achievement-standard}
+By the end of Year 6, students explain the use of elements, concepts and/or conventions in arts works they create and/or experience. They describe how the arts communicate ideas, perspectives and/or meaning across cultures, times, places and/or other contexts. They describe how the arts are used to continue and revitalise cultures.
+Students use subject-specific knowledge, elements, concepts, conventions, materials, skills and/or processes to create arts works that communicate ideas, perspectives and/or meaning. They demonstrate safe practices. They present and perform their arts works in formal and/or informal settings.
+
+### Subject achievement standard {#subject-achievement-standard}
 By the end of Year 6, students explain how elements of music are manipulated in music they compose, perform and/or experience. They describe how music composed and/or performed across contexts, cultures, times and/or places communicates ideas, perspectives and/or meanings. They describe how music is used to continue and/or revitalise cultures.
-
 Students demonstrate listening and aural skills when composing and performing. They use elements of music and compositional devices to compose music that communicates ideas. They notate, document and/or record the music. They perform music in formal and/or informal settings.
-

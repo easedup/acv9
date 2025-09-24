@@ -110,7 +110,4 @@ rehearse and perform improvised, devised and/or scripted drama to audiences, usi
 
 ## Achievement Standards {#achievement-standards}
 
-By the end of Year 8, students analyse how elements of drama and/or conventions are manipulated in drama they create and/or experience. They evaluate the ways drama created and/or performed across cultures, times, places and/or other contexts communicates ideas, perspectives and/or meaning. They describe respectful approaches to creating, performing and/or responding to drama.
-
- Students work collaboratively to manipulate elements of drama and conventions to shape and sustain dramatic action in improvised, devised and/or scripted drama. They employ performance skills to convey dramatic action and communicate ideas, perspectives and/or meaning when performing drama to audiences.
-
+By the end of Year 8, students analyse how elements of drama and/or conventions are manipulated in drama they create and/or experience. They evaluate the ways drama created and/or performed across cultures, times, places and/or other contexts communicates ideas, perspectives and/or meaning. They describe respectful approaches to creating, performing and/or responding to drama. Students work collaboratively to manipulate elements of drama and conventions to shape and sustain dramatic action in improvised, devised and/or scripted drama. They employ performance skills to convey dramatic action and communicate ideas, perspectives and/or meaning when performing drama to audiences.

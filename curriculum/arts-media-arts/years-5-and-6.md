@@ -91,7 +91,10 @@ present media arts works in informal and/or formal settings using responsible me
 
 ## Achievement Standards {#achievement-standards}
 
+### Learning area achievement standard {#learning-area-achievement-standard}
+By the end of Year 6, students explain the use of elements, concepts and/or conventions in arts works they create and/or experience. They describe how the arts communicate ideas, perspectives and/or meaning across cultures, times, places and/or other contexts. They describe how the arts are used to continue and revitalise cultures.
+Students use subject-specific knowledge, elements, concepts, conventions, materials, skills and/or processes to create arts works that communicate ideas, perspectives and/or meaning. They demonstrate safe practices. They present and perform their arts works in formal and/or informal settings.
+
+### Subject achievement standard {#subject-achievement-standard}
 By the end of Year 6, students explain how media languages and media technologies are used in media arts works they construct and/or experience. They describe how media arts works created across cultures, times, places and/or other contexts communicate ideas, perspectives and/or meanings. They describe how media arts can be used to continue and revitalise cultures.
-
 Students use media languages, and media technologies and production processes to construct representations in media arts works for specific purposes and audiences. They present their work in informal and/or formal settings using responsible media practice.
-

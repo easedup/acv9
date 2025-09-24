@@ -109,7 +109,4 @@ perform music using relevant vocal and/or instrumental techniques and performanc
 
 ## Achievement Standards {#achievement-standards}
 
-By the end of Year 8, students analyse how the elements of music and/or compositional devices are manipulated in music they compose, perform and/or experience. They evaluate the ways music from across cultures, times, places and/or other contexts communicates ideas, perspectives and/or meaning. They describe respectful approaches to composing, performing and/or responding to music.
-
-Students demonstrate listening and aural skills when composing and performing. They manipulate elements of music and compositional devices to compose music that communicates ideas, perspectives and/or meaning. They notate, document and/or record the music they compose. They manipulate elements of music when performing their own and/or others’ music. They demonstrate performance skills when performing music for audiences.
-
+By the end of Year 8, students analyse how the elements of music and/or compositional devices are manipulated in music they compose, perform and/or experience. They evaluate the ways music from across cultures, times, places and/or other contexts communicates ideas, perspectives and/or meaning. They describe respectful approaches to composing, performing and/or responding to music.Students demonstrate listening and aural skills when composing and performing. They manipulate elements of music and compositional devices to compose music that communicates ideas, perspectives and/or meaning. They notate, document and/or record the music they compose. They manipulate elements of music when performing their own and/or others’ music. They demonstrate performance skills when performing music for audiences.

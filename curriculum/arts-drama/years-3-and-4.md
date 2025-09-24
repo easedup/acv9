@@ -87,7 +87,9 @@ perform improvised and/or devised drama in informal settings
 
 ## Achievement Standards {#achievement-standards}
 
-By the end of Year 4, students describe use of selected elements of drama in drama they experience, create and/or perform. TThey describe where, why and/or how drama is created and/or performed across cultures, times, places and/or other contexts.
+### Learning area achievement standard {#learning-area-achievement-standard}
+By the end of Year 4, students describe use of elements, concepts and/or conventions in arts works they create and/or experience. They describe where, why and/or how arts works are created and presented across cultures, times, places, and/or other contexts.
+Students use arts knowledge and skills to create arts works in a range of forms that communicate ideas, perspectives and/or meaning. They present and/or perform their work in informal settings.
 
-Students use selected elements of drama when creating drama and/or performing. They collaborate to improvise and/or devise drama that communicates ideas, perspectives and/or meaning. They perform their work in informal settings.
-
+### Subject achievement standard {#subject-achievement-standard}
+By the end of Year 4, students describe use of selected elements of drama in drama they experience, create and/or perform. TThey describe where, why and/or how drama is created and/or performed across cultures, times, places and/or other contexts.Students use selected elements of drama when creating drama and/or performing. They collaborate to improvise and/or devise drama that communicates ideas, perspectives and/or meaning. They perform their work in informal settings.

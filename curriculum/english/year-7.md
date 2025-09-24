@@ -256,8 +256,5 @@ understand how to use spelling rules and word origins; for example, Greek and La
 ## Achievement Standards {#achievement-standards}
 
 By the end of Year 7, students interact with others, and listen to and create spoken and/or multimodal texts including literary texts. With different purposes and for audiences, they discuss, express and expand ideas with evidence. They adopt text structures to organise, develop and link ideas. They adopt language features including literary devices, and/or multimodal features and features of voice.
-
 They read, view and comprehend texts created to inform, influence and/or engage audiences. They identify how ideas are portrayed and how texts are influenced by contexts. They identify the aesthetic qualities of texts. They identify how text structures, language features including literary devices and visual features shape meaning.
-
 They create written and/or multimodal texts, including literary texts, for different purposes and audiences, expressing and expanding on ideas with evidence. They adopt text structures to organise, develop and link ideas. They adopt language features including literary devices, and/or multimodal features.
-

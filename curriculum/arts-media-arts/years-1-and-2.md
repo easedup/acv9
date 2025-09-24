@@ -85,7 +85,10 @@ share media arts works with audiences in informal settings
 
 ## Achievement Standards {#achievement-standards}
 
+### Learning area achievement standard {#learning-area-achievement-standard}
+By the end of Year 2, students identify where they experience the arts. They describe where, why and/or how people across cultures, communities and/or other contexts experience the arts.
+Students demonstrate arts practices and skills across arts subjects. They create arts works in a range of forms. They share their work in informal settings.
+
+### Subject achievement standard {#subject-achievement-standard}
 By the end of Year 2, students identify where they experience media arts. They describe where, why and/or how people across cultures, communities and/or other contexts experience media arts.
-
 Students use media languages and media technologies to construct representations in media arts works. They share their work with audiences safely and in informal ways.
-

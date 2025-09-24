@@ -88,7 +88,9 @@ share and/or display artworks and/or visual arts practice in informal settings
 
 ## Achievement Standards {#achievement-standards}
 
-By the end of Year 4, students describe the use of visual conventions, visual arts processes and materials in artworks they create and/or experience. They describe where, why and/or how visual artists create and/or display artworks across cultures, times, places and/or other contexts.
+### Learning area achievement standard {#learning-area-achievement-standard}
+By the end of Year 4, students describe use of elements, concepts and/or conventions in arts works they create and/or experience. They describe where, why and/or how arts works are created and presented across cultures, times, places, and/or other contexts.
+Students use arts knowledge and skills to create arts works in a range of forms that communicate ideas, perspectives and/or meaning. They present and/or perform their work in informal settings.
 
- Students use visual conventions, visual arts processes and materials to create artworks that communicate ideas, perspectives and/or meaning. They share or display their artworks and/or visual arts practice in informal settings.
-
+### Subject achievement standard {#subject-achievement-standard}
+By the end of Year 4, students describe the use of visual conventions, visual arts processes and materials in artworks they create and/or experience. They describe where, why and/or how visual artists create and/or display artworks across cultures, times, places and/or other contexts. Students use visual conventions, visual arts processes and materials to create artworks that communicate ideas, perspectives and/or meaning. They share or display their artworks and/or visual arts practice in informal settings.

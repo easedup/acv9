@@ -92,7 +92,9 @@ sing and play music they have learnt and/or composed in informal settings
 
 ## Achievement Standards {#achievement-standards}
 
-By the end of Year 4, students describe the use of elements of music in music they compose, perform and/or experience. They describe where, why and/or how music is composed and/or performed across cultures, times, places and/or other contexts.
+### Learning area achievement standard {#learning-area-achievement-standard}
+By the end of Year 4, students describe use of elements, concepts and/or conventions in arts works they create and/or experience. They describe where, why and/or how arts works are created and presented across cultures, times, places, and/or other contexts.
+Students use arts knowledge and skills to create arts works in a range of forms that communicate ideas, perspectives and/or meaning. They present and/or perform their work in informal settings.
 
-Students demonstrate listening skills when performing and composing. They combine the elements of music to compose music that communicates ideas. They sing and play music in informal settings.
-
+### Subject achievement standard {#subject-achievement-standard}
+By the end of Year 4, students describe the use of elements of music in music they compose, perform and/or experience. They describe where, why and/or how music is composed and/or performed across cultures, times, places and/or other contexts.Students demonstrate listening skills when performing and composing. They combine the elements of music to compose music that communicates ideas. They sing and play music in informal settings.

@@ -174,19 +174,4 @@ develop project plans for intended purposes and audiences to individually and co
 
 ## Achievement Standards {#achievement-standards}
 
-By the end of Year 10 students should have had the opportunity to design and produce at least 4 designed solutions focused on one or more of the 4 technologies contexts:
-
-*   Engineering principles and systems
-*   Food and fibre production
-*   Food specialisations
-*   Materials and technologies specialisations.
-
-Students should have opportunities to experience creating designed solutions for products, services and environments.
-
-Students use design and technologies knowledge and understanding, processes and production skills and design thinking to produce designed solutions for identified needs or opportunities of relevance to individuals and local, regional or global communities. They work independently and collaboratively. Problem-solving activities acknowledge the complexities of contemporary life and make connections to related specialised occupations and further study. Increasingly, study has a global perspective, with opportunities to understand the complex interdependencies involved in the development of technologies and enterprises.
-
-Students specifically focus on preferred futures, taking into account ethics; legal issues; social values; and economic, environmental and social sustainability factors; and use strategies such as life cycle thinking. They use critical thinking, creativity, innovation and enterprise skills with increasing confidence, independence and collaboration. Students analyse data, evaluate design ideas and technologies, respond to feedback, and evaluate design processes used to inform designed solutions for preferred futures.
-
-Using a range of technologies including a variety of graphical representation techniques to communicate, students generate and represent original ideas and production plans in 2-dimensional and 3-dimensional representations. These techniques will be specific to the technologies context and may include scale, perspective, orthogonal and production drawings with sectional and exploded views. Students produce rendered, illustrated views for marketing and use graphic visualisation software to produce dynamic views of design ideas and designed solutions.
-
-Students identify the steps involved in planning the production of designed solutions. They develop detailed project management plans, incorporating elements such as sequenced time, cost and action plans, to manage design tasks safely. Students apply management plans, making adjustments when necessary, to successfully complete design tasks. They identify and establish safety procedures that minimise risk and manage projects with safety and efficiency in mind, maintaining safety standards and management procedures to ensure success.
+By the end of Year 10 students explain how people consider factors that impact on design decisions and the technologies used to design and produce products, services and environments for sustainable living. They explain the contribution of innovation, enterprise skills and emerging technologies to global preferred futures. For one or more of the technologies contexts, students explain the features of technologies and their appropriateness for purpose, and create designed solutions based on an analysis of needs or opportunities. Students create, adapt and refine design ideas, processes and solutions and justify their decisions against developed design criteria that include sustainability. They communicate design ideas, processes and solutions to a range of audiences, including using digital tools. Students independently and collaboratively develop and apply production and project management plans, adjusting processes when necessary. They select and use technologies skilfully and safely to produce designed solutions.

@@ -81,15 +81,6 @@ share their arts works with audiences
 
 ## Achievement Standards {#achievement-standards}
 
-In Foundation, learning in The Arts builds on the Early Years Learning Framework and each student’s prior learning and experiences. The curriculum allows for play-based approaches that integrate arts learning experiences across the 5 Arts subjects and/or specialist teaching. There are examples in the content elaborations for each subject and examples that span across the subjects.
+By the end of the Foundation year, students describe experiences, observations, ideas and/or feelings about arts works they encounter at school, home and/or in the community.
 
-In Foundation, Arts learning fosters students’ understanding of how the arts enrich their lives and the lives of all people. Engagement with the arts strengthens students’ sense of wellbeing and develops their connections with the world. Arts learning involves exploration and purposeful, creative play, together with structured learning appropriate for their level of development. In The Arts, students work individually and collaboratively with peers and teachers, drawing on their imaginations, stimulus materials such as images or works of fiction, and real-life experiences.
-
-Students explore the arts in their lives and communities. They learn that the arts are central to all cultures and explore the diversity of arts works across cultures. They build empathy and understanding that what is familiar to one person can be new to somebody else. Students use arts knowledge and skills to make arts works that represent their ideas about the world and share their work with peers in informal settings. They experience being an audience. As they make and respond, students learn about safe practices in the arts.
-
-In Foundation, learning in Drama can involve students:
-
-*   discovering how they and others communicate feelings and understandings in and through drama
-*   exploring elements of drama such as role, situation, language and place, and drama forms such as dramatic play, process drama and/or puppetry
-*   accepting and participating in fictional situations
-*   reflecting on their drama experiences and contributing to the drama using language and/or in embodied ways.
+Students use play, imagination, arts knowledge, processes and/or skills to create and share arts works in different forms.

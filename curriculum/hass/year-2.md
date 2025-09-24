@@ -134,6 +134,4 @@ develop narratives and share observations, using sources, and subject-specific t
 ## Achievement Standards {#achievement-standards}
 
 By the end of Year 2, students identify the significance of a local person, group, place and/or building. They identify the effects of changes in technologies on people’s lives. Students identify that places can be spatially represented in different geographical divisions. They identify how people and places are interconnected both at local and broader scales.
-
 Students develop questions, and collect, sort and record related information and data from observations and provided sources. They interpret information and data, and identify and discuss perspectives. Students use interpretations to draw conclusions and make proposals. Students use sources, and subject-specific terms to present narratives and observations about the past, people and places at different scales.
-

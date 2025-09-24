@@ -121,5 +121,8 @@ sequence steps for making designed solutions cooperatively
 
 ## Achievement Standards {#achievement-standards}
 
-By the end of Year 2 students describe the purpose of familiar products, services and environments. For each of the 2 prescribed technologies contexts they describe the features and uses of technologies and create designed solutions. Students select design ideas based on their personal preferences. They communicate design ideas using models and drawings and follow sequenced steps to safely produce designed solutions.
+### Learning area achievement standard {#learning-area-achievement-standard}
+By the end of Year 2 students describe the purpose of familiar products, services and environments, including digital systems. They represent and process data in different ways and follow and describe basic algorithms involving a sequence of steps and branching to show how simple digital solutions meet a need for known users. For each of the 2 prescribed technologies contexts they identify the features and uses of technologies and create designed solutions. Students select design ideas based on their personal preferences. They access and use the basic features of common digital tools to create, locate and share content, and collaborate and communicate design ideas using models and drawings. Students safely produce designed or digital solutions and recognise that digital tools may store their personal data online.
 
+### Subject achievement standard {#subject-achievement-standard}
+By the end of Year 2 students describe the purpose of familiar products, services and environments. For each of the 2 prescribed technologies contexts they describe the features and uses of technologies and create designed solutions. Students select design ideas based on their personal preferences. They communicate design ideas using models and drawings and follow sequenced steps to safely produce designed solutions.

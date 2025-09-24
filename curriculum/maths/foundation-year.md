@@ -151,13 +151,6 @@ collect, sort and compare data represented by objects and images in response to 
 
 ## Achievement Standards {#achievement-standards}
 
-In Foundation, learning in Mathematics builds on the Early Years Learning Framework and each student’s prior learning and experiences. Students engage in a range of approaches to learning and doing mathematics that develop their understanding of and fluency with concepts, procedures and processes by making connections, reasoning, problem-solving and practice. Proficiency in mathematics enables students to respond to familiar and unfamiliar situations by employing mathematical strategies to make informed decisions and solve problems efficiently.
-
-Students further develop proficiency and positive dispositions towards mathematics and its use as they:
-
-*   explore situations, sparked by curiosity, using physical and virtual materials to represent, sort, quantify, compare and solve everyday problems
-*   look for and make connections between number names, numerals and quantities, and compare quantities and shapes, using elementary mathematical reasoning in active learning experiences
-*   bring mathematical meaning to their use of familiar terms and language when they pose and respond to questions, and explain their thinking and reasoning
-*   build confidence and autonomy in being able to make and justify mathematical decisions based on quantification and direct comparisons
-*   learn to recognise repetition in pattern sequences and apply this to creatively build repeating patterns in a range of contexts
-*   develop a sense of sameness, difference and change when they engage in play-based activities.
+By the end of Foundation Year, students make connections between number names, numerals and position in the sequence of numbers from zero to at least 20. They use subitising and counting strategies to quantify collections. Students compare the size of collections to at least 20. They partition and combine collections up to 10 in different ways, representing these with numbers. Students represent practical situations that involve quantifying, equal sharing, adding to and taking away from collections to at least 10. They copy and continue repeating patterns.
+Students identify the attributes of mass, capacity, length and duration, and use direct comparison strategies to compare objects and events. They sequence and connect familiar events to the time of day. Students name, create and sort familiar shapes and give their reasoning. They describe the position and the location of themselves and objects in relation to other objects and people within a familiar space.
+Students collect, sort and compare data in response to questions in familiar contexts.

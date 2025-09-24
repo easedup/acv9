@@ -164,6 +164,4 @@ write and create texts to communicate observations, findings and ideas, using ev
 ## Achievement Standards {#achievement-standards}
 
 By the end of Year 2 students identify celestial objects and describe patterns they observe in the sky. They demonstrate how different sounds can be produced and describe the effect of sound energy on objects. They identify ways to change materials without changing their material composition. They describe how people use science in their daily lives and how people use patterns to make scientific predictions.
-
 Students pose questions to explore observed patterns or relationships and make predictions based on experience. They suggest steps to be followed in an investigation and follow safe procedures to make and record observations. They use provided tables and organisers to sort and order data and represent patterns in data. With guidance, they compare their observations with those of others, identify whether their investigation was fair and identify further questions. They use everyday and scientific vocabulary to communicate observations, findings and ideas.
-

@@ -103,7 +103,4 @@ rehearse and perform dance for audiences, using technical and expressive skills 
 
 ## Achievement Standards {#achievement-standards}
 
-By the end of Year 8, students analyse how the elements of dance, choreographic devices and/or production elements are manipulated in dance they create and/or experience. They evaluate the ways that dance works and/or performances in a range of styles and/or from across cultures, times, places and/or other contexts communicate ideas, perspectives and/or meaning. They describe respectful approaches to creating, performing and/or responding to dance.
-
-Students manipulate the elements of dance and choreographic devices to choreograph dance that communicate ideas, perspectives and/or meanings. They demonstrate safe dance practice when choreographing and performing dance. They employ technical and expressive skills and, as appropriate, genre- or style-specific techniques when performing dances for audiences.
-
+By the end of Year 8, students analyse how the elements of dance, choreographic devices and/or production elements are manipulated in dance they create and/or experience. They evaluate the ways that dance works and/or performances in a range of styles and/or from across cultures, times, places and/or other contexts communicate ideas, perspectives and/or meaning. They describe respectful approaches to creating, performing and/or responding to dance.Students manipulate the elements of dance and choreographic devices to choreograph dance that communicate ideas, perspectives and/or meanings. They demonstrate safe dance practice when choreographing and performing dance. They employ technical and expressive skills and, as appropriate, genre- or style-specific techniques when performing dances for audiences.

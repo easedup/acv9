@@ -101,19 +101,5 @@ rehearse and perform dance for audiences, using technical and expressive skills 
 
 ## Achievement Standards {#achievement-standards}
 
-In this band, learning in Dance continues to build on each student’s prior learning and experiences as students develop their capability and confidence across the practices of Dance: choreography, performance and responding. They continue to use dance-specific processes in purposeful and creative ways that are informed by their engagement with the work of living choreographers and performers from across local, regional, national and global cultures, times, places and/or other contexts, such as countries or regions in Asia. This can include use of dance in multi-arts, trans-disciplinary or hybrid forms. This awareness of diverse dance practices, genres and/or styles informs their own work as choreographers and performers. They work collaboratively with peers and teachers.
-
-In this band, the focus is on students:
-
-1.  exploring and responding to
-
-*   choreographers’ and performers’ use of the elements of dance, choreographic devices, genre/style techniques and/or production elements in works or contexts across cultures, times and/or places; for example, through analysis or practical investigations
-*   ways in which dance choreographed and/or performed by First Nations Australians celebrates and challenges multiple perspectives of Australian identity
-
-3.  developing practices and skills
-
-*   building and extending creative practices for performance and choreography, considering prior learning, safe dance practice, experience and interests. For example, students may continue to develop genre- or style-specific techniques and explore new interests to extend and refine technical and expressive skills
-*   building and extending critical practices by taking opportunities to reflect on and evaluate their own work, respond to and analyse their own work
-
-5.  creating work to communicate ideas and intentions using the elements of dance, choreographic devices and form. They use choreographic processes that are appropriate to the genre/style. As they develop and refine their work, students consider how they can employ technical and expressive skills to communicate ideas, perspectives and/or meaning in their work. Students may focus on choreographing in a range of dance styles and forms and/or they may choreograph dance for multi-arts, hybrid or trans-disciplinary works; for example, using immersive technologies
-6.  performing their work using technical and expressive skills and genre- or style-specific techniques to communicate their ideas and intentions to audiences; for example, in planned and rehearsed live or streamed performances.
+By the end of Year 10, students analyse how and/or why the elements of dance, choreographic devices, genre- or style-specific techniques, production elements, and/or technical and expressive skills are manipulated in dance they create and/or experience. They evaluate how dance works and/or performances in a range of styles and/or from across cultures, times, places and/or other contexts communicate ideas, perspectives and/or meaning. They evaluate how dance is used to celebrate and challenge perspectives of Australian identity.
+Students select and manipulate the elements of dance, choreographic devices and/or structure to choreograph dances. They demonstrate safe dance practice when choreographing and performing dance. They employ technical and expressive skills and genre- or style-specific techniques to enhance communication of ideas, perspectives and/or meaning when performing dance for audiences.

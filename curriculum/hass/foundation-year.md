@@ -115,6 +115,4 @@ share narratives and observations, using sources and terms about the past and pl
 ## Achievement Standards {#achievement-standards}
 
 By the end of Foundation, students identify significant people and events in their own lives, and how significant events are celebrated or commemorated. Students recognise the features of familiar places, why some places are special to people and the ways they can care for them.
-
 Students pose questions, and sort and record information from observations and provided sources. They share a perspective and draw conclusions. Students use sources and terms to share observations about places and the past.
-

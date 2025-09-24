@@ -289,8 +289,5 @@ read and write high-frequency words including homophones and know how to use con
 ## Achievement Standards {#achievement-standards}
 
 By the end of Year 4, students interact with others, and listen to and create spoken and/or multimodal texts including stories. They share and extend ideas, opinions and information with audiences, using relevant details from learnt topics, topics of interest or texts. They use text structures to organise and link ideas. They use language features including subjective and objective language, topic-specific vocabulary and literary devices, and/or visual features and features of voice.
-
 They read, view and comprehend texts created to inform, influence and/or engage audiences. They describe how ideas are developed including through characters and events, and how texts reflect contexts. They describe the characteristic features of different text structures. They describe how language features including literary devices, and visual features shape meaning. They read fluently and accurately, integrating phonic, morphemic, grammatical and punctuation knowledge.
-
 They create written and/or multimodal texts including stories for purposes and audiences, where they develop ideas using details from learnt topics, topics of interest or texts. They use paragraphs to organise and link ideas. They use language features including complex sentences, topic-specific vocabulary and literary devices, and/or visual features. They write texts using clearly formed letters with developing fluency. They spell words including multisyllabic and multimorphemic words with irregular spelling patterns, using phonic, morphemic and grammatical knowledge.
-

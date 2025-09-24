@@ -52,5 +52,8 @@ identify some data that is personal and owned by them
 
 ## Achievement Standards {#achievement-standards}
 
-By the end of Foundation students show familiarity with digital systems and use them for a purpose. They represent data using objects, pictures and symbols and identify examples of data that is owned by them.
+### Learning area achievement standard {#learning-area-achievement-standard}
+By the end of Foundation students identify familiar products, services and environments and develop familiarity with digital systems, using them for a purpose. They create, communicate and choose design ideas. Students follow steps and use materials and equipment to safely make a designed solution for a school-selected context. They show how to represent data using objects, pictures and symbols and identify examples of data that is owned by them.
 
+### Subject achievement standard {#subject-achievement-standard}
+By the end of Foundation students show familiarity with digital systems and use them for a purpose. They represent data using objects, pictures and symbols and identify examples of data that is owned by them.

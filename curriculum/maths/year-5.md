@@ -285,17 +285,6 @@ conduct repeated chance experiments including those with and without equally lik
 
 ## Achievement Standards {#achievement-standards}
 
-In Year 5, learning in Mathematics builds on each student’s prior learning and experiences. Students engage in a range of approaches to learning and doing mathematics that develop their understanding of and fluency with concepts, procedures and processes by making connections, reasoning, problem-solving and practice. Proficiency in mathematics enables students to respond to familiar and unfamiliar situations by employing mathematical strategies to make informed decisions and solve problems efficiently.
-
-Students further develop proficiency and positive dispositions towards mathematics and its use as they:
-
-*   apply their understanding of relationships to convert between forms of numbers, units and spatial representations
-*   use mathematical modelling to solve practical problems, with guidance, using natural numbers and operations, and report on insights and conclusions they reach about the context
-*   use common percentages to make proportional comparisons of quantities
-*   use appropriate instruments and digital tools to construct and measure angles in degrees
-*   use appropriate metric units to directly measure the area and perimeter of regular and irregular spaces
-*   locate and move positions within a grid coordinate system
-*   recognise what stays the same and what changes when shapes undergo transformations
-*   experiment with factors and multiples using algorithms and digital tools
-*   plan, conduct and report findings from statistical investigations that involve an increasing range of types of data and means for representing data
-*   develop their reasoning skills when they consider relationships between events and connect long-term frequency over many trials to the likelihood of an event occurring.
+By the end of Year 5, students use place value to write and order decimals including decimals greater than one. They express natural numbers as products of factors and identify multiples. Students order and represent add and subtract fractions with the same or related denominators. They represent common percentages and connect them to their fraction and decimal equivalents. Students use their proficiency with multiplication facts and efficient calculation strategies to multiply large numbers by one- and two-digit numbers and divide by single-digit numbers. They check the reasonableness of their calculations using estimation. Students use mathematical modelling to solve financial and other practical problems, formulating and solving problems, choosing arithmetic operations and interpreting results in terms of the situation. They apply properties of numbers and operations to find unknown values in numerical equations involving multiplication and division. Students create and use algorithms to identify and explain patterns in the factors and multiples of numbers.
+They choose and use appropriate metric units to measure the attributes of length, mass and capacity, and to solve problems involving perimeter and area. Students convert between 12- and 24-hour time. They estimate, construct and measure angles in degrees. Students use grid coordinates to locate and move positions. They connect objects to their two-dimensional nets. Students perform and describe the results of transformations and identify any symmetries.
+They plan and conduct statistical investigations that collect nominal and ordinal categorical and discrete numerical data using digital tools. Students identify the mode and interpret the shape of distributions of data in context. They interpret and compare data represented in line graphs. Students conduct repeated chance experiments, list the possible outcomes, estimate likelihoods and make comparisons between those with and without equally likely outcomes.

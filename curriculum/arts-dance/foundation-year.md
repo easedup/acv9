@@ -81,15 +81,6 @@ share their arts works with audiences
 
 ## Achievement Standards {#achievement-standards}
 
-In Foundation, learning in The Arts builds on the Early Years Learning Framework and each student’s prior learning and experiences. The curriculum allows for play-based approaches that integrate arts learning experiences across the 5 Arts subjects and/or specialist teaching. There are examples in the content elaborations for each subject and examples that span across the subjects.
+[By the end of the Foundation year, students describe experiences, observations, ideas and/or feelings about arts works they encounter at school, home and/or in the community.](?standard=ac9adafe01&standard=ac9adafp01)
 
-In Foundation, Arts learning fosters students’ understanding of how the arts enrich their lives and the lives of all people. Engagement with the arts strengthens students’ sense of wellbeing and develops their connections with the world. Arts learning involves exploration and purposeful, creative play, together with structured learning appropriate for their level of development. In The Arts, students work individually and collaboratively with peers and teachers, drawing on their imaginations, stimulus materials such as images or works of fiction, and real-life experiences.
-
-Students explore the arts in their lives and communities. They learn that the arts are central to all cultures and explore the diversity of arts works across cultures. They build empathy and understanding that what is familiar to one person can be new to somebody else. Students use arts knowledge and skills to make arts works that represent their ideas about the world and share their work with peers in informal settings. They experience being an audience. As they make and respond, students learn about safe practices in the arts.
-
-In Foundation, learning in Dance can involve students:
-
-*   developing body awareness and learning about how body bases, parts and zones are used in dance, for example exploring how different body parts move
-*   exploring the elements of dance: space, time, dynamics and relationships, as they make and observe dances; for example, exploring and creating movement patterns
-*   using fundamental movement skills and combining movements to create dance sequences that use locomotor movements (travelling); for example, walking or rolling, and non-locomotor movements (not travelling); for example, bending, melting, balancing, or being as tall or as small as they can be
-*   experimenting with simple technical skills such as posture or coordination, and expressive skills such as facial expression or gesture, as they select and organise movements in their own dances.
+[Students use play, imagination, arts knowledge, processes and/or skills to create and share arts works in different forms.](?standard=ac9adafe01&standard=ac9adafd01&standard=ac9adafc01&standard=ac9adap01)

@@ -241,8 +241,5 @@ apply learnt knowledge to spell accurately and to learn new words
 ## Achievement Standards {#achievement-standards}
 
 By the end of Year 8, students interact with others, and listen to and create spoken and/or multimodal texts including literary texts. With different purposes and for audiences, they discuss, express and elaborate on ideas with supporting evidence. They select and vary text structures to organise, develop and link ideas. They select and vary language features including literary devices, and/or multimodal features and features of voice.
-
 They read, view and comprehend a range of texts created to inform, influence and/or engage audiences. They explain how ideas are represented and how texts reflect or challenge contexts. They explain the aesthetic qualities of texts. They explain how text structures shape meaning. They explain the effects of language features including intertextual references and literary devices, and visual features.
-
 They create written and/or multimodal texts, including literary texts for different purposes and audiences, expressing and advancing ideas with supporting evidence. They select and vary text structures to organise, develop and link ideas. They select and vary language features including literary devices, and/or multimodal features.
-

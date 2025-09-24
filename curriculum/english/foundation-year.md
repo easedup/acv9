@@ -299,8 +299,5 @@ understand that words are units of meaning and can be made of more than one mean
 ## Achievement Standards {#achievement-standards}
 
 By the end of Foundation, students listen to texts, interact with others and create short spoken texts, including retelling stories. They share thoughts and preferences, retell events and report information or key ideas to an audience. They use language features including words and phrases from learning and texts. They listen for and identify rhymes, letter patterns and sounds (phonemes) in words. They orally blend and segment phonemes in single-syllable words.
-
 They read, view and comprehend texts, making connections between characters, settings and events, and to personal experiences. They identify the language features of texts including connections between print and images. They name the letters of the English alphabet and know and use the most common sounds (phonemes) represented by these letters (graphs). They read words including consonant–vowel–consonant words and some high-frequency words.
-
 They create short written texts, including retelling stories using words and images where appropriate. They retell, report information and state their thoughts, feelings and key ideas. They use words and phrases from learning and texts. They form letters, spell most consonant–vowel–consonant words and experiment with capital letters and full stops.
-

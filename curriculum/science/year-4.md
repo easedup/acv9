@@ -185,6 +185,4 @@ write and create texts to communicate findings and ideas for identified purposes
 ## Achievement Standards {#achievement-standards}
 
 By the end of Year 4 students identify the roles of organisms in a habitat and construct food chains. They identify key processes in the water cycle and describe how water cycles through the environment. They identify forces acting on objects and describe their effect. They relate the uses of materials to their properties. They explain the role of data in science inquiry. They identify solutions based on scientific explanations and describe the needs these meet.
-
 Students pose questions to identify patterns and relationships and make predictions based on observations. They plan investigations using planning scaffolds, identify key elements of fair tests and describe how they conduct investigations safely. They use simple procedures to make accurate formal measurements. They construct representations to organise data and information and identify patterns and relationships. They compare their findings with those of others, assess the fairness of their investigation, identify further questions for investigation and draw conclusions. They communicate ideas and findings for an identified audience and purpose, including using scientific vocabulary when appropriate.
-

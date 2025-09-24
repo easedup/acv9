@@ -232,14 +232,4 @@ perform a range of roles in respectful ways to achieve successful outcomes in gr
 
 ## Achievement Standards {#achievement-standards}
 
-The Years 3–4 curriculum builds on each student’s prior learning. During this time, students are further developing their understanding of themselves and others, and the changing world in which they live.
-
-Through health and movement contexts, student develop personal and social skills such as leadership, communication, collaboration, problem-solving, persistence and decision-making.
-
-Students explore personal and social factors and refine skills that support and contribute to their identities and emotional responses in various situations. They develop strategies for managing the physical, emotional and social changes and transitions they may experience as they grow older. As they continue to build relationships, they develop an understanding of the importance of empathy, diversity, respect and inclusion in initiating and maintaining respectful relationships.
-
-As students enhance their capacity to take responsibility for their health and wellbeing, they examine health messages and factors that motivate or inhibit healthy and safe choices about physical activity and health behaviours.
-
-Students develop greater proficiency across the range of fundamental movement skills by building on previous learning. They practise and refine the skills introduced in the early years and transfer them to unfamiliar movement situations.
-
-Students combine different movement skills in game-like situations to create more complex movement patterns and sequences. Through exploration of, and participation in, a variety of physical activities, students further develop their knowledge about movement, how the body moves and the benefits of regular physical activity.
+By the end of Year 4, students identify influences that strengthen identities and describe strategies to manage emotions, changes and transitions. They apply skills and strategies to interact respectfully with others. They describe the influences that inclusion and stereotypes have on choices and actions. Students describe and apply protective behaviours and help-seeking strategies to keep themselves and others safe online and offline. They interpret health information to apply strategies to enhance their own and others’ health, safety, relationships and wellbeing. Students apply fundamental movement skills and demonstrate movement concepts across a range of situations. They adapt movement strategies to enhance movement outcomes. Students examine factors that influence participation and propose strategies to incorporate regular physical activity into their own and others’ lives. They demonstrate fair play and inclusion through a range of roles in movement contexts.

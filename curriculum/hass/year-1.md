@@ -131,6 +131,4 @@ develop narratives and share observations, using sources, and subject-specific t
 ## Achievement Standards {#achievement-standards}
 
 By the end of Year 1, students identify continuity and change in family structures, roles and significant aspects of daily life. They identify the location and nature of the natural, managed and constructed features of local places, the ways places change, and how they can be cared for by people.
-
 Students develop questions and collect, sort and record information and data from observations and provided sources. They interpret information and discuss perspectives. Students draw conclusions and make proposals. Students share narratives and observations about people, places and the past, drawing on sources and incorporating subject-specific terms.
-

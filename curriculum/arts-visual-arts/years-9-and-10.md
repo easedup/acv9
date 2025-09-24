@@ -111,19 +111,5 @@ evaluate art exhibits to inform the curation and exhibition of their own and
 
 ## Achievement Standards {#achievement-standards}
 
-In this band, learning in Visual Arts continues to build on each student’s prior learning and experiences as students develop their capability and confidence across the practices of Visual Arts. They continue to use visual conventions, visual arts processes and materials in purposeful and creative ways that are informed by their engagement with the work of living visual artists, visual arts practices and arts spaces in local, regional, national and global contexts such as countries or regions in Asia, including use of visual arts in multi-arts, trans-disciplinary or hybrid forms. This awareness of the diversity of visual arts practices, forms, styles and representations informs their own visual arts practice. They work collaboratively with peers and teachers.
-
-In this band, the focus is on students:
-
-1.  exploring and responding to
-
-*   artworks and visual arts practices from across cultures, times, places and/or other contexts; for example, through exploration of works in physical or virtual spaces or engagement with artists
-*   ways artworks created by First Nations Australians celebrate and challenge multiple perspectives of Australian identity
-
-3.  developing practices and skills
-
-*   building and extending creative practices and skills for visual arts practice, developing ideas and intentions, creating representations, and developing skills and techniques in specific visual arts processes
-*   building and extending critical practices by taking opportunities to reflect, evaluate or respond to their own work and the work of others; for example, considering how to apply knowledge of visual arts practices in their work
-
-5.  creating artworks to communicate ideas, perspectives and meaning in 2D, 3D and/or 4D (time-based forms) and/or multi-disciplinary forms to communicate ideas and intentions using visual arts practices and materials
-6.  presenting artworks and practices to audiences; for example, curating exhibits of their work, as individual artists or by working collaboratively. This can include designing and preparing a space or developing supporting material such as artist statements.
+By the end of Year 10, students analyse how and why visual conventions, visual arts processes and materials are manipulated in artworks they create and/or experience. They evaluate how and why artists from across cultures, times, places and/or other contexts use visual conventions, visual arts processes and materials in their visual arts practice and/or artworks to represent and/or challenge ideas, perspectives and/or meaning. They evaluate how visual arts are used to celebrate and challenge perspectives of Australian identity.
+Students draw on inspiration from multiple sources to generate and develop ideas for artworks. They document and reflect on their own visual arts practice. They use knowledge of visual conventions, visual arts processes and materials to create artworks that represent and/or communicate ideas, perspectives and/or meaning. They curate and present exhibitions of their own and or/others’ artworks and visual arts practice to engage audiences.
