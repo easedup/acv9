@@ -85,7 +85,10 @@ share artworks and/or visual arts practice in informal settings
 
 ## Achievement Standards {#achievement-standards}
 
+### Learning area achievement standard {#learning-area-achievement-standard}
+By the end of Year 2, students identify where they experience the arts. They describe where, why and/or how people across cultures, communities and/or other contexts experience the arts.
+Students demonstrate arts practices and skills across arts subjects. They create arts works in a range of forms. They share their work in informal settings.
+
+### Subject achievement standard {#subject-achievement-standard}
 By the end of Year 2, students identify where they experience visual arts. They describe where, why and/or how people across cultures, communities and/or other contexts experience visual arts.
-
 Students experiment with visual conventions, visual arts processes and materials. They make and share artworks in informal settings.
-

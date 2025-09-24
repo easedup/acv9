@@ -88,7 +88,10 @@ select and present documentation of visual arts practice, and display artworks i
 
 ## Achievement Standards {#achievement-standards}
 
+### Learning area achievement standard {#learning-area-achievement-standard}
+By the end of Year 6, students explain the use of elements, concepts and/or conventions in arts works they create and/or experience. They describe how the arts communicate ideas, perspectives and/or meaning across cultures, times, places and/or other contexts. They describe how the arts are used to continue and revitalise cultures.
+Students use subject-specific knowledge, elements, concepts, conventions, materials, skills and/or processes to create arts works that communicate ideas, perspectives and/or meaning. They demonstrate safe practices. They present and perform their arts works in formal and/or informal settings.
+
+### Subject achievement standard {#subject-achievement-standard}
 By the end of Year 6, students explain the ways that visual conventions, visual arts processes and materials are used in artworks they create and/or experience. They describe how artworks created across cultures, times, places and/or other contexts communicate ideas, perspectives and/or meaning. They describe how visual arts are used to continue and revitalise cultures.
-
 Students develop and document ideas for their own artworks. They select and use visual conventions, visual arts processes and materials to create artworks that communicate ideas, perspectives and/or meaning. They present documentation and artworks that communicate ideas, perspectives or meaning in informal and/or formal settings.
-

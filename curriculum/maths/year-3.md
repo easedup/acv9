@@ -272,19 +272,6 @@ conduct repeated chance experiments; identify and describe possible outcomes, re
 
 ## Achievement Standards {#achievement-standards}
 
-In Year 3, learning in Mathematics builds on each student’s prior learning and experiences. Students engage in a range of approaches to learning and doing mathematics that develop their understanding of and fluency with concepts, procedures and processes by making connections, reasoning, problem-solving and practice. Proficiency in mathematics enables students to respond to familiar and unfamiliar situations by employing mathematical strategies to make informed decisions and solve problems efficiently.
-
-Students further develop proficiency and positive dispositions towards mathematics and its use as they:
-
-*   become increasingly aware of the usefulness of mathematics to model situations and solve practical problems
-*   recognise that mathematics has conventions and language enabling the unambiguous communication of ideas and results
-*   experience the power of being able to manipulate numbers using a range of strategies that are based on proficiency with single-digit addition facts and their understanding of place value in the base-10 number system, partitioning and regrouping
-*   begin to apply their understanding of algorithms and technology to experiment with numbers and recognise patterns
-*   develop, extend and apply their addition and multiplication facts and related facts for subtraction and division through recognising connections between operations and develop automaticity for 3, 4, 5, and 10 multiplication facts through games and meaningful practice
-*   learn to formulate, choose and use calculation strategies, communicating their solutions within a modelling context
-*   use metric units to measure and compare objects and events
-*   recognise the relationship between dollars and cents and learn to represent money values in different ways
-*   determine key features of objects and spaces, and use these when they build models and spatial representations
-*   undertake, with guidance, statistical investigations that are meaningful to them, making decisions about their use and representation of categorical and discrete numerical data and reporting findings
-*   develop a qualitative understanding of chance and use the language of chance to describe and compare the outcomes of familiar chance events
-*   become increasingly able to understand that different outcomes can be the results of random processes.
+By the end of Year 3, students order and represent natural numbers beyond 10 000. They partition, rearrange and regroup two- and three-digit numbers in different ways to assist in calculations. Students extend and use single-digit addition and related subtraction facts and apply additive strategies to model and solve problems involving two- and three-digit numbers. They use mathematical modelling  to solve practical problems involving single-digit multiplication and division, recalling multiplication facts for twos, threes, fours, fives and tens, and using a range of strategies. Students represent unit fractions and their multiples in different ways. They make estimates and determine the reasonableness of financial and other calculations. Students find unknown values in number sentences involving addition and subtraction. They create algorithms to investigate numbers and explore simple patterns.
+Students use familiar metric units when estimating, comparing and measuring the attributes of objects and events. They identify angles as measures of turn and compare them to right angles. Students estimate and compare measures of duration using formal units of time. They represent money values in different ways. Students make, compare and classify objects using key features. They interpret and create two-dimensional representations of familiar environments.
+Students conduct guided statistical investigations involving categorical and discrete numerical data and interpret their results in terms of the context. They record, represent and compare data they have collected. Students use practical activities, observation or experiment to identify and describe outcomes and the likelihood of everyday events explaining reasoning. They conduct repeated chance experiments and discuss variation in results.

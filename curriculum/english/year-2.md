@@ -287,8 +287,5 @@ build morphemic word families using knowledge of prefixes and suffixes
 ## Achievement Standards {#achievement-standards}
 
 By the end of Year 2, students interact with others, and listen to and create spoken texts including stories. They share ideas, topic knowledge and appreciation of texts when they recount, inform or express an opinion, including details from learnt topics, topics of interest or texts. They organise and link ideas, and use language features including topic-specific vocabulary and features of voice.
-
 They read, view and comprehend texts, identifying literal and inferred meaning, and how ideas are presented through characters and events. They describe how similar topics and information are presented through the structure of narrative and informative texts, and identify their language features and visual features. They use phonic and morphemic knowledge, and grammatical patterns to read unfamiliar words and most high-frequency words. They use punctuation for phrasing and fluency.
-
 They create written and/or multimodal texts including stories to inform, express an opinion, adapt an idea or narrate for audiences. They use text structures to organise and link ideas for a purpose. They punctuate simple and compound sentences. They use topic-specific vocabulary. They write words using consistently legible unjoined letters. They spell words with regular spelling patterns, and use phonic and morphemic knowledge to attempt to spell words with less common patterns.
-

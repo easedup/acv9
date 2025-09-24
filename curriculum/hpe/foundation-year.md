@@ -143,16 +143,4 @@ follow rules to promote fair play in a range of physical activities
 
 ## Achievement Standards {#achievement-standards}
 
-The Foundation curriculum builds on the Early Years Learning Framework and each student's prior learning and experiences. In the early years, priority is given to the development of movement skills, participation in physical activity, and development of safe and healthy personal practices.
-
-Students learn through exploration and play, investigating where health and movement concepts exist in their lives. They continue to develop an understanding of identity and wellbeing, and how they connect and contribute to their world and the world of others.
-
-Students take increasing responsibility for their own health and physical wellbeing. They strengthen dispositions for learning including curiosity, confidence, cooperation, experimentation and investigation.
-
-Students strengthen their communication skills by exploring and applying strategies to interact respectfully with others. They develop an increasing understanding of emotions, fairness, diversity and health messages to keep themselves and others healthy and safe.
-
-Through the continued development of fine and gross skills, object manipulation skills and spatial awareness, students gain a stronger sense of movement competence, appreciate the personal benefits of being physically active and develop increasing confidence to participate in range of physical activities.
-
-In the Foundation Year, students practise and develop locomotor and non-locomotor skills, including balancing, running and jumping, and object control skills, including rolling, propelling, bouncing, throwing, catching and kicking a range of different objects.
-
-Through participation in active play, small group games and minor games, students explore ways to move safely and investigate why and how following rules promotes fair play.
+By the end of Foundation, students describe similarities and differences between themselves and others, and different emotions people experience. They demonstrate personal and social skills to interact respectfully with others. They identify and demonstrate protective behaviours and help-seeking strategies to keep themselves safe. Students identify how health information can be used in their lives. Students apply fundamental movement skills to manipulate objects and space in a range of movement situations. Students identify the benefits of being physically active and how rules make play fair and inclusive.

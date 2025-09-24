@@ -87,7 +87,10 @@ share dance sequences in informal settings
 
 ## Achievement Standards {#achievement-standards}
 
+### Learning area achievement standard {#learning-area-achievement-standard}
+By the end of Year 2, students identify where they experience the arts. They describe where, why and/or how people across cultures, communities and/or other contexts experience the arts.
+Students demonstrate arts practices and skills across arts subjects. They create arts works in a range of forms. They share their work in informal settings.
+
+### Subject achievement standard {#subject-achievement-standard}
 By the end of Year 2, students identify where they experience dance. They describe where, why and/or how people across cultures, communities and/or other contexts experience dance.
-
 Students use the elements of dance to structure dance sequences. They demonstrate fundamental movement skills and safe dance practice. They perform their dance in informal settings.
-

@@ -86,7 +86,9 @@ practise and perform dances using technical and expressive skills in informal 
 
 ## Achievement Standards {#achievement-standards}
 
-By the end of Year 6, students explain how the elements of dance are used in dance that they choreograph, perform and/or experience. They describe how dance from across cultures, times, places and/or other contexts communicates ideas, perspectives and/or meaning. They describe how dance is used to continue and revitalise cultures.
+### Learning area achievement standard {#learning-area-achievement-standard}
+By the end of Year 6, students explain the use of elements, concepts and/or conventions in arts works they create and/or experience. They describe how the arts communicate ideas, perspectives and/or meaning across cultures, times, places and/or other contexts. They describe how the arts are used to continue and revitalise cultures.
+Students use subject-specific knowledge, elements, concepts, conventions, materials, skills and/or processes to create arts works that communicate ideas, perspectives and/or meaning. They demonstrate safe practices. They present and perform their arts works in formal and/or informal settings.
 
-Students use the elements of dance and/or choreographic devices to choreograph dances that communicate ideas, perspectives and/or meaning. They demonstrate safe dance practice and use of technical, and expressive skills. They perform dances in informal and/or formal settings.
-
+### Subject achievement standard {#subject-achievement-standard}
+By the end of Year 6, students explain how the elements of dance are used in dance that they choreograph, perform and/or experience. They describe how dance from across cultures, times, places and/or other contexts communicates ideas, perspectives and/or meaning. They describe how dance is used to continue and revitalise cultures.Students use the elements of dance and/or choreographic devices to choreograph dances that communicate ideas, perspectives and/or meaning. They demonstrate safe dance practice and use of technical, and expressive skills. They perform dances in informal and/or formal settings.

@@ -160,6 +160,4 @@ write and create texts to communicate observations, findings and ideas, using ev
 ## Achievement Standards {#achievement-standards}
 
 By the end of Year 1 students identify how living things meet their needs in the places they live. They identify daily and seasonal changes and describe ways these changes affect their everyday life. They describe how different pushes and pulls change the motion and shape of objects. They describe situations where they use science in their daily lives and identify examples of people making scientific predictions.
-
 Students pose questions to explore observations and make predictions based on experiences. They follow safe procedures to make and record observations. They use provided tables and organisers to sort and order data and information and, with guidance, represent patterns. With guidance, they compare observations with predictions and identify further questions. They use everyday vocabulary to communicate observations, findings and ideas.
-

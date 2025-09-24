@@ -90,7 +90,9 @@ share their drama in informal settings
 
 ## Achievement Standards {#achievement-standards}
 
-By the end of Year 2, students identify where they experience drama. They describe where, why and/or how people across cultures, communities and/or other contexts experience drama.
+### Learning area achievement standard {#learning-area-achievement-standard}
+By the end of Year 2, students identify where they experience the arts. They describe where, why and/or how people across cultures, communities and/or other contexts experience the arts.
+Students demonstrate arts practices and skills across arts subjects. They create arts works in a range of forms. They share their work in informal settings.
 
- Students pretend and imagine as they create roles and situations in improvised drama and/or dramatic play. They perform their drama in informal settings.
-
+### Subject achievement standard {#subject-achievement-standard}
+By the end of Year 2, students identify where they experience drama. They describe where, why and/or how people across cultures, communities and/or other contexts experience drama. Students pretend and imagine as they create roles and situations in improvised drama and/or dramatic play. They perform their drama in informal settings.

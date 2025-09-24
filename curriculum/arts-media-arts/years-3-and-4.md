@@ -89,7 +89,10 @@ share media arts works in informal settings considering responsible media practi
 
 ## Achievement Standards {#achievement-standards}
 
+### Learning area achievement standard {#learning-area-achievement-standard}
+By the end of Year 4, students describe use of elements, concepts and/or conventions in arts works they create and/or experience. They describe where, why and/or how arts works are created and presented across cultures, times, places, and/or other contexts.
+Students use arts knowledge and skills to create arts works in a range of forms that communicate ideas, perspectives and/or meaning. They present and/or perform their work in informal settings.
+
+### Subject achievement standard {#subject-achievement-standard}
 By the end of Year 4, students describe the use of media languages and media technologies to construct representations in media arts works they experience and/or produce. They describe where, why and/or how media arts works are created and/or distributed across cultures, times, places, and/or other contexts.
-
 Students use media languages, and media technologies and production processes to construct representations in media arts works. They share their work in informal settings using responsible media practice.
-

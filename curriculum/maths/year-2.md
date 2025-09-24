@@ -219,18 +219,6 @@ create different graphical representations of data using software where appropri
 
 ## Achievement Standards {#achievement-standards}
 
-In Year 2, learning in Mathematics builds on each student's prior learning and experiences. Students engage in a range of approaches to learning and doing mathematics that develop their understanding of and fluency with concepts, procedures and processes by making connections, reasoning, problem-solving and practice. Proficiency in mathematics enables students to respond to familiar and unfamiliar situations by employing mathematical strategies to make informed decisions and solve problems efficiently.
-
-Students further develop proficiency with positive dispositions towards mathematics and its use as they:
-
-*   recognise that mathematics can be used to investigate things they are curious about, to solve practical problems and model everyday situations, describing their thinking and reasoning using familiar mathematical language
-*   partition and combine numbers flexibly, recognising and describing the relationship between addition and subtraction and employing part-part-whole reasoning and relational thinking to solve additive problems
-*   use number sentences to formulate additive situations and represent simple multiplicative situations using equal groups and arrays
-*   use mathematical modelling to solve practical problems involving authentic situations by representing problems with physical and virtual materials, diagrams, and using different calculation strategies to find solutions
-*   compare and contrast related operations and use known addition and subtraction facts to develop strategies for unfamiliar calculations
-*   recognise types of patterns in different contexts
-*   partition collections, shapes and objects into equal parts and build a sense of fractions as a measure, connecting this to measures of turn and representations of time
-*   use uniform units to measure, compare and discuss the attributes of shapes and objects, and the duration of events
-*   describe spatial relationships such as the relative position of objects represented within a two-dimensional space
-*   build the foundations for statistical inquiry by choosing questions based on their interests as they collect, represent, and interpret data, and recognise features of different representations
-*   develop a sense of equivalence, chance and variability when they engage in play-based and practical activities
+By the end of Year 2, students order and represent numbers to at least 1000, apply knowledge of place value to partition, rearrange and rename two- and three-digit numbers in terms of their parts, and regroup partitioned numbers to assist in calculations. They use mathematical modelling to solve practical additive and multiplicative problems, including money transactions, representing the situation and choosing calculation strategies. Students identify and represent part-whole relationships of halves, quarters and eighths in measurement contexts. They describe and continue patterns that increase and decrease additively by a constant amount and identify missing elements in the pattern. Students recall and demonstrate proficiency with addition and subtraction facts within 20 and multiplication facts for twos.
+They use uniform informal units to measure and compare shapes and objects. Students determine the number of days between events using a calendar and read time on an analog clock to the hour, half hour and quarter hour. They compare and classify shapes, describing features using formal spatial terms. Students locate and identify positions of features in two-dimensional representations and move position by following directions and pathways.
+They use a range of methods to collect, record, represent and interpret categorical data in response to questions.

@@ -232,14 +232,4 @@ participate positively in groups and teams by contributing to group activities, 
 
 ## Achievement Standards {#achievement-standards}
 
-The Years 5–6 curriculum builds on each student’s prior learning. During this time, students are taking more responsibility for their own health, physical activity and personal safety.
-
-Students develop optimistic habits in the way they look at themselves, their world and their perception of what the future holds for them. They understand the important role persistence and resilience play in maintaining confidence and commitment to complete tasks.
-
-Most students will be experiencing the physical, emotional and social changes associated with puberty during these years. The content supports learning about these changes and positive ways to manage these transitions. Students also learn about their own unique qualities and explore ways in which people define their own identities and value the diversity within their community.
-
-Students are becoming more conscious of external influences on their attitudes, beliefs and behaviours. They explore how their choices and behaviours influence their health and wellbeing.
-
-Students have frequent opportunities to apply and transfer the movement skills and strategies they have learnt and refined previously into a range of new movement situations. Students explore ways they can actively participate in a range of physical activity settings and contribute to building a healthier community.
-
-Students begin to explore more complex movement concepts and promote safe, equitable and fair participation for all. Students further develop and refine a range of communication and conflict resolution skills and processes, enabling them to interact appropriately and respectfully with others in a range of different movement and social situations.
+By the end of Year 6, students explain how different factors influence identities. They propose strategies to manage emotions, developmental changes and transitions. They propose strategies to demonstrate respect, empathy and inclusion. They explain how stereotypes influence roles and responsibilities. Students explain how communication skills, protective behaviours and help-seeking strategies keep themselves and others safe online and offline. They analyse health information to refine strategies to enhance their own and others’ health, safety, relationships and wellbeing. Students refine and modify movement skills and apply movement concepts across a range of situations. They transfer movement strategies between situations and evaluate the impact on movement outcomes. Students propose strategies to promote physical activity participation that enhance health, fitness and wellbeing. They describe contributions they can make as a group and team member to support fair play and inclusion across a range of movement contexts.

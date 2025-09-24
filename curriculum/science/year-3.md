@@ -185,6 +185,4 @@ write and create texts to communicate findings and ideas for identified purposes
 ## Achievement Standards {#achievement-standards}
 
 By the end of Year 3 students classify and compare living and non-living things and different life cycles. They describe the observable properties of soils, rocks and minerals and describe their importance as resources. They identify sources of heat energy and examples of heat transfer and explain changes in the temperature of objects. They classify solids and liquids based on observable properties and describe how to cause a change of state. They describe how people use data to develop explanations. They identify solutions that use scientific explanations.
-
 Students pose questions to explore patterns and relationships and make predictions based on observations. They use scaffolds to plan safe investigations and fair tests. They use familiar classroom instruments to make measurements. They organise data and information using provided scaffolds and identify patterns and relationships. They compare their findings with those of others, explain how they kept their investigation fair, identify further questions and draw conclusions. They communicate ideas and findings for an identified purpose, including using scientific vocabulary when appropriate.
-

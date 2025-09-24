@@ -185,14 +185,5 @@ represent collected data for a categorical variable using one-to-one displays an
 
 ## Achievement Standards {#achievement-standards}
 
-In Year 1, learning in Mathematics builds on each student’s prior learning and experiences. Students engage in a range of approaches to learning and doing mathematics that develop their understanding of and fluency with concepts, procedures and processes by making connections, reasoning, problem-solving and practice. Proficiency in mathematics enables students to respond to familiar and unfamiliar situations by employing mathematical strategies to make informed decisions and solve problems efficiently.
-
-Students further develop proficiency and positive dispositions towards mathematics and its use as they:
-
-*   use their curiosity and imagination to explore situations, recognise patterns in their environment and choose ways of representing their thinking when communicating with others
-*   demonstrate that numbers can be represented, partitioned and composed in various ways, recognise patterns in numbers and extend their knowledge of numbers beyond 2 digits
-*   use physical or virtual materials and diagrams when modelling practical problems through active learning experiences, recognise existing patterns, employ different strategies and discuss the reasonableness of answers
-*   explain ways of making direct and indirect comparisons and begin to use uniform, informal units to measure some attributes
-*   reason spatially and use spatial features to classify shapes and objects; they recognise these shapes and objects in their environment and use simple transformations, directions and pathways to move the positions of shapes and objects within a space
-*   use simple surveys to collect and sort data, based on a question of interest, recognise that data can be represented in different ways, and explain patterns that they see in the results
-*   develop a sense of equivalence, fairness, repetition and variability when they engage in play-based and practical activities
+By the end of Year 1, students connect number names, numerals and quantities, and order numbers to at least 120. They demonstrate how one- and two-digit numbers can be partitioned in different ways and that two-digit numbers can be partitioned into tens and ones. Students partition collections into equal groups and skip count in twos, fives or tens to quantify collections to at least 120. They solve problems involving addition and subtraction of numbers to 20 and use mathematical modelling to solve practical problems involving addition, subtraction, equal sharing and grouping, using calculation strategies. Students use numbers, symbols and objects to create skip counting and repeating patterns, identifying the repeating unit.They compare and order objects and events based on the attributes of length, mass, capacity and duration, communicating reasoning. Students measure the length of shapes and objects using uniform informal units. They make, compare and classify shapes and objects using obvious features. Students give and follow directions to move people and objects within a space.
+They collect and record categorical data, create one-to-one displays, and compare and discuss the data using frequencies.

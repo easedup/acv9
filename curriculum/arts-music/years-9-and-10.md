@@ -106,19 +106,5 @@ rehearse and present planned performances of music they have learnt and/or compo
 
 ## Achievement Standards {#achievement-standards}
 
-In this band, learning in Music continues to build on each student’s prior learning and experiences as students develop their capability and confidence across the practices of Music: listening, composing and performing. They continue to use music knowledge and skills in purposeful and creative ways that are informed by their engagement with the work of living composers and performers from local, regional, national and global contexts such as countries or regions in Asia, including use of music in multi-arts, trans-disciplinary or hybrid forms. This awareness of diverse music practices, genres and/or styles informs their own music practices. They work collaboratively with peers and teachers.
-
-In this band, the focus is on students:
-
-1.  exploring and responding to
-
-*   music and music practices and contexts from a range of cultures, times and places; for example, through listening and evaluating their own music practices or analysing performances and compositions created or presented by others
-*   ways in which music created and/or performed by First Nations Australians celebrates and challenges multiple perspectives of Australian identity
-
-3.  developing practices and skills
-
-*   building and extending creative practices for listening, including aural skills, vocal and/or instrumental performance, and composition in music genres and/or styles of interest, interpreting and manipulating the elements of music: duration/time (for example, beat and rhythm, tempo, pulse, simple/compound metre, syncopation), pitch, dynamics and expression, form and structure, timbre and texture
-*   building and extending critical practices by taking opportunities to reflect, evaluate or respond to their own work and/or the work of others; for example, considering how to apply knowledge of music genres/styles or structures in compositions, developing interpretations of music composed by others or evaluating their own performances
-
-5.  composing in genres/forms such as songwriting, solo and/or ensemble instrumental music, music production, arranging or re-imagining, and developing interpretations of solo and/or ensemble music works for performance, using aural skills and/or available digital tools as appropriate
-6.  presenting performances to audiences; for example, for a specific target audience.
+By the end of Year 10, students analyse ways composers and/or performers use the elements of music and compositional devices to engage audiences. They evaluate how music and/or performances in a range of styles and/or from across cultures, times, places and/or other contexts communicate ideas, perspectives and/or meaning. They evaluate how music is used to celebrate and challenge perspectives of Australian identity.
+Students demonstrate listening and aural skills relevant to the styles and/or contexts in which they are working. Students manipulate elements of music and use compositional devices to communicate ideas, perspectives and/or meaning in compositions in selected style/s, form/s and/or using selected instrumentation. They notate, document and/or record their music. They apply knowledge of styles and/or forms when performing their own and/or others’ music. They demonstrate appropriate vocal and/or instrumental techniques and performance skills when performing music for audiences.

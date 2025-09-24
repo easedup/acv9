@@ -192,6 +192,4 @@ present descriptions and explanations, drawing ideas, findings and viewpoints fr
 ## Achievement Standards {#achievement-standards}
 
 By the end of Year 6, students explain the roles of significant people, events and ideas that led to Australian Federation, democracy and citizenship. They explain the causes and effects of migration to Australia since Federation. They explain the geographical diversity of places and the effects of interconnections with other countries. Students explain the key institutions, roles and responsibilities of Australia’s levels of government, and democratic values and beliefs. They explain influences on consumers and strategies for informed consumer and financial choices.
-
 Students develop questions, and locate, collect and organise information and data from a range of primary and secondary sources. They evaluate sources to determine origin, purpose and perspectives. Students evaluate a range of information and data formats to identify and describe patterns, trends or inferred relationships. They evaluate evidence to draw conclusions. Students propose actions or responses and use criteria to assess the possible effects. Students select and organise ideas and findings from sources, and use a range of relevant terms and conventions, to present descriptions and explanations.
-

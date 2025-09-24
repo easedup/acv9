@@ -116,6 +116,4 @@ curate and present examples of their visual arts practice to accompany exhibits 
 ## Achievement Standards {#achievement-standards}
 
 By the end of Year 8, students analyse how visual conventions, visual arts processes and materials are manipulated in artworks they create and/or experience. They evaluate the ways that visual artists across cultures, times, places and/or other contexts communicate ideas, perspectives and/or meaning through their visual arts practice. They describe respectful approaches to creating and/or responding to artworks.
-
 Students generate, document and develop ideas for artworks. They reflect on their visual arts practice. They select and manipulate visual conventions, visual arts processes and/or materials to create artworks that represent ideas, perspectives and/or meaning. They curate and present exhibits and/or displays of their own and/or others’ artworks and/or visual arts practice for audiences.
-

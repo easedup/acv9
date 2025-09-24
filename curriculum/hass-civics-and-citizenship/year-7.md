@@ -134,6 +134,4 @@ create descriptions, explanations and arguments using civics and citizenship kno
 ## Achievement Standards {#achievement-standards}
 
 By the end of Year 7, students describe the key features of Australia's system of government, and the principles and features of the Australian legal system. They explain the characteristics of Australian democracy. Students describe the nature of Australian society, its cultural and religious diversity, and identify the values that support cohesion in Australian society.
-
 Students develop questions and locate, select and organise information from sources to investigate political and legal systems, and contemporary civic issues. They analyse information and identify perspectives and challenges related to political, legal or civic issues. They identify and describe the methods or strategies related to civic participation or action. Students use civics and citizenship concepts, terms and sources to create descriptions, explanations and arguments.
-

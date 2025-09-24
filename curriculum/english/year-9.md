@@ -234,8 +234,5 @@ understand how spelling is used in texts for particular effects; for example, ch
 ## Achievement Standards {#achievement-standards}
 
 By the end of Year 9, students interact with others, and listen to and create spoken and multimodal texts including literary texts. With a range of purposes and for audiences, they discuss and expand on ideas, shaping meaning and providing substantiation. They select and experiment with text structures to organise and develop ideas. They select and experiment with language features including literary devices, and experiment with multimodal features and features of voice.
-
 They read, view and comprehend a range of texts created to inform, influence and/or engage audiences. They analyse representations of people, places, events and concepts, and how texts respond to contexts. They analyse the aesthetic qualities of texts. They analyse the effects of text structures, and language features including literary devices, intertextual references, and multimodal features.
-
 They create written and multimodal texts, including literary texts, for a range of purposes and audiences, expressing and expanding ideas, shaping meaning and providing substantiation. They select and experiment with text structures to organise, develop and link ideas. They select and experiment with language features including literary devices, and experiment with multimodal features.
-

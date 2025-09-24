@@ -106,19 +106,5 @@ perform improvised, devised and/or scripted drama to audiences, using performanc
 
 ## Achievement Standards {#achievement-standards}
 
-In this band, learning in Drama continues to build on each student’s prior learning and experiences as students develop their capability and confidence across the practices of Drama: creating, performing and responding. They continue to use drama processes in purposeful and creative ways that are informed by their engagement with the work of living performers and drama-makers from across local, regional, national and global contexts, such as countries or regions in Asia, including use of drama in multi-arts, trans-disciplinary and/or hybrid forms. This awareness of diverse drama practices, genres and/or styles informs their own drama practice. They work collaboratively with peers and teachers.
-
-In this band, the focus is on students:
-
-1.  exploring and responding to
-
-*   drama works, performances, practices and contexts from a range of cultures, times and places; for example through analysis of their own drama or the work of others, including professional work
-*   ways in which drama created and/or performed by First Nations Australians celebrates and challenges multiple perspectives of Australian identity
-
-3.  developing practices and skills
-
-*   building and extending creative practices for creating and performing drama using the elements of drama: role, situation, language, place, movement, time, character, relationships, voice, tension, space, mood/atmosphere, contrast, symbol, focus and conventions relevant to selected forms and/or styles
-*   building and extending critical practices by taking opportunities to reflect on, evaluate or respond to their own work and the work of others; for example, documenting ideas and intentions for script interpretations, analysing their own and others’ use of elements of drama, and evaluating their own performances
-
-5.  creating drama in improvised, devised and scripted forms such as process drama, puppetry, object theatre, short- or long-form improvisation, play building and devising, scripted drama/script interpretation; for example, interpretation of realism and non-realism, exploration of historic, contemporary and/or hybrid styles
-6.  presenting and performing drama in informal and/or formal settings; for example, using acting skills and working in an ensemble to perform drama for familiar and unfamiliar audiences.
+By the end of Year 10, students analyse how and why the elements of drama, performance skills and/or conventions are manipulated in drama they create, perform and/or experience. They evaluate how drama in a range of styles and/or from a range of contexts communicates ideas, perspectives and/or meaning. They evaluate how drama is used to celebrate and challenge perspectives of Australian identity.
+Students work individually and/or collaboratively to shape and manipulate use of the elements of drama, conventions and/or dramatic structures to communicate ideas, perspectives and/or meaning. They use performance skills relevant to style and/or form to sustain belief, roles and characters in performances of improvised, devised and/or scripted drama for audiences.

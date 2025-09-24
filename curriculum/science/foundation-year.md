@@ -143,6 +143,4 @@ share questions, predictions, observations and ideas with others
 ## Achievement Standards {#achievement-standards}
 
 By the end of Foundation students group plants and animals based on external features. They identify factors that influence the movement of objects. They describe the observable properties of the materials that make up objects. They identify examples of people using observation and questioning to learn about the natural world.
-
 Students pose questions and make predictions based on their experiences. They engage in investigations and make observations safely. With guidance, they represent observations and identify patterns. With guidance, they compare their observations with their predictions. They share questions, predictions, observations and ideas about their experiences with others.
-

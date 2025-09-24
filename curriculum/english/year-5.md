@@ -257,8 +257,5 @@ explore less common plurals, and understand how a suffix changes the meaning or 
 ## Achievement Standards {#achievement-standards}
 
 By the end of Year 5, students interact with others, and listen to and create spoken and/or multimodal texts including literary texts. For particular purposes and audiences, they share, develop and expand on ideas and opinions, using supporting details from topics or texts. They use different text structures to organise, develop and link ideas. They use language features including topic-specific vocabulary and literary devices, and/or multimodal features and features of voice.
-
 They read, view and comprehend texts created to inform, influence and/or engage audiences. They explain how ideas are developed including through characters, settings and/or events, and how texts reflect contexts. They explain how characteristic text structures support the purpose of texts. They explain how language features including literary devices, and visual features contribute to the effect and meaning of a text.
-
 They create written and/or multimodal texts, including literary texts, for particular purposes and audiences, developing and expanding on ideas with supporting details from topics or texts. They use paragraphs to organise, develop and link ideas. They use language features including complex sentences, tenses, topic-specific vocabulary and literary devices, and/or multimodal features. They spell using phonic, morphemic and grammatical knowledge.
-

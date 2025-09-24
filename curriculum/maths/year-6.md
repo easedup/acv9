@@ -283,18 +283,6 @@ conduct repeated chance experiments and run simulations with an increasing n
 
 ## Achievement Standards {#achievement-standards}
 
-In Year 6, learning in Mathematics builds on each student’s prior learning and experiences. Students engage in a range of approaches to learning and doing mathematics that develop their understanding of and fluency with concepts, procedures and processes by making connections, reasoning, problem-solving and practice. Proficiency in mathematics enables students to respond to familiar and unfamiliar situations by employing mathematical strategies to make informed decisions and solve problems efficiently.
-
-Students further develop proficiency and positive dispositions towards mathematics and its use as they:
-
-*   expand the repertoire of numbers they work with to include rational numbers and the use of integers in practical contexts such as locating points in the 4 quadrants of a Cartesian plane
-*   extend their knowledge of factors and multiples to understand the properties of prime, composite and square numbers
-*   solve arithmetic problems involving all 4 operations with natural numbers of any size
-*   use mathematical modelling to solve practical problems, choosing models, representations and calculation strategies and justify solutions
-*   apply computational approaches to develop algorithms that use rules to generate numbers
-*   develop a range of written and digital means for representing objects and three-dimensional spaces in 2 dimensions
-*   apply their understanding of area and use multiplicative thinking to establish the formula for the areas of a rectangle
-*   begin to formally use deductive reasoning in spatial contexts involving lines and angles
-*   describe and compare probabilities numerically
-*   determine the mode and range and discuss the shape of distributions in their reports of findings from their statistical investigations
-*   observe and compare long-run frequencies in repeated chance experiments and simulations
+By the end of Year 6, students use integers to represent points on a number line and in the Cartesian plane. They solve problems using the properties of prime, composite and square numbers. Students order common fractions, giving reasons, and add and subtract fractions with related denominators. They use all 4 operations with decimals and connect decimal representations of measurements to the metric system. Students solve problems involving finding a fraction, decimal or percentage of a quantity and use estimation to find approximate solutions to problems involving rational numbers and percentages. They use mathematical modelling to solve financial and other practical problems involving percentages and rational numbers, formulating and solving the problem, and justifying choices. Students find unknown values in numerical equations involving combinations of arithmetic operations. They identify and explain rules used to create growing patterns. Students create and use algorithms to generate sets of numbers, using a rule.
+They interpret and use timetables. Students convert between common units of length, mass and capacity. They use the formula for the area of a rectangle and angle properties to solve problems. Students identify the parallel cross-section for right prisms. They create tessellating patterns using combinations of transformations. Students locate an ordered pair in any one of the 4 quadrants on the Cartesian plane.
+They compare distributions of discrete and continuous numerical and ordinal categorical data sets as part of their statistical investigations, using digital tools. Students critique arguments presented in the media based on statistics. They assign probabilities using common fractions, decimal and percentages. Students conduct simulations using digital tools, to generate and record the outcomes from many trials of a chance experiment. They compare observed frequencies to the expected frequencies of the outcomes of chance experiments.

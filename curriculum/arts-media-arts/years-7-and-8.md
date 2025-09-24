@@ -117,7 +117,4 @@ present media arts works, using responsible media practices and considering pote
 
 ## Achievement Standards {#achievement-standards}
 
-By the end of year 8, students analyse the use of media arts concepts to construct representations that communicate ideas, perspectives and/or meaning in media arts works they produce and/or experience. They evaluate use of media arts concepts in media arts works from across cultures, times, places and/or other contexts. They describe respectful approaches to creating and/or responding to media arts works.
-
- Students select and manipulate media languages, media technologies and use production processes to construct representations. They create media arts works that communicate ideas, perspectives and/or meanings. They present their work to an audience. They plan where and how they could distribute their work using responsible media practice.
-
+By the end of year 8, students analyse the use of media arts concepts to construct representations that communicate ideas, perspectives and/or meaning in media arts works they produce and/or experience. They evaluate use of media arts concepts in media arts works from across cultures, times, places and/or other contexts. They describe respectful approaches to creating and/or responding to media arts works. Students select and manipulate media languages, media technologies and use production processes to construct representations. They create media arts works that communicate ideas, perspectives and/or meanings. They present their work to an audience. They plan where and how they could distribute their work using responsible media practice.

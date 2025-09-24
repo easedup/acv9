@@ -232,14 +232,4 @@ practise and apply leadership, collaboration and group decision-making processes
 
 ## Achievement Standards {#achievement-standards}
 
-The Years 7–8 curriculum builds on each student’s prior learning. During this time, a major influence on students is the world around them, and their peers become a key source of motivation and support when managing their health and wellbeing.
-
-Students reflect on factors that influence their perception of themselves and their capacity to be resilient. Students explore behavioural expectations for different social situations. They develop the knowledge, understanding and skills to recognise instances of disrespect, discrimination, harassment and violence, and to act assertively to support their own rights and feelings and those of others.
-
-Students investigate a range of health issues relevant to young people to understand the choices people make about their health and wellbeing. They examine the factors that can influence an individual’s choices, and explore and evaluate options, consequences, and healthier and safer alternatives. Students continue to refine their health literacy skills as well as their understanding of the sources of support available, to seek early help when they or people around them need it.
-
-In these years, Health and Physical Education plays an important role in maintaining physical activity participation, through opportunities for skill development in a variety of movement forms that enhance performance and competence, as well as providing enjoyment and a sense of achievement.
-
-Students practise and apply more complex combinations of skills and strategies in a range of movement situations and settings. They explore the range of factors and movement concepts that influence the quality of movement performances. They practise techniques that can be used to enhance their own and others’ performances.
-
-Students have opportunities to practise using creative and collaborative processes to work in a group or team to communicate effectively, solve problems, resolve conflicts, and make decisions in movement and social contexts.
+By the end of Year 8, students analyse factors that influence identities, emotions and responses to change, and describe strategies to respond to these influences. They analyse how stereotypes, respect, empathy and valuing diversity influence relationships. Students analyse the effectiveness of assertive communication strategies, protective behaviours and help-seeking strategies applied online and offline. They analyse health information and messages to propose strategies that enhance their own and others’ health, safety, relationships and wellbeing. Students apply and transfer movement skills and movement concepts across a range of situations. They implement and evaluate the effectiveness of movement strategies on movement outcomes. Students propose and evaluate strategies designed to achieve personal health, fitness and wellbeing outcomes. They select, use and refine strategies to support inclusion, fair play and collaboration across a range of movement contexts.

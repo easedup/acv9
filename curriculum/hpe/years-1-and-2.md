@@ -153,16 +153,4 @@ apply strategies to work collaboratively when participating in physical activiti
 
 ## Achievement Standards {#achievement-standards}
 
-The Years 1­–2 curriculum builds on each student’s prior learning. In the early years, priority is given to the development of movement skills, participation in physical activity, and development of safe and healthy personal practices.
-
-Through exploration and play, students investigate how health and movement concepts exist and impact their lives and the lives of others. They strengthen dispositions for learning including curiosity, confidence, cooperation, investigation and transfer.
-
-Students explore personal qualities and factors that contribute to and influence identities, and understand the importance of assertive behaviour to ensure interactions with others are respectful and safe. As these relationships are formed, students develop an understanding of reciprocal rights and responsibilities, and the ability to see things from other people's viewpoints.
-
-Students strengthen their communication skills by identifying and applying strategies to interact respectfully with others and develop a deeper understanding of how emotions, fairness, diversity and health messages contribute to keeping themselves and others healthy and safe.
-
-Through the continued development of fundamental skills, students participate in a range of different physical activities to explore the benefits of each and what they enjoy about them.
-
-Students are supported in increasing the range and complexity of their fundamental movement skills. They refine and extend skills learnt in Foundation to include locomotor skills such as rolling, leaping, skipping, galloping and dodging, and object control skills such as striking and kicking objects from the ground or moving towards them.
-
-Through participation in active play, small group games and minor games, students apply different ways to move safely, and investigate how to select and apply fundamental movement skills individually, in groups and in teams in a range of movement situations.
+By the end of Year 2, students explain how personal qualities contribute to identities. They describe how emotional responses affect their own and others' feelings. They demonstrate skills and describe strategies required to develop respectful relationships. Students apply protective behaviours and help-seeking strategies to keep themselves and others safe. They explain why health information is important for making choices. Students apply fundamental movement skills in different movement situations and explain how they move with objects and in space effectively. They describe factors that make physical activity beneficial. Students develop and apply rules while collaborating with others in a range of movement contexts.

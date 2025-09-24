@@ -142,6 +142,4 @@ create descriptions, explanations and arguments using civics and citizenship kno
 ## Achievement Standards {#achievement-standards}
 
 By the end of Year 8, students explain how Australians are informed about and participate in their democracy. They describe the roles of political parties and elected representatives in Australian government. They explain the characteristics of laws, how laws are made and the types of law in Australia. Students identify ways in which Australians express different aspects of their identity and explain perspectives on Australia’s national identity.
-
 Students develop questions and locate, select and organise relevant information from different sources to investigate political and legal systems, and contemporary civic issues. They analyse information and identify and describe perspectives and challenges related to political, legal or civic issues. They explain the methods or strategies related to civic participation or action. Students use civics and citizenship knowledge, concepts, terms and references to evidence from sources to create descriptions, explanations and arguments.
-

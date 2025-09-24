@@ -112,19 +112,5 @@ present media arts works to audiences and plan approaches for creating relations
 
 ## Achievement Standards {#achievement-standards}
 
-In this band, learning in Media Arts continues to build on each student’s prior learning and experiences. Students learn in and through developing understanding and application of the Media Arts concepts: media technologies, representations, audiences, institutions, media languages and relationships. They use production processes in purposeful and creative ways and continue to develop their connection with and contribution to the world as artists and as audiences. They work individually and in collaboration with peers and teachers.
-
-In this band, the focus is on students:
-
-1.  exploring and responding to
-
-*   ways in which media arts works from across cultures, times, places and/or other contexts communicate ideas, perspectives and/or meaning, and the relationships the works create between makers, audiences and/or institutions; for example, through analysis
-*   ways media arts works created and/or distributed by First Nations Australians celebrate and challenges multiple perspectives of Australian identity
-
-3.  developing practices and skills
-
-*   building and extending creative practices for producing media arts using media languages (technical and symbolic codes and conventions) relevant to selected forms, genres and styles, and available technologies
-*   building and extending critical practices by taking opportunities to reflect, evaluate or respond to their own work and/or the work of others; for example, documenting ideas and intentions for media productions, evaluating audience responses to media works (including their own work) or considering relationships
-
-5.  creating (producing) media arts works using production processes in forms such as print, screen/moving image, audio and/or hybrid/trans-disciplinary forms
-6.  presenting/screening/distributing media arts works they have produced to audiences, in informal and/or formal settings; for example, audiences that are known to the students and/or unfamiliar audiences.
+By the end of Year 10, students analyse how and why media arts concepts are manipulated to construct representations in media arts works they produce and/or experience. They evaluate how and why media artists across cultures, times, places and/or other contexts use media arts concepts to represent and/or challenge ideas, perspectives and/or meaning. They evaluate how media arts are used to celebrate and challenge perspectives of Australian identity.
+Students use media arts concepts to construct representations and communicate ideas, perspectives and/or meaning. They use responsible media practice and production processes to create media arts works in a range of genres/styles and/or forms, for specific audiences. They present their work to an audience. They plan where and how they could distribute their work and the relationships they could develop with their audiences, using responsible media practice.
