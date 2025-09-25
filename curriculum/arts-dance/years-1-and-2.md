@@ -88,9 +88,9 @@ share dance sequences in informal settings
 ## Achievement Standards {#achievement-standards}
 
 ### Learning area achievement standard {#learning-area-achievement-standard}
-By the end of Year 2, students identify where they experience the arts. They describe where, why and/or how people across cultures, communities and/or other contexts experience the arts.
-Students demonstrate arts practices and skills across arts subjects. They create arts works in a range of forms. They share their work in informal settings.
+[By the end of Year 2, students identify where they experience the arts.](?code=AC9ADA2E01&code=ac9adafp01#strands) [They describe where, why and/or how people across cultures, communities and/or other contexts experience the arts.](?code=AC9ADA2E01&code=AC9ADA2E02#strands)
+[Students demonstrate arts practices and skills across arts subjects.](?code=AC9ADA2D01&code=AC9ADA2C01&code=AC9ADA2P01#strands) [They create arts works in a range of forms.](?code=AC9ADA2D01&code=AC9ADA2C01#strands) [They share their work in informal settings.](?code=AC9ADA2P01#strands)
 
 ### Subject achievement standard {#subject-achievement-standard}
-By the end of Year 2, students identify where they experience dance. They describe where, why and/or how people across cultures, communities and/or other contexts experience dance.
-Students use the elements of dance to structure dance sequences. They demonstrate fundamental movement skills and safe dance practice. They perform their dance in informal settings.
+[By the end of Year 2, students identify where they experience dance.](?code=AC9ADA2E01&code=ac9adafp01#strands) [They describe where, why and/or how people across cultures, communities and/or other contexts experience dance.](?code=AC9ADA2E01&code=AC9ADA2E02#strands)
+[Students use the elements of dance to structure dance sequences.](?code=AC9ADA2D01&code=AC9ADA2C01#strands) [They demonstrate fundamental movement skills and safe dance practice.]((?code=AC9ADA2D01&code=AC9ADA2C01&code=AC9ADA2P01#strands)) [They perform their dance in informal settings.](?code=AC9ADA2P01#strands)

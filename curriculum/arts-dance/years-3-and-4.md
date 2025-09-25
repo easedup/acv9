@@ -86,8 +86,9 @@ practise and perform dances in informal settings
 ## Achievement Standards {#achievement-standards}
 
 ### Learning area achievement standard {#learning-area-achievement-standard}
-By the end of Year 4, students describe use of elements, concepts and/or conventions in arts works they create and/or experience. They describe where, why and/or how arts works are created and presented across cultures, times, places, and/or other contexts.
-Students use arts knowledge and skills to create arts works in a range of forms that communicate ideas, perspectives and/or meaning. They present and/or perform their work in informal settings.
+[By the end of Year 4, students describe use of elements, concepts and/or conventions in arts works they create and/or experience.](?code=AC9ADA4E01&code=AC9ADA4D01&code=AC9ADA4C01#strands) [They describe where, why and/or how arts works are created and presented across cultures, times, places, and/or other contexts.](?code=AC9ADA4E01&code=AC9ADA4E02#strands)
+[Students use arts knowledge and skills to create arts works in a range of forms that communicate ideas, perspectives and/or meaning.](?code=AC9ADA4D01&code=AC9ADA4C01&code=AC9ADA4P01#strands) [They present and/or perform their work in informal settings.](?code=AC9ADA4P01#strands)
 
 ### Subject achievement standard {#subject-achievement-standard}
-By the end of Year 4, students describe use of the elements of dance in dance they experience, create and/or perform. They describe where, why and/or how dance is choreographed and/or performed across cultures, times, places and/or other contexts.Students use the elements of dance to structure dance sequences that communicate ideas, perspectives and/or meaning. They demonstrate fundamental movement skills and safe dance practice. They perform their dance in informal settings.
+[By the end of Year 4, students describe use of the elements of dance in dance they experience, create and/or perform.](?code=AC9ADA4E01&code=AC9ADA4D01&code=AC9ADA4C01#strands) [They describe where, why and/or how dance is choreographed and/or performed across cultures, times, places and/or other contexts.](?code=AC9ADA4E01&code=AC9ADA4E02#strands)
+[Students use the elements of dance to structure dance sequences that communicate ideas, perspectives and/or meaning.](?code=AC9ADA4D01&code=AC9ADA4C01#strands) [They demonstrate fundamental movement skills and safe dance practice.](?code=AC9ADA4D01&code=AC9ADA4C01&code=AC9ADA4P01#strands) [They perform their dance in informal settings.](?code=AC9ADA4P01#strands)
