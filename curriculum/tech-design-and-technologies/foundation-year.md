@@ -4,14 +4,9 @@ curriculum_version: "9.0"
 learning_area: "Technologies"
 subject: "Design and Technologies"
 year_levels: ["Foundation"]
-
 document_type: "curriculum"
-
-
-state_territory: "National"  # or specific state if adapted
+state_territory: "National"
 keywords: ["foundation", "design", "technologies", "materials", "equipment", "safety", "creating", "making"]
-
-
 format: "markdown"
 author: "Australian Curriculum, Assessment and Reporting Authority"
 license: "CC BY 4.0"

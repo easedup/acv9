@@ -4,14 +4,9 @@ curriculum_version: "9.0"
 learning_area: "Mathematics"
 subject: "Mathematics"
 year_levels: ["1"]
-
 document_type: "curriculum"
-
-
 state_territory: "National"
 keywords: ["mathematics", "year 1", "number", "addition", "subtraction", "place value", "measurement", "geometry", "primary"]
-
-
 format: "markdown"
 author: "Australian Curriculum, Assessment and Reporting Authority"
 license: "CC BY 4.0"

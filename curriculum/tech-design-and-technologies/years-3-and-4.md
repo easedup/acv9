@@ -4,14 +4,9 @@ curriculum_version: "9.0"
 learning_area: "Technologies"
 subject: "Design and Technologies"
 year_levels: ["3", "4"]
-
 document_type: "curriculum"
-
-
-state_territory: "National"  # or specific state if adapted
+state_territory: "National"
 keywords: ["year 3", "year 4", "design", "technologies", "engineering", "food", "fibre", "materials", "sustainability", "forces"]
-
-
 format: "markdown"
 author: "Australian Curriculum, Assessment and Reporting Authority"
 license: "CC BY 4.0"

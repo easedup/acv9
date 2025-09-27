@@ -4,14 +4,9 @@ curriculum_version: "9.0"
 learning_area: "English"
 subject: "English"
 year_levels: ["2"]
-
 document_type: "curriculum"
-
-
 state_territory: "National"
 keywords: ["english", "year 2", "literacy", "reading", "writing", "comprehension", "vocabulary", "grammar", "literature", "primary"]
-
-
 format: "markdown"
 author: "Australian Curriculum, Assessment and Reporting Authority"
 license: "CC BY 4.0"

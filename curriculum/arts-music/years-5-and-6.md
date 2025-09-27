@@ -4,14 +4,9 @@ curriculum_version: "9.0"
 learning_area: "The Arts"
 subject: "Music"
 year_levels: ["5", "6"]
-
 document_type: "curriculum"
-
-
-state_territory: "National"  # or specific state if adapted
-keywords: ["year 5", "year 6", "music", "arts", "notation", "performance"] # Add relevant keywords for searchability
-
-
+state_territory: "National"
+keywords: ["year 5", "year 6", "music", "arts", "notation", "performance"]
 format: "markdown"
 author: "Australian Curriculum, Assessment and Reporting Authority"
 license: "CC BY 4.0"

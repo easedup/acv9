@@ -4,14 +4,9 @@ curriculum_version: "9.0"
 learning_area: "Mathematics"
 subject: "Mathematics"
 year_levels: ["4"]
-
 document_type: "curriculum"
-
-
 state_territory: "National"
 keywords: ["mathematics", "year 4", "number", "fractions", "decimals", "place value", "measurement", "geometry", "probability", "primary"]
-
-
 format: "markdown"
 author: "Australian Curriculum, Assessment and Reporting Authority"
 license: "CC BY 4.0"

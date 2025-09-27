@@ -4,14 +4,9 @@ curriculum_version: "9.0"
 learning_area: "The Arts"
 subject: "Dance"
 year_levels: ["3", "4"]
-
 document_type: "curriculum"
-
-
 state_territory: "National"
 keywords: ["dance", "choreography", "performance", "cultural diversity", "creative practices", "elementary", "developing skills", "intermediate", "mid-primary"]
-
-
 format: "markdown"
 author: "Australian Curriculum, Assessment and Reporting Authority"
 license: "CC BY 4.0"

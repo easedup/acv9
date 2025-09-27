@@ -4,14 +4,9 @@ curriculum_version: "9.0"
 learning_area: "The Arts"
 subject: "Visual Arts"
 year_levels: ["7", "8"]
-
 document_type: "curriculum"
-
-
-state_territory: "National"  # or specific state if adapted
-keywords: ["year 7", "year 8", "visual arts", "exploring and responding", "developing practices and skills", "creating and making", "presenting and performing", "First Nations Australians", "Indigenous Cultural and Intellectual Property", "Asia", "visual conventions"] # Add relevant keywords for searchability
-
-
+state_territory: "National" 
+keywords: ["year 7", "year 8", "visual arts", "exploring and responding", "developing practices and skills", "creating and making", "presenting and performing", "First Nations Australians", "Indigenous Cultural and Intellectual Property", "Asia", "visual conventions"]
 format: "markdown"
 author: "Australian Curriculum, Assessment and Reporting Authority"
 license: "CC BY 4.0"
