@@ -4,14 +4,9 @@ curriculum_version: "9.0"
 learning_area: "The Arts"
 subject: "Visual Arts"
 year_levels: ["Foundation"]
-
 document_type: "curriculum"
-
-
-state_territory: "National"  # or specific state if adapted
-keywords: ["foundation", "visual arts", "exploring and responding", "developing practices and skills", "creating and making", "presenting and performing", "arts works"] # Add relevant keywords for searchability
-
-
+state_territory: "National"
+keywords: ["foundation", "visual arts", "exploring and responding", "developing practices and skills", "creating and making", "presenting and performing", "arts works"]
 format: "markdown"
 author: "Australian Curriculum, Assessment and Reporting Authority"
 license: "CC BY 4.0"

@@ -4,14 +4,9 @@ curriculum_version: "9.0"
 learning_area: "Mathematics"
 subject: "Mathematics"
 year_levels: ["10"]
-
 document_type: "curriculum"
-
-
 state_territory: "National"
 keywords: ["mathematics", "year 10", "algebra", "functions", "trigonometry", "logarithms", "statistics", "probability", "calculus introduction", "secondary"]
-
-
 format: "markdown"
 author: "Australian Curriculum, Assessment and Reporting Authority"
 license: "CC BY 4.0"
