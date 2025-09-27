@@ -4,14 +4,9 @@ curriculum_version: "9.0"
 learning_area: "Technologies"
 subject: "Digital Technologies"
 year_levels: ["7", "8"]
-
 document_type: "curriculum"
-
-
 state_territory: "National"
 keywords: ["year 7", "year 8", "digital technologies", "programming languages", "cybersecurity", "networks"]
-
-
 format: "markdown"
 author: "Australian Curriculum, Assessment and Reporting Authority"
 license: "CC BY 4.0"

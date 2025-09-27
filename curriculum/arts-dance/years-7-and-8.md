@@ -4,14 +4,9 @@ curriculum_version: "9.0"
 learning_area: "The Arts"
 subject: "Dance"
 year_levels: ["7", "8"]
-
 document_type: "curriculum"
-
-
 state_territory: "National"
 keywords: ["dance", "choreography", "performance", "technique", "critical analysis", "middle school", "secondary", "advanced skills", "junior secondary"]
-
-
 format: "markdown"
 author: "Australian Curriculum, Assessment and Reporting Authority"
 license: "CC BY 4.0"

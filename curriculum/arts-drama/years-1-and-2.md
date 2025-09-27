@@ -4,14 +4,9 @@ curriculum_version: "9.0"
 learning_area: "The Arts"
 subject: "Drama"
 year_levels: ["1", "2"]
-
 document_type: "curriculum"
-
-
-state_territory: "National"  # or specific state if adapted
-keywords: ["years 1 and 2", "drama", "storytelling", "role play", "character", "movement", "voice"] # Add relevant keywords for searchability
-
-
+state_territory: "National"
+keywords: ["years 1 and 2", "drama", "storytelling", "role play", "character", "movement", "voice"]
 format: "markdown"
 author: "Australian Curriculum, Assessment and Reporting Authority"
 license: "CC BY 4.0"
