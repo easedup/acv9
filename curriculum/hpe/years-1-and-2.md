@@ -1,18 +1,3 @@
----
-title: "HPE Years 1 and 2"
-curriculum_version: "9.0"
-learning_area: "Health and Physical Education"
-subject: "Health and Physical Education"
-year_levels: ["1", "2"]
-document_type: "curriculum"
-state_territory: "National"
-keywords: ["hpe", "years 1 and 2", "safety", "relationships", "skills"]
-format: "markdown"
-author: "Australian Curriculum, Assessment and Reporting Authority"
-license: "CC BY 4.0"
-source_url: "https://www.australiancurriculum.edu.au/"
----
-
 # Health and Physical Education - Years 1 and 2 {#health-and-physical-education-years-1-and-2}
 
 ## Level Description {#level-description}

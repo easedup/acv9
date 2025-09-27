@@ -1,18 +1,3 @@
----
-title: "Science Year 5"
-curriculum_version: "9.0"
-learning_area: "Science"
-subject: "Science"
-year_levels: ["5"]
-document_type: "curriculum"
-state_territory: "National"
-keywords: ["science", "year 5", "chemical change", "light", "adaptation"]
-format: "markdown"
-author: "Australian Curriculum, Assessment and Reporting Authority"
-license: "CC BY 4.0"
-source_url: "https://www.australiancurriculum.edu.au/"
----
-
 # Science - Year 5 {#science-year-5}
 
 ## Level Description {#level-description}

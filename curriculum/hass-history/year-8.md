@@ -1,18 +1,3 @@
----
-title: "History Year 8"
-curriculum_version: "9.0"
-learning_area: "Humanities and Social Sciences"
-subject: "History"
-year_levels: ["8"]
-document_type: "curriculum"
-state_territory: "National"
-keywords: ["history", "year 8", "medieval", "renaissance", "expansion"]
-format: "markdown"
-author: "Australian Curriculum, Assessment and Reporting Authority"
-license: "CC BY 4.0"
-source_url: "https://www.australiancurriculum.edu.au/"
----
-
 # History - Year 8 {#history-year-8}
 
 ## Level Description {#level-description}

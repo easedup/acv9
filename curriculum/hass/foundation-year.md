@@ -1,18 +1,3 @@
----
-title: "HASS Foundation Year"
-curriculum_version: "9.0"
-learning_area: "Humanities and Social Sciences"
-subject: "Humanities and Social Sciences"
-year_levels: ["Foundation"]
-document_type: "curriculum"
-state_territory: "National"
-keywords: ["hass", "foundation", "identity", "community", "environment"]
-format: "markdown"
-author: "Australian Curriculum, Assessment and Reporting Authority"
-license: "CC BY 4.0"
-source_url: "https://www.australiancurriculum.edu.au/"
----
-
 # Foundation Year {#foundation-year}
 
 ## Level Description {#level-description}

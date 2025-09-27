@@ -1,18 +1,3 @@
----
-title: "HPE Years 9 and 10"
-curriculum_version: "9.0"
-learning_area: "Health and Physical Education"
-subject: "Health and Physical Education"
-year_levels: ["9", "10"]
-document_type: "curriculum"
-state_territory: "National"
-keywords: ["hpe", "years 9 and 10", "lifestyle", "leadership", "specialised"]
-format: "markdown"
-author: "Australian Curriculum, Assessment and Reporting Authority"
-license: "CC BY 4.0"
-source_url: "https://www.australiancurriculum.edu.au/"
----
-
 # Health and Physical Education - Years 9 and 10 {#health-and-physical-education-years-9-and-10}
 
 ## Level Description {#level-description}

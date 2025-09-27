@@ -1,23 +1,3 @@
----
-title: "Music Years 7 and 8"
-curriculum_version: "9.0"
-learning_area: "The Arts"
-subject: "Music"
-year_levels: ["7", "8"]
-
-document_type: "curriculum"
-
-
-state_territory: "National"  # or specific state if adapted
-keywords: ["year 7", "year 8", "music", "arts", "genres", "analysis"] # Add relevant keywords for searchability
-
-
-format: "markdown"
-author: "Australian Curriculum, Assessment and Reporting Authority"
-license: "CC BY 4.0"
-source_url: "https://www.australiancurriculum.edu.au/"
----
-
 # Music - Years 7 and 8 {#music-years-7-and-8}
 
 ## Level Description {#level-description}

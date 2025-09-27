@@ -1,18 +1,3 @@
----
-title: "Civics and Citizenship Year 10"
-curriculum_version: "9.0"
-learning_area: "Humanities and Social Sciences"
-subject: "Civics and Citizenship"
-year_levels: ["10"]
-document_type: "curriculum"
-state_territory: "National"
-keywords: ["civics", "citizenship", "year 10", "justice", "rights"]
-format: "markdown"
-author: "Australian Curriculum, Assessment and Reporting Authority"
-license: "CC BY 4.0"
-source_url: "https://www.australiancurriculum.edu.au/"
----
-
 # Civics and Citizenship - Year 10 {#civics-and-citizenship-year-10}
 
 ## Level Description {#level-description}

@@ -1,23 +1,3 @@
----
-title: "Digital Technologies Years 9 and 10"
-curriculum_version: "9.0"
-learning_area: "Technologies"
-subject: "Digital Technologies"
-year_levels: ["9", "10"]
-
-document_type: "curriculum"
-
-
-state_territory: "National"
-keywords: ["year 9", "year 10", "digital technologies", "complex programming", "data science", "machine learning"]
-
-
-format: "markdown"
-author: "Australian Curriculum, Assessment and Reporting Authority"
-license: "CC BY 4.0"
-source_url: "https://www.australiancurriculum.edu.au/"
----
-
 # Digital Technologies - Years 9 and 10 {#digital-technologies-years-9-and-10}
 
 ## Level Description {#level-description}

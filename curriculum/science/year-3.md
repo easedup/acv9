@@ -1,18 +1,3 @@
----
-title: "Science Year 3"
-curriculum_version: "9.0"
-learning_area: "Science"
-subject: "Science"
-year_levels: ["3"]
-document_type: "curriculum"
-state_territory: "National"
-keywords: ["science", "year 3", "forces", "heat", "life cycles"]
-format: "markdown"
-author: "Australian Curriculum, Assessment and Reporting Authority"
-license: "CC BY 4.0"
-source_url: "https://www.australiancurriculum.edu.au/"
----
-
 # Science - Year 3 {#science-year-3}
 
 ## Level Description {#level-description}

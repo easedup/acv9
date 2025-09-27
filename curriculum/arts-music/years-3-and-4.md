@@ -1,23 +1,3 @@
----
-title: "Music Years 3 and 4"
-curriculum_version: "9.0"
-learning_area: "The Arts"
-subject: "Music"
-year_levels: ["3", "4"]
-
-document_type: "curriculum"
-
-
-state_territory: "National"  # or specific state if adapted
-keywords: ["year 3", "year 4", "music", "arts", "instruments", "composition"] # Add relevant keywords for searchability
-
-
-format: "markdown"
-author: "Australian Curriculum, Assessment and Reporting Authority"
-license: "CC BY 4.0"
-source_url: "https://www.australiancurriculum.edu.au/"
----
-
 # Music - Years 3 and 4 {#music-years-3-and-4}
 
 ## Level Description {#level-description}

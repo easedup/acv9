@@ -1,18 +1,3 @@
----
-title: "HASS Year 1"
-curriculum_version: "9.0"
-learning_area: "Humanities and Social Sciences"
-subject: "Humanities and Social Sciences"
-year_levels: ["1"]
-document_type: "curriculum"
-state_territory: "National"
-keywords: ["hass", "year 1", "family", "past", "present"]
-format: "markdown"
-author: "Australian Curriculum, Assessment and Reporting Authority"
-license: "CC BY 4.0"
-source_url: "https://www.australiancurriculum.edu.au/"
----
-
 # Humanities and Social Sciences - Year 1 {#humanities-and-social-sciences-year-1}
 
 ## Level Description {#level-description}

@@ -1,18 +1,3 @@
----
-title: "Economics and Business Year 8"
-curriculum_version: "9.0"
-learning_area: "Humanities and Social Sciences"
-subject: "Economics and Business"
-year_levels: ["8"]
-document_type: "curriculum"
-state_territory: "National"
-keywords: ["economics", "business", "year 8", "consumers", "financial"]
-format: "markdown"
-author: "Australian Curriculum, Assessment and Reporting Authority"
-license: "CC BY 4.0"
-source_url: "https://www.australiancurriculum.edu.au/"
----
-
 # Economics and Business - Year 8 {#economics-and-business-year-8}
 
 ## Level Description {#level-description}

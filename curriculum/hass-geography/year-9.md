@@ -1,18 +1,3 @@
----
-title: "Geography Year 9"
-curriculum_version: "9.0"
-learning_area: "Humanities and Social Sciences"
-subject: "Geography"
-year_levels: ["9"]
-document_type: "curriculum"
-state_territory: "National"
-keywords: ["geography", "year 9", "biomes", "food", "security"]
-format: "markdown"
-author: "Australian Curriculum, Assessment and Reporting Authority"
-license: "CC BY 4.0"
-source_url: "https://www.australiancurriculum.edu.au/"
----
-
 # Geography - Year 9 {#geography-year-9}
 
 ## Level Description {#level-description}

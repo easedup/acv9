@@ -1,23 +1,3 @@
----
-title: "English Year 5"
-curriculum_version: "9.0"
-learning_area: "English"
-subject: "English"
-year_levels: ["5"]
-
-document_type: "curriculum"
-
-
-state_territory: "National"
-keywords: ["english", "year 5", "literacy", "reading", "writing", "comprehension", "vocabulary", "grammar", "literature", "language", "primary"]
-
-
-format: "markdown"
-author: "Australian Curriculum, Assessment and Reporting Authority"
-license: "CC BY 4.0"
-source_url: "https://www.australiancurriculum.edu.au/"
----
-
 # English - Year 5 {#english-year-5}
 
 ## Level Description {#level-description}

@@ -1,23 +1,3 @@
----
-title: "Digital Technologies Foundation Year"
-curriculum_version: "9.0"
-learning_area: "Technologies"
-subject: "Digital Technologies"
-year_levels: ["Foundation"]
-
-document_type: "curriculum"
-
-
-state_territory: "National"
-keywords: ["foundation year", "digital technologies", "computational thinking", "digital systems"]
-
-
-format: "markdown"
-author: "Australian Curriculum, Assessment and Reporting Authority"
-license: "CC BY 4.0"
-source_url: "https://www.australiancurriculum.edu.au/"
----
-
 # Digital Technologies - Foundation Year {#digital-technologies-foundation-year}
 
 ## Level Description {#level-description}

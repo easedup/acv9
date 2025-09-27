@@ -1,23 +1,3 @@
----
-title: "Mathematics Year 7"
-curriculum_version: "9.0"
-learning_area: "Mathematics"
-subject: "Mathematics"
-year_levels: ["7"]
-
-document_type: "curriculum"
-
-
-state_territory: "National"
-keywords: ["mathematics", "year 7", "algebra", "integers", "fractions", "ratios", "geometry", "statistics", "probability", "secondary"]
-
-
-format: "markdown"
-author: "Australian Curriculum, Assessment and Reporting Authority"
-license: "CC BY 4.0"
-source_url: "https://www.australiancurriculum.edu.au/"
----
-
 # Mathematics - Year 7 {#mathematics-year-7}
 
 ## Level Description {#level-description}

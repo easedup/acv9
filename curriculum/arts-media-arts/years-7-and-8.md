@@ -1,23 +1,3 @@
----
-title: "Media Arts Years 7 and 8"
-curriculum_version: "9.0"
-learning_area: "The Arts"
-subject: "Media Arts"
-year_levels: ["7", "8"]
-
-document_type: "curriculum"
-
-
-state_territory: "National"
-keywords: ["year 7", "year 8", "media arts", "secondary years"]
-
-
-format: "markdown"
-author: "Australian Curriculum, Assessment and Reporting Authority"
-license: "CC BY 4.0"
-source_url: "https://www.australiancurriculum.edu.au/"
----
-
 # Media Arts - Years 7 and 8 {#media-arts-years-7-and-8}
 
 ## Level Description {#level-description}

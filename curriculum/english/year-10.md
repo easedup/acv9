@@ -1,23 +1,3 @@
----
-title: "English Year 10"
-curriculum_version: "9.0"
-learning_area: "English"
-subject: "English"
-year_levels: ["10"]
-
-document_type: "curriculum"
-
-
-state_territory: "National"
-keywords: ["english", "year 10", "literacy", "reading", "writing", "comprehension", "vocabulary", "grammar", "literature", "language", "secondary"]
-
-
-format: "markdown"
-author: "Australian Curriculum, Assessment and Reporting Authority"
-license: "CC BY 4.0"
-source_url: "https://www.australiancurriculum.edu.au/"
----
-
 # English - Year 10 {#english-year-10}
 
 ## Level Description {#level-description}
