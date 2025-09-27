@@ -1,3 +1,23 @@
+---
+title: "Dance Foundation Year"
+curriculum_version: "9.0"
+learning_area: "The Arts"
+subject: "Dance"
+year_levels: ["Foundation"]
+
+document_type: "curriculum"
+
+# Optional organizational fields
+state_territory: "National"
+keywords: ["dance", "foundation", "movement", "creative play", "body awareness", "early childhood", "developmental", "play-based learning", "fundamental movement"]
+
+# Technical metadata
+format: "markdown"
+author: "Australian Curriculum, Assessment and Reporting Authority"
+license: "CC BY 4.0"
+source_url: "https://www.australiancurriculum.edu.au/"
+---
+
 # Dance - Foundation Year {#dance-foundation-year}
 
 ## Level Description {#level-description}

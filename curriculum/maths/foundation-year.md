@@ -1,3 +1,23 @@
+---
+title: "Mathematics Foundation Year"
+curriculum_version: "9.0"
+learning_area: "Mathematics"
+subject: "Mathematics"
+year_levels: ["Foundation"]
+
+document_type: "curriculum"
+
+# Optional organizational fields
+state_territory: "National"
+keywords: ["mathematics", "foundation", "numeracy", "counting", "patterns", "shapes", "measurement", "early childhood", "play-based learning"]
+
+# Technical metadata
+format: "markdown"
+author: "Australian Curriculum, Assessment and Reporting Authority"
+license: "CC BY 4.0"
+source_url: "https://www.australiancurriculum.edu.au/"
+---
+
 # Mathematics - Foundation Year {#mathematics-foundation-year}
 
 ## Level Description {#level-description}

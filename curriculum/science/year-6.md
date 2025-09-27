@@ -1,3 +1,18 @@
+---
+title: "Science Year 6"
+curriculum_version: "9.0"
+learning_area: "Science"
+subject: "Science"
+year_levels: ["6"]
+document_type: "curriculum"
+state_territory: "National"
+keywords: ["science", "year 6", "energy", "electrical circuits", "growth"]
+format: "markdown"
+author: "Australian Curriculum, Assessment and Reporting Authority"
+license: "CC BY 4.0"
+source_url: "https://www.australiancurriculum.edu.au/"
+---
+
 # Science - Year 6 {#science-year-6}
 
 ## Level Description {#level-description}

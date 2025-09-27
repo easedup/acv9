@@ -1,3 +1,23 @@
+---
+title: "Mathematics Year 5"
+curriculum_version: "9.0"
+learning_area: "Mathematics"
+subject: "Mathematics"
+year_levels: ["5"]
+
+document_type: "curriculum"
+
+# Optional organizational fields
+state_territory: "National"
+keywords: ["mathematics", "year 5", "number", "fractions", "decimals", "percentages", "measurement", "geometry", "statistics", "primary"]
+
+# Technical metadata
+format: "markdown"
+author: "Australian Curriculum, Assessment and Reporting Authority"
+license: "CC BY 4.0"
+source_url: "https://www.australiancurriculum.edu.au/"
+---
+
 # Mathematics - Year 5 {#mathematics-year-5}
 
 ## Level Description {#level-description}

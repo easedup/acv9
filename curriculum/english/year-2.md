@@ -1,3 +1,23 @@
+---
+title: "English Year 2"
+curriculum_version: "9.0"
+learning_area: "English"
+subject: "English"
+year_levels: ["2"]
+
+document_type: "curriculum"
+
+# Optional organizational fields
+state_territory: "National"
+keywords: ["english", "year 2", "literacy", "reading", "writing", "comprehension", "vocabulary", "grammar", "literature", "primary"]
+
+# Technical metadata
+format: "markdown"
+author: "Australian Curriculum, Assessment and Reporting Authority"
+license: "CC BY 4.0"
+source_url: "https://www.australiancurriculum.edu.au/"
+---
+
 # English - Year 2 {#english-year-2}
 
 ## Level Description {#level-description}

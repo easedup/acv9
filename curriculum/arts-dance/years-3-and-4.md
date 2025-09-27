@@ -1,3 +1,23 @@
+---
+title: "Dance Years 3 and 4"
+curriculum_version: "9.0"
+learning_area: "The Arts"
+subject: "Dance"
+year_levels: ["3", "4"]
+
+document_type: "curriculum"
+
+# Optional organizational fields
+state_territory: "National"
+keywords: ["dance", "choreography", "performance", "cultural diversity", "creative practices", "elementary", "developing skills", "intermediate", "mid-primary"]
+
+# Technical metadata
+format: "markdown"
+author: "Australian Curriculum, Assessment and Reporting Authority"
+license: "CC BY 4.0"
+source_url: "https://www.australiancurriculum.edu.au/"
+---
+
 # Dance - Years 3 and 4 {#dance-years-3-and-4}
 
 ## Level Description {#level-description}

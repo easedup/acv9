@@ -1,3 +1,23 @@
+---
+title: "Dance Years 1 and 2"
+curriculum_version: "9.0"
+learning_area: "The Arts"
+subject: "Dance"
+year_levels: ["1", "2"]
+
+document_type: "curriculum"
+
+# Optional organizational fields
+state_territory: "National"
+keywords: ["dance", "choreography", "movement", "creative play", "cultural exploration", "primary", "beginner", "fundamental skills", "early primary"]
+
+# Technical metadata
+format: "markdown"
+author: "Australian Curriculum, Assessment and Reporting Authority"
+license: "CC BY 4.0"
+source_url: "https://www.australiancurriculum.edu.au/"
+---
+
 # Dance - Years 1 and 2 {#dance-years-1-and-2}
 
 ## Level Description {#level-description}

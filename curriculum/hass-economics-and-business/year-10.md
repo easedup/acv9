@@ -1,3 +1,18 @@
+---
+title: "Economics and Business Year 10"
+curriculum_version: "9.0"
+learning_area: "Humanities and Social Sciences"
+subject: "Economics and Business"
+year_levels: ["10"]
+document_type: "curriculum"
+state_territory: "National"
+keywords: ["economics", "business", "year 10", "economic", "performance"]
+format: "markdown"
+author: "Australian Curriculum, Assessment and Reporting Authority"
+license: "CC BY 4.0"
+source_url: "https://www.australiancurriculum.edu.au/"
+---
+
 # Economics and Business - Year 10 {#economics-and-business-year-10}
 
 ## Level Description {#level-description}

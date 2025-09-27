@@ -1,3 +1,18 @@
+---
+title: "Science Year 7"
+curriculum_version: "9.0"
+learning_area: "Science"
+subject: "Science"
+year_levels: ["7"]
+document_type: "curriculum"
+state_territory: "National"
+keywords: ["science", "year 7", "classification", "elements", "ecosystems"]
+format: "markdown"
+author: "Australian Curriculum, Assessment and Reporting Authority"
+license: "CC BY 4.0"
+source_url: "https://www.australiancurriculum.edu.au/"
+---
+
 # Science - Year 7 {#science-year-7}
 
 ## Level Description {#level-description}

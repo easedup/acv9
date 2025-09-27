@@ -1,3 +1,23 @@
+---
+title: "Dance Years 5 and 6"
+curriculum_version: "9.0"
+learning_area: "The Arts"
+subject: "Dance"
+year_levels: ["5", "6"]
+
+document_type: "curriculum"
+
+# Optional organizational fields
+state_territory: "National"
+keywords: ["dance", "choreography", "performance", "technique", "cultural contexts", "upper primary", "intermediate skills", "complex movement", "late primary"]
+
+# Technical metadata
+format: "markdown"
+author: "Australian Curriculum, Assessment and Reporting Authority"
+license: "CC BY 4.0"
+source_url: "https://www.australiancurriculum.edu.au/"
+---
+
 # Dance - Years 5 and 6 {#dance-years-5-and-6}
 
 ## Level Description {#level-description}

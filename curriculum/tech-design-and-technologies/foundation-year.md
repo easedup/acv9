@@ -1,3 +1,23 @@
+---
+title: "Design and Technologies Foundation Year"
+curriculum_version: "9.0"
+learning_area: "Technologies"
+subject: "Design and Technologies"
+year_levels: ["Foundation"]
+
+document_type: "curriculum"
+
+# Optional organizational fields
+state_territory: "National"  # or specific state if adapted
+keywords: ["foundation", "design", "technologies", "materials", "equipment", "safety", "creating", "making"]
+
+# Technical metadata
+format: "markdown"
+author: "Australian Curriculum, Assessment and Reporting Authority"
+license: "CC BY 4.0"
+source_url: "https://www.australiancurriculum.edu.au/"
+---
+
 # Design and Technologies - Foundation Year {#design-and-technologies-foundation-year}
 
 ## Level Description {#level-description}

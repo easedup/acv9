@@ -1,3 +1,23 @@
+---
+title: "English Year 9"
+curriculum_version: "9.0"
+learning_area: "English"
+subject: "English"
+year_levels: ["9"]
+
+document_type: "curriculum"
+
+# Optional organizational fields
+state_territory: "National"
+keywords: ["english", "year 9", "literacy", "reading", "writing", "comprehension", "vocabulary", "grammar", "literature", "language", "secondary"]
+
+# Technical metadata
+format: "markdown"
+author: "Australian Curriculum, Assessment and Reporting Authority"
+license: "CC BY 4.0"
+source_url: "https://www.australiancurriculum.edu.au/"
+---
+
 # English - Year 9 {#english-year-9}
 
 ## Level Description {#level-description}

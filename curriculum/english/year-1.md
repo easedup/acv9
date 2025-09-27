@@ -1,3 +1,23 @@
+---
+title: "English Year 1"
+curriculum_version: "9.0"
+learning_area: "English"
+subject: "English"
+year_levels: ["1"]
+
+document_type: "curriculum"
+
+# Optional organizational fields
+state_territory: "National"
+keywords: ["english", "year 1", "literacy", "phonics", "reading", "writing", "comprehension", "vocabulary", "grammar", "primary"]
+
+# Technical metadata
+format: "markdown"
+author: "Australian Curriculum, Assessment and Reporting Authority"
+license: "CC BY 4.0"
+source_url: "https://www.australiancurriculum.edu.au/"
+---
+
 # English - Year 1 {#english-year-1}
 
 ## Level Description {#level-description}

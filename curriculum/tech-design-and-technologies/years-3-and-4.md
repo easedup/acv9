@@ -1,3 +1,23 @@
+---
+title: "Design and Technologies Years 3 and 4"
+curriculum_version: "9.0"
+learning_area: "Technologies"
+subject: "Design and Technologies"
+year_levels: ["3", "4"]
+
+document_type: "curriculum"
+
+# Optional organizational fields
+state_territory: "National"  # or specific state if adapted
+keywords: ["year 3", "year 4", "design", "technologies", "engineering", "food", "fibre", "materials", "sustainability", "forces"]
+
+# Technical metadata
+format: "markdown"
+author: "Australian Curriculum, Assessment and Reporting Authority"
+license: "CC BY 4.0"
+source_url: "https://www.australiancurriculum.edu.au/"
+---
+
 # Design and Technologies - Years 3 and 4 {#design-and-technologies-years-3-and-4}
 
 ## Level Description {#level-description}

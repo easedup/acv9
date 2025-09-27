@@ -1,3 +1,23 @@
+---
+title: "Visual Arts Years 9 and 10"
+curriculum_version: "9.0"
+learning_area: "The Arts"
+subject: "Visual Arts"
+year_levels: ["9", "10"]
+
+document_type: "curriculum"
+
+# Optional organizational fields
+state_territory: "National"  # or specific state if adapted
+keywords: ["year 9", "year 10", "visual arts", "exploring and responding", "developing practices and skills", "creating and making", "presenting and performing", "First Nations Australians", "Australian identity", "personal expression", "curation", "Asia"] # Add relevant keywords for searchability
+
+# Technical metadata
+format: "markdown"
+author: "Australian Curriculum, Assessment and Reporting Authority"
+license: "CC BY 4.0"
+source_url: "https://www.australiancurriculum.edu.au/"
+---
+
 # Visual Arts - Years 9 and 10 {#visual-arts-years-9-and-10}
 
 ## Level Description {#level-description}

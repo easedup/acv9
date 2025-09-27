@@ -1,3 +1,18 @@
+---
+title: "Science Year 1"
+curriculum_version: "9.0"
+learning_area: "Science"
+subject: "Science"
+year_levels: ["1"]
+document_type: "curriculum"
+state_territory: "National"
+keywords: ["science", "year 1", "patterns", "observation", "prediction"]
+format: "markdown"
+author: "Australian Curriculum, Assessment and Reporting Authority"
+license: "CC BY 4.0"
+source_url: "https://www.australiancurriculum.edu.au/"
+---
+
 # Science - Year 1 {#science-year-1}
 
 ## Level Description {#level-description}

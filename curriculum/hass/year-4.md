@@ -1,3 +1,18 @@
+---
+title: "HASS Year 4"
+curriculum_version: "9.0"
+learning_area: "Humanities and Social Sciences"
+subject: "Humanities and Social Sciences"
+year_levels: ["4"]
+document_type: "curriculum"
+state_territory: "National"
+keywords: ["hass", "year 4", "contact", "exploration", "settlement"]
+format: "markdown"
+author: "Australian Curriculum, Assessment and Reporting Authority"
+license: "CC BY 4.0"
+source_url: "https://www.australiancurriculum.edu.au/"
+---
+
 # Humanities and Social Sciences - Year 4 {#humanities-and-social-sciences-year-4}
 
 ## Level Description {#level-description}

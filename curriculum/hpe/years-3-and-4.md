@@ -1,3 +1,18 @@
+---
+title: "HPE Years 3 and 4"
+curriculum_version: "9.0"
+learning_area: "Health and Physical Education"
+subject: "Health and Physical Education"
+year_levels: ["3", "4"]
+document_type: "curriculum"
+state_territory: "National"
+keywords: ["hpe", "years 3 and 4", "identity", "nutrition", "activity"]
+format: "markdown"
+author: "Australian Curriculum, Assessment and Reporting Authority"
+license: "CC BY 4.0"
+source_url: "https://www.australiancurriculum.edu.au/"
+---
+
 # Health and Physical Education - Years 3 and 4 {#health-and-physical-education-years-3-and-4}
 
 ## Level Description {#level-description}

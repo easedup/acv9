@@ -1,3 +1,23 @@
+---
+title: "Drama Years 3 and 4"
+curriculum_version: "9.0"
+learning_area: "The Arts"
+subject: "Drama"
+year_levels: ["3", "4"]
+
+document_type: "curriculum"
+
+# Optional organizational fields
+state_territory: "National"  # or specific state if adapted
+keywords: ["years 3 and 4", "drama", "creating", "performing", "responding", "elements of drama", "character development"] # Add relevant keywords for searchability
+
+# Technical metadata
+format: "markdown"
+author: "Australian Curriculum, Assessment and Reporting Authority"
+license: "CC BY 4.0"
+source_url: "https://www.australiancurriculum.edu.au/"
+---
+
 # Drama - Years 3 and 4 {#drama-years-3-and-4}
 
 ## Level Description {#level-description}

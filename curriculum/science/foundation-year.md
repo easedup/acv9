@@ -1,3 +1,18 @@
+---
+title: "Science Foundation Year"
+curriculum_version: "9.0"
+learning_area: "Science"
+subject: "Science"
+year_levels: ["Foundation"]
+document_type: "curriculum"
+state_territory: "National"
+keywords: ["science", "foundation", "early years", "exploration", "observation"]
+format: "markdown"
+author: "Australian Curriculum, Assessment and Reporting Authority"
+license: "CC BY 4.0"
+source_url: "https://www.australiancurriculum.edu.au/"
+---
+
 # Science - Foundation Year {#science-foundation-year}
 
 ## Level Description {#level-description}
