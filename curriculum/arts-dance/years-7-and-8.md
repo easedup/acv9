@@ -7,11 +7,11 @@ year_levels: ["7", "8"]
 
 document_type: "curriculum"
 
-# Optional organizational fields
+
 state_territory: "National"
 keywords: ["dance", "choreography", "performance", "technique", "critical analysis", "middle school", "secondary", "advanced skills", "junior secondary"]
 
-# Technical metadata
+
 format: "markdown"
 author: "Australian Curriculum, Assessment and Reporting Authority"
 license: "CC BY 4.0"

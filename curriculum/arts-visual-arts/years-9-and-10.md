@@ -7,11 +7,11 @@ year_levels: ["9", "10"]
 
 document_type: "curriculum"
 
-# Optional organizational fields
+
 state_territory: "National"  # or specific state if adapted
 keywords: ["year 9", "year 10", "visual arts", "exploring and responding", "developing practices and skills", "creating and making", "presenting and performing", "First Nations Australians", "Australian identity", "personal expression", "curation", "Asia"] # Add relevant keywords for searchability
 
-# Technical metadata
+
 format: "markdown"
 author: "Australian Curriculum, Assessment and Reporting Authority"
 license: "CC BY 4.0"

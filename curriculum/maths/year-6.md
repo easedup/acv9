@@ -7,11 +7,11 @@ year_levels: ["6"]
 
 document_type: "curriculum"
 
-# Optional organizational fields
+
 state_territory: "National"
 keywords: ["mathematics", "year 6", "number", "fractions", "decimals", "percentages", "algebra", "measurement", "geometry", "statistics", "primary"]
 
-# Technical metadata
+
 format: "markdown"
 author: "Australian Curriculum, Assessment and Reporting Authority"
 license: "CC BY 4.0"

@@ -7,11 +7,11 @@ year_levels: ["Foundation"]
 
 document_type: "curriculum"
 
-# Optional organizational fields
+
 state_territory: "National"
 keywords: ["english", "foundation", "literacy", "phonics", "reading", "writing", "speaking", "listening", "early childhood", "language development"]
 
-# Technical metadata
+
 format: "markdown"
 author: "Australian Curriculum, Assessment and Reporting Authority"
 license: "CC BY 4.0"

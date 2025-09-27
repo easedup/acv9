@@ -7,11 +7,11 @@ year_levels: ["9", "10"]
 
 document_type: "curriculum"
 
-# Optional organizational fields
+
 state_territory: "National"
 keywords: ["year 9", "year 10", "media arts", "secondary years"]
 
-# Technical metadata
+
 format: "markdown"
 author: "Australian Curriculum, Assessment and Reporting Authority"
 license: "CC BY 4.0"

@@ -7,11 +7,11 @@ year_levels: ["1", "2"]
 
 document_type: "curriculum"
 
-# Optional organizational fields
+
 state_territory: "National"
 keywords: ["year 1", "year 2", "digital technologies", "computational thinking", "algorithms", "data representation"]
 
-# Technical metadata
+
 format: "markdown"
 author: "Australian Curriculum, Assessment and Reporting Authority"
 license: "CC BY 4.0"

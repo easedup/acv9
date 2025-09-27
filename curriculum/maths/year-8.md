@@ -7,11 +7,11 @@ year_levels: ["8"]
 
 document_type: "curriculum"
 
-# Optional organizational fields
+
 state_territory: "National"
 keywords: ["mathematics", "year 8", "algebra", "linear equations", "indices", "geometry", "measurement", "statistics", "probability", "secondary"]
 
-# Technical metadata
+
 format: "markdown"
 author: "Australian Curriculum, Assessment and Reporting Authority"
 license: "CC BY 4.0"

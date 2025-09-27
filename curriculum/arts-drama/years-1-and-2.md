@@ -7,11 +7,11 @@ year_levels: ["1", "2"]
 
 document_type: "curriculum"
 
-# Optional organizational fields
+
 state_territory: "National"  # or specific state if adapted
 keywords: ["years 1 and 2", "drama", "storytelling", "role play", "character", "movement", "voice"] # Add relevant keywords for searchability
 
-# Technical metadata
+
 format: "markdown"
 author: "Australian Curriculum, Assessment and Reporting Authority"
 license: "CC BY 4.0"

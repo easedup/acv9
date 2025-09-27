@@ -7,11 +7,11 @@ year_levels: ["9"]
 
 document_type: "curriculum"
 
-# Optional organizational fields
+
 state_territory: "National"
 keywords: ["mathematics", "year 9", "algebra", "quadratic equations", "surds", "trigonometry", "geometry", "statistics", "probability", "secondary"]
 
-# Technical metadata
+
 format: "markdown"
 author: "Australian Curriculum, Assessment and Reporting Authority"
 license: "CC BY 4.0"

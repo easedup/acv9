@@ -7,11 +7,11 @@ year_levels: ["3"]
 
 document_type: "curriculum"
 
-# Optional organizational fields
+
 state_territory: "National"
 keywords: ["mathematics", "year 3", "number", "multiplication", "division", "fractions", "place value", "measurement", "geometry", "primary"]
 
-# Technical metadata
+
 format: "markdown"
 author: "Australian Curriculum, Assessment and Reporting Authority"
 license: "CC BY 4.0"

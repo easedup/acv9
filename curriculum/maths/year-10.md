@@ -7,11 +7,11 @@ year_levels: ["10"]
 
 document_type: "curriculum"
 
-# Optional organizational fields
+
 state_territory: "National"
 keywords: ["mathematics", "year 10", "algebra", "functions", "trigonometry", "logarithms", "statistics", "probability", "calculus introduction", "secondary"]
 
-# Technical metadata
+
 format: "markdown"
 author: "Australian Curriculum, Assessment and Reporting Authority"
 license: "CC BY 4.0"

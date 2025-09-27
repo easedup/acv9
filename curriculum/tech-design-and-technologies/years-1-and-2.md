@@ -7,11 +7,11 @@ year_levels: ["1", "2"]
 
 document_type: "curriculum"
 
-# Optional organizational fields
+
 state_territory: "National"  # or specific state if adapted
 keywords: ["year 1", "year 2", "design", "technologies", "engineering", "food", "fibre", "materials", "sustainability"]
 
-# Technical metadata
+
 format: "markdown"
 author: "Australian Curriculum, Assessment and Reporting Authority"
 license: "CC BY 4.0"

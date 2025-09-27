@@ -7,11 +7,11 @@ year_levels: ["3"]
 
 document_type: "curriculum"
 
-# Optional organizational fields
+
 state_territory: "National"
 keywords: ["english", "year 3", "literacy", "reading", "writing", "comprehension", "vocabulary", "grammar", "literature", "language", "primary"]
 
-# Technical metadata
+
 format: "markdown"
 author: "Australian Curriculum, Assessment and Reporting Authority"
 license: "CC BY 4.0"

@@ -7,11 +7,11 @@ year_levels: ["7", "8"]
 
 document_type: "curriculum"
 
-# Optional organizational fields
+
 state_territory: "National"  # or specific state if adapted
 keywords: ["years 7 and 8", "drama", "creating", "performing", "responding", "elements of drama", "collaboration", "cultural contexts"] # Add relevant keywords for searchability
 
-# Technical metadata
+
 format: "markdown"
 author: "Australian Curriculum, Assessment and Reporting Authority"
 license: "CC BY 4.0"
