@@ -1,3 +1,23 @@
+---
+title: "Drama Years 5 and 6"
+curriculum_version: "9.0"
+learning_area: "The Arts"
+subject: "Drama"
+year_levels: ["5", "6"]
+
+document_type: "curriculum"
+
+
+state_territory: "National"  # or specific state if adapted
+keywords: ["years 5 and 6", "drama", "creating", "performing", "responding", "elements of drama", "collaboration", "performance skills"] # Add relevant keywords for searchability
+
+
+format: "markdown"
+author: "Australian Curriculum, Assessment and Reporting Authority"
+license: "CC BY 4.0"
+source_url: "https://www.australiancurriculum.edu.au/"
+---
+
 # Drama - Years 5 and 6 {#drama-years-5-and-6}
 
 ## Level Description {#level-description}

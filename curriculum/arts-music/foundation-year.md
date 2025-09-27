@@ -1,3 +1,23 @@
+---
+title: "Music Foundation Year"
+curriculum_version: "9.0"
+learning_area: "The Arts"
+subject: "Music"
+year_levels: ["Foundation"]
+
+document_type: "curriculum"
+
+
+state_territory: "National"  # or specific state if adapted
+keywords: ["foundation year", "music", "arts", "creativity", "performance"] # Add relevant keywords for searchability
+
+
+format: "markdown"
+author: "Australian Curriculum, Assessment and Reporting Authority"
+license: "CC BY 4.0"
+source_url: "https://www.australiancurriculum.edu.au/"
+---
+
 # Music - Foundation Year {#music-foundation-year}
 
 ## Level Description {#level-description}

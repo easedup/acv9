@@ -1,3 +1,23 @@
+---
+title: "Dance Years 9 and 10"
+curriculum_version: "9.0"
+learning_area: "The Arts"
+subject: "Dance"
+year_levels: ["9", "10"]
+
+document_type: "curriculum"
+
+
+state_territory: "National"
+keywords: ["dance", "choreography", "performance", "advanced technique", "aesthetic analysis", "senior", "pre-tertiary", "sophisticated skills", "senior secondary"]
+
+
+format: "markdown"
+author: "Australian Curriculum, Assessment and Reporting Authority"
+license: "CC BY 4.0"
+source_url: "https://www.australiancurriculum.edu.au/"
+---
+
 # Dance - Years 9 and 10 {#dance-years-9-and-10}
 
 ## Level Description {#level-description}

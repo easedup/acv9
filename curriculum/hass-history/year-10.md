@@ -1,3 +1,18 @@
+---
+title: "History Year 10"
+curriculum_version: "9.0"
+learning_area: "Humanities and Social Sciences"
+subject: "History"
+year_levels: ["10"]
+document_type: "curriculum"
+state_territory: "National"
+keywords: ["history", "year 10", "modern world", "rights", "freedoms"]
+format: "markdown"
+author: "Australian Curriculum, Assessment and Reporting Authority"
+license: "CC BY 4.0"
+source_url: "https://www.australiancurriculum.edu.au/"
+---
+
 # History - Year 10 {#history-year-10}
 
 ## Level Description {#level-description}

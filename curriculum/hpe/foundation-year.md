@@ -1,3 +1,18 @@
+---
+title: "HPE Foundation Year"
+curriculum_version: "9.0"
+learning_area: "Health and Physical Education"
+subject: "Health and Physical Education"
+year_levels: ["Foundation"]
+document_type: "curriculum"
+state_territory: "National"
+keywords: ["hpe", "foundation", "health", "wellbeing", "movement"]
+format: "markdown"
+author: "Australian Curriculum, Assessment and Reporting Authority"
+license: "CC BY 4.0"
+source_url: "https://www.australiancurriculum.edu.au/"
+---
+
 # Health and Physical Education - Foundation Year {#health-and-physical-education-foundation-year}
 
 ## Level Description {#level-description}

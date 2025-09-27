@@ -1,3 +1,18 @@
+---
+title: "HPE Years 5 and 6"
+curriculum_version: "9.0"
+learning_area: "Health and Physical Education"
+subject: "Health and Physical Education"
+year_levels: ["5", "6"]
+document_type: "curriculum"
+state_territory: "National"
+keywords: ["hpe", "years 5 and 6", "changes", "influences", "strategies"]
+format: "markdown"
+author: "Australian Curriculum, Assessment and Reporting Authority"
+license: "CC BY 4.0"
+source_url: "https://www.australiancurriculum.edu.au/"
+---
+
 # Health and Physical Education - Years 5 and 6 {#health-and-physical-education-years-5-and-6}
 
 ## Level Description {#level-description}

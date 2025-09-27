@@ -1,3 +1,18 @@
+---
+title: "Science Year 8"
+curriculum_version: "9.0"
+learning_area: "Science"
+subject: "Science"
+year_levels: ["8"]
+document_type: "curriculum"
+state_territory: "National"
+keywords: ["science", "year 8", "chemistry", "cells", "forces"]
+format: "markdown"
+author: "Australian Curriculum, Assessment and Reporting Authority"
+license: "CC BY 4.0"
+source_url: "https://www.australiancurriculum.edu.au/"
+---
+
 # Science - Year 8 {#science-year-8}
 
 ## Level Description {#level-description}

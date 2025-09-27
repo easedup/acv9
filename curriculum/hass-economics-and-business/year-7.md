@@ -1,3 +1,18 @@
+---
+title: "Economics and Business Year 7"
+curriculum_version: "9.0"
+learning_area: "Humanities and Social Sciences"
+subject: "Economics and Business"
+year_levels: ["7"]
+document_type: "curriculum"
+state_territory: "National"
+keywords: ["economics", "business", "year 7", "resources", "markets"]
+format: "markdown"
+author: "Australian Curriculum, Assessment and Reporting Authority"
+license: "CC BY 4.0"
+source_url: "https://www.australiancurriculum.edu.au/"
+---
+
 # Economics and Business - Year 7 {#economics-and-business-year-7}
 
 ## Level Description {#level-description}

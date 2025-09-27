@@ -1,3 +1,23 @@
+---
+title: "Media Arts Years 9 and 10"
+curriculum_version: "9.0"
+learning_area: "The Arts"
+subject: "Media Arts"
+year_levels: ["9", "10"]
+
+document_type: "curriculum"
+
+
+state_territory: "National"
+keywords: ["year 9", "year 10", "media arts", "secondary years"]
+
+
+format: "markdown"
+author: "Australian Curriculum, Assessment and Reporting Authority"
+license: "CC BY 4.0"
+source_url: "https://www.australiancurriculum.edu.au/"
+---
+
 # Media Arts - Years 9 and 10 {#media-arts-years-9-and-10}
 
 ## Level Description {#level-description}

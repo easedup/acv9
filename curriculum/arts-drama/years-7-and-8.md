@@ -1,3 +1,23 @@
+---
+title: "Drama Years 7 and 8"
+curriculum_version: "9.0"
+learning_area: "The Arts"
+subject: "Drama"
+year_levels: ["7", "8"]
+
+document_type: "curriculum"
+
+
+state_territory: "National"  # or specific state if adapted
+keywords: ["years 7 and 8", "drama", "creating", "performing", "responding", "elements of drama", "collaboration", "cultural contexts"] # Add relevant keywords for searchability
+
+
+format: "markdown"
+author: "Australian Curriculum, Assessment and Reporting Authority"
+license: "CC BY 4.0"
+source_url: "https://www.australiancurriculum.edu.au/"
+---
+
 # Drama - Years 7 and 8 {#drama-years-7-and-8}
 
 ## Level Description {#level-description}

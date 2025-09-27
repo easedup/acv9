@@ -1,3 +1,23 @@
+---
+title: "English Foundation Year"
+curriculum_version: "9.0"
+learning_area: "English"
+subject: "English"
+year_levels: ["Foundation"]
+
+document_type: "curriculum"
+
+
+state_territory: "National"
+keywords: ["english", "foundation", "literacy", "phonics", "reading", "writing", "speaking", "listening", "early childhood", "language development"]
+
+
+format: "markdown"
+author: "Australian Curriculum, Assessment and Reporting Authority"
+license: "CC BY 4.0"
+source_url: "https://www.australiancurriculum.edu.au/"
+---
+
 # English - Foundation Year {#english-foundation-year}
 
 ## Level Description {#level-description}

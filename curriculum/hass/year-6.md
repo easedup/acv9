@@ -1,3 +1,18 @@
+---
+title: "HASS Year 6"
+curriculum_version: "9.0"
+learning_area: "Humanities and Social Sciences"
+subject: "Humanities and Social Sciences"
+year_levels: ["6"]
+document_type: "curriculum"
+state_territory: "National"
+keywords: ["hass", "year 6", "democracy", "global", "development"]
+format: "markdown"
+author: "Australian Curriculum, Assessment and Reporting Authority"
+license: "CC BY 4.0"
+source_url: "https://www.australiancurriculum.edu.au/"
+---
+
 # Humanities and Social Sciences - Year 6 {#humanities-and-social-sciences-year-6}
 
 ## Level Description {#level-description}

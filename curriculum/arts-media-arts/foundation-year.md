@@ -1,3 +1,23 @@
+---
+title: "Media Arts Foundation Year"
+curriculum_version: "9.0"
+learning_area: "The Arts"
+subject: "Media Arts"
+year_levels: ["Foundation"]
+
+document_type: "curriculum"
+
+
+state_territory: "National"
+keywords: ["foundation year", "media arts", "early years", "play-based learning"]
+
+
+format: "markdown"
+author: "Australian Curriculum, Assessment and Reporting Authority"
+license: "CC BY 4.0"
+source_url: "https://www.australiancurriculum.edu.au/"
+---
+
 # Media Arts - Foundation Year {#media-arts-foundation-year}
 
 ## Level Description {#level-description}

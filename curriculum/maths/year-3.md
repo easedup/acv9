@@ -1,3 +1,23 @@
+---
+title: "Mathematics Year 3"
+curriculum_version: "9.0"
+learning_area: "Mathematics"
+subject: "Mathematics"
+year_levels: ["3"]
+
+document_type: "curriculum"
+
+
+state_territory: "National"
+keywords: ["mathematics", "year 3", "number", "multiplication", "division", "fractions", "place value", "measurement", "geometry", "primary"]
+
+
+format: "markdown"
+author: "Australian Curriculum, Assessment and Reporting Authority"
+license: "CC BY 4.0"
+source_url: "https://www.australiancurriculum.edu.au/"
+---
+
 # Mathematics - Year 3 {#mathematics-year-3}
 
 ## Level Description {#level-description}
