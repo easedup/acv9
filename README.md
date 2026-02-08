@@ -1,23 +1,39 @@
-# Australian Curriculum Version 9 (ACv9)
+# australian-curriculum-v9
 
-🇦🇺 **The complete Australian Curriculum v9 in a structured, machine-readable format**
+An agent skill providing access to the complete Australian Curriculum Version 9 (ACv9) for Foundation to Year 10.
 
-This repository contains the entire [Australian Curriculum Version 9](https://www.australiancurriculum.edu.au/), meticulously organised and formatted for:
+## Installation
 
-- 🤖 **AI and LLM integration** - Perfect for educational AI applications
-- 📊 **Data analysis and research** - Structured content for curriculum analytics  
-- 🔧 **Developer-friendly** - Easy integration into educational platforms and tools
-- 📚 **Educational technology** - Accessible format for innovative learning solutions
+Add this skill to your agent:
 
-Whether you're building the next generation of educational technology or conducting curriculum research, this repository provides the foundation you need.
+```
+github.com/easedup/acv9
+```
+
+## What This Skill Provides
+
+- **Curriculum content** for Foundation to Year 10 across all learning areas
+- **Content descriptions** and **achievement standards** for each year level
+- **General capabilities** (literacy, numeracy, critical thinking, etc.)
+
+### Learning Areas
+
+English, Mathematics, Science, HASS (Civics, Economics, Geography, History), HPE, Technologies (Digital & Design), The Arts (Dance, Drama, Media Arts, Music, Visual Arts)
+
+## Structure
+
+```
+references/
+├── curriculum/              # Full curriculum content by subject and year
+└── general-capabilities/    # Cross-curricular capabilities
+```
+
+## License
+
+Curriculum content © [ACARA](https://www.australiancurriculum.edu.au/). Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+
+This skill is licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
 ---
 
 **Maintained by:** [easedup.com](https://easedup.com)
-**Questions?** Reach out to hello@easedup.com
-
-## License
-
-This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/).
-
-[![CC BY-SA 4.0](https://licensebuttons.net/l/by-sa/4.0/88x31.png)](https://creativecommons.org/licenses/by-sa/4.0/)
